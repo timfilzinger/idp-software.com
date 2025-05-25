@@ -2,6 +2,10 @@
 
 Thank you for your interest in contributing to the IDP Software documentation! This guide will help you understand how to add content, structure your contributions, and submit them for review.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrBx-AKu8Io?si=1tvma2AGh3Rd2rCO" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Documentation Structure
 
 The documentation is organized into the following main sections:

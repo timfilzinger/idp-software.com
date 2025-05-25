@@ -52,12 +52,12 @@ Common metrics for evaluating OCR performance:
 
 ## OCR Technologies
 
-| Technology | Developer | Strengths |
-|------------|-----------|-----------|
-| Tesseract | Google | Open-source, supports 100+ languages |
-| [ABBYY FineReader](../vendors/abbyy/index.md) | ABBYY | High accuracy, complex layout handling |
-| Amazon Textract | Amazon | Cloud-based, integrates with AWS |
-| Microsoft Azure OCR | Microsoft | Cloud-based, multilingual support |
+| Technology                                       | Developer | Strengths |
+|--------------------------------------------------|-----------|-----------|
+| Tesseract                                        | Google | Open-source, supports 100+ languages |
+| [ABBYY FineReader](../../vendors/abbyy/index.md) | ABBYY | High accuracy, complex layout handling |
+| Amazon Textract                                  | Amazon | Cloud-based, integrates with AWS |
+| Microsoft Azure OCR                              | Microsoft | Cloud-based, multilingual support |
 
 ## Resources
 

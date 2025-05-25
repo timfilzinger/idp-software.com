@@ -4,6 +4,11 @@ Welcome to the **collaborative** guide on Intelligent Document Processing.
 This resource centralizes technologies, vendors, capabilities, and advanced research in the field. Contribute to expanding this knowledge base.
 Edit or add details about events, vendors, research, or open-source projects. 
 
+!!! warning "Known limitations"
+
+    The page is newly launched (End of May 2025), offering a solid foundation for users. Yet, it remains incomplete and needs refinement.
+    Contribute your expertise to elevate its quality and impact.
+
 [Contribute](contribution/index.md) directly by editing any page. Click the pen symbol in the top-right corner to start.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACHCAYAAACRZlKjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZ
