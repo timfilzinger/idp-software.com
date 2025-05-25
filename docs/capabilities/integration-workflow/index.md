@@ -1,7 +1,5 @@
 # Integration and Workflow
 
-> **Note**: This content is a first draft and needs revision by a human expert in document processing integration and workflow.
-
 Integration and Workflow capabilities connect document processing systems with broader business processes, enabling seamless data flow, process automation, and orchestration across enterprise environments.
 
 ## Overview

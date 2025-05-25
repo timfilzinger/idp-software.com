@@ -1,7 +1,5 @@
 # Document Understanding
 
-> **Note**: This content is a first draft and needs revision by a human expert in document understanding.
-
 Document understanding is the technology that enables machines to comprehend and interpret the content, structure, and context of documents, going beyond simple text recognition to achieve a human-like understanding of documents.
 
 ## Overview

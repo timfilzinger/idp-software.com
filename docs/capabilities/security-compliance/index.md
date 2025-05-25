@@ -1,7 +1,5 @@
 # Security and Compliance
 
-> **Note**: This content is a first draft and needs revision by a human expert in document processing security and compliance.
-
 Security and Compliance capabilities ensure that document processing systems handle sensitive information appropriately, protect data privacy, maintain audit trails, and adhere to relevant regulations and standards.
 
 ## Overview

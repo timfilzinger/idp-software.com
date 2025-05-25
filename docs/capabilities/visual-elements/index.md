@@ -1,6 +1,4 @@
-# Visual Elements
-
-> **Note**: This content is a first draft and needs revision by a human expert in document visual element processing.
+# Visual Elements - Layout Analysis
 
 Visual elements processing is the technology that identifies, analyzes, and interprets non-textual visual components in documents, including charts, diagrams, logos, signatures, and mathematical formulas.
 

@@ -1,7 +1,5 @@
 # Quality and Verification
 
-> **Note**: This content is a first draft and needs revision by a human expert in document processing quality and verification.
-
 Quality and Verification encompasses the technologies and processes that ensure the accuracy, reliability, and trustworthiness of document processing outputs through validation, error detection, and human oversight.
 
 ## Overview

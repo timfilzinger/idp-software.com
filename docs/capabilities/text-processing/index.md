@@ -1,7 +1,5 @@
 # Text Processing
 
-> **Note**: This content is a first draft and needs revision by a human expert in document text processing.
-
 Text processing in document understanding encompasses advanced techniques for recognizing, analyzing, and interpreting textual content across diverse document types and languages.
 
 ## Overview

@@ -1,7 +1,5 @@
 # Natural Language Processing
 
-> **Note**: This content is a first draft and needs revision by a human expert in document-focused natural language processing.
-
 Natural Language Processing (NLP) in document understanding encompasses technologies that analyze, interpret, and derive meaning from textual content in documents.
 
 ## Overview

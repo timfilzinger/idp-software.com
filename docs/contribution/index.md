@@ -246,7 +246,7 @@ To add a new vendor to the documentation, follow these steps:
 
 The vendor will now appear in the documentation navigation, and users can access the vendor's page to learn about their IDP solution.
 
-> **Note**: Ensure all information is accurate and factual. If you're not affiliated with the vendor, mark the page as community-contributed and subject to review.
+> **Note**: Ensure all information is accurate and factual.
 
 ### Events
 

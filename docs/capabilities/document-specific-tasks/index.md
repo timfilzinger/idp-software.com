@@ -1,7 +1,5 @@
 # Document Specific Tasks
 
-> **Note**: This content is a first draft and needs revision by a human expert in document-specific processing tasks.
-
 Document-specific tasks focus on the specialized processing of common document types, applying tailored techniques to address the unique characteristics and requirements of different document categories.
 
 ## Overview

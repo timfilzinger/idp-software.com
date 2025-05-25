@@ -4,8 +4,6 @@ This section provides detailed information about various capabilities commonly f
 
 Each capability has its own dedicated page with detailed explanations, use cases, and technical considerations.
 
-> **Note**: Many capability pages are first drafts and need revision by human experts. If you have expertise in any of these areas, please consider contributing improvements.
-
 ## Document Understanding
 
 | Capability | Description | Key Technologies |

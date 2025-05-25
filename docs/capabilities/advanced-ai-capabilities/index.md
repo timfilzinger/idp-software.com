@@ -1,7 +1,5 @@
 # Advanced AI Capabilities
 
-> **Note**: This content is a first draft and needs revision by a human expert in advanced AI for document processing.
-
 Advanced AI capabilities represent the cutting-edge technologies that enhance document processing systems through sophisticated machine learning approaches, enabling more flexible, adaptable, and powerful document understanding with minimal supervision.
 
 ## Overview

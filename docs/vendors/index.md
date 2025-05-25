@@ -4,8 +4,6 @@ This section contains information about various vendors that provide IDP (Intell
 
 Each vendor has its own dedicated page with detailed information about their product offerings, features, pricing, and integration capabilities.
 
-> **Note**: Many vendor pages are automatically generated and have not been reviewed yet. If you represent a vendor and would like to update your information, please follow our contribution guidelines.
-
 ## Vendor Categories
 
 ### OCR & Document Intelligence
