@@ -4,23 +4,6 @@ Welcome to the **collaborative** guide on Intelligent Document Processing.
 This resource centralizes technologies, vendors, capabilities, and advanced research in the field. Contribute to expanding this knowledge base.
 Edit or add details about events, vendors, research, or open-source projects. 
 
-!!! warning "Known limitations"
-
-    I have initiated a global IDP company directory.
-    While launched recently (End of May 2025), it remains incomplete and relies on your
-    contributions to ensure accuracy and relevance.
-
-    Much of the content is auto-generated and unverified. Use the directory cautiously for decision-making,
-    as it may not reflect the latest developments.
-
-    Your input can make this project truly impactful.
-
-Much of the content is auto-generated and unverified. Use the directory cautiously for decision-making, as it may not reflect the latest developments.
-
-Your expertise is vital to enhance this resource. Please update inaccuracies or refine entries by following our contribution guidelines: [insert link].
-
-Your input can make this project truly impactful.
-
 [Contribute](contribution/index.md) directly by editing any page. Click the pen symbol in the top-right corner to start.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACHCAYAAACRZlKjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZ

@@ -16,6 +16,7 @@ copyright: Content licensed under <a href="https://creativecommons.org/licenses/
 theme:
   name: material
   language: en
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -72,6 +73,8 @@ plugins:
   - rss
   - awesome-pages
   - open-in-new-tab
+  - minify:
+      minify_html: true
   - ultralytics:
       verbose: True
       enabled: True
@@ -79,13 +82,11 @@ plugins:
       default_author: "git@ultralytics.com" # Example default author
       add_desc: True
       add_image: True
-      add_keywords: True
-      add_share_buttons: True
+      add_keywords: False
+      add_share_buttons: False
       add_authors: True # Disabled by default
       add_json_ld: True # Disabled by default
-      add_css: True
-  - minify:
-      minify_html: true
+      add_css: False
 
 # Custom CSS
 extra_css:

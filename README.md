@@ -54,8 +54,7 @@ We welcome contributions to improve and expand this documentation! Please follow
 
 ## License
 
-This documentation is licensed under [LICENSE]. See the LICENSE file for details.
-[![Deploy MkDocs](https://github.com/your-username/idp-software/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/your-username/idp-software/actions/workflows/deploy-docs.yml)
+This documentation is licensed under [LICENSE].
 
 Documentation site for IDP (Intelligent Document Processing) Software, built with MkDocs and the Material theme.
 
@@ -86,3 +85,4 @@ The utility script can help you create properly structured content:
 - [mhausenblas](https://github.com/marketplace/actions/deploy-mkdocs)
 - [Tom Christie and all contributors of MkDocs](https://github.com/mkdocs/mkdocs/blob/master/docs/index.md)
 - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
+- ... and many more developers for the great work that made this homepage possible
