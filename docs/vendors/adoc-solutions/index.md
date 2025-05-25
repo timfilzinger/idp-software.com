@@ -1,7 +1,5 @@
 # ADOC Solutions
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 ADOC Solutions is a specialized provider of document management and processing solutions based in Europe. The company focuses on intelligent document capture, processing, and archiving solutions.
 
 ## Overview

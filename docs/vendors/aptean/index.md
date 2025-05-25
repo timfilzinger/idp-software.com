@@ -1,7 +1,5 @@
 # Aptean
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Aptean is a global provider of industry-specific enterprise software solutions, including document management and processing capabilities tailored to various industries.
 
 ## Overview

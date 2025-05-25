@@ -1,7 +1,5 @@
 # Edissyum
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Edissyum is a provider of document management and electronic archiving solutions, specializing in digital transformation of document-based processes.
 
 ## Overview

@@ -1,7 +1,5 @@
 # Everial
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Everial is a provider of document management, archiving, and digitization services, offering comprehensive solutions for managing physical and digital documents.
 
 ## Overview

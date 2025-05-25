@@ -1,7 +1,5 @@
 # Drooms
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Drooms is a provider of secure virtual data room solutions with document processing capabilities, specializing in due diligence and transaction management.
 
 ## Overview

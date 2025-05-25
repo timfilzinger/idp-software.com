@@ -1,7 +1,5 @@
 # Aurexus
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Aurexus is a provider of business process automation and document processing solutions, focusing on digital transformation and intelligent automation.
 
 ## Overview

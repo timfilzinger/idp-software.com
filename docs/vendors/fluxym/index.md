@@ -1,7 +1,5 @@
 # Fluxym
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Fluxym is a consulting firm and solution provider specializing in procurement, source-to-pay processes, and document management solutions.
 
 ## Overview

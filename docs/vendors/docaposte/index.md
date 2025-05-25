@@ -1,7 +1,5 @@
 # Docaposte
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Docaposte is a digital services company and subsidiary of La Poste Group, specializing in digital transformation, document management, and business process automation.
 
 ## Overview

@@ -1,7 +1,5 @@
 # StoriesOut
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 StoriesOut is a provider of content and document management solutions, focusing on digital storytelling and information presentation.
 
 ## Overview

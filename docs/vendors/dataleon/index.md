@@ -1,7 +1,5 @@
 # DataLeon
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 DataLeon is an AI company focused on intelligent document processing and data extraction solutions.
 
 ## Overview

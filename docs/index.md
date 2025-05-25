@@ -6,8 +6,20 @@ Edit or add details about events, vendors, research, or open-source projects.
 
 !!! warning "Known limitations"
 
-    The page is newly launched (End of May 2025), offering a solid foundation for users. Yet, it remains incomplete and needs refinement.
-    Contribute your expertise to elevate its quality and impact.
+    I have initiated a global IDP company directory.
+    While launched recently (End of May 2025), it remains incomplete and relies on your
+    contributions to ensure accuracy and relevance.
+
+    Much of the content is auto-generated and unverified. Use the directory cautiously for decision-making,
+    as it may not reflect the latest developments.
+
+    Your input can make this project truly impactful.
+
+Much of the content is auto-generated and unverified. Use the directory cautiously for decision-making, as it may not reflect the latest developments.
+
+Your expertise is vital to enhance this resource. Please update inaccuracies or refine entries by following our contribution guidelines: [insert link].
+
+Your input can make this project truly impactful.
 
 [Contribute](contribution/index.md) directly by editing any page. Click the pen symbol in the top-right corner to start.
 

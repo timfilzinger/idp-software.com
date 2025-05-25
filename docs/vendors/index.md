@@ -4,22 +4,7 @@ This section contains information about various vendors that provide IDP (Intell
 
 Each vendor has its own dedicated page with detailed information about their product offerings, features, pricing, and integration capabilities.
 
-> **Note**: Many vendor pages are automatically generated and have not been reviewed for accuracy. If you represent a vendor and would like to update your information, please follow our contribution guidelines.
-
-## Featured Vendors
-
-| Vendor | Specialization | Key Features |
-|--------|----------------|-------------|
-| [ABBYY](abbyy/index.md) | OCR & Document AI | Advanced OCR, Content Intelligence, NLP |
-| [A2iA (Mitek)](a2ia/index.md) | Handwriting Recognition | Handwriting Recognition, Check Processing |
-| [AntWorks](antworks/index.md) | Fractal Science | Cognitive Machine Reading, Pattern Recognition |
-| [Blue Prism](blue-prism/index.md) | RPA & Automation | RPA, Intelligent Automation, Process Discovery |
-| [UiPath](uipath/index.md) | RPA & Automation | Document Understanding, RPA, Process Mining |
-| [OpenText](opentext/index.md) | Enterprise Information Management | Content Management, Document Capture |
-| [Konfuzio](Konfuzio/index.md) | Document AI | ML-based extraction, Cloud & On-premise |
-| [Tiny IDP](Tiny-IDP/index.md) | LLM-Powered Extraction | Custom JSON Output, API Integration |
-| [DataSnipper](datasnipper/index.md) | Financial Document Processing | Excel Integration, Financial Document Analysis |
-| [DocaPoste](docaposte/index.md) | Digital Services | Document Digitization, Electronic Signature |
+> **Note**: Many vendor pages are automatically generated and have not been reviewed yet. If you represent a vendor and would like to update your information, please follow our contribution guidelines.
 
 ## Vendor Categories
 
@@ -65,91 +50,4 @@ Each vendor page aims to provide this information to help you make informed deci
 
 ## Contribution
 
-I am looking for [contributors](../contribution/index.md) to create directories for the following companies.
-
-- [AIIM](https://www.aiim.org/)
-- [Amagno](https://www.amagno.de/)
-- [Apache PDFBox, Apache Software Foundation](https://pdfbox.apache.org/)
-- [Mr-Money Software GmbH](https://www.pdf-box.de/)
-- [Astera](https://www.astera.com/)
-- [Attri.AI](https://attri.ai/) (rather AI Agent)
-- [Automation Hero](https://automationhero.ai/)
-- [Axis AI](https://axis-ai.com/)
-- [Base64.ai](https://www.base64.ai/)
-- [BuildSimple](https://www.buildsimple.com/)
-- [Censius.ai](https://censius.ai/)
-- [Cordon Group](https://www.cordongroup.com/)
-- [DataGym](https://datagym.ai/)
-- [Deep Neuron Lab GmbH](https://www.dnl.ai/)
-- [DocSend](https://www.docsend.com/)
-- [DocuCharm](https://www.docucharm.com/)
-- [Docsumo](https://www.docsumo.com/)
-- [Hyperscience](https://www.hyperscience.ai/)
-- [Expert.ai ](https://www.expert.ai/hybrid-ai/)
-- [Evana](https://evana.ai/)
-- [ExactScan](https://exactscan.com/)
-- [FormHero](https://formhero.com/)
-- [FP Digital Business Solutions](https://www.fp-dbs.com/)
-- [Handl](https://www.handl.ai/)
-- [Hypatos](https://hypatos.ai/)
-- [iManage](https://imanage.com/)
-- [Indexware](https://www.indexware.com/)
-- [Infrrd](https://www.infrrd.ai/)
-- [Inge-com](https://www.inge-com.com/)
-- [I-numerics](https://www.i-numerics.com/)
-- [IRIS (Canon Group)](https://www.irislink.com/)
-- [Itesoft](https://www.itesoft.com/)
-- [Ephesoft](https://ephesoft.com/de/produkte/transact/) (acquired by Tungsten Automation, former "Kofax")
-- [Kaliconseil](https://www.kaliconseil.com/)
-- [helic Analyzer](https://www.comline.de/branchen/finanzdienstleister/kreditprozesse-in-banken-optimieren-mit-helic-analyzer.html)
-- [Kapto, Kapto](https://www.kapto.ai/)
-- [KlearStack](https://klearstack.ai/)
-- [Klippa](https://www.klippa.com/) (acquired by SER Group)
-- [Kodak Alaris](https://www.kodakalaris.com/)
-- [Leadtools, LEADTOOLS](https://www.leadtools.com/)
-- [lector.ai](https://lector.ai/)
-- [Lexmark](https://www.lexmark.com/)
-- [LoanBox](https://www.loanbox.com/)
-- [M-Files](https://www.m-files.com/)
-- [Mindee](https://www.mindee.com/)
-- [Microblink](https://microblink.com/)
-- [Mobiltron](https://www.mobiltron.com/)
-- [Moonoia](https://moonoia.com/)
-- [Multimedia Solutions](https://www.multimediasolutions.com/)
-- [Natif.ai](https://natif.ai/) (acquired by Docuware)
-- [Novarchive](https://www.novarchive.com/)
-- [Nuance (Microsoft)](https://www.nuance.com/)
-- [Numen](https://www.numen.fr/)
-- [Open Bee](https://www.openbee.com/)
-- [Parascript](https://www.parascript.com/)
-- [Perfect Memory](https://www.perfectmemory.com/)
-- [Planet AI GmbH](https://planet-ai.com/) (acquired by Bechtle)
-- [PSPDFKit](https://pspdfkit.com/) (new Brand:  Nutrient)
-- [Qbotica](https://qbotica.com/)
-- [Recital](https://www.recital.ai/)
-- [Recogniform](https://www.recogniform.com/)
-- [Redactify](https://redactify.com/)
-- [Reemia](https://www.reemia.com/)
-- [Ricoh](https://www.ricoh.com/)
-- [Rippling](https://www.rippling.com/)
-- [Rossum](https://rossum.ai/) and [Celonis](https://rossum.ai/company/newsroom/rossum-announces-partnership-with-celonis-to-accelerate-workflow-automation/)
-- [Salvia Développement](https://www.salvia-developpement.fr/)
-- [Serimag](https://www.serimag.com/)
-- [SilverFast, LaserSoft Imaging](https://www.silverfast.com/)
-- [Skilja](https://www.skilja.com/)
-- [Skyged](https://www.skyged.com/)
-- [Systhen](https://www.systhen.com/)
-- [TagTog](https://www.tagtog.net/)
-- [TCG Process](https://www.tcgprocess.com/)
-- [Telekom MMS](https://mms.telekom.com/)
-- [T2i, Groupe T2i](https://www.groupe-t2i.com/)
-- [Xelians](https://www.xelians.fr/)
-- [XenonStack / Akira.ai, Akira.ai (by XenonStack)](https://www.akira.ai/)
-- [Xerox](https://www.xerox.com/)
-- [Xtracta](https://www.xtracta.com/)
-- [Zeendoc](https://www.zeendoc.com/)
-- [fino Group](https://fintract.io/)
-- [Chartpixel](https://www.chartpixel.com/)
-- [Babelscape srl](https://babelscape.com/)
-- [Automation Hero Inc](https://www.linkedin.com/company/automationhero/) (liquidated, the learning by Stefan Groschupf, who also founded Datameer, would be insightful)
-- [u2d.ai](https://web.archive.org/web/20240728063247/https://www.u2d.ai/) ([liquidated](https://www.northdata.de/Uptodate+Services+und+Solutions+GmbH,+Bad+Homburg+v.+d.+H%C3%B6he/Amtsgericht+Bad+Homburg+HRB+12223), I would value the perspective of Stefan Welcker on the IDP Market)
+I am looking for [contributors](../contribution/index.md) to review the vendors, add logos and images.

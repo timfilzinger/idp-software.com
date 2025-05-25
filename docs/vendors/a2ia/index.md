@@ -1,7 +1,5 @@
 # A2iA
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 A2iA (now part of Mitek Systems) is a provider of specialized intelligent document recognition and processing software. The company focuses on handwriting recognition, text extraction, and document classification technologies.
 
 ## Overview

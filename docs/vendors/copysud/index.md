@@ -1,7 +1,5 @@
 # Copysud
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Copysud is a provider of document management solutions, print services, and digital transformation technologies.
 
 ## Overview

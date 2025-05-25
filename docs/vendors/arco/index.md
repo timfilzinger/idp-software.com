@@ -1,7 +1,5 @@
 # ARCO
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 ARCO is a provider of document management and digital transformation solutions, specializing in document digitization, processing, and business process automation.
 
 ## Overview

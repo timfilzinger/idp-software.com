@@ -1,7 +1,5 @@
 # Altilia
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Altilia is an AI company specializing in intelligent document processing and knowledge extraction solutions. The company focuses on transforming unstructured data into actionable business insights using artificial intelligence.
 
 ## Overview

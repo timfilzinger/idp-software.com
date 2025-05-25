@@ -1,7 +1,5 @@
 # DocuWare
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 DocuWare is a provider of document management and workflow automation solutions, offering comprehensive tools for digitizing, processing, and managing documents.
 
 ## Overview

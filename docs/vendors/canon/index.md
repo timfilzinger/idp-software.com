@@ -1,7 +1,5 @@
 # Canon
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Canon is a global provider of imaging technologies and document management solutions, offering hardware and software for document capture, processing, and management.
 
 ## Overview

@@ -1,7 +1,5 @@
 # AntWorks
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 AntWorks is a global provider of artificial intelligence and intelligent automation solutions, with a focus on fractal science-based technology for data ingestion and processing.
 
 ## Overview

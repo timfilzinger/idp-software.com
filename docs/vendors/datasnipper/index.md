@@ -1,7 +1,5 @@
 # DataSnipper
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 DataSnipper is a provider of intelligent document extraction and analysis tools, particularly focused on improving efficiency in accounting, audit, and financial document processing.
 
 ## Overview

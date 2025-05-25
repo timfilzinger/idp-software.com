@@ -1,7 +1,5 @@
 # Groupe T2i
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Groupe T2i is a provider of business software solutions, including document management, HR management, and digital transformation services.
 
 ## Overview

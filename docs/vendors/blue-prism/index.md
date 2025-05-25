@@ -1,7 +1,5 @@
 # Blue Prism
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Blue Prism is a leading provider of robotic process automation (RPA) solutions, offering intelligent document processing capabilities as part of its intelligent automation platform.
 
 ## Overview

@@ -1,7 +1,5 @@
 # Epson
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Epson is a global technology company that offers document scanning and processing solutions as part of its broader hardware and software portfolio.
 
 ## Overview

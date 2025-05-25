@@ -1,7 +1,5 @@
 # Datakeen
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Datakeen is an AI company specializing in document understanding and information extraction technologies.
 
 ## Overview

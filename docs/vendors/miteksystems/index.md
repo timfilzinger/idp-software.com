@@ -1,7 +1,5 @@
 # Mitek Systems
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 Mitek Systems is a global provider of mobile capture and digital identity verification solutions, which acquired A2iA to enhance its document processing capabilities.
 
 ## Overview
