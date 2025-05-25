@@ -1,6 +1,11 @@
 # Contribution Guide
 
-Thank you for your interest in contributing to the IDP Software documentation! This guide will help you understand how to add content, structure your contributions, and submit them for review.
+Thank you for your interest in contributing to the IDP Software documentation! This guide will
+help you understand how to add content, structure your contributions, and submit them for review.
+
+After your pull request is merged, you will show up as an author of the page on the homepage.
+
+![](./assets/credits.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JrBx-AKu8Io?si=1tvma2AGh3Rd2rCO" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -217,7 +222,7 @@ To add a new vendor to the documentation, follow these steps:
 
 4. **Add a logo placeholder**:
    
-   Create an `assets` directory in the vendor folder and add a placeholder for the vendor's logo:
+   Create an `assets` directory in the vendor folder and add a placeholder for the vendor's logo or other images you add to our index.md.
    
    ```
    docs/vendors/vendor-name/assets/vendor-name-logo.png
@@ -237,7 +242,7 @@ To add a new vendor to the documentation, follow these steps:
 
 6. **No need to update navigation**:
    
-   The awesome-pages plugin automatically includes all vendor folders with an index.md file in the navigation, so you don't need to manually update the navigation structure.
+   The plugin automatically includes all vendor folders with an index.md file in the navigation, so you don't need to manually update the navigation structure.
 
 The vendor will now appear in the documentation navigation, and users can access the vendor's page to learn about their IDP solution.
 
