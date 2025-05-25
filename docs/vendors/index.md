@@ -150,5 +150,6 @@ I am looking for [contributors](../contribution/index.md) to create directories 
 - [Zeendoc](https://www.zeendoc.com/)
 - [fino Group](https://fintract.io/)
 - [Chartpixel](https://www.chartpixel.com/)
+- [Babelscape srl](https://babelscape.com/)
 - [Automation Hero Inc](https://www.linkedin.com/company/automationhero/) (liquidated, the learning by Stefan Groschupf, who also founded Datameer, would be insightful)
 - [u2d.ai](https://web.archive.org/web/20240728063247/https://www.u2d.ai/) ([liquidated](https://www.northdata.de/Uptodate+Services+und+Solutions+GmbH,+Bad+Homburg+v.+d.+H%C3%B6he/Amtsgericht+Bad+Homburg+HRB+12223), I would value the perspective of Stefan Welcker on the IDP Market)

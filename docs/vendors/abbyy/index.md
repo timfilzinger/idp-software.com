@@ -1,8 +1,8 @@
 # ABBYY
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
-
 ABBYY is a global provider of intelligent document processing, content AI, and language solutions. The company is known for its advanced OCR (Optical Character Recognition) technology and document capture solutions.
+
+> **Note**: 
 
 ## Overview
 

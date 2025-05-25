@@ -1,8 +1,12 @@
 # UiPath
 
-> **Note**: This content is automatically generated and has not been reviewed for accuracy. Please verify all information before making business decisions based on this content.
+UiPath founded in 205 started to provide RPA automation, published Document Understanding and now migrates it to Generative Extraction on UiPath® IXP.
 
-UiPath is a leading enterprise automation software company, offering document understanding capabilities as part of its automation platform.
+## News
+
+- On May 22, 2025 UiPath launched [Generative Extraction on UiPath® IXP](https://docs.uipath.com/document-understanding/automation-cloud/latest/USER-GUIDE/document-understanding-migration-to-uipath-ixp) and 
+at the same time [deprecated the integration](https://docs.uipath.com/overview/other/latest/overview/deprecation-timeline#deprecated-features-or-capabilities) to [Abbyy](../abbyy/index.md).
+
 
 ## Overview
 
