@@ -9,7 +9,8 @@ repo_url: https://github.com/atraining/idp-software.com
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2025 <a href="https://www.linkedin.com/in/christopher-helm-public/" target="_blank">Christopher Helm</a>
+copyright: Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> |
+  Homepage by <a href="https://www.linkedin.com/in/christopher-helm-public/" target="_blank">Christopher Helm</a>
 
 # Configuration
 theme:
@@ -68,8 +69,21 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
+  - rss
   - awesome-pages
   - open-in-new-tab
+  - ultralytics:
+      verbose: True
+      enabled: True
+      default_image: "https://www.ultralytics.com/images/social.png" # Example default image
+      default_author: "git@ultralytics.com" # Example default author
+      add_desc: True
+      add_image: True
+      add_keywords: True
+      add_share_buttons: True
+      add_authors: True # Disabled by default
+      add_json_ld: True # Disabled by default
+      add_css: True
   - minify:
       minify_html: true
 

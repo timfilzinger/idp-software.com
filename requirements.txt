@@ -6,3 +6,5 @@ pymdown-extensions>=9.9.0
 click==8.2.1
 pymarkdownlnt==0.9.30
 mkdocs-open-in-new-tab==1.0.8
+mkdocs-ultralytics-plugin==0.1.19
+mkdocs-rss-plugin==1.17.2
