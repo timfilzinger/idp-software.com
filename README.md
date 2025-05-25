@@ -4,7 +4,6 @@ This repository contains comprehensive documentation about Intelligent Document 
 including vendor information, technical capabilities, and research papers in the field.
 
 Visit [idp-software.com](https://idp-software.com)
-Visit [idp-software.com](https://idp-software.com)
 
 ## Overview
 
