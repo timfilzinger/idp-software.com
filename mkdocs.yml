@@ -86,7 +86,7 @@ plugins:
       add_share_buttons: False
       add_authors: True # Disabled by default
       add_json_ld: True # Disabled by default
-      add_css: False
+      add_css: True
 
 # Custom CSS
 extra_css:
