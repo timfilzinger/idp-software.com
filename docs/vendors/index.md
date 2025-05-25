@@ -16,8 +16,8 @@ Each vendor has its own dedicated page with detailed information about their pro
 | [Blue Prism](blue-prism/index.md) | RPA & Automation | RPA, Intelligent Automation, Process Discovery |
 | [UiPath](uipath/index.md) | RPA & Automation | Document Understanding, RPA, Process Mining |
 | [OpenText](opentext/index.md) | Enterprise Information Management | Content Management, Document Capture |
-| [Konfuzio](konfuzio/index.md) | Document AI | ML-based extraction, Cloud & On-premise |
-| [Tiny IDP](tiny-idp/index.md) | LLM-Powered Extraction | Custom JSON Output, API Integration |
+| [Konfuzio](Konfuzio/index.md) | Document AI | ML-based extraction, Cloud & On-premise |
+| [Tiny IDP](Tiny-IDP/index.md) | LLM-Powered Extraction | Custom JSON Output, API Integration |
 | [DataSnipper](datasnipper/index.md) | Financial Document Processing | Excel Integration, Financial Document Analysis |
 | [DocaPoste](docaposte/index.md) | Digital Services | Document Digitization, Electronic Signature |
 
@@ -150,3 +150,5 @@ I am looking for [contributors](../contribution/index.md) to create directories 
 - [Zeendoc](https://www.zeendoc.com/)
 - [fino Group](https://fintract.io/)
 - [Chartpixel](https://www.chartpixel.com/)
+- [Automation Hero Inc](https://www.linkedin.com/company/automationhero/) (liquidated, the learning by Stefan Groschupf, who also founded Datameer, would be insightful)
+- [u2d.ai](https://web.archive.org/web/20240728063247/https://www.u2d.ai/) ([liquidated](https://www.northdata.de/Uptodate+Services+und+Solutions+GmbH,+Bad+Homburg+v.+d.+H%C3%B6he/Amtsgericht+Bad+Homburg+HRB+12223), I would value the perspective of Stefan Welcker on the IDP Market)
