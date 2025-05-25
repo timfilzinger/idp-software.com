@@ -4,8 +4,6 @@ Konfuzio is a Document AI platform that enables businesses to extract, classify,
 
 ![Konfuzio Logo](assets/logo.png)
 
-
-
 ## Overview
 
 Konfuzio offers a comprehensive document processing solution that combines OCR, machine learning, and custom extraction rules to automate document-based workflows.

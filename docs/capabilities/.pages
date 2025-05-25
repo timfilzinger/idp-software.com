@@ -3,7 +3,6 @@ arrange:
   - index.md
   - ocr
   - segmentation
-  - layout-analysis
   - document-understanding
   - text-processing
   - natural-language-processing

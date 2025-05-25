@@ -10,7 +10,6 @@ Each capability has its own dedicated page with detailed explanations, use cases
 |------------|-------------|------------------|
 | [Document Understanding](document-understanding/index.md) | Comprehensive document interpretation | Multi-modal AI, Deep Learning |
 | [Segmentation](segmentation/index.md) | Document layout analysis | Computer Vision, Deep Learning |
-| [Layout Analysis](layout-analysis/index.md) | Physical and logical structure analysis | Computer Vision, Graph Models |
 
 ## Text Processing
 

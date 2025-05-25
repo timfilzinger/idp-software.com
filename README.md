@@ -34,6 +34,10 @@ To work on this documentation locally:
    ```
    mkdocs serve
    ```
+   The build takes ca. 20 seconds for the full page. When you want to preview your changes fast after the first build, use [this](https://github.com/mkdocs/mkdocs/issues/3695):
+    ```
+     mkdocs serve --dirtyreload
+    ```
 
 5. Open your browser and go to `http://127.0.0.1:8000/`
 
@@ -67,18 +71,9 @@ This project uses the `mkdocs-awesome-pages-plugin` to automatically include all
 3. Optionally add a `.pages` file to customize the navigation order
 4. Add a `assets` folder if you want to add images or other files.
 
-For more details, see the [Contribution Guide](docs/contribution/index.md).
-
 ## Contributing
 
-Contributions to improve the documentation are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch
-3. Create your content following the structure guidelines
-4. Submit a pull request
-
-The utility script can help you create properly structured content:
+Visit the [Contribution Guide](https://idp-software.com/contribution/)
 
 ## Thanks to
 

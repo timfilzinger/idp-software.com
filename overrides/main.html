@@ -1,8 +1,16 @@
 {% extends "base.html" %}
 
 {% block announce %}
-<em><b>Important:</b>  The new IDP directory is still developing.
+<em><b>Important:</b>
+    I invite IDP vendors, researchers, and event organizers to collaborate and shape this new homepage.
     If you need clarification or the latest updates, reach out to the relevant vendor departments.
     Each page lists its authors at the bottom, so you can review if a page is peer-reviewed or not.
     Your contributions are highly valued to make the directory better and more accurate!</em>
+{% endblock %}
+
+{% block extrahead %}
+<title>
+  {% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}
+</title>
+{{ super() }}
 {% endblock %}

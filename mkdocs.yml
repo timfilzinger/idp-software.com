@@ -67,6 +67,17 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+# Validation settings https://www.mkdocs.org/user-guide/configuration/#validation
+validation:
+  nav:
+    omitted_files: info
+    not_found: warn
+    absolute_links: info
+  links:
+    absolute_links: relative_to_docs
+    anchors: warn
+    unrecognized_links: warn
+
 # Plugins
 plugins:
   - search
@@ -76,8 +87,7 @@ plugins:
   - minify:
       minify_html: true
   - ultralytics:
-      verbose: True
-      enabled: True
+      verbose: False
       default_image: "https://www.ultralytics.com/images/social.png" # Example default image
       default_author: "git@ultralytics.com" # Example default author
       add_desc: True
