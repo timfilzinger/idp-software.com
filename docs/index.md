@@ -4,7 +4,7 @@ Welcome to the **collaborative** guide on Intelligent Document Processing. This 
 
 ## What exactly does Intelligent Document Processing mean?
 
-!!! example "Selected Definitions from different sources."
+!!! example "Definitions Compiled from Multiple Sources"
 
     === "Wikipedia"
     
