@@ -9,7 +9,7 @@ Papers are organized chronologically, with the most recent papers appearing firs
 Up to this point, this homepage provides only a limited selection of relevant research papers. Until the list is expanded, this documentation offers links to key resources you may find useful as a starting point.
 
 - [Google Scholar Profile by Lei Cui | Microsoft](https://scholar.google.com/citations?user=ajJQoUcAAAAJ&hl=en)
-- [GitHub Profile by Niels Rogge | Huggingface](https://github.com/NielsRogge)
+- [GitHub Profile by Niels Rogge | Hugging Face](https://github.com/NielsRogge)
 - [Philipp Schmid | Google](https://www.philschmid.de/gemini-pdf-to-data)
 
 ## Adding New Research
