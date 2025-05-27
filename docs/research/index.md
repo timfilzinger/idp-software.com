@@ -4,6 +4,14 @@ This section contains summaries and analyses of important research papers in the
 
 Papers are organized chronologically, with the most recent papers appearing first. Each paper has its own page with a summary, key findings, and implications for IDP applications.
 
+## Status of this list
+
+Up to this point, this homepage provides only a limited selection of relevant research papers. Until the list is expanded, this documentation offers links to key resources you may find useful as a starting point.
+
+- [Google Scholar Profile by Lei Cui | Microsoft](https://scholar.google.com/citations?user=ajJQoUcAAAAJ&hl=en)
+- [GitHub Profile by Niels Rogge | Huggingface](https://github.com/NielsRogge)
+- [Philipp Schmid | Google](https://www.philschmid.de/gemini-pdf-to-data)
+
 ## Adding New Research
 
 If you would like to add a new research paper:
