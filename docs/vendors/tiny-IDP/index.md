@@ -8,6 +8,8 @@ Tiny IDP is a modern, LLM-powered document data extraction API that converts doc
 
 Tiny IDP leverages advanced Large Language Models (LLMs) like Claude Sonnet 3.7 and GPT-4o to extract custom data from any document or image. Unlike traditional OCR solutions, Tiny IDP offers intelligent extraction that understands document context and semantics, making it more accurate and versatile for various document types.
 
+![Tiny IDP Extraction](assets/tiny-screenshot.png)
+
 ## Key Features
 
 - **LLM-Powered Extraction**: Uses the latest AI models for intelligent document understanding
@@ -30,7 +32,7 @@ Tiny IDP can extract relevant information from invoices including:
 
 ### Contract Analysis
 
-Extract and structure key information from contracts such as:
+Extract and structure key information from long contracts (+50 pages) such as:
 - Party information
 - Contract terms and conditions
 - Key dates and deadlines
@@ -46,9 +48,9 @@ Accurately extract data from receipts including:
 - Prices and totals
 - Payment method
 
-### Form Processing
+### Handwritten Form Processing
 
-Process various forms to extract:
+Process various handwritten forms to extract:
 - Personal information
 - Application details
 - Selections and choices
@@ -71,8 +73,10 @@ Process various forms to extract:
 To start using Tiny IDP:
 
 1. Sign up at [tiny-idp.com](https://tiny-idp.com)
-2. Get your API key
-3. Send documents via the API
+2. Create an extractor for your document type (define properties, their type, etc.)
+3. Test the extractor with your documents and our different models to test speed and accuracy
+4. Get your API key
+5. Send documents via the API, to the extractor you created.
 4. Receive structured JSON data
 
 ## Resources
