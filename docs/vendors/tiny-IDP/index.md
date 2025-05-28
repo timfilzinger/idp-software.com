@@ -4,6 +4,8 @@
 
 Tiny IDP is a modern, LLM-powered document data extraction API that converts documents into structured JSON data in seconds.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Pv-bEy22ys?si=rthwvzV2VM9jFcy2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Overview
 
 Tiny IDP leverages advanced Large Language Models (LLMs) like Claude Sonnet 3.7 and GPT-4o to extract custom data from any document or image. Unlike traditional OCR solutions, Tiny IDP offers intelligent extraction that understands document context and semantics, making it more accurate and versatile for various document types.
