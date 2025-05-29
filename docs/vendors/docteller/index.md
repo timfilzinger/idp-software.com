@@ -1,3 +1,5 @@
+![DocTeller](assets\docteller.png)
+
 # DocTeller
 
 DocTeller is a provider of document analysis and processing solutions, specializing in extracting insights from complex documents.

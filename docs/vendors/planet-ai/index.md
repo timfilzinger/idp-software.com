@@ -1,3 +1,5 @@
+![Planet AI GmbH (acquired by Bechtle)](assets\planet-ai-gmbh-acquired-by-bechtle.png)
+
 # Planet AI GmbH (acquired by Bechtle)
 
 Planet AI GmbH is a German artificial intelligence company specializing in visual recognition solutions that was acquired by Bechtle AG, expanding Bechtle's capabilities in AI and machine learning technologies for enterprise clients.

@@ -1,6 +1,8 @@
+![Klippa (acquired by SER Group)](assets\klippa.png)
+
 # Klippa (acquired by SER Group)
 
-Klippa is a technology company specializing in intelligent document processing (IDP) and OCR solutions that automate data extraction from various document types. In 2025, Klippa was acquired by SER Group, a leading provider of intelligent content automation solutions.
+[Klippa](https://www.klippa.com/en/home-en/) is a technology company specializing in intelligent document processing (IDP) and OCR solutions that automate data extraction from various document types. In 2025, Klippa was acquired by SER Group, a leading provider of intelligent content automation solutions.
 
 ## Overview
 
@@ -97,3 +99,5 @@ For existing Klippa customers, the acquisition promises expanded capabilities an
 - Additional Offices: Amsterdam, Hamburg, San Francisco, Brasov
 - Website: [klippa.com](https://www.klippa.com/en/)
 - Parent Company: [SER Group](https://www.sergroup.com/)
+- Email: support@klippa.com
+- Tel: +31 50 2111631

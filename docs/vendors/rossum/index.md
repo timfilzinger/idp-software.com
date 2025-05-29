@@ -1,6 +1,8 @@
+![Rossum.ai](assets\rossum-ai.png)
+
 # Rossum.ai
 
-Rossum is an intelligent document processing platform that leverages artificial intelligence to automate the capture, extraction, and processing of data from various business documents, focusing on end-to-end automation of transactional document workflows.
+[Rossum](https://rossum.ai) is an intelligent document processing platform that leverages artificial intelligence to automate the capture, extraction, and processing of data from various business documents, focusing on end-to-end automation of transactional document workflows.
 
 ## Overview
 
@@ -100,3 +102,15 @@ Rossum offers extensive integration capabilities, connecting with popular ERP, a
 - Headquarters: London, United Kingdom
 - Founded: 2017
 - Funding: $104 million
+
+## Address
+
+71-75 Shelton Street, Holborn
+
+WC2H 7JQ London, United Kingdom
+
+Web: [https://rossum.ai](https://rossum.ai/)
+
+Email: rossum@rossum.ai
+
+Tel: +44 20 3287 6959

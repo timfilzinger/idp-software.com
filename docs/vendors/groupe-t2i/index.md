@@ -1,3 +1,5 @@
+![Groupe T2i](assets\groupe-t2i.png)
+
 # Groupe T2i
 
 Groupe T2i is a provider of business software solutions, including document management, HR management, and digital transformation services.

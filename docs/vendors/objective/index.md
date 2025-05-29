@@ -1,3 +1,5 @@
+![Objective Corporation](assets\objective-corporation.png)
+
 # Objective Corporation
 
 Objective Corporation is a global software company specializing in information governance, process management, and secure collaboration solutions with a focus on regulated industries and government organizations.

@@ -1,3 +1,5 @@
+![Mindee](assets\mindee.png)
+
 # Mindee
 
 Mindee is a leading provider of AI-powered document data extraction APIs that transform unstructured documents into structured data, enabling businesses to automate document processing workflows efficiently and accurately.

@@ -1,3 +1,5 @@
+![Hyperscience](assets\hyperscience.png)
+
 # Hyperscience
 
 Hyperscience is a market leader in intelligent document processing and hyperautomation, leveraging advanced AI and machine learning technologies to transform how organizations handle complex documents and automate data extraction.
@@ -99,3 +101,15 @@ Hyperscience serves a variety of industries with its document processing and aut
 - Founder: Peter Brodsky
 - CEO: Andrew Joiner
 - Website: [hyperscience.ai](https://www.hyperscience.ai/)
+
+## Address
+
+285 Fulton Street
+
+10007 New York, United States
+
+Web: [https://www.hyperscience.com](https://www.hyperscience.com/)
+
+Email: info@hyperscience.com
+
+Tel: (646) 767-6210

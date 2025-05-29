@@ -1,8 +1,12 @@
+![Readsoft](assets\readsoft.png)
+
 # Readsoft
 
-ReadSoft, now part of Kofax, is a pioneer in automated document processing solutions specializing in invoice automation, accounts payable processing, and forms recognition with advanced data extraction capabilities.
+ReadSoft, now part of Tungsten Automation Corporation, former Kofax, is a pioneer in automated document processing solutions specializing in invoice automation, accounts payable processing, and forms recognition with advanced data extraction capabilities.
 
 ## Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvIurKgSg1g?si=YYDW68W4kPkFtWzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ReadSoft, founded in 1991 and acquired by Kofax in 2014, has established itself as a leading provider of document automation solutions. The company specializes in intelligent document processing technologies that automatically capture, classify, and extract data from business documents, particularly in financial operations.
 
@@ -58,7 +62,4 @@ Order management teams utilize ReadSoft to streamline the handling of customer p
 
 ## Resources
 
-- [Company Website](https://www.kofax.com/Products/readsoft) (Now part of Kofax)
-- [Solution Information](https://www.kofax.com/Products/accounts-payable-automation)
-- [Case Studies](https://www.kofax.com/Learn/Case-Studies)
-
+- [Company Website](https://docshield.tungstenautomation.com/RSI/en_US/6.0.3-ot6i0gq5uj/help/INVOICES/RSI_Invoices_help/help/c_INVOICES_overview.html) 

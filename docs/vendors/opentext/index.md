@@ -1,4 +1,5 @@
-# OpenText
+![OpenText](assets\opentext.png)
+
 # OpenText
 
 OpenText is a global leader in Enterprise Information Management (EIM) offering comprehensive solutions for content management, business process automation, customer experience management, and information discovery with a focus on enterprise-scale document processing and analysis.
@@ -61,3 +62,14 @@ Enterprises utilize OpenText Intelligent Capture to transform document-intensive
 
 - [Company Website](https://www.opentext.com/)
 
+## Address
+
+275 Frank Tompa Drive
+
+N2L 0A1 Waterloo, Canada
+
+Web: [https://www.opentext.com](https://www.opentext.com/)
+
+Email: support@opentext.com
+
+Tel: +800-4996-5440

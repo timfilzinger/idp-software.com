@@ -1,3 +1,5 @@
+![BuildSimple](assets\buildsimple.png)
+
 # BuildSimple
 
 BuildSimple provides low-code/no-code intelligent document processing and workflow automation solutions designed to simplify complex business processes.
@@ -57,3 +59,15 @@ Companies in regulated industries leverage BuildSimple to manage documentation r
 ## Resources
 
 - [Company Website](https://www.buildsimple.com/)
+
+## Adress
+
+Hintern Brüdern 23
+
+38100 Braunschweig, Germany
+
+Web: [https://buildsimple.com](https://buildsimple.com/)
+
+Email: info@buildsimple.de
+
+Tel: +49 (531) 1208-0

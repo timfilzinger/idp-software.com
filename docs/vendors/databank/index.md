@@ -1,3 +1,5 @@
+![DataBank](assets\databank.png)
+
 # DataBank
 
 DataBank provides document management, business process automation, and content services solutions that help organizations digitize and optimize their document-centric operations.

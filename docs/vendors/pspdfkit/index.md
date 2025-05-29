@@ -1,3 +1,5 @@
+![PSPDFKit (now nutrient.io)](assets\pspdfkit-now-nutrient-io.png)
+
 # PSPDFKit (now nutrient.io)
 
 PSPDFKit (now operating as nutrient.io) is a comprehensive PDF processing and document handling SDK that provides developers with powerful tools to build advanced document viewing, annotation, editing, and manipulation capabilities into their applications.

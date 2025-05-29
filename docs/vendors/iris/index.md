@@ -1,3 +1,5 @@
+![IRIS (Canon Group)](assets\iris-canon-group.png)
+
 # IRIS (Canon Group)
 
 IRIS (Image Recognition Integrated Systems) provides document capture, OCR, and document management solutions to help organizations digitize, recognize, and manage their documents.
@@ -59,3 +61,15 @@ Government agencies and enterprises implement IRIS technology to automate the pr
 ## Resources
 
 - [Company Website](https://www.irislink.com/)
+
+## Address
+
+Rue du bosquet 10
+
+1435 Mont-Saint-Guibert, Belgium
+
+Web: [https://iriscorporate.com](https://iriscorporate.com/)
+
+Email: contact@iriscorporate.com
+
+Tel: +32 10 45 13 64

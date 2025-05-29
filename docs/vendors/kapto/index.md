@@ -1,3 +1,5 @@
+![Kapto  ](assets\kapto.png)
+
 # Kapto  
   
 Kapto specializes in leveraging advanced AI and NLP technologies to deliver cutting-edge knowledge management and information extraction solutions, helping organizations transform unstructured data into actionable insights.  

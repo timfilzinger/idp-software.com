@@ -1,3 +1,5 @@
+![Itesoft](assets\itesoft.png)
+
 # Itesoft
 
 Itesoft provides business process automation and document management solutions that help organizations digitize, streamline, and secure their document-centric processes.

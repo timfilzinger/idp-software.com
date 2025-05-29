@@ -1,3 +1,5 @@
+![Recogniform](assets\recogniform.png)
+
 # Recogniform
 
 Recogniform is an Italian software company specializing in document capture, recognition, and data extraction solutions with particular focus on forms processing, OCR technologies, and intelligent document management systems.

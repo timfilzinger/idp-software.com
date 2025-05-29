@@ -1,3 +1,5 @@
+![Xtracta](assets\xtracta.png)
+
 # Xtracta
 
 Xtracta provides AI-powered document data extraction solutions that help organizations automate data capture from invoices, receipts, forms, and other business documents.
@@ -59,4 +61,16 @@ Businesses use Xtracta to automate the processing of expense receipts. The syste
 ## Resources
 
 - [Company Website](https://www.xtracta.com/)
+
+## Address
+
+Level 5/45 O'Rorke Road
+
+1061 Auckland, New Zealand
+
+Web: [https://xtracta.com](https://xtracta.com/)
+
+Email: info@xtracta.com
+
+Tel: +64 9 951 0448
 

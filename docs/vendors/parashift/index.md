@@ -1,3 +1,5 @@
+![Parashift](assets\parashift.png)
+
 # Parashift
 
 Parashift is a cutting-edge intelligent document processing platform that leverages artificial intelligence and machine learning to automate document extraction, classification, and data processing tasks with high accuracy and minimal human intervention.

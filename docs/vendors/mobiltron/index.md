@@ -1,13 +1,8 @@
+![Mobiltron](assets/mobiltron.png)
+
 # Mobiltron  
   
-Mobiltron offers a centralized platform for managing customer interactions, automating business processes, and enhancing engagement through advanced customer relationship management (CRM), mobile solutions, and AI-driven tools.  
-
-## Names List  
-- 2024-07-28: Released a new AI-powered module for predictive customer insights and personalized recommendations.  
-- 2023-11-03: Partnered with leading telecom providers to expand customer communication automation solutions.  
-- 2023-04-18: Launched an omnichannel engagement platform integrating email, SMS, and in-app notifications.  
-- 2022-12-14: Added integration capabilities for major CRM platforms, such as Salesforce and Microsoft Dynamics.  
-- 2021-08-20: Recognized for innovation in mobile customer engagement solutions by industry experts.  
+[Mobiltron HotDocs](https://mitratech.com/products/hotdocs/) offers a centralized platform for managing customer interactions, automating business processes, and enhancing engagement through advanced customer relationship management (CRM), mobile solutions, and AI-driven tools.  
 
 ## Overview  
 Mobiltron, established in 2015, provides a robust suite of solutions designed to enable businesses to engage effectively with their customers, automate customer-facing workflows, and centralize communications across channels. The company's emphasis on delivering seamless mobile experiences combined with its AI-driven analytics empowers organizations to boost customer retention, create personalized engagement strategies, and optimize overall operations.  

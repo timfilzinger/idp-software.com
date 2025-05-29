@@ -1,3 +1,5 @@
+![DataLeon](assets\dataleon.png)
+
 # DataLeon
 
 DataLeon is an AI company focused on intelligent document processing and data extraction solutions.

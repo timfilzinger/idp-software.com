@@ -1,6 +1,8 @@
+![U2D.ai](assets\u2d-ai.png)
+
 # U2D.ai
 
-U2D.ai was until 2024 a German technology company specializing in AI-powered document management and intelligent processing solutions that help organizations automate document workflows and extract valuable insights from their content.
+[U2D.ai](https://web.archive.org/web/20240728063247/https://www.u2d.ai/) was until 2024 a German technology company specializing in AI-powered document management and intelligent processing solutions that help organizations automate document workflows and extract valuable insights from their content.
 
 ## Overview
 

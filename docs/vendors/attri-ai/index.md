@@ -1,3 +1,5 @@
+![Attri.AI](assets\attri-ai.png)
+
 # Attri.AI
 
 Attri.AI is an AI-powered agent platform that leverages artificial intelligence to automate document processing and workflows. The company focuses on providing autonomous AI agents that can understand, process, and act on information from various document sources.

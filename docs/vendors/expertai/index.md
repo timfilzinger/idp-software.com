@@ -1,3 +1,5 @@
+![Expert.ai](assets\expert-ai.png)
+
 # Expert.ai
 
 Expert.ai is a global leader in artificial intelligence applied to natural language processing (NLP) and understanding (NLU), providing a comprehensive platform that turns unstructured language data into actionable insights for businesses.
@@ -79,3 +81,15 @@ This integration enables the creation of NLP robots that can extract and categor
 ## Resources
 
 - [Company Website](https://www.expert.ai/)
+
+## Address
+
+Via Virgilio, 48/H -- Scala 5
+
+41123 Modena, Italy
+
+Web: <https://www.expert.ai/>
+
+Email: marketing@expert.ai
+
+Tel: +39 059 894011

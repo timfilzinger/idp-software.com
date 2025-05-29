@@ -1,3 +1,5 @@
+![fino Group](assets\fino-group.png)
+
 # fino Group
 
 fino Group is a leading German FinTech company that specializes in innovative financial technology solutions, including their flagship document processing platform fintract, which uses AI-powered OCR to extract and analyze data from financial documents.

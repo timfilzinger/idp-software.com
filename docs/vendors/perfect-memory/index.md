@@ -1,3 +1,5 @@
+![Perfect Memory](assets\perfect-memory.png)
+
 # Perfect Memory
 
 Perfect Memory is a pioneering artificial intelligence company specializing in semantic asset management and knowledge engineering solutions that help organizations transform unstructured multimedia content into structured, searchable, and actionable knowledge assets.

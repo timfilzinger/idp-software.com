@@ -1,3 +1,5 @@
+![Microblink  ](assets\microblink.png)
+
 # Microblink  
 
 Microblink delivers advanced AI and machine learning solutions for identity verification, document scanning, and intelligent data extraction, empowering businesses to enhance digital onboarding, authentication, and operational efficiency.  

@@ -1,3 +1,5 @@
+![Archiv-IT](assets\archiv-it.png)
+
 # Archiv-IT
 
 Archiv-IT is a specialized provider of document digitization, archiving, and management solutions, with a focus on secure and compliant document processing.

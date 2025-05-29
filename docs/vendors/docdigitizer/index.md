@@ -1,3 +1,5 @@
+![DocDigitizer](assets\docdigitizer.png)
+
 # DocDigitizer
 
 DocDigitizer is a provider of intelligent document processing solutions focused on automating document-based workflows.
@@ -34,5 +36,4 @@ DocDigitizer provides a cloud-based platform for intelligent document processing
 
 ## Resources
 
-- [Website](https://www.docdigitizer.com)
-- [Documentation](https://www.docdigitizer.com/resources)
+- [Website](https://www.docdigitizer.com/)

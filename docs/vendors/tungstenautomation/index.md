@@ -1,3 +1,5 @@
+![Tungsten Automation (former Kofax)](assets\tungsten-automation-former-kofax.png)
+
 # Tungsten Automation (former Kofax)
 
 Tungsten Automation is a leading provider of intelligent automation software for digital workflow transformation, specializing in document intelligence and process orchestration.
@@ -36,3 +38,15 @@ Tungsten Automation's platform offers both cloud-based and on-premises deploymen
 
 - [Website](https://www.tungstenautomation.com/)
 - [Documentation](https://www.tungstenautomation.com/products)
+
+## Address
+
+15211 Laguna Canyon Road
+
+92618 Irvine, United States
+
+Web: [https://www.tungstenautomation.com](https://www.tungstenautomation.com/)
+
+Email: info@tungstenautomation.com
+
+Tel: +1 949 727 1733

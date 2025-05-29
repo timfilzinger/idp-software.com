@@ -1,3 +1,5 @@
+![Infrrd](assets\infrrd.png)
+
 # Infrrd
 
 Infrrd provides AI-powered intelligent document processing solutions that enable organizations to extract data from complex documents and automate document-centric business processes.
@@ -59,3 +61,15 @@ Finance departments use Infrrd to streamline accounts payable operations across 
 ## Resources
 
 - [Company Website](https://www.infrrd.ai/)
+
+## Address
+
+2001 Gateway Place, Suite 301E
+
+95110 San Jose, United States
+
+Web: [https://www.infrrd.ai](https://www.infrrd.ai/)
+
+Email: we@infrrd.ai
+
+Tel: +1 (844) 446-3773

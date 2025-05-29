@@ -1,3 +1,5 @@
+![DocuWare](assets\docuware.png)
+
 # DocuWare
 
 DocuWare is a provider of document management and workflow automation solutions, offering comprehensive tools for digitizing, processing, and managing documents.

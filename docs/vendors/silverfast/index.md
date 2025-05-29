@@ -1,3 +1,5 @@
+![SilverFast](assets\silverfast.png)
+
 # SilverFast
 
 SilverFast is a professional scanner and image processing software developed by LaserSoft Imaging, offering advanced capabilities for digitizing and optimizing analog images such as photos, slides, and negatives.

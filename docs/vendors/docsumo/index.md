@@ -1,6 +1,8 @@
+![Docsumo](assets\docsumo.png)
+
 # Docsumo
 
-Docsumo is an AI-powered intelligent document processing platform that specializes in extracting structured data from unstructured documents, automating manual data entry, and streamlining document workflows.
+[Docsumo](https://www.docsumo.com/) is an AI-powered intelligent document processing platform that specializes in extracting structured data from unstructured documents, automating manual data entry, and streamlining document workflows.
 
 ## Overview
 

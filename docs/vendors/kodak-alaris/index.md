@@ -1,3 +1,5 @@
+![Kodak Alaris](assets\kodak-alaris.png)
+
 # Kodak Alaris
 
 Kodak Alaris is a global provider of information capture solutions and intelligent document processing technologies, specializing in high-quality document scanners, software, and services that help organizations transform paper documents into actionable digital data.
@@ -103,7 +105,14 @@ Kodak Alaris serves a wide range of industries with its document capture and inf
 - [Software Solutions](https://www.kodakalaris.com/en/software)
 - [Support & Downloads](https://www.kodakalaris.com/en/support)
 
-## Contact Information
+## Address
 
-- Headquarters: Rochester, New York, USA
-- Website: [kodakalaris.com](https://www.kodakalaris.com/)
+336 Initiative Drive
+
+14624 Rochester, United States
+
+Web: [https://www.alarisworld.com](https://www.alarisworld.com/)
+
+Email: contact-us@kodakalaris.com
+
+Tel: 888-242-2424

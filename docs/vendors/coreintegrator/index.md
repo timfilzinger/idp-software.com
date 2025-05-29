@@ -1,3 +1,5 @@
+![CoreIntegrator](assets\coreintegrator.png)
+
 # CoreIntegrator
 
 CoreIntegrator provides workflow automation and document management solutions that help organizations streamline their business processes and document handling.

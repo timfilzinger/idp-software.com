@@ -1,3 +1,5 @@
+![Axis AI](assets\axis-ai.png)
+
 # Axis AI
 
 Axis AI provides intelligent document processing solutions that leverage artificial intelligence to automate data extraction and document processing workflows.

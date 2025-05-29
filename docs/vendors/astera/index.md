@@ -1,3 +1,5 @@
+![Astera](assets\astera.png)
+
 # Astera
 
 Astera is a data management software company that provides data integration, ETL (Extract, Transform, Load), and document processing solutions. Their products help organizations automate data flows and extract valuable information from various document types.

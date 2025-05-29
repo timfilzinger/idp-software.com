@@ -1,3 +1,5 @@
+![Checkbox](assets\checkbox.png)
+
 # Checkbox
 
 Checkbox is a no-code workflow automation platform that enables organizations to digitize and automate document-driven processes without programming.

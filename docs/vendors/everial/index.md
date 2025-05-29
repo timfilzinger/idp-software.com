@@ -1,3 +1,5 @@
+![Everial](assets\everial.png)
+
 # Everial
 
 Everial is a provider of document management, archiving, and digitization services, offering comprehensive solutions for managing physical and digital documents.

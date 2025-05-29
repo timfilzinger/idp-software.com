@@ -1,3 +1,5 @@
+![AntWorks](assets\antworks.png)
+
 # AntWorks
 
 AntWorks is a global provider of artificial intelligence and intelligent automation solutions, with a focus on fractal science-based technology for data ingestion and processing.

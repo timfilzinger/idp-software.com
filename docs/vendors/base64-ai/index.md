@@ -1,3 +1,5 @@
+![Base64.ai](assets\base64-ai.png)
+
 # Base64.ai
 
 Base64.ai provides advanced document AI solutions for automated data extraction from documents, IDs, and forms using artificial intelligence.
@@ -57,4 +59,16 @@ Organizations leverage Base64.ai to process supplier invoices and receipts. The 
 ## Resources
 
 - [Company Website](https://www.base64.ai/)
+
+## Address
+
+244 Madison Ave Suite 1124
+
+10016 New York, United States
+
+Web: [https://base64.ai](https://base64.ai/)
+
+Email: sales@base64.ai
+
+Tel: (607) 283-4127
 

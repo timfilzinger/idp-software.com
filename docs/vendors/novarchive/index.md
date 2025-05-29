@@ -1,3 +1,5 @@
+![Novarchive  ](assets\novarchive.png)
+
 # Novarchive  
   
 Novarchive is a French leader in document management, archiving, and digital transformation solutions, providing businesses with secure, compliant, and efficient services to manage their physical and electronic records.  

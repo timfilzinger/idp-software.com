@@ -1,13 +1,8 @@
+![Open Bee  ](assets\open-bee.png)
+
 # Open Bee  
 
 Open Bee provides innovative document management solutions that enable organizations to digitize, centralize, and automate their information workflows while ensuring compliance and operational efficiency.  
-
-## Names List  
-- 2024-07-10: Released new AI-driven tools for intelligent document search and categorization.  
-- 2023-11-20: Expanded cloud-based document management services with enhanced collaboration features.  
-- 2023-05-25: Established strategic partnerships with ERP and CRM vendors to ensure seamless integrations.  
-- 2022-10-14: Introduced electronic signature options for legally compliant workflows.  
-- 2021-06-09: Recognized as a top provider of document management solutions by independent industry analysts.  
 
 ## Overview  
 Founded in 2008, Open Bee specializes in providing comprehensive, user-friendly solutions for managing and automating document-intensive processes. The company’s platform is designed to help businesses efficiently digitize physical records, streamline workflows, and achieve better control over document-based operations.  

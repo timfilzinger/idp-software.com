@@ -1,3 +1,5 @@
+![Xerox](assets\xerox.png)
+
 # Xerox
 
 Xerox Corporation is a global technology company known for document management solutions, office equipment, and intelligent document processing services that help organizations digitize and automate document workflows.

@@ -1,3 +1,5 @@
+![Amazon Textract](assets\amazon-textract.png)
+
 # Amazon Textract
 
 **Category**: OCR & Document Intelligence

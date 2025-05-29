@@ -1,3 +1,5 @@
+![Indexware](assets\indexware.png)
+
 # Indexware
 
 Indexware provides advanced document indexing, search, and content management solutions that help organizations access and utilize their structured and unstructured information more effectively.
@@ -58,4 +60,4 @@ Regulated industries use Indexware to manage compliance-related content and supp
 
 ## Resources
 
-- [Company Website](https://www.indexware.com/)
+- [Company Website](https://www.indexware.fr/)

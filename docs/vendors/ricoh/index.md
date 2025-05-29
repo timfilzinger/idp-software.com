@@ -1,3 +1,5 @@
+![Ricoh](assets\ricoh.png)
+
 # Ricoh
 
 Ricoh is a global technology company specializing in document management, digital services, and imaging solutions with a strong focus on intelligent document processing and workflow automation.

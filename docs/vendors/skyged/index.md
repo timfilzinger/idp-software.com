@@ -1,6 +1,12 @@
+![Skyged soon named VEECTORAI](assets\skyged-soon-named-veectorai.png)
+
 # Skyged soon named VEECTORAI
 
-Skyged is a French software development company specializing in digital forms and document management solutions that help organizations streamline their document workflows and accelerate digital transformation.
+[Skyged, which will be soon named VEECTORAI](https://www.skyged.com/) is a French software development company specializing in digital forms and document management solutions that help organizations streamline their document workflows and accelerate digital transformation.
+
+- tagPDF evolves into VEECTORAI Sparkle: a revolution driven by AI
+- Agents tagPDF Cloud transforms into VEECTORAI Motion, powered by the power of Flowin5 AI
+- Agents reinvents itself as VEECTORAI Prime, transformed by the intelligence of AI Agents
 
 ## Overview
 
@@ -60,6 +66,3 @@ Regulated industries implement Skyged's document management capabilities to main
 4. **User Training**: Knowledge transfer for form creation and management
 5. **Process Optimization**: Continuous improvement of digital workflows
 
-## Resources
-
-- [Company Website](https://www.skyged.com/)

@@ -1,3 +1,5 @@
+![Ripcord](assets\ripcord.png)
+
 # Ripcord
 
 Ripcord is a robotics company that combines hardware automation, computer vision, and artificial intelligence to deliver high-speed document digitization, classification, and data extraction services through its innovative robotic digitization platform.

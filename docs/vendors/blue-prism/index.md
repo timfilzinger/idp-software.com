@@ -1,3 +1,5 @@
+![Blue Prism](assets\blue-prism.png)
+
 # Blue Prism
 
 Blue Prism is a leading provider of robotic process automation (RPA) solutions, offering intelligent document processing capabilities as part of its intelligent automation platform.
@@ -36,3 +38,15 @@ Blue Prism's platform combines RPA with intelligent document processing capabili
 
 - [Website](https://www.blueprism.com)
 - [Documentation](https://www.blueprism.com/resources)
+
+## Addess
+
+80 Lamberton Rd
+
+06095 Windsor, United States
+
+Web: [https://www.blueprism.com](https://www.blueprism.com/)
+
+Email: support@blueprism.com
+
+Tel: +1 888 757 7476

@@ -1,3 +1,5 @@
+![ADOC Solutions](assets\adoc-solutions.png)
+
 # ADOC Solutions
 
 ADOC Solutions is a specialized provider of document management and processing solutions based in Europe. The company focuses on intelligent document capture, processing, and archiving solutions.

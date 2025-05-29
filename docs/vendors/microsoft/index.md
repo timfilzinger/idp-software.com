@@ -1,3 +1,5 @@
+![Nuance by Microsoft](assets\nuance-by-microsoft.png)
+
 # Nuance by Microsoft
 
 As Microsoft offers verious IDP solutions we start with Nuance.

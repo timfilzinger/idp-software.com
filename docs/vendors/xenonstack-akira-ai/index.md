@@ -1,3 +1,5 @@
+![XenonStack / Akira.ai](assets\xenonstack-akira-ai.png)
+
 # XenonStack / Akira.ai
 
 XenonStack is a technology company that offers Akira.ai, an intelligent document processing platform that leverages artificial intelligence to automate document analysis, data extraction, and workflow automation.

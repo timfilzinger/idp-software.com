@@ -1,6 +1,8 @@
-# Reemia
+![Reemia](assets\reemia-ai.png)
 
-Reemia is an AI-powered document processing company that specializes in intelligent document digitization, data extraction, and workflow automation through its advanced platforms.
+# Reemia AI
+
+[Reemia](https://reemia.ai/) is an AI-powered document processing company that specializes in intelligent document digitization, data extraction, and workflow automation through its advanced platforms.
 
 ## Overview
 

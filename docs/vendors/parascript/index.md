@@ -1,3 +1,5 @@
+![Parascript](assets\parascript.png)
+
 # Parascript
 
 Parascript is a pioneer in intelligent document processing with advanced software solutions that leverage artificial intelligence to automate document classification, data location, extraction, and validation with high accuracy for complex documents.
@@ -66,3 +68,15 @@ Healthcare organizations utilize Parascript to streamline claims processing and 
 
 - Website: [parascript.com](https://www.parascript.com/)
 - Email: info@parascript.com
+
+## Adress
+
+6273 Monarch Park Place
+
+80503 Longmont, United States
+
+Web: [https://www.parascript.com](https://www.parascript.com/)
+
+Email: contact@parascript.com
+
+Tel: (303) 381-3100

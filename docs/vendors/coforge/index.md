@@ -1,3 +1,5 @@
+![Coforge](assets\coforge.png)
+
 # Coforge
 
 Coforge is a global IT services and consulting organization that provides document processing solutions as part of its broader digital transformation and business process management offerings.

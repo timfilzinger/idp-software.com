@@ -1,8 +1,8 @@
+![Konfuzio](assets\konfuzio.png)
+
 # Konfuzio
 
 Konfuzio is a Document AI platform that enables businesses to extract, classify, and process information from documents automatically.
-
-![Konfuzio Logo](assets/logo.png)
 
 ## Overview
 

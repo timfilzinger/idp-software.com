@@ -1,3 +1,5 @@
+![Datakeen](assets\datakeen.png)
+
 # Datakeen
 
 Datakeen is an AI company specializing in document understanding and information extraction technologies.

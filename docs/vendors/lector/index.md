@@ -1,3 +1,5 @@
+![Lector.ai  ](assets\lector-ai.png)
+
 # Lector.ai  
   
 Lector.ai provides AI-driven solutions for document intelligence, enabling businesses to automate data extraction, content analysis, and information processing with speed and accuracy.  

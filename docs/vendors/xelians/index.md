@@ -1,3 +1,5 @@
+![Xelians](assets\xelians.png)
+
 # Xelians
 
 Xelians is the French market leader in comprehensive document management services, offering both physical and electronic archiving solutions along with advanced document processing services to help organizations manage their information lifecycle.

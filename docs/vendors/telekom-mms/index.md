@@ -1,3 +1,5 @@
+![Telekom MMS](assets/telekom-mms.png)
+
 # Telekom MMS
 
 Telekom MMS (Multimedia Solutions) is a subsidiary of Deutsche Telekom that provides digital transformation services, including intelligent document processing solutions as part of their enterprise digitalization offerings.
@@ -5,6 +7,8 @@ Telekom MMS (Multimedia Solutions) is a subsidiary of Deutsche Telekom that prov
 ## Overview
 
 Telekom MMS specializes in providing comprehensive digital transformation services to enterprises, with intelligent document processing being one of their key solution areas. As part of the Deutsche Telekom group, they combine telecommunications expertise with advanced digital technologies to create integrated solutions for document-centric processes.
+
+[mms.telekom.com](https://www.telekom-mms.com/kuenstliche-intelligenz/ki-loesung/ki-textanalyse)
 
 The company offers document processing solutions that leverage artificial intelligence, machine learning, and other advanced technologies to automate the capture, classification, extraction, and processing of information from various document types. Their approach typically integrates these capabilities within broader digital transformation initiatives, connecting document processing with enterprise systems and workflows.
 
@@ -48,20 +52,4 @@ Financial institutions and insurance companies utilize Telekom MMS document proc
 | Training Options | User training and knowledge transfer programs |
 | Analytics Capabilities | Performance dashboards and operational insights |
 
-## Getting Started
 
-1. **Digital Assessment**: Evaluation of current document processes and systems
-2. **Solution Design**: Custom solution design based on organizational requirements
-3. **Implementation**: Professional deployment and integration services
-4. **Training and Change Management**: User enablement and process transition
-5. **Continuous Improvement**: Ongoing optimization and technology updates
-
-## Resources
-
-- [Company Website](https://mms.telekom.com/)
-- [Digital Solutions](https://mms.telekom.com/en/digital-solutions/)
-- [Case Studies](https://mms.telekom.com/en/reference-projects/)
-
-## Contact Information
-
-- Website: [mms.telekom.com](https://www.telekom-mms.com/kuenstliche-intelligenz/ki-loesung/ki-textanalyse)

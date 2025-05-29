@@ -1,3 +1,5 @@
+![Kyocera Document Solutions](assets\kyocera-document-solutions.png)
+
 # Kyocera Document Solutions
 
 Kyocera Document Solutions provides comprehensive document management and workflow optimization solutions, combining hardware, software, and services to help organizations digitize processes and enhance productivity.

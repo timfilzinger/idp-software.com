@@ -1,8 +1,24 @@
-# Taiger
+![Taiger](assets\taiger-web-archive.png)
 
-Taiger is an AI company that specializes in intelligent document processing and knowledge extraction solutions, helping organizations automate complex cognitive tasks through advanced natural language processing and machine learning.
+# Taiger (offline)
+
+[Taiger](https://web.archive.org/web/20250211171425/https://taiger.com/) is an AI company that specializes in intelligent document processing and knowledge extraction solutions, helping organizations automate complex cognitive tasks through advanced natural language processing and machine learning.
 
 ## Overview
+
+!!! info [Last update on the hompeage 18th of September 2022](https://web.archive.org/web/20240530212131/https://taiger.com/taiger-signs-a-collaboration/)
+
+    Taiger signs a collaboration agreement to deepen during the next five years in the application of IA for banking processes
+    September 18, 2022  juanjo.misis  Comments Off
+    TAIGER is garnering the trust of top companies in banking, legal, and debt recovery sectors with its advanced intelligent document processing technology
+     
+    The acceleration by these companies in the use of AI algorithms continues to grow exponentially. Within this context, solutions for automatic classification, data extraction of any kind of documents and acceleration of supervision tasks by back offices are being incorporated into day-to-day operations.
+    
+    Since its creation, TAIGER has been developing its own algorithms focused on the development of intelligent document processing (IDP) through its Omnitive IDP platform.  The possibility of training its own models has been the differential piece evaluated by the client in the selection process of this tool. 
+    
+    The signing of this agreement joins other use cases previously developed in Spain and LATAM for entities such as BBVA, Santander, la Caixa, Banregio, Garrigues or KRUK with the aim of continuing to deepen in new applications of AI. 
+    
+    These agreements reinforce the company’s commitment to the strategy defined at the end of 2021 to concentrate its resources in the intelligent document processing sector and its growth expectations in the markets where the company is currently located in order to undertake its development strategy in new markets such as the USA in the near future.
 
 Taiger provides AI-driven solutions that focus on extracting meaning and insights from unstructured documents and information sources. The company has developed proprietary technologies that combine natural language processing, machine learning, and semantic understanding to automate information-intensive processes that traditionally required human intelligence.
 

@@ -1,3 +1,5 @@
+![ABBYY](assets\abbyy.png)
+
 # ABBYY
 
 ABBYY is a global provider of intelligent document processing, content AI, and language solutions. The company is known for its advanced OCR (Optical Character Recognition) technology and document capture solutions.
@@ -38,3 +40,15 @@ ABBYY's solutions are available as cloud services, on-premises software, and thr
 
 - [Website](https://www.abbyy.com)
 - [Documentation](https://www.abbyy.com/support/)
+
+## Company Information
+
+600 Congress Ave., Suite 15015
+
+78701 Texas, United States
+
+Web: <https://www.abbyy.com/>
+
+Email: office@abbyy.com
+
+Tel: (408) 457-9777

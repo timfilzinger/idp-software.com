@@ -1,3 +1,5 @@
+![SER Group](assets\ser-group.png)
+
 # SER Group
 
 SER Group is a leading provider of enterprise content management (ECM) and intelligent information management solutions, offering the Doxis Intelligent Content Automation platform for comprehensive document processing and business process automation.
@@ -61,3 +63,15 @@ Legal and procurement departments utilize Doxis to streamline the entire contrac
 - [Company Website](https://www.sergroup.com/)
 - [Doxis Platform](https://www.sergroup.com/en/doxis-intelligent-content-automation/)
 - [Case Studies](https://www.sergroup.com/en/references/)
+
+## Address
+
+Joseph-Schumpeter-Allee 19
+
+53227 Bonn, Germany
+
+Web: <https://www.sergroup.com/>
+
+Email: info@sergroup.com
+
+Tel: +49 228 90896-0

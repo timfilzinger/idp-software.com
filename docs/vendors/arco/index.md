@@ -1,3 +1,5 @@
+![ARCO](assets\arco.png)
+
 # ARCO
 
 ARCO is a provider of document management and digital transformation solutions, specializing in document digitization, processing, and business process automation.

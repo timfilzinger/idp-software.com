@@ -1,13 +1,8 @@
+![Docucharm](assets/docucharm.png)
+
 # DocuCharm  
   
-DocuCharm specialized in document and workflow automation solutions but has been out of business since 2020.  
-
-## Names List  
-- 2020-12-15: DocuCharm officially ceased operations due to financial challenges.  
-- 2019-09-10: Expanded its offerings to include AI-driven document classification.  
-- 2018-06-04: Formed a strategic partnership with leading cloud providers to enhance integrations.  
-- 2017-03-21: Launched its flagship product focused on large-scale workflow automation.  
-- 2015-05-12: Recognized as a rising player in the IDP market.  
+DocuCharm, a [Y Combinator](https://www.ycombinator.com/companies/docucharm) startup, specialized in document and workflow automation solutions but has been out of business since 2020.  
 
 ## Overview  
 DocuCharm, founded in 2012, was once a promising vendor in the Intelligent Document Processing (IDP) industry. The company focused on automating document-heavy workflows, offering tools for data extraction, workflow optimization, and real-time analytics. Despite its potential and early successes in forming industry partnerships, DocuCharm faced increasing market competition and internal financial difficulties. The company ceased operations in 2020, leaving behind a legacy of innovative solutions that influenced the market during its active years.  

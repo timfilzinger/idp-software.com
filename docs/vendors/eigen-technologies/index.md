@@ -1,6 +1,8 @@
-# Eigen Technologies
+![Eigen Technologies](assets\eigen-technologies.png)
 
-Eigen Technologies is a leading provider of intelligent document processing solutions that uses artificial intelligence, natural language processing, and machine learning to extract structured data from unstructured documents.
+# Eigen Technologies - [acquired by Sirion](https://techcrunch.com/2024/06/06/sirion-now-valued-around-1b-acquires-eigen-in-enterprise-ai-tooling-consolidation-play/#:~:text=Now%2C%20one%20of%20the%20early%20movers%20in%20this,documents%20in%20verticals%20like%20insurance%2C%20finance%20and%20law.)
+
+Eigen Technologies was a leading provider of intelligent document processing solutions that uses artificial intelligence, natural language processing, and machine learning to extract structured data from unstructured documents.
 
 ## Overview
 

@@ -1,3 +1,5 @@
+![KlearStack  ](assets\klearstack.png)
+
 # KlearStack  
   
 KlearStack provides AI-driven intelligent document processing (IDP) solutions to automate data extraction, validation, and workflow management, helping businesses streamline operations and eliminate manual data entry across diverse document types.  

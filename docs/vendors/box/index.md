@@ -1,3 +1,5 @@
+![Box](assets\box.png)
+
 # Box
 
 Box is a leading cloud content management platform that enables organizations to securely manage, share, and collaborate on their content from anywhere, on any device, while maintaining enterprise-grade security and compliance.
@@ -63,3 +65,13 @@ Organizations leverage Box to digitize and automate document-centric business pr
 ## Resources
 
 - [Company Website](https://www.box.com/)
+
+900 Jefferson Ave
+
+94063 Redwood City, United States
+
+Web: [https://www.box.com](https://www.box.com/)
+
+Email: ir@box.com
+
+Tel: +44 808 189 0504

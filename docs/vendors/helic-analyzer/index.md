@@ -1,3 +1,5 @@
+![helic Analyzer by Comline GmbH (acquired by IQVIA)](assets\helic-analyzer-by-comline-gmbh-acquired-by-iqvia.png)
+
 # helic Analyzer by Comline GmbH (acquired by IQVIA)
 
 helic Analyzer is a specialized analytics software solution developed by Comline GmbH, a German technology company, which has been acquired by IQVIA to enhance its healthcare data analytics capabilities.

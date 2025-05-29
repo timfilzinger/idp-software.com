@@ -1,3 +1,5 @@
+![Evana](assets\evana.png)
+
 # Evana
 
 Evana (EVANA AG) is a technology company that specializes in AI-powered document management and data analytics solutions for the real estate industry, transforming how organizations handle property-related documentation and information.

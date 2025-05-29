@@ -1,3 +1,5 @@
+![TagTog](assets\tagtog.png)
+
 # TagTog
 
 TagTog is a collaborative text annotation platform designed to efficiently create, manage, and maintain high-quality datasets for natural language processing (NLP) and machine learning applications.

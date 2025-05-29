@@ -1,3 +1,5 @@
+![FileHold](assets\filehold.png)
+
 # FileHold
 
 FileHold is a provider of document management software solutions, offering tools for document capture, processing, and lifecycle management.

@@ -1,6 +1,8 @@
+![ScriptScan](assets\scriptscan.png)
+
 # ScriptScan
 
-ScriptScan provides specialized document scanning and processing solutions for the pharmaceutical industry, with a focus on prescription capture, validation, and data extraction for healthcare providers and pharmacies.
+ScriptScan offered by HealthPlan Data Solutions, Inc. provides specialized document scanning and processing solutions for the pharmaceutical industry, with a focus on prescription capture, validation, and data extraction for healthcare providers and pharmacies.
 
 ## Overview
 
@@ -58,6 +60,5 @@ Long-term care facilities utilize ScriptScan technology to manage complex medica
 
 ## Resources
 
-- [Company Website](https://www.scriptscan.com/) (Note: Fictional URL)
-- [Product Information](https://www.scriptscan.com/solutions/) (Note: Fictional URL)
-- [Case Studies](https://www.scriptscan.com/success-stories/) (Note: Fictional URL)
+- [Company Website](https://hds-rx.com/solutions/script-scan/)
+

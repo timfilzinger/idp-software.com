@@ -1,3 +1,5 @@
+![Skilja](assets\skilja.png)
+
 # Skilja
 
 Skilja is a German company specializing in intelligent document processing and document understanding technologies that leverage advanced artificial intelligence to transform how organizations handle their document-intensive processes.
@@ -90,3 +92,5 @@ Legal departments implement Skilja's document understanding capabilities for com
 - Headquarters: Germany
 - Company Size: 11-50 employees [[8]](https://de.linkedin.com/company/skilja)
 - Founded: 2012 [[8]](https://de.linkedin.com/company/skilja)
+- Kartäuserstr. 49, 79102 Freiburg, Germany
+- Email: info@skilja.de
