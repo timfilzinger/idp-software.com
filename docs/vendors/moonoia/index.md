@@ -1,8 +1,8 @@
-![Moonoia  ](./assets/moonoia.png)
 
 # Moonoia  
 
 Moonoia specializes in advanced document processing and data extraction solutions, leveraging AI and blockchain technology to ensure accuracy, security, and traceability in information workflows.  
+![Moonoia  ](./assets/moonoia.png)
 
 ## Overview  
 Founded in 2014 and based in Belgium, Moonoia delivers cutting-edge document processing solutions designed for industries that demand absolute precision, traceability, and transparency. By incorporating artificial intelligence, machine learning, and blockchain technology, Moonoia has created a platform that not only automates data extraction but also guarantees data validation, auditability, and security.  

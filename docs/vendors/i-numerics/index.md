@@ -1,8 +1,8 @@
-![i-numerics](assets/i-numerics.png)
 
 # I-numerics
 
 [I-numerics](https://i-numerics.com/) provides data analytics and business intelligence solutions that help organizations transform their raw data into actionable insights for informed decision-making.
+![i-numerics](assets/i-numerics.png)
 
 ## Overview
 

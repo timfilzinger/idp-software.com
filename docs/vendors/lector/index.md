@@ -1,8 +1,8 @@
-![Lector.ai  ](./assets/lector-ai.png)
 
 # Lector.ai  
   
 Lector.ai provides AI-driven solutions for document intelligence, enabling businesses to automate data extraction, content analysis, and information processing with speed and accuracy.  
+![Lector.ai  ](./assets/lector-ai.png)
 
 ## Overview  
 Founded in 2020, Lector.ai is a dynamic provider of intelligent document processing (IDP) solutions, leveraging state-of-the-art AI and machine learning technologies. The platform focuses on automating the conversion of unstructured documents into structured and actionable data that drives business optimization. Key industries served include banking, legal, insurance, and manufacturing, where the need for quick and accurate data processing from documents is critical.  

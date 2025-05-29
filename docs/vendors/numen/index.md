@@ -1,8 +1,8 @@
-![Numen  ](./assets/numen.png)
 
 # Numen  
   
 [Numen](https://www.numen.fr/) delivers comprehensive digital transformation and document management solutions, leveraging cutting-edge technology to help businesses optimize their information systems, automate workflows, and ensure compliance with regulatory standards.  
+![Numen](./assets/numen.png)
 
 ## Overview  
 With over 50 years of expertise, Numen is a European leader in digital and document transformation services. The company specializes in handling large-scale document digitization, electronic archiving, data processing, and business process outsourcing (BPO) to enable efficient management of enterprise information.  

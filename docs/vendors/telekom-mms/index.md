@@ -1,8 +1,8 @@
-![Telekom MMS](assets/telekom-mms.png)
 
 # Telekom MMS
 
 Telekom MMS (Multimedia Solutions) is a subsidiary of Deutsche Telekom that provides digital transformation services, including intelligent document processing solutions as part of their enterprise digitalization offerings.
+![Telekom MMS](assets/telekom-mms.png)
 
 ## Overview
 

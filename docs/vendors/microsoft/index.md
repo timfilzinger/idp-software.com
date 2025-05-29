@@ -1,10 +1,8 @@
-![Nuance by Microsoft](./assets/nuance-by-microsoft.png)
 
 # Nuance by Microsoft
 
-As Microsoft offers verious IDP solutions we start with Nuance.
-  
-Nuance, now a part of Microsoft, delivers cutting-edge conversational AI, speech recognition, and ambient intelligence solutions tailored to healthcare, finance, customer service, and other industries.  
+As Microsoft offers verious IDP solutions we start with Nuance. Nuance, now a part of Microsoft, delivers cutting-edge conversational AI, speech recognition, and ambient intelligence solutions tailored to healthcare, finance, customer service, and other industries.  
+![Nuance by Microsoft](./assets/nuance-by-microsoft.png)
 
 ## Overview  
 Nuance, originally founded in 1992 and acquired by Microsoft in 2021 for its expertise in conversational AI and speech technologies, has become a pillar of Microsoft's AI and industry cloud initiatives. The company's dominance in speech-to-text, natural language understanding, and AI-powered workflows has been particularly transformative for healthcare, enabling clinicians to focus on patient care rather than administrative tasks. With a focus on ambient intelligence and enterprise automation, Nuance integrates seamlessly with Microsoft’s powerful cloud platforms, such as Azure and Microsoft 365, empowering organizations to leverage scalable, secure, and innovative AI solutions.  

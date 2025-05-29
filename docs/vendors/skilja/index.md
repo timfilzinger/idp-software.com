@@ -1,8 +1,9 @@
-![Skilja](./assets/skilja.png)
 
 # Skilja
 
 Skilja is a German company specializing in intelligent document processing and document understanding technologies that leverage advanced artificial intelligence to transform how organizations handle their document-intensive processes.
+
+![Skilja](./assets/skilja.png)
 
 ## Overview
 

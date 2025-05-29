@@ -1,8 +1,8 @@
-![Hyperscience](./assets/hyperscience.png)
 
 # Hyperscience
 
 Hyperscience is a market leader in intelligent document processing and hyperautomation, leveraging advanced AI and machine learning technologies to transform how organizations handle complex documents and automate data extraction.
+![Hyperscience](./assets/hyperscience.png)
 
 ## Overview
 

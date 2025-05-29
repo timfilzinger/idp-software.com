@@ -1,8 +1,10 @@
-![Chartpixel](./assets/chartpixel.png)
 
 # Chartpixel
 
 Chartpixel is an innovative data visualization platform that transforms complex data into interactive, engaging charts and graphs, making it easier for businesses to communicate insights and make data-driven decisions.
+
+![Chartpixel](./assets/chartpixel.png)
+
 
 ## Overview
 

@@ -1,10 +1,9 @@
-![DocSend  ](./assets/docsend.png)
-
-![DocSend  ](./assets/docsend.png)
 
 # DocSend  
   
 DocSend, a Dropbox Company, offers a secure document sharing and tracking platform designed to empower businesses, professionals, and investors with actionable insights on document engagement.  
+![DocSend  ](./assets/docsend.png)
+
 
 ## Overview  
 Founded in 2013 and acquired by Dropbox in 2021, DocSend is a leading solution for sharing, managing, and tracking business-critical documents. The platform provides granular analytics on document engagement, helping users make data-driven decisions during fundraising, sales, and business communication processes. DocSend places a premium on security, allowing businesses to control access and permissions while ensuring that content remains protected.

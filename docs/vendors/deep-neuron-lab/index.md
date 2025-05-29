@@ -1,8 +1,10 @@
-![Deep Neuron Lab GmbH](./assets/deep-neuron-lab-gmbh.png)
 
 # Deep Neuron Lab GmbH
 
 Deep Neuron Lab is Germany's leading specialist in AI-based analysis of financial and non-financial reports, leveraging advanced machine learning technologies to transform complex financial data into accessible, actionable insights for the financial industry.
+
+![Deep Neuron Lab GmbH](./assets/deep-neuron-lab-gmbh.png)
+
 
 ## Overview
 

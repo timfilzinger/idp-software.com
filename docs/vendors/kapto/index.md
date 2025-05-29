@@ -1,8 +1,8 @@
-![Kapto  ](./assets/kapto.png)
 
 # Kapto  
   
 Kapto specializes in leveraging advanced AI and NLP technologies to deliver cutting-edge knowledge management and information extraction solutions, helping organizations transform unstructured data into actionable insights.  
+![Kapto  ](./assets/kapto.png)
 
 ## Overview  
 Kapto, founded in 2020, provides next-generation AI solutions to extract, organize, and analyze information from unstructured content across industries. The company focuses on enhancing organizational efficiency by converting documents, emails, and other raw data into structured, searchable, and analyzable formats. Kapto’s platform leverages state-of-the-art natural language processing (NLP) and machine learning (ML) technologies to power intelligent automation for modern businesses.  

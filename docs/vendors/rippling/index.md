@@ -1,8 +1,8 @@
-![Rippling](./assets/rippling.png)
 
 # Rippling
 
 Rippling is a comprehensive workforce management platform that unifies HR, IT, finance, and more, enabling businesses to streamline operations by centralizing employee data and automating processes across the organization.
+![Rippling](./assets/rippling.png)
 
 ## Overview
 

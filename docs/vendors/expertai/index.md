@@ -1,8 +1,8 @@
-![Expert.ai](./assets/expert-ai.png)
 
 # Expert.ai
 
 Expert.ai is a global leader in artificial intelligence applied to natural language processing (NLP) and understanding (NLU), providing a comprehensive platform that turns unstructured language data into actionable insights for businesses.
+![Expert.ai](./assets/expert-ai.png)
 
 ## Overview
 

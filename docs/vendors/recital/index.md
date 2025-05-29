@@ -1,8 +1,8 @@
-![Recital](./assets/recital.png)
 
 # Recital
 
 Recital is a specialized provider of contract lifecycle management and document automation solutions that focuses on helping organizations streamline contract processes, reduce risk, and gain greater visibility into their contractual obligations.
+![Recital](./assets/recital.png)
 
 ## Overview
 

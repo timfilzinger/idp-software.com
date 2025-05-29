@@ -1,8 +1,8 @@
-![Docucharm](assets/docucharm.png)
 
 # DocuCharm  
   
 DocuCharm, a [Y Combinator](https://www.ycombinator.com/companies/docucharm) startup, specialized in document and workflow automation solutions but has been out of business since 2020.  
+![Docucharm](assets/docucharm.png)
 
 ## Overview  
 DocuCharm, founded in 2012, was once a promising vendor in the Intelligent Document Processing (IDP) industry. The company focused on automating document-heavy workflows, offering tools for data extraction, workflow optimization, and real-time analytics. Despite its potential and early successes in forming industry partnerships, DocuCharm faced increasing market competition and internal financial difficulties. The company ceased operations in 2020, leaving behind a legacy of innovative solutions that influenced the market during its active years.  

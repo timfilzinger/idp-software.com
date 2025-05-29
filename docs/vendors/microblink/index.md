@@ -1,8 +1,8 @@
-![Microblink  ](./assets/microblink.png)
 
 # Microblink  
 
 Microblink delivers advanced AI and machine learning solutions for identity verification, document scanning, and intelligent data extraction, empowering businesses to enhance digital onboarding, authentication, and operational efficiency.  
+![Microblink  ](./assets/microblink.png)
 
 ## Overview  
 Founded in 2014, Microblink is a global innovator in AI-powered solutions that combine modern computer vision and machine learning technologies to create seamless experiences for identity verification and data processing. The company specializes in providing lightweight, fast, and robust software solutions that empower businesses to automate the processing of identity documents like passports, driving licenses, and other forms of personal identification.  

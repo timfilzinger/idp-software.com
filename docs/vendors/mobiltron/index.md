@@ -1,8 +1,8 @@
-![Mobiltron](assets/mobiltron.png)
 
 # Mobiltron  
   
 [Mobiltron HotDocs](https://mitratech.com/products/hotdocs/) offers a centralized platform for managing customer interactions, automating business processes, and enhancing engagement through advanced customer relationship management (CRM), mobile solutions, and AI-driven tools.  
+![Mobiltron](assets/mobiltron.png)
 
 ## Overview  
 Mobiltron, established in 2015, provides a robust suite of solutions designed to enable businesses to engage effectively with their customers, automate customer-facing workflows, and centralize communications across channels. The company's emphasis on delivering seamless mobile experiences combined with its AI-driven analytics empowers organizations to boost customer retention, create personalized engagement strategies, and optimize overall operations.  

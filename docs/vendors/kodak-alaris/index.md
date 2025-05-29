@@ -1,8 +1,8 @@
-![Kodak Alaris](./assets/kodak-alaris.png)
 
 # Kodak Alaris
 
 Kodak Alaris is a global provider of information capture solutions and intelligent document processing technologies, specializing in high-quality document scanners, software, and services that help organizations transform paper documents into actionable digital data.
+![Kodak Alaris](./assets/kodak-alaris.png)
 
 ## Overview
 

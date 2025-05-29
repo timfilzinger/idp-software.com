@@ -1,8 +1,8 @@
-![Novarchive  ](./assets/novarchive.png)
 
 # Novarchive  
   
 Novarchive is a French leader in document management, archiving, and digital transformation solutions, providing businesses with secure, compliant, and efficient services to manage their physical and electronic records.  
+![Novarchive  ](./assets/novarchive.png)
 
 ## Overview  
 Founded in 1983, Novarchive has more than four decades of expertise in managing records and ensuring regulatory compliance for businesses across industries. Headquartered in France, Novarchive provides a wide range of solutions, including physical archiving, digitalization, secure storage, and electronic document management (EDM) systems. The company supports organizations during their digital transformation process by streamlining document workflows, improving accessibility, and ensuring compliance with national and international regulations. Its hybrid approach, combining traditional archiving with innovative digital solutions, cements its position as a comprehensive service provider in the domain of document and record management.  

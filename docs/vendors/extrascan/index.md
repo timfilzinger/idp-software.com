@@ -1,8 +1,8 @@
-![ExactScan  ](./assets/exactscan.png)
 
 # ExactScan  
   
 ExactScan is a leading scanning software solution for macOS, designed to provide high-quality document capture, image processing, and efficient file management for businesses and individuals.  
+![ExactScan  ](./assets/exactscan.png)
 
 ## Overview  
 Founded in 2006, ExactScan is a streamlined, lightweight utility designed for macOS users to simplify the scanning process using high-precision tools. The software is widely recognized for its extensive support of professional document scanners (over 500 models) without the need for additional drivers. 
