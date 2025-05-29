@@ -1,0 +1,5 @@
+title: Guide
+collapse: true
+arrange:
+  - index.md
+  - ...

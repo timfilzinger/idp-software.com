@@ -1,0 +1,40 @@
+name: Test Screenshot Script
+
+on:
+  push:
+    paths:
+      - 'screenshot.py'
+      - 'test_screenshot.py'
+      - '.github/workflows/test_screenshot.yml'
+  pull_request:
+    paths:
+      - 'screenshot.py'
+      - 'test_screenshot.py'
+      - '.github/workflows/test_screenshot.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-screenshot.txt
+          pip install pytest pytest-cov
+
+      - name: Run tests
+        run: |
+          pytest test_screenshot.py -v --cov=screenshot
+
+      - name: Upload coverage report
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./coverage.xml
+          fail_ci_if_error: false
