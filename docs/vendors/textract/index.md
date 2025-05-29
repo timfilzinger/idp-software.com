@@ -53,7 +53,3 @@ Amazon Textract offers a pay-as-you-go pricing model with no upfront commitments
 [3]: https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-document-processing-pipeline-with-amazon-textract-idp-cdk-constructs/?utm_source=chatgpt.com "Build end-to-end document processing pipelines with Amazon ..."
 [4]: https://aws.amazon.com/what-is/intelligent-document-processing/?utm_source=chatgpt.com "What is Intelligent Document Processing? - IDP Explained - AWS"
 
-
-<iframe width="500px" height="700px" frameborder="0"
-src="https://widget.konfuzio.com?kbId=68325f9fdcbd04d9506960c0&embed=true&hide-chat-actions=true">
-</iframe>

@@ -6,7 +6,7 @@ ReadSoft, now part of Tungsten Automation Corporation, former Kofax, is a pionee
 
 ## Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WvIurKgSg1g?si=YYDW68W4kPkFtWzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://www.youtube.com/embed/WvIurKgSg1g?si=YYDW68W4kPkFtWzp)
 
 ReadSoft, founded in 1991 and acquired by Kofax in 2014, has established itself as a leading provider of document automation solutions. The company specializes in intelligent document processing technologies that automatically capture, classify, and extract data from business documents, particularly in financial operations.
 
