@@ -4,34 +4,54 @@ Thank you for your interest in contributing to the IDP Software documentation! T
 
 Edit or add details about events, vendors, research, or open-source projects. 
 
-Contribute directly by editing any page. Click the pen symbol in the top-right corner to start.
+If you have a GitHub account: Contribute directly by editing any page. Click the pen symbol in the top-right corner to start.
 
-![](data:image/png;base64,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)
+![edit mkdocs](./assets/edit-button-mkdocs.png)
 
-[Create a GitHub Ticket](https://github.com/atraining/idp-software.com/issues/new/choose) if you don't know how to contribute by editing the page. 
+[Create a GitHub Ticket](https://github.com/atraining/idp-software.com/issues/new/choose) if you don't know how to contribute by editing the page and create a Pull Request.
 
 After your pull request is merged, you will show up as an author of the page on the homepage.
 
 ![](./assets/credits.png)
 
 [Video](https://www.youtube.com/embed/JrBx-AKu8Io?si=1tvma2AGh3Rd2rCO)
+
+## How to Edit a Page that does exist already
+
+Follow these steps to contribute to the repository, even without technical expertise.
+
+1. **Create a GitHub Account**  
+   You need an [account on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) before making any edits to the page. Sign up if you don't have one.
+
+2. **Fork the Repository**  
+   Forking makes a personal copy of the repository under your GitHub account.  
+   ![Fork a Repo](./assets/fork-repo.png)
+
+3. **Edit the Content**  
+   Locate the file you want to edit in your forked repository. Make your changes directly using the GitHub editor.    If you're unfamiliar with Markdown, watch this [helpful video](https://www.youtube.com/watch?v=qhoXn4bIE1s).  
+   ![Edit File in Forked Repository](./assets/edit-file-in-github.png)
+
+4. **Commit Your Changes**  
+   After editing, click "Commit changes." Add a clear and concise commit message explaining what you changed (e.g., "Fixed typo in Section 3").  
+   ![Write a Commit Message](./assets/write-commit-message.png)
+
+5. **Create a Pull Request**  
+   A pull request sends your changes for review. Click the "Create Pull Request" option.  
+   ![Create a Pull Request](./assets/create-a-pull-request.png)
+
+6. **Add a Title and Description**  
+   Provide a meaningful title for your pull request, such as "Add new section for troubleshooting." This helps reviewers understand the purpose of your update quickly.  
+   ![Name the Pull Request](./assets/name-the-pull-request.png)
+
+7. **Submit the Pull Request**  
+   Finalize your contribution by clicking the "Submit" button.  
+   ![Submit the Pull Request](./assets/send-pull-request.png)
+
+8. **Wait for Review**  
+   I will review your submission. If it's approved, it will be added to the website. If changes are needed, I’ll provide feedback via comments in the pull request. You’ll get an email notification about it.
+
+By following this process, you help improve our documentation seamlessly—thank you for your contribution!
+
 
 ## Documentation Structure
 
@@ -45,9 +65,9 @@ The documentation is organized into the following main sections:
 
 ## How to Add Content
 
-#### For Research Papers
+#### Adding or Editing Research or Open Source Repositories in the Documentation
 
-To add a new research paper to the documentation, follow these steps:
+To add a new research paper or an open source repository to the documentation, follow these steps:
 
 1. **Create the research paper folder structure**:
    
@@ -63,17 +83,7 @@ To add a new research paper to the documentation, follow these steps:
            └── index.md
    ```
 
-2. **Create the `.pages` file**:
-   
-   In the research paper folder, create a `.pages` file with the following content:
-
-   ```yaml
-   title: "Short Paper Title"
-   ```
-
-   This file configures how the paper will appear in the navigation.
-
-3. **Create the `index.md` file**:
+2. **Create the `index.md` file**:
    
    Create an `index.md` file in the research paper folder with the following template:
 
@@ -138,64 +148,59 @@ To add a new research paper to the documentation, follow these steps:
    - A representative image from the paper or a visual summary
    - A BibTeX citation file named with the first author's last name and year (e.g., `duggal2024docpedia.bib`)
 
-5. **Update the research index page (optional)**:
-   
-   Add the paper to the table in `docs/research/index.md`:
-
-   ```markdown
-   | YYYY-MM-DD | [Paper Title](YYYY-MM-DD-short-title/) | Authors | Key Topics |
-   ```
-
 6. **No need to update navigation**:
    
    The awesome-pages plugin automatically includes all research paper folders in the navigation in reverse chronological order.
 
 The research paper will now appear in the documentation navigation under the Research section, with the most recent papers appearing first.
 
-#### For Vendors
+### Adding or Editing Vendors in the Documentation
 
-To add a new vendor to the documentation, follow these steps:
+#### Vendor's Status 
 
-1. **Create the vendor folder structure**:
-   
-   Create a new folder under `docs/vendors/` with the vendor's name in lowercase, using hyphens instead of spaces (e.g., `docs/vendors/vendor-name/`).
+Before proceeding, verify if the software vendor is already listed:  
 
+- ***Existing Vendor***: If the vendor is already listed, locate it on the homepage. Use the "Edit this page" button to update the page directly.  
+- ***New Vendor***: If the vendor is not listed, follow the instructions below to create a new entry.
+
+#### Adding a new Vendor
+
+1. **Create a Vendor Folder**  
+   Create a new folder under `docs/vendors/` with the vendor's name in lowercase. Use hyphens instead of spaces. For example:  
    ```
    docs/
    └── vendors/
        └── vendor-name/
            ├── assets/
-           │   └── logo.png
+           │   └── vendor-name.png
            └── index.md
    ```
 
-2. **Create the `.pages` file**:
-   
-   In the vendor folder, create a `.pages` file with the following content:
-
-   ```yaml
-   title: Vendor Name
-   arrange:
-     - index.md
-     - ...
-   ```
-
-   This file configures how the vendor's pages will appear in the navigation. The `...` entry ensures that any additional pages you add later will be included automatically.
-
-3. **Create the `index.md` file**:
-   
-   Create an `index.md` file in the vendor folder with the following template:
+3. **Edit the `index.md` File**  
+   Copy the structure below into your `index.md` file inside the folder:  
 
    ```markdown
    # Vendor Name
+   
+   Brief description of the vendor and their IDP solution. (maximum 155 characters)
 
-   [![Vendor Name Logo](assets/logo.png)](https://www.vendor-domain.com)
+   ![Vendor Name Logo](./assets/name-of-the-vendor.png)]
 
-   Brief description of the vendor and their IDP solution.
+   <!-- IMPORTANT: Make sure to follow the three step structure.
+        1. the headline
+        2. the brief description
+        3. link to the logo.
+   
+   This will make sure that your post ist automatically SEO optimized
+   -->
 
    ## Overview
 
    Detailed description of the vendor's offerings, history, and position in the IDP market.
+   
+   Use [links](https://vendor-homepage.com/very-important/) to proof that your text uses relevant sources of information.
+   
+   <!-- Pleaese link sources -->
 
    ## Key Features
 
@@ -214,6 +219,8 @@ To add a new vendor to the documentation, follow these steps:
    ### Use Case 2
 
    Description of how the vendor's solution addresses this use case.
+   
+   ... more use cases
 
    ## Technical Specifications
 
@@ -228,6 +235,10 @@ To add a new vendor to the documentation, follow these steps:
    ## Getting Started
 
    Steps to get started with the vendor's solution.
+   
+   If you discover a different video produced by an independent party that talks about the tool, please add a link to this one. Please do not (!) use sales videos made by the vendor.
+   
+   [YouTube Video](https://youtube.com/xxxxxx)
 
    ## Resources
 
@@ -242,29 +253,36 @@ To add a new vendor to the documentation, follow these steps:
    - Phone: +1 123-456-7890
    ```
 
-4. **Add a logo placeholder**:
-   
-   Create an `assets` directory in the vendor folder and add a placeholder for the vendor's logo or other images you add to our index.md.
-   
-   ```
-   docs/vendors/vendor-name/assets/vendor-name-logo.png
-   ```
-   
-   If you have the actual logo, use that instead. If not, include a placeholder text file that indicates this is where the logo should go.
+> **Note**: Ensure all information is accurate and factual.
 
-5. **Update the vendors index page (optional)**:
-   
-   If the vendor is significant or has unique features, consider adding it to the featured vendors list in `docs/vendors/index.md`:
+4. **Create a Screenshot (Optional)**  
+   Place add a screenhot of the vendor's homepage inside the `assets/` folder as `vendor-name.png`. This ensures consistent presentation. This will automatically provide you with a good social preview.
+5. **Commit Your Changes**  
+   Write a descriptive commit message explaining your update, e.g., "Added new vendor 'vendor-name.'"  
+6**Create a Pull Request**  
+   Follow the steps earlier mentioned (see the "How to Contribute" section). Ensure your pull request provides a clear title and description for the reviewers.   
 
-   ```markdown
-   | [Vendor Name](vendor-name/) | Specialization | Key Feature 1, Key Feature 2 |
-   ```
+![Preview of ultralytics mkdocs add in as a social preview](./assets/post-inspector-preview.png)
 
-   You may also want to add the vendor to the appropriate category section in the same file.
+#### Existing Vendors: Editing Content  
 
-6. **No need to update navigation**:
-   
-   The plugin automatically includes all vendor folders with an index.md file in the navigation, so you don't need to manually update the navigation structure.
+1. **Search for the Vendor**  
+   On the homepage, look for the vendor you want to edit.
+
+2. **Use the "Edit This Page" Button**  
+   Click on the "Edit this page" button. This opens the existing page for direct updates. Scroll up to read *How to Edit a Page that does exist already*.
+
+3. **Make Edits and Submit Changes**  
+   Modify the content as needed. Use appropriate headings and maintain the Markdown structure. Commit your changes with a clear message, such as "Updated vendor features."
+
+After completing your edits or creating a new vendor folder, follow the pull request process:  
+
+1. **Commit Your Changes**  
+   Write a descriptive commit message explaining your update, e.g., "Added new vendor 'vendor-name.'"  
+2. **Create a Pull Request**  
+   Follow the steps earlier mentioned (see the "How to Contribute" section). Ensure your pull request provides a clear title and description for the reviewers.   
+
+Thank you for your contribution to the project! With each update, you help maintain relevant, well-structured documentation.
 
 The vendor will now appear in the documentation navigation, and users can access the vendor's page to learn about their IDP solution.
 
