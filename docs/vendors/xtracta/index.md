@@ -1,8 +1,8 @@
-![Xtracta](assets\xtracta.png)
 
 # Xtracta
 
 Xtracta provides AI-powered document data extraction solutions that help organizations automate data capture from invoices, receipts, forms, and other business documents.
+![Xtracta](assets\xtracta.png)
 
 ## Overview
 

@@ -1,8 +1,8 @@
-![OpenText](assets\opentext.png)
 
 # OpenText
 
 OpenText is a global leader in Enterprise Information Management (EIM) offering comprehensive solutions for content management, business process automation, customer experience management, and information discovery with a focus on enterprise-scale document processing and analysis.
+![OpenText](assets\opentext.png)
 
 ## Overview
 

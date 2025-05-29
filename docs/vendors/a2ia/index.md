@@ -1,8 +1,8 @@
-![A2iA, a Mitek Company](assets\a2ia.png)
-
 # A2iA
 
 [A2iA](https://www.a2ia.com/en) (now part of Mitek Systems) is a provider of specialized intelligent document recognition and processing software. The company focuses on handwriting recognition, text extraction, and document classification technologies.
+
+![A2iA, a Mitek Company](./assets/a2ia.png)
 
 ## Overview
 

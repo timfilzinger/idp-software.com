@@ -1,8 +1,8 @@
-![Taiger](assets\taiger-web-archive.png)
 
 # Taiger (offline)
 
 [Taiger](https://web.archive.org/web/20250211171425/https://taiger.com/) is an AI company that specializes in intelligent document processing and knowledge extraction solutions, helping organizations automate complex cognitive tasks through advanced natural language processing and machine learning.
+![Taiger](assets\taiger-web-archive.png)
 
 ## Overview
 

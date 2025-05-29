@@ -1,8 +1,9 @@
-![Altilia](assets\altilia.png)
-
 # Altilia
 
 Altilia is an AI company specializing in intelligent document processing and knowledge extraction solutions. The company focuses on transforming unstructured data into actionable business insights using artificial intelligence.
+
+![Altilia](assets\altilia.png)
+
 
 ## Overview
 

@@ -1,8 +1,8 @@
-![UiPath](assets\uipath.png)
 
 # UiPath
 
 UiPath founded in 205 started to provide RPA automation, published Document Understanding and now migrates it to Generative Extraction on UiPath® IXP.
+![UiPath](assets\uipath.png)
 
 ## News
 

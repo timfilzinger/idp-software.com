@@ -1,8 +1,9 @@
-![AIIM (Association for Intelligent Information Management)](assets\aiim-association-for-intelligent-information-management.png)
 
 # AIIM (Association for Intelligent Information Management)
 
 AIIM is a global non-profit organization that provides education, research, and certification programs to information professionals. While not a traditional IDP vendor, AIIM plays a crucial role in the IDP ecosystem by providing standards, best practices, and professional development for intelligent information management.
+
+![AIIM (Association for Intelligent Information Management)](assets\aiim-association-for-intelligent-information-management.png)
 
 ## Overview
 

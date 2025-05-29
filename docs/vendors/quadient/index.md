@@ -1,8 +1,8 @@
-![Quadient](assets\quadient.png)
 
 # Quadient
 
 Quadient is a global provider of customer experience solutions specializing in intelligent document automation, customer communications management, mail processing technology, and parcel locker solutions. In 2023 [FormHero](../formhero/index.md) was acquired by Quadient.
+![Quadient](assets\quadient.png)
 
 ## Overview
 

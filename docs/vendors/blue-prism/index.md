@@ -1,8 +1,8 @@
-![Blue Prism](assets\blue-prism.png)
-
 # Blue Prism
 
 Blue Prism is a leading provider of robotic process automation (RPA) solutions, offering intelligent document processing capabilities as part of its intelligent automation platform.
+
+![Blue Prism](assets\blue-prism.png)
 
 ## Overview
 

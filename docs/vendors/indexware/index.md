@@ -1,8 +1,8 @@
-![Indexware](assets\indexware.png)
 
 # Indexware
 
 Indexware provides advanced document indexing, search, and content management solutions that help organizations access and utilize their structured and unstructured information more effectively.
+![Indexware](assets\indexware.png)
 
 ## Overview
 

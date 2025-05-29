@@ -1,8 +1,8 @@
-![Hypatos](assets\hypatos.png)
 
 # Hypatos
 
 Hypatos provides AI-powered document processing solutions that automate data extraction from financial and business documents, helping organizations streamline their operations and reduce manual effort.
+![Hypatos](assets\hypatos.png)
 
 ## Overview
 

@@ -1,8 +1,9 @@
-![Apache PDFBox](assets\apache-pdfbox.png)
-
 # Apache PDFBox
 
 Apache PDFBox is an open-source Java library for working with PDF documents. While not a traditional IDP vendor, it provides essential functionality for PDF manipulation and text extraction that serves as a foundation for many document processing solutions.
+
+![Apache PDFBox](assets\apache-pdfbox.png)
+
 
 ## Overview
 

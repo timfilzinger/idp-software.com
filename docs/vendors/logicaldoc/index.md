@@ -1,8 +1,8 @@
-![LogicalDOC](assets\logicaldoc.png)
 
 # LogicalDOC
 
 LogicalDOC is an open-source document management system that provides comprehensive enterprise content management capabilities with a focus on document workflow, search functionality, and integration flexibility.
+![LogicalDOC](assets\logicaldoc.png)
 
 ## Overview
 

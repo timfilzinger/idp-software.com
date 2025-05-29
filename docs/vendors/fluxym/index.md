@@ -1,8 +1,8 @@
-![Fluxym](assets\fluxym.png)
 
 # Fluxym
 
 Fluxym is a consulting firm and solution provider specializing in procurement, source-to-pay processes, and document management solutions.
+![Fluxym](assets\fluxym.png)
 
 ## Overview
 

@@ -1,8 +1,8 @@
-![M-Files](assets\m-files.png)
 
 # M-Files
 
 M-Files is an intelligent information management platform that uses metadata-driven architecture to organize content based on what it is rather than where it's stored, enabling organizations to find, manage, and secure information across the enterprise.
+![M-Files](assets\m-files.png)
 
 ## Overview
 

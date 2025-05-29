@@ -1,8 +1,10 @@
-![Caylent](assets\caylent.png)
+
 
 # Caylent
 
 Caylent is a cloud solutions provider that offers document processing capabilities as part of its broader portfolio of cloud-native technologies and services.
+
+![Caylent](assets\caylent.png)
 
 ## Overview
 

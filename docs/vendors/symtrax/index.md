@@ -1,8 +1,8 @@
-![Symtrax](assets\symtrax.png)
 
 # Symtrax
 
 Symtrax provides document management and output management solutions that help organizations automate document workflows, enhance document processing, and optimize business communications.
+![Symtrax](assets\symtrax.png)
 
 ## Overview
 

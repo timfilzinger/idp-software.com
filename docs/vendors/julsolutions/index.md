@@ -1,8 +1,8 @@
-![JUL Solutions](assets\jul-solutions.png)
 
 # JUL Solutions
 
 JUL Solutions is a provider of document management and process automation solutions, focusing on digital transformation of document-centric workflows.
+![JUL Solutions](assets\jul-solutions.png)
 
 ## Overview
 

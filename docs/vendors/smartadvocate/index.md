@@ -1,8 +1,8 @@
-![SmartAdvocate](assets\smartadvocate.png)
 
 # SmartAdvocate
 
 SmartAdvocate is a comprehensive legal case management system designed specifically for personal injury and mass tort law firms, featuring document management and automation capabilities to streamline legal workflows.
+![SmartAdvocate](assets\smartadvocate.png)
 
 ## Overview
 

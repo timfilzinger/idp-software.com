@@ -1,8 +1,8 @@
-![Handl](assets\handl.png)
 
 # Handl
 
 Handl provides AI-powered document processing solutions that help organizations automate data extraction from complex documents and streamline their document workflows.
+![Handl](assets\handl.png)
 
 ## Overview
 

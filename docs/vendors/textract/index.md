@@ -1,13 +1,8 @@
-![Amazon Textract](assets\amazon-textract.png)
 
 # Amazon Textract
 
-**Category**: OCR & Document Intelligence
-**Website**: [aws.amazon.com/textract](https://aws.amazon.com/textract)
-
-## Overview
-
 Amazon Textract is a machine learning (ML) service that automatically extracts printed text, handwriting, and structured data such as forms and tables from scanned documents. It goes beyond simple optical character recognition (OCR) by understanding the context of the extracted data, making it easier to integrate into various applications and workflows. ([Amazon Web Services, Inc.][1])
+![Amazon Textract](assets\amazon-textract.png)
 
 ## Key Features
 

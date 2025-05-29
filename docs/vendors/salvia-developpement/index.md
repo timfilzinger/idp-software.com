@@ -1,8 +1,8 @@
-![Salvia Développement](assets\salvia-developpement.png)
 
 # Salvia Développement
 
 Salvia Développement is a French software company specializing in business solutions for real estate and local public sector players, offering comprehensive software for financial management, project management, and technical asset management.
+![Salvia Développement](assets\salvia-developpement.png)
 
 ## Overview
 

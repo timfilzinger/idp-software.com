@@ -1,8 +1,8 @@
-![Ephesoft (acquired by Tungsten Automation, former "Kofax")](assets\ephesoft-acquired-by-tungsten-automation-former-kofax.png)
 
 # Ephesoft (acquired by Tungsten Automation, former "Kofax")
 
 Ephesoft provides intelligent document processing solutions that help organizations transform unstructured content into actionable data through advanced capture and analytics technologies.
+![Ephesoft (acquired by Tungsten Automation, former "Kofax")](assets\ephesoft-acquired-by-tungsten-automation-former-kofax.png)
 
 ## Overview
 

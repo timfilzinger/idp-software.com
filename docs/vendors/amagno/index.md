@@ -1,8 +1,8 @@
-![Amagno](assets\amagno.png)
-
 # Amagno
 
 Amagno is a German enterprise content management (ECM) and document management system (DMS) provider that offers intelligent document processing capabilities with a focus on digital document workflows and automation.
+
+![Amagno](assets\amagno.png)
 
 ## Overview
 

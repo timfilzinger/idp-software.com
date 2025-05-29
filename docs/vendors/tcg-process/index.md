@@ -1,8 +1,8 @@
-![TCG Process](assets\tcg-process.png)
 
 # TCG Process
 
 TCG Process provides intelligent document processing and business process automation solutions that help organizations transform document-centric workflows through AI-powered technologies.
+![TCG Process](assets\tcg-process.png)
 
 ## Overview
 

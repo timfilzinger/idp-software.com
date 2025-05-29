@@ -1,8 +1,8 @@
-![Systhen](assets\systhen.png)
 
 # Systhen
 
 Systhen provides Enterprise Content Management (ECM) and document management solutions designed to help organizations efficiently capture, store, manage, and deliver business-critical information.
+![Systhen](assets\systhen.png)
 
 ## Overview
 

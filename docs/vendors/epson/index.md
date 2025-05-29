@@ -1,8 +1,8 @@
-![Epson](assets\epson.png)
 
 # Epson
 
 Epson is a global technology company that offers document scanning and processing solutions as part of its broader hardware and software portfolio.
+![Epson](assets\epson.png)
 
 ## Overview
 

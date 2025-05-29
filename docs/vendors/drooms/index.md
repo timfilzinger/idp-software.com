@@ -1,8 +1,9 @@
-![Drooms](assets\drooms.png)
 
 # Drooms
 
 Drooms is a provider of secure virtual data room solutions with document processing capabilities, specializing in due diligence and transaction management.
+
+![Drooms](assets\drooms.png)
 
 ## Overview
 

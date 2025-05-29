@@ -1,8 +1,10 @@
-![Aurexus](assets\aurexus.png)
 
 # Aurexus
 
 Aurexus is a provider of business process automation and document processing solutions, focusing on digital transformation and intelligent automation.
+
+![Aurexus](assets\aurexus.png)
+
 
 ## Overview
 

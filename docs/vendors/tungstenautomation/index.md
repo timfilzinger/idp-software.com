@@ -1,8 +1,8 @@
-![Tungsten Automation (former Kofax)](assets\tungsten-automation-former-kofax.png)
 
 # Tungsten Automation (former Kofax)
 
 Tungsten Automation is a leading provider of intelligent automation software for digital workflow transformation, specializing in document intelligence and process orchestration.
+![Tungsten Automation (former Kofax)](assets\tungsten-automation-former-kofax.png)
 
 ## Overview
 

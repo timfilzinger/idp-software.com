@@ -1,8 +1,10 @@
-![Conduent](assets\conduent.png)
 
 # Conduent
 
 Conduent is a business process services company that provides document-centric technology solutions and services across various industries, helping organizations automate and optimize their document processing workflows.
+
+![Conduent](assets\conduent.png)
+
 
 ## Overview
 

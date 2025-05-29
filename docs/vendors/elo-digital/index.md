@@ -1,8 +1,8 @@
-![ELO Digital](assets\elo-digital.png)
 
 # ELO Digital
 
 ELO Digital is a provider of enterprise content management (ECM) and document management solutions, offering comprehensive tools for document digitization, processing, and management.
+![ELO Digital](assets\elo-digital.png)
 
 ## Overview
 

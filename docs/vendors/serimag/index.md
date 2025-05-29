@@ -1,8 +1,8 @@
-![Serimag](assets\serimag.png)
 
 # Serimag
 
 Serimag is a Spanish company specializing in intelligent document processing and automation through artificial intelligence, primarily serving the banking and insurance sectors with customized solutions.
+![Serimag](assets\serimag.png)
 
 ## Overview
 

@@ -1,8 +1,10 @@
-![Copysud](assets\copysud.png)
 
 # Copysud
 
 Copysud is a provider of document management solutions, print services, and digital transformation technologies.
+
+![Copysud](assets\copysud.png)
+
 
 ## Overview
 
