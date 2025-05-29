@@ -2,6 +2,7 @@
 # iManage
 
 iManage provides document and knowledge management solutions that help professionals securely create, manage, and collaborate on their work product in the context of their business.
+
 ![iManage](./assets/imanage.png)
 
 ## Overview

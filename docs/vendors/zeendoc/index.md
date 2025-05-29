@@ -2,6 +2,7 @@
 # Zeendoc
 
 Zeendoc is a leading French cloud-based document management solution designed to help businesses digitize, organize, secure, and automate document-centric processes.
+
 ![Zeendoc](./assets/zeendoc.png)
 
 ## Overview

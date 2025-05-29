@@ -2,6 +2,7 @@
 # SER Group
 
 SER Group is a leading provider of enterprise content management (ECM) and intelligent information management solutions, offering the Doxis Intelligent Content Automation platform for comprehensive document processing and business process automation.
+
 ![SER Group](./assets/ser-group.png)
 
 ## Overview

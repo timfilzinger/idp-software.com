@@ -2,6 +2,7 @@
 # FormHero - [acquired by Quadient in 2023](https://automationtoday.net/news/quadient-acquires-daylight-automation/#:~:text=Daylight%20Automation%2C%20formerly%20known%20as%20FormHero%2C%20provides%20Quadient,to%20digitize%20and%20extract%20data%20from%20manual%20forms.)
 
 FormHero provides a digital forms and workflow automation platform that helps organizations transform complex paper-based processes into intelligent, adaptive digital experiences.
+
 ![FormHero](./assets/formhero.png)
 
 ## Overview

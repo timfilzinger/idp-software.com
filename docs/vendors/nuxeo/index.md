@@ -2,6 +2,7 @@
 # Nuxeo
 
 Nuxeo, now part of Hyland, is an open and extensible content services platform designed to manage complex digital assets and enterprise content with native cloud capabilities, powerful workflow automation, and advanced AI integration.
+
 ![Nuxeo](./assets/nuxeo.png)
 
 ## Overview

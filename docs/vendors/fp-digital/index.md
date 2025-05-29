@@ -2,7 +2,9 @@
 # FP Digital Business Solutions
 
 FP Digital Business Solutions provides digital transformation services and solutions focused on document processing, secure communications, and business process automation.
+
 ![FP Digital Business Solutions](./assets/fp-digital-business-solutions.png)
+
 
 ## Overview
 

@@ -2,6 +2,7 @@
 # DocuCharm  
   
 DocuCharm, a [Y Combinator](https://www.ycombinator.com/companies/docucharm) startup, specialized in document and workflow automation solutions but has been out of business since 2020.  
+
 ![Docucharm](assets/docucharm.png)
 
 ## Overview  

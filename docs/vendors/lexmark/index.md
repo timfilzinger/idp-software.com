@@ -2,6 +2,7 @@
 # Lexmark
 
 Lexmark is a global provider of printing and imaging products, software, solutions, and services that help organizations streamline business processes and connect unstructured information to the most relevant systems where and when it's needed.
+
 ![Lexmark](./assets/lexmark.png)
 
 ## Overview

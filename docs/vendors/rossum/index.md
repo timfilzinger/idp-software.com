@@ -2,6 +2,7 @@
 # Rossum.ai
 
 [Rossum](https://rossum.ai) is an intelligent document processing platform that leverages artificial intelligence to automate the capture, extraction, and processing of data from various business documents, focusing on end-to-end automation of transactional document workflows.
+
 ![Rossum.ai](./assets/rossum-ai.png)
 
 ## Overview

@@ -2,6 +2,7 @@
 # Mr-Money Software GmbH
 
 Mr-Money Software GmbH is a German software company specializing in PDF processing and document management solutions. Their primary product, PDF-Box, provides tools for document manipulation, conversion, and data extraction.
+
 ![Mr-Money Software GmbH](./assets/mr-money-software-gmbh.png)
 
 ## Overview

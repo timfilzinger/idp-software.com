@@ -1,8 +1,9 @@
 
 # Open Bee  
 
-Open Bee provides innovative document management solutions that enable organizations to digitize, centralize, and automate their information workflows while ensuring compliance and operational efficiency.  
-![Open Bee  ](./assets/open-bee.png)
+Open Bee provides innovative document management solutions that enable organizations to digitize, centralize, and automate their information workflows while ensuring compliance and operational efficiency.
+
+![Open Bee](./assets/open-bee.png)
 
 ## Overview  
 Founded in 2008, Open Bee specializes in providing comprehensive, user-friendly solutions for managing and automating document-intensive processes. The company’s platform is designed to help businesses efficiently digitize physical records, streamline workflows, and achieve better control over document-based operations.  

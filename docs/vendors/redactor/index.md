@@ -2,6 +2,7 @@
 # VIDIZMO Redactor
 
 [VIDIZMO Redactor](https://redactor.ai/) is an AI-powered redaction software solution designed to protect sensitive information in audio, video, images, and documents, ensuring data privacy and regulatory compliance.
+
 ![VIDIZMO Redactor](./assets/vidizmo-redactor.png)
 
 ## Overview

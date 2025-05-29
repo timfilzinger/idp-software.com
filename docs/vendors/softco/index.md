@@ -2,6 +2,7 @@
 # SoftCo
 
 SoftCo is a global provider of financial automation solutions specializing in procure-to-pay, accounts payable automation, and enterprise document management with intelligent capture capabilities.
+
 ![SoftCo](./assets/softco.png)
 
 ## Overview

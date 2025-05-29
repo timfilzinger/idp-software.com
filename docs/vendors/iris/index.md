@@ -2,6 +2,7 @@
 # IRIS (Canon Group)
 
 IRIS (Image Recognition Integrated Systems) provides document capture, OCR, and document management solutions to help organizations digitize, recognize, and manage their documents.
+
 ![IRIS (Canon Group)](./assets/iris-canon-group.png)
 
 ## Overview

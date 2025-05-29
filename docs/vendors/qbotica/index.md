@@ -2,6 +2,7 @@
 # Qbotica
 
 Qbotica is a leading provider of intelligent document processing and robotic process automation solutions that help organizations automate data extraction, streamline workflows, and improve operational efficiency through AI-powered technology.
+
 ![Qbotica](./assets/qbotica.png)
 
 ## Overview

@@ -1,7 +1,8 @@
 
 # Moonoia  
 
-Moonoia specializes in advanced document processing and data extraction solutions, leveraging AI and blockchain technology to ensure accuracy, security, and traceability in information workflows.  
+Moonoia specializes in advanced document processing and data extraction solutions, leveraging AI and blockchain technology to ensure accuracy, security, and traceability in information workflows.
+
 ![Moonoia  ](./assets/moonoia.png)
 
 ## Overview  

@@ -2,6 +2,7 @@
 # Nuance by Microsoft
 
 As Microsoft offers verious IDP solutions we start with Nuance. Nuance, now a part of Microsoft, delivers cutting-edge conversational AI, speech recognition, and ambient intelligence solutions tailored to healthcare, finance, customer service, and other industries.  
+
 ![Nuance by Microsoft](./assets/nuance-by-microsoft.png)
 
 ## Overview  
