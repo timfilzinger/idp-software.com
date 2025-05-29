@@ -1,4 +1,4 @@
-![Klippa (acquired by SER Group)](assets\klippa.png)
+![Klippa (acquired by SER Group)](./assets/klippa.png)
 
 # Klippa (acquired by SER Group)
 

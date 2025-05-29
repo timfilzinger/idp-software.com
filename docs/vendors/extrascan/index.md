@@ -1,4 +1,4 @@
-![ExactScan  ](assets\exactscan.png)
+![ExactScan  ](./assets/exactscan.png)
 
 # ExactScan  
   

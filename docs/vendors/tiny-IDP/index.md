@@ -3,7 +3,7 @@
 
 Tiny IDP is a modern, LLM-powered document data extraction API that converts documents into structured JSON data in seconds.
 
-![Tiny IDP](assets\tiny-idp.png)
+![Tiny IDP](./assets/tiny-idp.png)
 
 
 [Youtube Video](https://www.youtube.com/embed/8Pv-bEy22ys?si=rthwvzV2VM9jFcy2)

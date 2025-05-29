@@ -2,7 +2,7 @@
 # Laserfiche
 
 Laserfiche is a leading enterprise content management (ECM) and business process automation platform that enables organizations to transform into digital businesses by automating and optimizing document-centric processes.
-![Laserfiche](assets\laserfiche.png)
+![Laserfiche](./assets/laserfiche.png)
 
 ## Overview
 

@@ -1,4 +1,4 @@
-![Microblink  ](assets\microblink.png)
+![Microblink  ](./assets/microblink.png)
 
 # Microblink  
 

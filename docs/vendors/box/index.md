@@ -3,7 +3,7 @@
 
 Box is a leading cloud content management platform that enables organizations to securely manage, share, and collaborate on their content from anywhere, on any device, while maintaining enterprise-grade security and compliance.
 
-![Box](assets\box.png)
+![Box](./assets/box.png)
 
 
 ## Overview

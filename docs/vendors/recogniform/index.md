@@ -1,4 +1,4 @@
-![Recogniform](assets\recogniform.png)
+![Recogniform](./assets/recogniform.png)
 
 # Recogniform
 

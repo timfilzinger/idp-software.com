@@ -1,4 +1,4 @@
-![Rippling](assets\rippling.png)
+![Rippling](./assets/rippling.png)
 
 # Rippling
 

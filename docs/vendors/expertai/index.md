@@ -1,4 +1,4 @@
-![Expert.ai](assets\expert-ai.png)
+![Expert.ai](./assets/expert-ai.png)
 
 # Expert.ai
 

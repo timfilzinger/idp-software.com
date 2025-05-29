@@ -1,4 +1,4 @@
-![Nuance by Microsoft](assets\nuance-by-microsoft.png)
+![Nuance by Microsoft](./assets/nuance-by-microsoft.png)
 
 # Nuance by Microsoft
 

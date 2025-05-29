@@ -2,7 +2,7 @@
 # Readsoft
 
 ReadSoft, now part of Tungsten Automation Corporation, former Kofax, is a pioneer in automated document processing solutions specializing in invoice automation, accounts payable processing, and forms recognition with advanced data extraction capabilities.
-![Readsoft](assets\readsoft.png)
+![Readsoft](./assets/readsoft.png)
 
 ## Overview
 

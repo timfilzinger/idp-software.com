@@ -1,4 +1,4 @@
-![Perfect Memory](assets\perfect-memory.png)
+![Perfect Memory](./assets/perfect-memory.png)
 
 # Perfect Memory
 

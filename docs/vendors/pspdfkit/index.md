@@ -1,4 +1,4 @@
-![PSPDFKit (now nutrient.io)](assets\pspdfkit-now-nutrient-io.png)
+![PSPDFKit (now nutrient.io)](./assets/pspdfkit-now-nutrient-io.png)
 
 # PSPDFKit (now nutrient.io)
 

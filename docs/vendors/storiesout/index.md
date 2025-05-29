@@ -2,7 +2,7 @@
 # StoriesOut
 
 StoriesOut is a provider of content and document management solutions, focusing on digital storytelling and information presentation.
-![StoriesOut](assets\storiesout.png)
+![StoriesOut](./assets/storiesout.png)
 
 ## Overview
 

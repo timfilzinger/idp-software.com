@@ -1,4 +1,4 @@
-![Planet AI GmbH (acquired by Bechtle)](assets\planet-ai-gmbh-acquired-by-bechtle.png)
+![Planet AI GmbH (acquired by Bechtle)](./assets/planet-ai-gmbh-acquired-by-bechtle.png)
 
 # Planet AI GmbH (acquired by Bechtle)
 

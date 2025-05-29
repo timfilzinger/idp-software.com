@@ -1,4 +1,4 @@
-![Kapto  ](assets\kapto.png)
+![Kapto  ](./assets/kapto.png)
 
 # Kapto  
   

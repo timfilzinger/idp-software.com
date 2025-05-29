@@ -1,4 +1,4 @@
-![Docsumo](assets\docsumo.png)
+![Docsumo](./assets/docsumo.png)
 
 # Docsumo
 

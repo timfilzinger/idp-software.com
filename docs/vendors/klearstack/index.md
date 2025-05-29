@@ -1,4 +1,4 @@
-![KlearStack  ](assets\klearstack.png)
+![KlearStack  ](./assets/klearstack.png)
 
 # KlearStack  
   

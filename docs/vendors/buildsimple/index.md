@@ -3,7 +3,7 @@
 
 BuildSimple provides low-code/no-code intelligent document processing and workflow automation solutions designed to simplify complex business processes.
 
-![BuildSimple](assets\buildsimple.png)
+![BuildSimple](./assets/buildsimple.png)
 
 
 ## Overview

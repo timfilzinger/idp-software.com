@@ -2,7 +2,7 @@
 # Parascript
 
 Parascript is a pioneer in intelligent document processing with advanced software solutions that leverage artificial intelligence to automate document classification, data location, extraction, and validation with high accuracy for complex documents.
-![Parascript](assets\parascript.png)
+![Parascript](./assets/parascript.png)
 
 ## Overview
 

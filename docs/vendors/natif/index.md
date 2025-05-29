@@ -1,4 +1,4 @@
-![Natif.ai (acquired by DocuWare)](assets\natif-ai-acquired-by-docuware.png)
+![Natif.ai (acquired by DocuWare)](./assets/natif-ai-acquired-by-docuware.png)
 
 # Natif.ai (acquired by DocuWare)
 

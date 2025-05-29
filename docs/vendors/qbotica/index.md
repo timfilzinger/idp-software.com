@@ -1,4 +1,4 @@
-![Qbotica](assets\qbotica.png)
+![Qbotica](./assets/qbotica.png)
 
 # Qbotica
 

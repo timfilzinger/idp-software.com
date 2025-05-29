@@ -2,7 +2,7 @@
 # Nanonets
 
 [Nanonets]](https://nanonets.com/) is an AI-powered intelligent document processing and workflow automation cloud platform that leverages advanced OCR and machine learning to extract data from unstructured documents and automate document-intensive business processes.
-![Nanonets](assets\nanonets.png)
+![Nanonets](./assets/nanonets.png)
 
 ## Overview
 

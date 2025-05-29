@@ -1,4 +1,4 @@
-![Deep Neuron Lab GmbH](assets\deep-neuron-lab-gmbh.png)
+![Deep Neuron Lab GmbH](./assets/deep-neuron-lab-gmbh.png)
 
 # Deep Neuron Lab GmbH
 

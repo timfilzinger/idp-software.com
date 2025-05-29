@@ -3,7 +3,7 @@
 
 Canon is a global provider of imaging technologies and document management solutions, offering hardware and software for document capture, processing, and management.
 
-![Canon](assets\canon.png)
+![Canon](./assets/canon.png)
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 ABBYY is a global provider of intelligent document processing, content AI, and language solutions. The company is known for its advanced OCR (Optical Character Recognition) technology and document capture solutions.
 
-![ABBYY](assets\abbyy.png)
+![ABBYY](./assets/abbyy.png)
 
 ## Overview
 

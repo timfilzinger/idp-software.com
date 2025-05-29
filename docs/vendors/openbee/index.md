@@ -1,4 +1,4 @@
-![Open Bee  ](assets\open-bee.png)
+![Open Bee  ](./assets/open-bee.png)
 
 # Open Bee  
 

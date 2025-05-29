@@ -1,4 +1,4 @@
-![fino Group](assets\fino-group.png)
+![fino Group](./assets/fino-group.png)
 
 # fino Group
 

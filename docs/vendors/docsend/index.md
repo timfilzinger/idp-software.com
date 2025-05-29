@@ -1,6 +1,6 @@
-![DocSend  ](assets\docsend.png)
+![DocSend  ](./assets/docsend.png)
 
-![DocSend  ](assets\docsend.png)
+![DocSend  ](./assets/docsend.png)
 
 # DocSend  
   

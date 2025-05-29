@@ -2,7 +2,7 @@
 # NetDocuments
 
 NetDocuments is a cloud-native document and email management platform designed specifically for legal professionals, providing secure content management, collaboration, and workflow automation with a focus on compliance and governance.
-![NetDocuments](assets\netdocuments.png)
+![NetDocuments](./assets/netdocuments.png)
 
 ## Overview
 

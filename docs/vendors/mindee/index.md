@@ -1,4 +1,4 @@
-![Mindee](assets\mindee.png)
+![Mindee](./assets/mindee.png)
 
 # Mindee
 

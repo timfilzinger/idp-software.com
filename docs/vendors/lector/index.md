@@ -1,4 +1,4 @@
-![Lector.ai  ](assets\lector-ai.png)
+![Lector.ai  ](./assets/lector-ai.png)
 
 # Lector.ai  
   

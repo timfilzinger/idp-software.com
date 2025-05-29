@@ -1,4 +1,4 @@
-![Kodak Alaris](assets\kodak-alaris.png)
+![Kodak Alaris](./assets/kodak-alaris.png)
 
 # Kodak Alaris
 

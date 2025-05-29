@@ -1,4 +1,4 @@
-![Lexmark](assets\lexmark.png)
+![Lexmark](./assets/lexmark.png)
 
 # Lexmark
 

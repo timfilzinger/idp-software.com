@@ -2,7 +2,7 @@
 # Edissyum
 
 Edissyum is a provider of document management and electronic archiving solutions, specializing in digital transformation of document-based processes.
-![Edissyum](assets\edissyum.png)
+![Edissyum](./assets/edissyum.png)
 
 ## Overview
 

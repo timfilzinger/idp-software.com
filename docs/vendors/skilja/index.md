@@ -1,4 +1,4 @@
-![Skilja](assets\skilja.png)
+![Skilja](./assets/skilja.png)
 
 # Skilja
 

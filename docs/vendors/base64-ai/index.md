@@ -3,7 +3,7 @@
 
 Base64.ai provides advanced document AI solutions for automated data extraction from documents, IDs, and forms using artificial intelligence.
 
-![Base64.ai](assets\base64-ai.png)
+![Base64.ai](./assets/base64-ai.png)
 
 
 ## Overview

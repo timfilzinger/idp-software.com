@@ -1,4 +1,4 @@
-![helic Analyzer by Comline GmbH (acquired by IQVIA)](assets\helic-analyzer-by-comline-gmbh-acquired-by-iqvia.png)
+![helic Analyzer by Comline GmbH (acquired by IQVIA)](./assets/helic-analyzer-by-comline-gmbh-acquired-by-iqvia.png)
 
 # helic Analyzer by Comline GmbH (acquired by IQVIA)
 

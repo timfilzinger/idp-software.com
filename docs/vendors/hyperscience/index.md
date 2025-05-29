@@ -1,4 +1,4 @@
-![Hyperscience](assets\hyperscience.png)
+![Hyperscience](./assets/hyperscience.png)
 
 # Hyperscience
 

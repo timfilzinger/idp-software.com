@@ -3,7 +3,7 @@
 
 Docaposte is a digital services company and subsidiary of La Poste Group, specializing in digital transformation, document management, and business process automation.
 
-![Docaposte](assets\docaposte.png)
+![Docaposte](./assets/docaposte.png)
 
 ## Overview
 

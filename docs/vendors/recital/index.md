@@ -1,4 +1,4 @@
-![Recital](assets\recital.png)
+![Recital](./assets/recital.png)
 
 # Recital
 

@@ -1,4 +1,4 @@
-![Moonoia  ](assets\moonoia.png)
+![Moonoia  ](./assets/moonoia.png)
 
 # Moonoia  
 

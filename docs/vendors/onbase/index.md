@@ -2,7 +2,7 @@
 # OnBase - Hyland
 
 OnBase by Hyland is a comprehensive enterprise content management (ECM) and process management platform that combines document management, case management, business process automation, records management, and capture capabilities in a single integrated solution.
-![OnBase](assets\onbase-hyland.png)
+![OnBase](./assets/onbase-hyland.png)
 
 ## Overview
 

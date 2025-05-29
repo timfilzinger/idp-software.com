@@ -1,4 +1,4 @@
-![Parashift](assets\parashift.png)
+![Parashift](./assets/parashift.png)
 
 # Parashift
 

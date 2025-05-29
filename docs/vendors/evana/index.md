@@ -1,4 +1,4 @@
-![Evana](assets\evana.png)
+![Evana](./assets/evana.png)
 
 # Evana
 

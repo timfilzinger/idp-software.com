@@ -1,4 +1,4 @@
-![Chartpixel](assets\chartpixel.png)
+![Chartpixel](./assets/chartpixel.png)
 
 # Chartpixel
 

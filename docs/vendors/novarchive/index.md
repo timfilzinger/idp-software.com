@@ -1,4 +1,4 @@
-![Novarchive  ](assets\novarchive.png)
+![Novarchive  ](./assets/novarchive.png)
 
 # Novarchive  
   

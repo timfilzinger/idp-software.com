@@ -2,7 +2,7 @@
 
 Appian is a low-code automation platform provider that offers document processing capabilities as part of its comprehensive business process automation solutions.
 
-![Appian](assets\appian.png)
+![Appian](./assets/appian.png)
 
 
 ## Overview

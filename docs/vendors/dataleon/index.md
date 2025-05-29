@@ -3,7 +3,7 @@
 
 DataLeon is an AI company focused on intelligent document processing and data extraction solutions.
 
-![DataLeon](assets\dataleon.png)
+![DataLeon](./assets/dataleon.png)
 
 
 ## Overview

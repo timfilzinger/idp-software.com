@@ -1,4 +1,4 @@
-![Numen  ](assets\numen.png)
+![Numen  ](./assets/numen.png)
 
 # Numen  
   
