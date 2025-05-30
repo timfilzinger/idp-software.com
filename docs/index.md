@@ -27,3 +27,64 @@ Welcome to the **collaborative** guide on Intelligent Document Processing. This 
         Intelligent Document Processing (IDP) is a software solution that captures, transforms, and processes data from documents (e.g., e-mail, text, Word, PDF, or scanned documents). Using AI technologies such as computer vision, Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine/deep learning, the extracted data can be analyzed, categorized, transformed, and exported to external systems in an end-to-end process. [Source](https://adoption.microsoft.com/en-us/intelligent-document-processing/)
 
 Explore the landscape of [IDP providers](vendors/index.md) and their growing list of [capabilities](capabilities/index.md) or [contribute](contribution/index.md) to expandinging this knowledge base.
+
+
+## Who created this homepage, and why?
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://christopher-helm.com/wp-content/uploads/2025/03/cropped-Christopher-Helm-mit-Armen-Seite-freigestellt-1.png" alt="Christopher Helm" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>I, <a href="https://gravatar.com/christopherhelm" target="_blank">Christopher Helm</a>, maintain this homepage as an Open Source repository.</p>
+  </div>
+</div>
+
+Full Disclosure: Since 2016, I’ve been bootstrapping an IDP product and have seen just how messy and confusing the intelligent document processing market can be—for both providers like me trying to define what we do and for customers trying to figure out what they actually need. The lack of clear, accessible information kept creating the same frustrations over and over again.
+
+In 2025, I came across the domain idp-software.com and decided to use it as a space to collect and share straightforward, unbiased information about this complex market.
+
+This repository includes providers regardless of their size or marketing budget. The focus is placed on actual capabilities rather than market position. 
+
+**To minimize personal bias, I created the initial content using AI.** 
+
+I welcome indie hackers!
+
+## A Practical Resource
+
+This homepage should act as a straightforward information resource for anyone navigating the IDP market.
+
+## What's Different About This Approach
+
+All contributors and editors are clearly identified to ensure maximum transparency.
+
+consistently prioritizes factual information over marketing language.
+
+## For Organizations Exploring IDP
+
+Use this resource to:
+
+- Discover solutions across the entire market spectrum
+- Compare capabilities objectively
+- Make decisions based on your specific requirements
+- Avoid expensive consulting fees for basic vendor identification
+
+## For IDP Providers
+
+This repository offers:
+
+- Visibility regardless of marketing resources
+- The ability to maintain accurate information about your offerings
+- Direct connection with potential customers
+- A level playing field for all market participants
+
+## Content Approach
+
+To maintain objectivity:
+
+- I created initial vendor pages with Claude 3.7 to establish a neutral baseline
+- All providers can edit their listings to ensure accuracy. I will review the Pull Requests.
+- Contributors are clearly identified
+- Educational content is welcomed when it provides genuine value
+
+I am currently looking for a neutral maintainer.
