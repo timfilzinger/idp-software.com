@@ -40,9 +40,9 @@ Explore the landscape of [IDP providers](vendors/index.md) and their growing lis
   </div>
 </div>
 
-Full Disclosure: Since 2016, I’ve been bootstrapping an IDP product and have seen just how messy and confusing the intelligent document processing market can be—for both providers like me trying to define what we do and for customers trying to figure out what they actually need. The lack of clear, accessible information kept creating the same frustrations over and over again.
+Full Disclosure: Since 2016, I’ve been bootstrapping an IDP product and have seen just how confusing the intelligent document processing market can be.
 
-In 2025, I came across the domain idp-software.com and decided to use it as a space to collect and share straightforward, unbiased information about this complex market.
+In 2024, I came across the domain idp-software.com and decided to use it as a space to collect and share straightforward, unbiased information about this complex market.
 
 This repository includes providers regardless of their size or marketing budget. The focus is placed on actual capabilities rather than market position. 
 
@@ -65,7 +65,6 @@ consistently prioritizes factual information over marketing language.
 Use this resource to:
 
 - Discover solutions across the entire market spectrum
-- Compare capabilities objectively
 - Make decisions based on your specific requirements
 - Avoid expensive consulting fees for basic vendor identification
 
@@ -83,8 +82,6 @@ This repository offers:
 To maintain objectivity:
 
 - I created initial vendor pages with Claude 3.7 to establish a neutral baseline
-- All providers can edit their listings to ensure accuracy. I will review the Pull Requests.
-- Contributors are clearly identified
+- All providers can edit their listings to ensure accuracy
+- Contributors are clearly identified in the footer of every page
 - Educational content is welcomed when it provides genuine value
-
-I am currently looking for a neutral maintainer.
