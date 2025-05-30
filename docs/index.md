@@ -85,3 +85,12 @@ To maintain objectivity:
 - All providers can edit their listings to ensure accuracy
 - Contributors are clearly identified in the footer of every page
 - Educational content is welcomed when it provides genuine value
+
+## Alternative Resources
+
+- [Gartner](https://www.gartner.com/reviews/market/intelligent-document-processing-solutions)
+- [ Market Guide for Intelligent Document Processing
+ Solutions | 2022 Reprint](https://web.archive.org/web/20250530210311/https://www.project-consult.com/files/Gartner%20Market%20Guide%20for%20Intelligent%20Document%20Processing.pdf)
+- [Intelligent Document Processing Community](https://www.intelligentdocumentprocessing.com/)
+- [Groupe serda-Archimag](https://www.archimag.com/tags/idp)
+- [Wikipedia](https://en.wikipedia.org/wiki/Document_processing)
