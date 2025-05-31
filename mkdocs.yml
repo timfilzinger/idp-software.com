@@ -89,8 +89,8 @@ plugins:
       minify_html: true
   - ultralytics:
       verbose: False
-      default_image: "https://www.ultralytics.com/images/social.png" # Example default image
-      default_author: "git@ultralytics.com" # Example default author
+      # default_image: "https://www.ultralytics.com/images/social.png" # Example default image
+      # default_author: "git@ultralytics.com" # Example default author
       add_desc: True
       add_image: True
       add_keywords: False
