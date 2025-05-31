@@ -14,7 +14,7 @@ After your pull request is merged, you will show up as an author of the page on 
 
 ![](./assets/credits.png)
 
-[Video](https://www.youtube.com/embed/JrBx-AKu8Io?si=1tvma2AGh3Rd2rCO)
+[![](./assets/How-to-create-a-Pul-Request.png) Watch the full video how to change this homeapge](https://www.youtube.com/watch?v=L4tHgBJCk8U)
 
 ## How to Edit a Page that does exist already
 
