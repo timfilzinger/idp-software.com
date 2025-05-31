@@ -32,19 +32,6 @@ The company serves clients across multiple industries including financial servic
 
 Finance departments implement Handl's solution to streamline accounts payable operations. The system automatically identifies incoming invoices, extracts key data fields like vendor information, line items, amounts, and payment terms, validates the information against business rules, and routes the data to accounting systems. This approach significantly reduces manual data entry, accelerates processing cycles, improves accuracy, and provides better visibility into payables, helping organizations capture early payment discounts and avoid late payment penalties.
 
-### Contract Analysis and Management
-# Handl
-
-Handl provides AI-powered document processing solutions that help organizations automate data extraction from documents and streamline document-centric workflows.
-
-## Overview
-
-Handl specializes in intelligent document processing technology that combines artificial intelligence and machine learning to automate the extraction, classification, and validation of data from various document types. Their platform enables organizations to transform unstructured document content into structured, actionable data with minimal human intervention.
-
-The company focuses on delivering solutions that address the challenges of document processing across industries, with particular emphasis on handling complex, variable document formats and extracting data with high accuracy. Handl's technology is designed to learn and improve over time, adapting to new document layouts and variations.
-
-Handl serves organizations across multiple sectors including financial services, healthcare, legal, and professional services. Their solutions help businesses reduce manual data entry, accelerate document processing times, improve data accuracy, and enhance operational efficiency.
-
 ## Resources
 
 - [Company Website](https://www.handl.ai/)

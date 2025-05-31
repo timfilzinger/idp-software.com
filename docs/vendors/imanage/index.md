@@ -32,11 +32,6 @@ iManage serves thousands of organizations worldwide, including a significant per
 
 Law firms implement iManage Work to manage their legal documents, emails, and client files in a secure, organized system. Attorneys and legal staff store all client-related documents in matter-centric workspaces that organize information logically according to legal workflows. The system enables quick document retrieval through powerful search capabilities, maintains document version history, provides secure collaboration with clients and co-counsel, and ensures compliance with client security requirements and regulatory obligations. This comprehensive approach significantly improves attorney productivity while enhancing information governance and security.
 
-### Knowledge Management for Professional Services
-# iManage
-
-iManage provides document and knowledge management solutions designed for legal, financial, and professional services firms to securely create, manage, and collaborate on their work product.
-
 ## Resources
 
 - [Company Website](https://imanage.com/)

@@ -31,19 +31,6 @@ TCG Process serves clients across multiple industries including financial servic
 
 Insurance companies implement TCG Process solutions to streamline claims processing workflows. The platform captures incoming claims documents through multiple channels, automatically classifies them by type, extracts relevant information like policy numbers, claim details, and damage assessments, and routes them through appropriate approval workflows. Built-in validation checks verify the extracted data against policy databases while machine learning continuously improves extraction accuracy for complex forms. Integration with claims management systems enables straight-through processing for routine claims while identifying exceptions that require human review. This comprehensive approach reduces claims processing time by up to 70%, improves data accuracy to over 95%, enables consistent application of claims rules, and provides real-time visibility into claims status for both processors and customers.
 
-### Financial Document Automation
-# TCG Process
-
-TCG Process provides intelligent document processing solutions that help organizations automate the capture, classification, and extraction of data from various document types to streamline business processes.
-
-## Overview
-
-TCG Process specializes in document automation and processing technology that transforms how organizations handle document-centric workflows. The company offers DocProStar, a comprehensive platform that combines artificial intelligence, machine learning, and rules-based processing to automate document-intensive processes.
-
-Founded with a focus on practical business applications, TCG Process has developed solutions that address document processing challenges across multiple industries. Their technology is designed to handle both structured and unstructured documents, enabling organizations to process everything from standardized forms to complex, variable-format documents.
-
-TCG Process serves organizations in sectors such as financial services, insurance, healthcare, and government, helping them reduce manual document handling, improve data accuracy, accelerate processing times, and enhance compliance with regulatory requirements. Their solutions can be deployed on-premises, in the cloud, or in hybrid environments to meet various organizational needs.
-
 ## Resources
 
 - [Company Website](https://www.tcgprocess.com/en-en/)

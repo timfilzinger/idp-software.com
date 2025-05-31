@@ -26,25 +26,6 @@ Hypatos serves clients across multiple industries with a particular focus on fin
 - **Multi-Language Support**: Processing documents in various languages
 - **Continuous Learning**: Models that improve with ongoing usage
 
-## Use Cases
-
-### Accounts Payable Automation
-
-Finance departments implement Hypatos to transform their invoice processing operations. The system automatically extracts relevant data from incoming invoices including header information, line items, tax details, and payment terms. The deep learning models understand different invoice layouts without requiring template creation for each vendor. The extracted data is validated against business rules and integrated with accounting systems for payment processing, significantly reducing manual effort while improving accuracy and processing speed.
-
-### Travel and Expense Management
-# Hypatos
-
-Hypatos provides AI-powered document processing solutions that specialize in financial document automation through deep learning technologies.
-
-## Overview
-
-Hypatos develops intelligent document processing solutions that leverage deep learning and natural language processing to automate the extraction, classification, and processing of complex financial and business documents. The company focuses on delivering high-accuracy automation for document-intensive processes, particularly in finance and accounting departments.
-
-Founded in Berlin, Germany, Hypatos has developed proprietary deep learning technology designed specifically for understanding the context and structure of financial documents. Their approach goes beyond traditional OCR and template-based extraction by comprehending document semantics, relationships between data points, and financial document conventions.
-
-Hypatos serves organizations across multiple industries with a particular focus on enterprises with high-volume document processing needs in finance, accounting, and procurement. Their solutions help businesses reduce manual processing efforts, accelerate cycle times, improve data accuracy, and gain better visibility into financial operations.
-
 ## Key Features
 
 - **Deep Learning Document Processing**: AI technology specifically trained for financial documents
