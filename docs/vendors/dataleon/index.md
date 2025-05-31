@@ -39,4 +39,3 @@ DataLeon's platform leverages artificial intelligence, including machine learnin
 ## Resources
 
 - [Website](https://www.dataleon.ai)
-- [Documentation](https://www.dataleon.ai/resources)

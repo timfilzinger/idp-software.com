@@ -46,4 +46,4 @@ TCG Process serves organizations in sectors such as financial services, insuranc
 
 ## Resources
 
-- [Company Website](https://www.tcgprocess.com/)
+- [Company Website](https://www.tcgprocess.com/en-en/)

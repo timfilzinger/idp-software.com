@@ -39,4 +39,3 @@ Datakeen's technology combines machine learning, natural language processing, an
 ## Resources
 
 - [Website](https://www.datakeen.co)
-- [Documentation](https://www.datakeen.co/resources)

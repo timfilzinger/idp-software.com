@@ -62,8 +62,6 @@ Legal and procurement departments utilize Doxis to streamline the entire contrac
 ## Resources
 
 - [Company Website](https://www.sergroup.com/)
-- [Doxis Platform](https://www.sergroup.com/en/doxis-intelligent-content-automation/)
-- [Case Studies](https://www.sergroup.com/en/references/)
 
 ## Address
 

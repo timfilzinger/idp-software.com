@@ -39,4 +39,3 @@ Aurexus provides software solutions for document processing and business automat
 ## Resources
 
 - [Website](https://www.aurexus.com)
-- [Documentation](https://www.aurexus.com/resources)

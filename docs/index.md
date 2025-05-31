@@ -36,7 +36,7 @@ Explore the landscape of [IDP providers](vendors/index.md) and their growing lis
     <img src="https://christopher-helm.com/wp-content/uploads/2025/03/cropped-Christopher-Helm-mit-Armen-Seite-freigestellt-1.png" alt="Christopher Helm" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <p>I, <a href="https://gravatar.com/christopherhelm" target="_blank">Christopher Helm</a>, maintain this homepage as an Open Source repository.</p>
+    <p>I, <a href="https://gravatar.com/christopherhelm" target="_blank">Christopher Helm</a>, maintain this homepage.</p>
   </div>
 </div>
 

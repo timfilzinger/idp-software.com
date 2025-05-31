@@ -136,6 +136,7 @@ To add a new research paper or an open source repository to the documentation, f
 
    ## Resources
 
+   ```
    - [Official GitHub Repository](https://github.com/link) (if available)
    - [Project Website](https://website.com) (if available)
    - [ArXiv Paper](https://arxiv.org/abs/XXXX.XXXXX)

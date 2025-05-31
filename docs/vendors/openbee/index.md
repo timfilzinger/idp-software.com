@@ -1,7 +1,7 @@
 
 # Open Bee  
 
-Open Bee provides innovative document management solutions that enable organizations to digitize, centralize, and automate their information workflows while ensuring compliance and operational efficiency.
+Open Bee provides innovative document management solutions that enable French-speaking organizations to digitize, centralize, and automate their information workflows while ensuring compliance and operational efficiency.
 
 ![Open Bee](./assets/open-bee.png)
 
@@ -51,8 +51,6 @@ Open Bee follows a customer-oriented implementation process:
 
 ## Resources  
 - [Vendor Website](https://www.openbee.com/)  
-- [Technical Documentation](https://www.openbee.com/documentation)  
-- [Case Studies and Testimonials](https://www.openbee.com/resources)  
 
 ## Contact Information  
 - Website: [openbee.com](https://www.openbee.com/)  

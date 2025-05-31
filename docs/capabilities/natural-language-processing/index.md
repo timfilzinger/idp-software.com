@@ -135,4 +135,4 @@ Building structured knowledge representations from document collections.
 - [ACL Anthology: Document NLP Papers](https://aclanthology.org/)
 - [Hugging Face Document NLP Models](https://huggingface.co/models)
 - [Stanford NLP Group Resources](https://nlp.stanford.edu/software/)
-- [Document Understanding Model Benchmark](https://github.com/doc-analysis/DeBERTa-v3-DocuNEt)
+- [Improving DeBERTa using ELECTRA-Style Pre-Training](https://huggingface.co/microsoft/deberta-v3-base)

@@ -5,9 +5,7 @@ UiPath founded in 205 started to provide RPA automation, published Document Unde
 
 ![UiPath](./assets/uipath.png)
 
-## News
-
-- On May 22, 2025 UiPath launched [Generative Extraction on UiPath® IXP](https://docs.uipath.com/document-understanding/automation-cloud/latest/USER-GUIDE/document-understanding-migration-to-uipath-ixp) and 
+On May 22, 2025 UiPath launched [Generative Extraction on UiPath® IXP](https://docs.uipath.com/document-understanding/automation-cloud/latest/USER-GUIDE/document-understanding-migration-to-uipath-ixp) and 
 at the same time [deprecated the integration](https://docs.uipath.com/overview/other/latest/overview/deprecation-timeline#deprecated-features-or-capabilities) to [Abbyy](../abbyy/index.md).
 
 

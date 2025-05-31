@@ -63,8 +63,3 @@ Large organizations utilize Nuxeo to manage high-volume, complex content reposit
 
 - [Documentation](https://doc.nuxeo.com/)
 - [Github](https://github.com/nuxeo/nuxeo)
-
-
-## Contact Information
-
-- Website: [hyland.com/en/platform/product-suite/nuxeo-platform](https://www.hyland.com/en/platform/product-suite/nuxeo-platform)

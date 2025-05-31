@@ -61,7 +61,7 @@ Common metrics for evaluating OCR performance:
 
 ## Resources
 
-- [Understanding OCR Accuracy](https://www.abbyy.com/ocr-sdk/evaluate-ocr-quality/)
+- [Understanding OCR Accuracy](https://www.youtube.com/watch?v=whMN41a_wuU)
 - [Tesseract OCR GitHub](https://github.com/tesseract-ocr/tesseract)
 - [OCR Evaluation Tools](https://github.com/impactcentre/ocrevaluation)
 - [Cem Dilmegani and Şevval Alper: OCR Benchmark](https://research.aimultiple.com/ocr-accuracy/)

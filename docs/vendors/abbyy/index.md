@@ -8,6 +8,8 @@ ABBYY is a global provider of intelligent document processing, content AI, and l
 
 ABBYY offers a comprehensive suite of AI-powered solutions for document processing, data extraction, and content intelligence. Their platforms help organizations transform documents into actionable data, automate document-intensive processes, and make more informed decisions.
 
+Due to the latest changes published by UiPath it remains unclear if the [partnership with Abbyy](https://www.abbyy.com/de/solutions/technology/uipath/) will exist in the future. See the vendor listing vor [UiPath](../uipath/index.md).
+
 ## Key Features
 
 - Advanced OCR and document recognition
@@ -38,6 +40,10 @@ ABBYY's solutions are available as cloud services, on-premises software, and thr
 
 - [Website](https://www.abbyy.com)
 - [Documentation](https://www.abbyy.com/support/)
+- [Abbyy Fine Reader Review![Abbyy Finereader](./assets/how-to-ocr-with-finereader.png)](https://www.youtube.com/watch?v=whMN41a_wuU)
+- [Abbyy Flexicapture](https://www.abbyy.com/de/flexicapture-sdk/)
+- [Abbyy Vantage](https://www.abbyy.com/vantage/)
+
 
 ## Company Information
 

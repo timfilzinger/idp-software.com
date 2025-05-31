@@ -5,6 +5,14 @@ Planet AI GmbH is a German artificial intelligence company specializing in visua
 
 ![Planet AI GmbH (acquired by Bechtle)](./assets/planet-ai-gmbh-acquired-by-bechtle.png)
 
+Already in 2000 Bechtle reported the acquisition of OCR Datensysteme GmbH.
+
+What is interesting. This historical report shows [how profitable IDP was in 2000](https://www.channelpartner.de/article/3893768/bechtle-uebernimmt-ocr-datensysteme.html):
+
+    Das am Neuen Markt notierte Systemhaus Bechtle AG schlägt zum fünften Mal in diesem Jahr zu. Objekt der Begierde ist diesmal das Mannheimer Unternehmen OCR Datensysteme GmbH. Die Schwaben halten nunmehr 85 Prozent an dem IT-Dienstleister, der bereits vorher eine strategische Kooperation mit der Bechtle direkt GmbH unterhielt. OCR beschäftigt 75 Mitarbeiter und erwirtschaftete 1999 einen Umsatz von 43 Millionen Mark. Die Bechtle AG – die in Mannheim bereits über eine eigene Dependance verfügt – will damit die Strategie des internen und externen Wachstums unterstreichen. “Durch die Übernahme von OCR bauen wir unsere führende Rolle im badischen Raum weiter aus und verstärken unsere flächendeckende Präsenz im Systemhausbereich”, kommentiert Bechtle-Vorstandsvorsitzender Gerhard Schick. (cm)
+
+
+
 ## Overview
 
 Planet AI offers specialized visual recognition and artificial intelligence solutions designed to help businesses automate image analysis, object detection, and classification tasks. Founded in Karlsruhe, Germany, the company developed proprietary deep learning algorithms for processing and analyzing visual data with applications across multiple industries.
@@ -84,7 +92,7 @@ Construction companies implement Planet AI's visual recognition solutions to enh
 ## Resources
 
 - [Bechtle AI Solutions](https://www.bechtle.com/gb/it-solutions/artificial-intelligence)
-- [Bechtle Digital Business](https://www.bechtle.com/gb/it-solutions/digital-business)
+
 
 ## Contact Information
 

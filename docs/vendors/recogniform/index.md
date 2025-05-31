@@ -83,8 +83,6 @@ Financial institutions implement Recogniform's technology to automate the proces
 ## Resources
 
 - [Company Website](https://www.recogniform.com/)
-- [Product Information](https://www.recogniform.com/en/products/)
-- [Technology Overview](https://www.recogniform.com/en/technology/)
 
 ## Contact Information
 

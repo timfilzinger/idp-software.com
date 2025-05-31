@@ -37,10 +37,6 @@ Law firms implement iManage Work to manage their legal documents, emails, and cl
 
 iManage provides document and knowledge management solutions designed for legal, financial, and professional services firms to securely create, manage, and collaborate on their work product.
 
-
-
 ## Resources
 
 - [Company Website](https://imanage.com/)
-- [Product Information](https://imanage.com/products/)
-- [Case Studies](https://imanage.com/customer-success/)

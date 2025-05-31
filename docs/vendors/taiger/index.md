@@ -72,7 +72,3 @@ Financial institutions utilize Taiger's technology to streamline customer onboar
 3. **Solution Design**: Configuration for specific document types and workflows
 4. **Implementation**: Deployment and integration with existing systems
 5. **Continuous Improvement**: Ongoing refinement of models and processes
-
-## Resources
-
-- [Company Website](https://taiger.com/)

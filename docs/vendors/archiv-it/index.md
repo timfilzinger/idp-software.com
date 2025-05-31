@@ -38,5 +38,4 @@ Archiv-IT provides both software solutions and physical services for document ma
 
 ## Resources
 
-- [Website](https://www.archiv-it.fr)
-- [Documentation](https://www.archiv-it.fr/documentation)
+- [Website](https://www.archiv-it.fr/)

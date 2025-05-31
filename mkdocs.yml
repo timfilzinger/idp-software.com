@@ -46,7 +46,7 @@ theme:
   # font:
   #   text: Roboto
   #   code: Roboto Mono
-  favicon: favicon.webp
+  favicon: favicon.ico
   icon:
     logo: material/book-open-page-variant
 

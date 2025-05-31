@@ -84,5 +84,4 @@ Financial analysts and accounting professionals implement Chartpixel to transfor
 ## Resources
 
 - [Company Website](https://chartpixel.com/)
-- [Documentation](https://docs.chartpixel.com/)
-- [Chart Gallery](https://chartpixel.com/gallery/)
+- [Documentation](https://www.chartpixel.com/api-documentation)

@@ -130,7 +130,6 @@ Ensuring document processing meets regulatory requirements.
 
 ## Resources
 
-- [Data Validation Best Practices](https://cloud.google.com/bigquery/docs/data-validation)
 - [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning)
-- [Active Learning Surveys](https://active-learning.github.io/)
-- [Model Uncertainty Estimation](https://arxiv.org/abs/1906.11004)
+- [Active Learning Notebook](https://colab.research.google.com/github/cmauck10/active-learning/blob/master/active-learning.ipynb)
+

@@ -90,6 +90,6 @@ Extracting candidate skills, experience, education, and contact information for 
 
 ## Resources
 
-- [Introduction to NLP for Document Extraction](https://towardsdatascience.com/nlp-for-document-extraction-7568abc971da)
+- [Introduction to NLP for Document Extraction](https://medium.com/@simsagues/document-information-extraction-using-ocr-and-nlp-2c3caa5a7720)
 - [ICDAR Document Analysis Competitions](https://icdar2021.org/competitions/)
 - [Document Understanding with BERT](https://arxiv.org/abs/1903.12136)

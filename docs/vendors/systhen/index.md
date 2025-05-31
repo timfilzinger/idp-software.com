@@ -63,11 +63,6 @@ Regulated industries implement Systhen's records management capabilities to main
 4. **User Adoption**: Training and change management support
 5. **Continuous Optimization**: Ongoing refinement of processes and configuration
 
-## Resources
-
-- [Enterprise Content Management Solutions](https://www.systhen.com/solutions) (link may not be active)
-- [Document Management Best Practices](https://www.systhen.com/resources) (link may not be active)
-
 ## Contact Information
 
 - Website: [systhen.com](https://www.systhen.com/) (link may not be active)

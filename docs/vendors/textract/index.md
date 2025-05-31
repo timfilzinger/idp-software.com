@@ -39,7 +39,7 @@ Amazon Textract offers a pay-as-you-go pricing model with no upfront commitments
 ## Resources
 
 * [Amazon Textract Documentation](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
-* [Getting Started with Amazon Textract](https://aws.amazon.com/textract/getting-started/)
+* [Getting Started with Amazon Textract](https://srdas.github.io/NLPBook/AWS_Textract.html)
 * [Amazon Textract FAQs](https://aws.amazon.com/textract/faqs/)
 * [Build an End-to-End Document Processing Pipeline with Amazon Textract](https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-document-processing-pipeline-with-amazon-textract-idp-cdk-constructs/)
 

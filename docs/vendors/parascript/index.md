@@ -58,12 +58,6 @@ Healthcare organizations utilize Parascript to streamline claims processing and 
 4. **Fine-Tuning**: Optimization for specific document workflows
 5. **Ongoing Support**: Continuous improvement and technical assistance
 
-## Resources
-
-- [Company Website](https://www.parascript.com/)
-- [Solution Information](https://www.parascript.com/formxtra-ai/)
-- [Case Studies](https://www.parascript.com/resources/case-studies/)
-
 ## Contact Information
 
 - Website: [parascript.com](https://www.parascript.com/)

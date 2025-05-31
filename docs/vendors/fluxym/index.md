@@ -38,4 +38,3 @@ Fluxym provides consulting services and implements technology solutions for proc
 ## Resources
 
 - [Website](https://www.fluxym.com)
-- [Documentation](https://www.fluxym.com/resources)

@@ -46,12 +46,12 @@ I am looking for [contributors](../contribution/index.md) to review the vendors,
 15. Automation Anywhere:[https://www.automationanywhere.com](https://www.automationanywhere.com/). A leader in AI-powered process automation. San Jose, United States.
 16. AutomationEdge: Offers a hyperautomation platform with RPA, AI, and IDP capabilities for end-to-end automation. Located in Houston, United States.[https://automationedge.com/](https://automationedge.com/).
 17. Axis Technical Group ([https://axistechnical.com](https://axistechnical.com/)): An IT solutions provider that helps clients align technology with business objectives. Anaheim, United States
-18. BIS: Creator of Grooper, an intelligent data platform with 35 years of experience. Located in Edmond, United States.[https://www.bisok.com/](https://www.bisok.com/).
+18. BIS: Creator of Grooper, an intelligent data platform with 35 years of experience. Potentially no real IDP vendor. Located in Edmond, United States.[https://www.bisok.com/](https://www.bisok.com/).
 19. Botminds AI ([https://www.botminds.ai](https://www.botminds.ai/)): Believes 'Document Understanding is the next frontier in AI', offering an IDP solution. Bellevue, United States
 20. Cambrion ([https://www.cambrion.ai](https://www.cambrion.ai/)): Provides context-aware document processing for business automation. Munich, Germany
 21. Captova Technologies ([https://www.captova.com](https://www.captova.com/)): Mission is to deliver the best-in-class Intelligent Document Processin. Vancouver, Canada
 23. Celaton:[https://celaton.com](https://celaton.com/). Applies Intelligent Process Automation (IPA) technology, inSTREAM, to deliver benefits. Keynes, United Kingdom.
-24. Cinnamon AI (<https://cinnamon.is/en/>): An AI Document Reader to automate the data extraction from unstructured documents. Tokyo, Japan
+24. Cinnamon AI (pitch: https://www.youtube.com/watch?v=9SsDXSRzrlk, https://www.youtube.com/watch?v=Ym13Uwja9xk) (Homepage no longer available): An AI Document Reader to automate the data extraction from unstructured documents. Tokyo, Japan
 25. ClearDox ([https://www.cleardox.com](https://www.cleardox.com/)): Allows commodity-intensive businesses to secure a competitive advantage through document automation. Stamford, United States
 26. codemantra:[https://codemantra.com](https://codemantra.com/). Helps businesses and organizations across industries with document processing. Boston, United States.
 27. Cogent Labs (<https://www.cogent.co.jp/en/>): Develops and provides AI solutions, including SmartRead. Tokyo, Japan
@@ -91,9 +91,8 @@ I am looking for [contributors](../contribution/index.md) to review the vendors,
 63. iCustoms ([https://www.icustoms.ai](https://www.icustoms.ai/)): Customs Declaration Software that leverages artificial intelligence. London, United Kingdom
 64. Impactsure ([https://www.impactsure.com](https://www.impactsure.com/)): An AI/ML-powered intelligent document processing and analytics Web platform. Mumbai, India
 65. Indico Data:[https://indicodata.ai](https://indicodata.ai/). Indico Data offers an intelligent intake solution without compromising speed or accuracy. Boston, United States.
-66. Infinia ML, an aspirion company:[https://infiniaml.com](https://infiniaml.com/). Infinia ML applies machine learning to knowledge work. Durham, United States.
+66. Infinia ML, an aspirion company -> homepage down: [https://infiniaml.com](https://infiniaml.com/), [Web Archive](https://web.archive.org/web/20250512103709/https://infiniaml.com/) potentially due to [acquisition](https://www.aspirion.com/aspirion-acquires-infinia-ml-an-established-leader-in-ai-and-machine-learning/). Infinia ML applies machine learning to knowledge work. Durham, United States.
 67. inserve.ai ([https://www.inserve.de](https://www.inserve.de/)): Companies use inserve.ai services for intelligent processing of complex document. Hannover, Germany
-68. inserve.ai:[https://www.inserve.de](https://www.inserve.de/). Companies use inserve.ai services for intelligent processing of complex document. Germany.
 69. Insiders Technologies:[https://insiders-technologies.com/en/](https://insiders-technologies.com/en/). A team of visionaries, innovators, and tech enthusiasts focused on process automation. Kaiserslautern, Germany.
 70. Instabase:[https://www.instabase.com](https://www.instabase.com/). Instabase enables organizations to automate mission-critical processes. Menlo Park, United States.
 71. ITyX Solutions AG:[https://www.ityxsolutions.com](https://www.ityxsolutions.com/). A provider of intelligent process automation. Cologne, Germany.
@@ -134,9 +133,8 @@ I am looking for [contributors](../contribution/index.md) to review the vendors,
 106. SortSpoke ([https://www.sortspoke.com](https://www.sortspoke.com/)): Helps companies with complex, unstructured, and varied documents through their IDP platform. Toronto, Canada
 108. Square 9 Softworks:[https://www.square-9.com](https://www.square-9.com/). The Square 9 AI-powered intelligent information management platform. New Haven, United States.
 109. Staple ([https://staple.io](https://staple.io/)): Developed an ML tool that reads, interprets and extracts structured documents, 069116 Singapore, Singapore
-110. Straive:[https://www.straive.com](https://www.straive.com/). Helps clients operationalize from Data to AI value chain. Singapore, Singapore.
+110. Straive:[https://www.straive.com](https://www.straive.com/). Potentially not a real IDP vendor. Helps clients operationalize from Data to AI value chain. Singapore, Singapore.
 111. super.AI ([https://super.ai](https://super.ai/)): Leverages the power of AI for its Intelligent Document Processing (IDP) solution. San Francisco, United States
-112. TCG Process (<https://www.tcgprocess.com/en-en/>): An international organization with headquarters in Switzerland, offering intelligent automation. Baar, Switzerland
 113. Unstructured: Aims to provide organizations with access to all their data. Located in Rocklin, United States.[https://unstructured.io/](https://unstructured.io/).
 114. UST ([https://www.ust.com](https://www.ust.com/)): A global digital transformation solutions provider with UST SmartVision for intelligent document processing. Aliso Viejo, United States
 115. WorkFusion:[https://www.workfusion.com](https://www.workfusion.com/). WorkFusion is a provider of Intelligent Automation solutions for Fortune 500 enterprises. New York, United States.

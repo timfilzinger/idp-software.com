@@ -80,11 +80,6 @@ Museums, libraries, and cultural institutions implement Perfect Memory's solutio
 4. **Initial Processing**: Analysis and enrichment of core content collection
 5. **Integration**: Connection with existing content management systems
 
-## Resources
-
-- [Company Website](https://www.perfect-memory.com/)
-- [Solution Information](https://www.perfect-memory.com/solutions)
-- [Case Studies](https://www.perfect-memory.com/case-studies)
 
 ## Contact Information
 

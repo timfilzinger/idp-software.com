@@ -62,6 +62,4 @@ Financial institutions and service organizations use Itesoft to streamline their
 ## Resources
 
 - [Company Website](https://www.itesoft.com/)
-- [Product Information](https://www.itesoft.com/en/solutions/)
-- [Case Studies](https://www.itesoft.com/en/resources/customer-stories/)
 

@@ -62,5 +62,3 @@ Finance departments utilize Quadient's document automation solutions to streamli
 ## Resources
 
 - [Company Website](https://www.quadient.com/)
-- [Inspire Platform](https://www.quadient.com/en/customer-communications-management)
-- [Case Studies](https://www.quadient.com/en/resources/case-studies)

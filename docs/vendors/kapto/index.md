@@ -48,11 +48,6 @@ Kapto follows a streamlined onboarding approach:
 5. Start processing documents and generating insights, leveraging Kapto’s automated solutions.  
 6. Access ongoing support for scaling and optimization.  
 
-## Resources  
-- [Vendor Website](https://www.kapto.ai/)  
-- [Product Overview](https://www.kapto.ai/product)  
-- [Case Studies](https://www.kapto.ai/resources)  
-
 ## Contact Information  
 - Website: [kapto.ai](https://www.kapto.ai/)  
 - Email: contact@kapto.ai  

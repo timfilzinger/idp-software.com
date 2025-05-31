@@ -9,7 +9,7 @@
 
 Reemia offers innovative AI solutions designed to simplify document management and enhance business workflows. The company focuses on transforming unstructured document data into structured, actionable information using advanced artificial intelligence technologies. Their solutions help organizations automate manual document processing tasks, extract valuable insights from documents, and streamline document-based workflows.
 
-While specific details about Reemia's founding history are limited in public sources, the company appears to have been founded by Reema Bajaj [[1]](https://in.linkedin.com/in/reema-bajaj), who served in a marketing leadership role. Reemia's mission centers on simplifying AI adoption by providing intuitive and adaptable solutions tailored to client needs [[2]](https://www.linkedin.com/company/reemia-ai).
+While specific details about Reemia's founding history are limited in public sources, the company appears to have been founded by Reema Bajaj, who served in a marketing [leadership role](https://www.linkedin.com/in/reema-bajaj/). Reemia's mission centers on simplifying AI adoption by providing intuitive and adaptable solutions tailored to client needs.
 
 Reemia serves various industries, with particular focus on real estate and insurance sectors, where document-intensive processes are common. Their solutions are valuable for organizations looking to digitize paper-based archives, automate data extraction from incoming documents, enhance customer service with AI-powered tools, and ensure regulatory compliance through better document management.
 

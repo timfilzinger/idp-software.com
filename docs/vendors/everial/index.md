@@ -38,4 +38,3 @@ Everial offers both physical facilities for document storage and software platfo
 ## Resources
 
 - [Website](https://www.everial.com)
-- [Documentation](https://www.everial.com/resources)

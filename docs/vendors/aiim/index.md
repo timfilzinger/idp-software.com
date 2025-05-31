@@ -59,7 +59,6 @@ AIIM offers research, case studies, and methodologies that assist organizations 
 
 - [AIIM Website](https://www.aiim.org/)
 - [Research Library](https://www.aiim.org/research)
-- [Training Programs](https://www.aiim.org/education-section)
 - [CIP Certification](https://www.aiim.org/cip)
 
 ## Contact Information

@@ -29,7 +29,3 @@ A2iA offers software toolkits that enable applications to extract data from comp
 
 A2iA's technologies can be integrated into various platforms through SDKs and APIs. Their solutions are designed to process documents with complex layouts and mixed content types, including printed and handwritten text.
 
-## Resources
-
-- [Website](https://www.mitek.com)
-- [Documentation](https://www.mitek.com/resources/)

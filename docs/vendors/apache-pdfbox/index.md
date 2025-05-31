@@ -77,10 +77,6 @@ Organizations leverage PDFBox to convert PDF documents into other formats, merge
 ## Resources
 
 - [Apache PDFBox Website](https://pdfbox.apache.org/)
-- [GitHub Repository](https://github.com/apache/pdfbox)
-- [User Documentation](https://pdfbox.apache.org/2.0/documentation.html)
-- [API Documentation](https://pdfbox.apache.org/2.0/javadocs.html)
-- [Mailing Lists](https://pdfbox.apache.org/3.0/support.html#mailing-lists)
 
 ## Contact Information
 

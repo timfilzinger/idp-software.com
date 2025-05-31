@@ -118,7 +118,7 @@ Using layout patterns to classify document types.
 ## Resources
 
 - [PRImA Layout Analysis Dataset](https://www.primaresearch.org/datasets/)
-- [DocLayNet: Document Layout Analysis Dataset](https://github.com/ibm-aur-nlp/DocLayNet)
+- [DocLayNet: Document Layout Analysis Dataset](https://huggingface.co/datasets/ds4sd/DocLayNet)
 - [PubLayNet: Dataset for Document Layout Analysis](https://github.com/ibm-aur-nlp/PubLayNet)
 - [UW-III Document Image Database](http://tc11.cvc.uab.es/datasets/UWIII_1)
 ![Document Segmentation Illustration](assets/segmentation-illustration.png)

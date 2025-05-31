@@ -134,5 +134,4 @@ Processing mathematical formulas in research papers.
 
 - [Chart Question Answering Datasets](https://github.com/vis-nlp/ChartQA)
 - [ICDAR Competitions on Diagram Recognition](https://icdar2021.org/competitions/)
-- [Mathematical Expression Recognition Resources](https://www.cs.rit.edu/~dprl/Software.html)
-- [Logo Detection Benchmarks](https://paperswithcode.com/task/logo-detection)
+- [Logo Detection Benchmarks](https://paperswithcode.com/dataset/logodet-3k)

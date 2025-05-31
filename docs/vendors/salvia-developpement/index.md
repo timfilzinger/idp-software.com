@@ -85,7 +85,6 @@ Property developers implement Salvia's project management solutions to streamlin
 
 - [Company Website](https://www.salviadeveloppement.fr/en/)
 - [Solution Information](https://www.salviadeveloppement.fr/en/our-partners/)
-- [Industry News](https://www.salviadeveloppement.fr/en/blog-2/)
 
 ## Contact Information
 

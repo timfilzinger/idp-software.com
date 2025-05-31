@@ -51,9 +51,7 @@ Moonoia follows an iterative and structured implementation plan:
 6. Deploy the solution at scale along with ongoing system monitoring and updates.  
 
 ## Resources  
-- [Vendor Website](https://www.moonoia.com/)  
-- [Case Studies](https://www.moonoia.com/resources)  
-- [Technical Documentation](https://www.moonoia.com/docs)  
+- [Vendor Website](https://www.moonoia.com/)
 
 ## Contact Information  
 - Website: [moonoia.com](https://www.moonoia.com/)  
