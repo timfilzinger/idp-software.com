@@ -38,4 +38,3 @@ Groupe T2i provides software solutions that can be deployed in the cloud or on-p
 ## Resources
 
 - [Website](https://www.groupe-t2i.com)
-- [Documentation](https://www.groupe-t2i.com/resources)
