@@ -1,6 +1,6 @@
 # Intelligent Document Processing
 
-Welcome to the **collaborative** guide on Intelligent Document Processing. This homepage centralizes technologies, vendors, capabilities, and advanced research in the field.
+Welcome to the **collaborative** homepage on Intelligent Document Processing. This homepage centralizes technologies, vendors, capabilities, and advanced research in the field.
 
 ## What exactly does Intelligent Document Processing mean?
 
