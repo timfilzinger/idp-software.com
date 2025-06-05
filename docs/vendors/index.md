@@ -141,6 +141,17 @@ I am looking for [contributors](../contribution/index.md) to review the vendors,
 116. Workist (<https://www.workist.com/en>): Solves companies' document processing holistically, Berlin, Germany
 117. Xen.AI:[https://xen.ai/](https://xen.ai/). Intelligent Document Processing automates and simplifies the task of extracting documents. Wilmington, United States.
 118. xSuite (<https://www.xsuite.com/en/>): Among the leading software manufacturers of intelligent applications. Ahrensburg, Germany
+119. https://www.semantha.de/
+120. Daitaku (https://www.dataiku.com/)
+121. Convr (https://convr.com/)
+122. Intellect AI (https://www.intellectai.com/)
+123. Paradatec (https://www.paradatec.de/)
+125. Convr (https://convr.com/)
+126. Intellect AI (https://www.intellectai.com/)
+130. Cytora (https://www.cytora.com/)
+131. iCertis (https://www.icertis.com/)
+134. Moresophy (https://www.moresophy.com/en)
+135. Mea Platform (https://www.meaplatform.com/)
 
 
 ## FAQ for your next Request for Information
