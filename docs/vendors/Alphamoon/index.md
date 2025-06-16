@@ -1,6 +1,6 @@
 # AlphaMoon
 
-Alphamoon serves as an AI assistant by extracting, dividing, classifying, and transferring data and optimizing workflows on one convenient platform. 
+Alphamoon is an AI assistant that extracts, divides, classifies, and transfers data and optimizes workflows on one convenient platform. 
 
 ![]()
 
@@ -8,7 +8,9 @@ Alphamoon serves as an AI assistant by extracting, dividing, classifying, and tr
 
 IDP software vendor Alphamoon has made it easy for users to pull data from invoices, records, receipts, emails, contracts, and more, thanks to its AI-powered [IDP tool](https://alphamoon.ai/feature/ai-ocr/). With just a few clicks, users can save time, labor, and money by processing documents through Alphamoon's cloud IDP services, pulling data from emails and other sources, and digitizing documents for easier storage, greater accessibility, and more convenient sharing. Data can be sorted and stored until needed. 
 
-Alphamoon's powerful engines recognize about 200 Latin alphabet-based languages and can be used or adapted to many document types. Three pricing tiers are available based on the volume of documents processed.
+The Poland-based Alphamoon was recently acquired by [Box](https://blog.box.com/expanding-content-cloud-box-acquires-alphamoon-technology-revolutionize-document-intelligence), which also recently acquired content management application provider Crooze. This allows for greater versatility and customizability when extracting metadata and automating document-related tasks.
+
+The [Box Intelligent Content Cloud](https://www.box.com/home) features limitless cloud storage, secure collaboration, intelligent content management, and more and is trusted by some of the world’s most recognizable organizations.
 
 ## Key Features
 
@@ -17,6 +19,7 @@ Alphamoon's powerful engines recognize about 200 Latin alphabet-based languages 
 - **Data Export and Integration**: Data can be exported in CSV, XLSX, and other formats and integrated with other tools and systems, including API and Zapier.
 - **Customization**: Ready-made templates for invoices or receipts offer simple plug-and-play options or users can create their own workflows. 
 - **Security**: Sensitive information can be anonymized for compliance and privacy.
+- **AI-Powered Metadata Models**: Leveraging Gemini, GPT-4, and other top-tier AI models allows Alphamoon customers to transform unstructured content into actionable data with a few simple clicks.
 
 ## Use Cases
 
@@ -54,5 +57,5 @@ Setting up Alphamoon is fast and easy. Users create an account and then choose t
 ## Contact Information
 
 - Website: [Alphamoon.ai](https://alphamoon.ai/)
-- Headquarters Address: 7 Bell Yard, London, England
-- Email: marketing@alphamoon.ai
+- Headquarters Address: Ul. Grabarska 1, Wroclaw, Poland 50-079
+- Email: support@alphamoon.ai
