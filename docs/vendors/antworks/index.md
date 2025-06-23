@@ -2,7 +2,7 @@
 
 AntWorks is a global intelligent document processing company that utilizes AI to classify vital data from a wide variety of documents.
 
-![AntWorks Logo](./assets/antworks.png)
+![AntWorks Logo](./assets/antworks.png) 
 
 ## Overview
 
