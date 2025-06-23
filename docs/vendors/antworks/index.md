@@ -4,7 +4,6 @@ AntWorks is a global intelligent document processing company that utilizes AI to
 
 ![AntWorks Logo](./assets/antworks.png)
 
-
 ## Overview
 
 AntWorks' cognitive machine reading (CMR+) provides intelligent document processing. This process works by utilizing six main points: input, pre-processing, document classification, [data extraction](https://idp-software.com/capabilities/extraction/), data enrichment and confidence engine. The only step in this process that involves humans is input, although it does sometimes bring a human into the loop to provide supervised learning and enhancement for Gen-AI and machine learning.
