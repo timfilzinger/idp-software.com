@@ -1,7 +1,6 @@
 arrange:
-  - index.md
   - vendors
   - capabilities
-  - research
   - events
   - contribution
+  - about
