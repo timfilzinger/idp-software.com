@@ -2,7 +2,7 @@
 
 Alphamoon is an AI assistant that extracts, divides, classifies, and transfers data and optimizes workflows on one convenient platform. 
 
-![]()
+![AlphaMoon Logo](./assets/alphamoon-logo.png)
 
 ## Overview
 

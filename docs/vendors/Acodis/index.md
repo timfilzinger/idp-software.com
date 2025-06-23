@@ -2,7 +2,7 @@
 
 Acodis automates the extraction, validation, and restructuring of complex workflows into AI-ready data with machine learning technology.
 
-![]()
+![Acodis Logo](./assets/acodis-logo.png)
 
 ## Overview
 

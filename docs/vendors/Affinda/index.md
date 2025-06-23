@@ -2,7 +2,7 @@
 
 Affinda's powerful AI platform offers a range of IDP solutions, including multilingual OCR, invoice extraction, and resume parsing for a diverse range of file types.
 
-![]()
+![Affinda Logo](./assets/affinda-logo.png)
 
 ## Overview
 

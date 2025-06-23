@@ -2,13 +2,13 @@
 
 AIDA delivers revolutionary AI technology that recognizes and extracts data from never-before-seen files, starting to learn from the first document.
 
+![AIDA Logo](./assets/aida-logo.png)
+
 ## Overview
 
 AIDA is an IDP solution that aims to streamline how organizations in every industry manage unstructured data. Powered by a hybrid AI engine, AIDA learns to extract and validate information from virtually any type of document and can train off of a single example with a point-and-click approach.
 
 Widely adopted in the healthcare, finance, and legal sectors, AIDA has earned a reputation for rapid deployment and substantial gains in operational efficiency. With adaptive technology that continuously learns while it works, this tool ensures high accuracy over time and empowers enterprises of all sizes to meet their compliance needs.
-
-![]()
 
 ## Key Features
 

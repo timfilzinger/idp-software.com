@@ -2,7 +2,7 @@
 
 AmyGB is an AI-powered document automation and processing company that is known for providing businesses with 24/7 optimization via Generative AI.
 
-![]()
+![AmyGB Logo](./assets/amygb-logo.png)
 
 ## Overview
 

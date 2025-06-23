@@ -2,7 +2,7 @@
 
 AlgoDocs harnesses the power of artificial intelligence to scan documents and extract data accurately and securely. 
 
-![]()
+![AlgoDocs Logo](./assets/algodocs-logo.png)
 
 ## Overview
 

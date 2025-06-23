@@ -2,7 +2,7 @@
 
 AI platform Altilia aggregates, organizes and unifies data into a cohesive database to provide unparalleled insights and maximum adaptability and scalability. 
 
-![Altilia](./assets/altilia.png)
+![Altilia Logo](./assets/altilia.png)
 
 
 ## Overview

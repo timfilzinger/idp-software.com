@@ -2,7 +2,7 @@
 
 AiMunshi uses AI, deep learning, and natural language processing to extract data from documents, achieving up to 99% accuracy across industries. (Test edit for training purposes)
 
-![]()
+![AiMunshi Logo](./assets/aimunshi-logo.png)
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 ancora Software is an intelligent process automation company that relies on advanced data capture and intelligent document classification to improve efficiency.
 
-![]()
+![ancora Software](./assets/ancora-software-logo.png)
 
 ## Overview
 
