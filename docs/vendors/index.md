@@ -1,4 +1,4 @@
-# IDP Software Vendors
+# List of IDP Vendors
 
 This section contains information about various vendors that provide IDP (Intelligent Document Processing) software solutions.
 

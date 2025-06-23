@@ -6,7 +6,7 @@ AmyGB is an AI-powered document automation and processing company that is known 
 
 ## Overview
 
-AmyGB has evolved from providing an end-to-end e-mail automation system to offering a fully comprehensive [intelligent document processing (IDP) platform] (https://www.amygb.ai/intelligent-document-processing). Gen AI-powered VisionERA analyzes and learns about each document, thereby saving workers a lot of time. Plus, VisionERA utilizes IDP that is free of any third-party dependency. VisionERA works in three steps: decode, decipher and decide. During the decode stage, it [extracts data](https://idp-software.com/capabilities/extraction/) from a wide variety of resources, including hard copy or scanned documents. Next comes decipher, which enables companies to verify data according to their specific needs. Finally, the decide stage enables integration and allows vital information to be shared with others.
+AmyGB has evolved from providing an end-to-end e-mail automation system to offering a fully comprehensive [intelligent document processing (IDP) platform](https://www.amygb.ai/intelligent-document-processing). Gen AI-powered VisionERA analyzes and learns about each document, thereby saving workers a lot of time. Plus, VisionERA utilizes IDP that is free of any third-party dependency. VisionERA works in three steps: decode, decipher and decide. During the decode stage, it [extracts data](https://idp-software.com/capabilities/extraction/) from a wide variety of resources, including hard copy or scanned documents. Next comes decipher, which enables companies to verify data according to their specific needs. Finally, the decide stage enables integration and allows vital information to be shared with others.
 
 AmyGB works with a variety of industries, including healthcare, manufacturing, logistics, BFSI and retail. It also offers several industry solutions, ranging from vehicle RC verification to bank account verification. It has grown from a company of three in 2017 to employing more than 20 workers.
 
@@ -22,11 +22,11 @@ AmyGB works with a variety of industries, including healthcare, manufacturing, l
 
 ### Automated response system
 
-AmyGB's automated response system enables users to improve customer service and boosts efficiency and productivity. In one example, [RGI improved their productivity by 300%] (https://www.amygb.ai/success-stories/how-reliance-general-insurance-increased-their-productivity-by-300-percent). This led to a 98% reduction in email turnaround times. Additionally, RGI cut costs, and customers experienced better quality service.
+AmyGB's automated response system enables users to improve customer service and boosts efficiency and productivity. In one example, [RGI improved their productivity by 300%](https://www.amygb.ai/success-stories/how-reliance-general-insurance-increased-their-productivity-by-300-percent). This led to a 98% reduction in email turnaround times. Additionally, RGI cut costs, and customers experienced better quality service.
 
 ### Automated process for reconciling transactions
 
-Providing automated processes for reconciling transactions improves accuracy and reduces turnaround time. For instance, a cash management company utilized this process to [automate 70% of their workload] (https://www.amygb.ai/success-stories/helping-a-cash-management-company-cash-in-more-business-via-automated-reconciliation-using-idp). The company is now able to process 1.6 million documents per year.
+Providing automated processes for reconciling transactions improves accuracy and reduces turnaround time. For instance, a cash management company utilized this process to [automate 70% of their workload](https://www.amygb.ai/success-stories/helping-a-cash-management-company-cash-in-more-business-via-automated-reconciliation-using-idp). The company is now able to process 1.6 million documents per year.
 
 ## Technical Specifications
 
@@ -45,10 +45,10 @@ AmyGB offers a free trial, along with a demo. From there, integration involves i
 
 ## Resources
 
-- [Vendor Website] (https://www.amygb.ai/)
+- [Vendor Website](https://www.amygb.ai/)
 
 ## Contact Information
 
--Website: [amygb.ai] (https://www.amygb.ai)
--Contact Form: [amygb.ai/contact] (https://www.amygb.ai/contact)
+-Website: [amygb.ai](https://www.amygb.ai)
+-Contact Form: [amygb.ai/contact](https://www.amygb.ai/contact)
 -Phone Number: +91 2225302400
