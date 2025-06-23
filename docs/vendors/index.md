@@ -152,6 +152,7 @@ I am looking for [contributors](../contribution/index.md) to review the vendors,
 131. iCertis (https://www.icertis.com/)
 134. Moresophy (https://www.moresophy.com/en)
 135. Mea Platform (https://www.meaplatform.com/)
+136. https://www.extend.ai/
 
 
 ## FAQ for your next Request for Information
