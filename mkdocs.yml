@@ -9,8 +9,7 @@ repo_url: https://github.com/atraining/idp-software.com
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> |
-  Homepage by <a href="https://www.linkedin.com/in/christopher-helm-public/" target="_blank">Christopher Helm</a>
+copyright: Homepage by <a href="https://www.linkedin.com/in/christopher-helm-public/" target="_blank">Christopher Helm</a>
 
 # Configuration
 theme:
