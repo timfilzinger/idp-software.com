@@ -12,6 +12,8 @@ Founded with a focus on solving the challenges of document-centric business proc
 
 Reducto.ai serves organizations across various industries, including financial services, healthcare, legal, and supply chain, where document processing is both high-volume and mission-critical. Their solutions help these enterprises streamline operations, reduce manual data entry, accelerate processing times, and make better-informed decisions based on comprehensive document analysis.
 
+On the 17th of July 2025 the comapany communicates that "Reducto was built to accurately read your documents. Now let us fill them out for you too." and introduces: [Reducto Edit](https://reducto.ai/edit)
+
 ## Key Features
 
 - **Intelligent Document Processing**: Advanced data extraction from complex documents
