@@ -62,3 +62,4 @@ Manufacturing and regulated organizations utilize M-Files as their electronic qu
 ## Resources
 
 - [Company Website](https://www.m-files.com/)
+- [Vendor Profile 2024 created by Deep Analysis](https://web.archive.org/web/20250728182357/https://www.m-files.com/wp-content/uploads/2024/12/Deep-Analysis-Vendor-Vignette.pdf)
