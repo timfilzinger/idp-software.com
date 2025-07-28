@@ -93,6 +93,7 @@ Hyperscience serves a variety of industries with its document processing and aut
 - [Hypercell Platform](https://www.hyperscience.com/newsroom/hyperscience-unveils-latest-version-of-the-hyperscience-hypercell/)
 - [Industry Solutions](https://www.hyperscience.ai/solutions/)
 - [Customer Success Stories](https://www.hyperscience.com/knowledge-base/hyperscience-customer-success-stories/)
+- [Vendor Profile of Hyperscience created by Deep Analysis 2025](https://web.archive.org/web/20250728182642/https://www.hyperscience.ai/wp-content/uploads/2025/03/DA-V-2303-Hyperscience.pdf)
 
 ## Contact Information
 
