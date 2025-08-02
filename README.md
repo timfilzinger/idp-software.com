@@ -224,9 +224,6 @@ Visit the [Contribution Guide](https://idp-software.com/contribution/)
 - [xerox](https://idp-software.com/vendors/xerox/)
 - [xtracta](https://idp-software.com/vendors/xtracta/)
 - [zeendoc](https://idp-software.com/vendors/zeendoc/)
-
-## Known but not yet included
-
 - [Acodis](https://www.acodis.io): Helps unlock AI-ready Data from Documents for RAG and Fine-tuning. Stadthausstrasse 14, 8400 Winterthur, Switzerland.
 - [Affinda](https://www.affinda.com): Provides artificial intelligence technologies for the automation. Melbourne, Australia.
 - [AIDA](https://www.aidacloud.com): Artificial Intelligence for Document Automation. Torino, Italy.
