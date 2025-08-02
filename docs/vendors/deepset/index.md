@@ -1,6 +1,6 @@
 # Haystac
 
-Haystac is built with state-of-the-art AI/Machine Learning(ML)/Deep Learning. The company specializes in advanced AI, machine learning, and deep learning technologies for document processing.
+Haystac is built with state-of-the-art AI/Machine Learning(ML)/Deep Learning. The company deepset specializes in advanced AI, machine learning, and deep learning technologies for document processing.
 
 ## Overview
 
