@@ -1,7 +1,7 @@
 # Veryfi
 AI-powered document processing platform specializing in receipt and expense data extraction with mobile capture capabilities.
 
-![Veryfi Logo](./assets/veryfi.png)
+![Veryfi Logo](./assets/verify.png)
 
 ## Overview
 
