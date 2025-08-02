@@ -1,4 +1,4 @@
-# List of IDP Vendors
+# List of 264 IDP Vendors
 
 This section contains information about various vendors that provide IDP (Intelligent Document Processing) software solutions.
 

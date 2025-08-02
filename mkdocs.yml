@@ -19,8 +19,8 @@ theme:
   font: false
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.expand
+    # - navigation.sections # otherwise the left sidebar will not toggle
+    - navigation.collapse
     - navigation.indexes
     - navigation.top
     - search.suggest
