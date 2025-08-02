@@ -1,7 +1,7 @@
 
 # DataBank
 
-DataBank provides document management, business process automation, and content services solutions that help organizations digitize and optimize their document-centric operations.
+DataBank, a [Kyocera Group Company](../kyocera/index.md), provides document management, business process automation, and content services solutions that help organizations digitize and optimize their document-centric operations.
 
 ![DataBank](./assets/databank.png)
 
