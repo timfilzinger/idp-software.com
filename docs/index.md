@@ -1,4 +1,4 @@
-# Intelligent Document Processing
+# IDP-Software
 
 Welcome to the **collaborative** homepage on Intelligent Document Processing. This homepage centralizes technologies, vendors, capabilities, and advanced research in the field.
 
