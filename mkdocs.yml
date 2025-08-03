@@ -101,3 +101,7 @@ plugins:
 # Custom CSS
 extra_css:
   - assets/css/extra.css
+
+# Custom CSS
+extra_javascript:
+  - assets/js/extra.js
