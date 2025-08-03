@@ -1,1 +1,12 @@
 /* custom css not yet needed*/
+
+/* Style external links differently */
+a[href^="http"]:not([href*="idp-software.com"]):not([href*="localhost"]) {
+    /* Add visual indicator for external links */
+    color: #0066cc;
+}
+
+a[href^="http"]:not([href*="idp-software.com"]):not([href*="localhost"]):after {
+    content: " ↗";
+    font-size: 0.8em;
+}
