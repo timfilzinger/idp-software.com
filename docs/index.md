@@ -14,7 +14,7 @@ src="https://widget.konfuzio.com?kbId=685993ade099dd8fea1bde75&embed=true&hide-c
     
         A technology called automatic document processing or sometimes intelligent document processing (IDP) emerged as a specific form of Intelligent Process Automation (IPA), combining artificial intelligence such as Machine Learning (ML), Natural Language Processing (NLP) or Intelligent Character Recognition (ICE) to extract data from several types documents. [Source](https://en.wikipedia.org/wiki/Document_processing#:~:text=A%20technology%20called,%5B8%5D)
     
-    === "Gartner"
+    === "Gartner" 
     
         Gartner defines intelligent document processing (IDP) solutions as specialized data integration tools enabling automated extraction of data from multiple formats and varying layouts of document content. IDP solutions ingest data for dependent applications and workflows, and can be provided as a software product and/or as a service. [Source](https://www.gartner.com/reviews/market/intelligent-document-processing-solutions)
     
