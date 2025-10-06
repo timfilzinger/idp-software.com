@@ -1,32 +1,36 @@
 # AOTM
 
-AOTM is a cognitive intelligent document processing solution built for automation and efficiency. The company specializes in AI-powered document processing that helps organizations automate complex document workflows and improve operational efficiency.
+AOTM is an intelligent document processing platform developed by Ninestars that uses AI and machine learning for [data extraction](../../capabilities/extraction/index.md) from business documents.
 
 ## Overview
 
-AOTM provides advanced document processing capabilities that combine cognitive computing with intelligent automation. Their platform is designed to handle complex document types and extract meaningful information while maintaining high accuracy and processing speed.
+Built by Ninestars, a company with over two decades of experience in digitization and content transformation, AOTM combines image processing, [OCR](../../capabilities/ocr/index.md), AI, and NLP technologies for document processing. The platform is designed to handle diverse document layouts and patterns across multiple industries including government, manufacturing, BFSI, insurance, and textiles.
 
 ## Key Features
 
-- Cognitive document processing
-- Intelligent automation capabilities
-- Advanced AI-powered extraction
-- Multi-format document support
-- Automated workflow processing
-- High accuracy data extraction
-- Scalable processing solutions
+- **AOTM IDP**: Intelligent document processing platform
+- **AOTM ICP**: Content processing solution
+- **AOTM OCR**: Optical character recognition engine
+- **AOTM Studio**: Development and configuration environment
+- **Multi-format support**: Processes documents regardless of layout or pattern
+- **Industry adaptation**: Core domain model adaptable to various sectors
 
 ## Use Cases
 
-- Document automation workflows
-- Data extraction from complex documents
-- Process optimization
-- Business process automation
-- Intelligent document classification
-- Automated data entry
+### Invoice and Purchase Order Processing
+
+AOTM processes invoices and purchase orders at scale, extracting data from documents with varying formats. The platform handles high-volume document processing for financial and procurement workflows across industries.
+
+### Legal Document Processing
+
+The platform extracts information from legal documents, processing contracts and legal paperwork for organizations requiring document analysis and data extraction from complex legal formats.
+
+## Resources
+
+- [Website](https://aotm.ai)
 
 ## Company Information
 
-Bengalaru, India
+Bengaluru, India
 
-Web: [https://aotm.ai](https://aotm.ai/) 
+Developer: Ninestars
