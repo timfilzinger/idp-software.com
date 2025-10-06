@@ -53,5 +53,3 @@ Headquarters: Limas, France
 Secondary Agency: Chatillon sur Chalaronne, France
 
 Contact: 04 74 66 86 91, contact@archiv-it.fr
-
-Web: [https://www.archiv-it.fr/](https://www.archiv-it.fr/)

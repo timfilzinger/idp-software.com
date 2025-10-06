@@ -49,6 +49,3 @@ Organizations use DocumentReader to process document batches containing both pri
 Part of Mitek Systems (acquired May 2018)
 
 Originally founded in France
-
-Web: [https://www.a2ia.com/en](https://www.a2ia.com/en)
-

@@ -48,5 +48,3 @@ Companies implement ADOC's digital mailroom solution to automate incoming corres
 ## Company Information
 
 Europe
-
-Web: [https://www.adoc-solutions.eu](https://www.adoc-solutions.eu)

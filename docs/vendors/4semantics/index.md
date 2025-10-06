@@ -43,5 +43,3 @@ E-commerce businesses implement SensID to automate product description generatio
 ## Company Information
 
 Warsaw, Poland
-
-Web: [https://4semantics.pl/en](https://4semantics.pl/en/) 

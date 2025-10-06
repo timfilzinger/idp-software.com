@@ -50,5 +50,3 @@ Companies implement Arco Mail Manager to handle high-volume email processing. Th
 ## Company Information
 
 Belgium
-
-Web: [https://www.arco.be](https://www.arco.be)
