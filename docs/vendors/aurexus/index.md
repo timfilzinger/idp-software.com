@@ -42,9 +42,3 @@ Museums use Aurexus's 3D scanning and modeling services to create virtual galler
 ## Resources
 
 - [Website](https://www.aurexus.com)
-
-## Company Information
-
-France
-
-Founded: Over 10 years ago
