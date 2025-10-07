@@ -2,6 +2,8 @@
 
 AOTM is an intelligent document processing platform developed by Ninestars that uses AI and machine learning for [data extraction](../../capabilities/extraction/index.md) from business documents.
 
+![AOTM](./assets/aotm.png)
+
 ## Overview
 
 Built by Ninestars, a company with over two decades of experience in digitization and content transformation, AOTM combines image processing, [OCR](../../capabilities/ocr/index.md), AI, and NLP technologies for document processing. The platform is designed to handle diverse document layouts and patterns across multiple industries including government, manufacturing, BFSI, insurance, and textiles.

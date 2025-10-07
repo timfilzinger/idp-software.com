@@ -1,37 +1,59 @@
 # Captova Technologies
 
-Captova Technologies' mission is to deliver the best-in-class Intelligent Document Processing. The company focuses on providing superior document processing solutions with advanced AI capabilities.
+Captova Technologies provides high-speed [intelligent document processing](../../capabilities/document-understanding/index.md) for secure and business environments with processing speeds exceeding 100 pages per second.
+
+![Captova Technologies](./assets/captova-technologies.png)
 
 ## Overview
 
-Captova Technologies is dedicated to delivering best-in-class intelligent document processing solutions. Their platform combines advanced AI technology with robust processing capabilities to provide superior document handling and data extraction services.
+Founded in Vancouver, British Columbia, Canada, by CEO Mohamed Talib, Captova Technologies delivers IDP solutions for secret, classified, and business documents with focus on privacy, accuracy, speed, and security (PASS criteria). The company offers the Captova IDP Engine processing 6,000 pages per minute (360,000 pages/hour) and Scanov, a QuickBooks Online data capture integration. Captova's unique pricing model eliminates per-page fees, charging based on server size with maintenance fees.
 
 ## Key Features
 
-- Best-in-class IDP solutions
-- Advanced AI-powered processing
-- Intelligent document handling
-- High-accuracy data extraction
-- Multi-format document support
-- Scalable processing platform
-- Enterprise-grade solutions
+- **Ultra-fast processing**: 100+ pages per second, approximately 10 milliseconds per page
+- **Rapid AI training**: Single high-quality document sample trains AI models for immediate processing
+- **Captova IDP Engine**: Core processing engine with real-time error detection at ~95% accuracy
+- **Captova ETL**: Data transformation and integration component
+- **Captova GPT**: AI-powered document understanding layer
+- **Scanov**: QuickBooks Online integration for receipts, invoices, bills, and purchase orders
+- **Multi-format output**: Generates structured data in JSON, CSV, and XML
+- **No-code solution**: Out-of-the-box deployment without coding requirements
+- **Offline operation**: Functions without network connectivity for secure environments
 
 ## Use Cases
 
-- High-volume document processing
-- Complex document automation
-- Data extraction and validation
-- Document workflow automation
-- Enterprise document management
-- Compliance document processing
-- Automated data entry
+### Government Secure Document Processing
+
+Government agencies deploy Captova in SCIFs (Sensitive Compartmented Information Facilities) and SAPFs (Special Access Program Facilities) to process classified documents offline. The system operates on on-premise bare-metal servers without internet connectivity, processes intelligence documents and reports at 6,000 pages per minute, and trains AI models on-site using single document samples for immediate deployment.
+
+### Accounting Automation with QuickBooks
+
+Accounting firms and businesses use Scanov to automate expense management and accounts payable. The system captures data from supplier invoices, receipts, bills, and purchase orders, [extracts](../../capabilities/extraction/index.md) line items and payment details, exports both data and source document images directly to QuickBooks Online, and processes documents in milliseconds for real-time bookkeeping.
+
+### High-Volume Enterprise Document Processing
+
+Enterprises with large document volumes implement Captova IDP Engine for invoice processing, contract analysis, and regulatory documentation. The platform handles structured and semi-structured documents, generates JSON/CSV/XML output for ERP integration, detects errors in real-time with 95% accuracy, and scales to process 360,000 pages per hour on single server deployments.
 
 ## Technical Specifications
 
-Captova Technologies' platform is designed to deliver superior performance in document processing, utilizing advanced AI algorithms and robust processing capabilities to handle complex document types and high-volume processing requirements.
+| Feature | Specification |
+|---------|---------------|
+| Processing Speed | 100+ pages/second, ~10ms per page |
+| Throughput | 6,000 pages/minute, 360,000 pages/hour |
+| AI Training | Single document sample for model training |
+| Document Types | Structured, semi-structured |
+| Output Formats | JSON, CSV, XML |
+| Error Detection | Real-time with ~95% accuracy |
+| Deployment | On-premise, bare-metal cloud, offline-capable |
+| Integration | E-invoicing protocols, QuickBooks Online (Scanov) |
+| Pricing Model | Server-based with maintenance fees (no per-page fees) |
+
+## Resources
+
+- [Website](https://www.captova.com)
 
 ## Company Information
 
-Vancouver, Canada
+Vancouver, British Columbia, Canada
 
-Web: [https://www.captova.com](https://www.captova.com/) 
+Founder & CEO: Mohamed Talib
