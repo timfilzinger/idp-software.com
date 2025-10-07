@@ -2,7 +2,7 @@
 
 AYR is an intelligent document processing provider that develops the SingularityAI platform and patent-pending Intelligent Document Simulator for automated [document data extraction](../../capabilities/extraction/).
 
-![AYR](./assets/ayr-ai.png)
+![AYR](./assets/ayr.png)
 
 ## Overview
 
