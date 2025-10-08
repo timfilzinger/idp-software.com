@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Edit(*)",
+      "Write(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "WebSearch",
+      "WebFetch(domain:*)",
+      "Bash(ls:*)",
+      "Bash(pwd:*)",
+      "Bash(cd:*)",
+      "Bash(find:*)",
+      "Bash(locate:*)",
+      "Bash(which:*)",
+      "Bash(whereis:*)",
+      "Bash(file:*)",
+      "Bash(stat:*)",
+      "Bash(readlink:*)",
+      "Bash(realpath:*)",
+      "Bash(basename:*)",
+      "Bash(dirname:*)",
+      "Bash(tree:*)",
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)",
+      "Bash(ln:*)",
+      "Bash(ping:*)",
+      "Bash(curl:*)",
+      "Bash(source:*)",
+      "WebFetch(domain:celaton.com)",
+      "WebFetch(domain:cinnamon.ai)",
+      "WebFetch(domain:www.cleardox.com)",
+      "WebFetch(domain:www.cogent.co.jp)"
+    ],
+    "deny": [],
+    "ask": [
+      "Bash(rm:*)"
+    ]
+  }
+}

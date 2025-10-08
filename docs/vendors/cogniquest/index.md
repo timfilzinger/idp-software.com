@@ -1,35 +1,55 @@
 # Cogniquest
 
-Cogniquest offers intelligent document processing solutions with advanced AI capabilities. The company specializes in AI-powered document processing and automation technologies.
+Cogniquest is a context-aware document intelligence platform combining traditional AI and generative AI for intelligent document processing with human-like document understanding.
+
+![Cogniquest](assets/cogniquest.png)
 
 ## Overview
 
-Cogniquest provides intelligent document processing solutions that leverage advanced artificial intelligence to automate complex document workflows. Their platform is designed to handle various document types and extract meaningful information while maintaining high accuracy and processing efficiency.
+Founded in 2022 and headquartered in Bengaluru, India, Cogniquest develops AI-powered document intelligence solutions. The company was founded by Satish Grampurohit (CEO), Girish N Kerodi (CBO), Subramanya Thejaswi (CPO), Nathaniel N (Head of Engineering), and Harsha A C (CTO). Cogniquest raised $1.2M in seed funding from Cedar IBSI Capital with participation from over 25 angel investors. The platform serves banking, financial services, insurance, pharma, healthcare, supply chain, and ESG sectors.
 
 ## Key Features
 
-- Intelligent document processing
-- Advanced AI capabilities
-- Automated document workflows
-- Multi-format document support
-- High-accuracy data extraction
-- Scalable processing platform
-- Enterprise-grade solutions
+- **Context-Aware AI**: Models that extract text and understand its meaning within business processes, combining traditional AI with Gen AI/LLM
+- **Lean Learning**: Achieves high accuracy with minimal training samples
+- **Intelligent Chunking**: Breaks down large unstructured documents into meaningful structured components
+- **Advanced Layout Analysis**: Understands document structure and preserves information hierarchy for context analysis
+- **Domain-Specific Adaptability**: Applies industry-specific entities (drug names) and named entities (person names) for enhanced accuracy
+- **Human-Like Understanding**: Processes complex documents with contextual comprehension
 
 ## Use Cases
 
-- Document workflow automation
-- Intelligent data extraction
-- Automated document processing
-- Business process automation
-- Document classification and routing
-- Compliance document processing
-- Enterprise document management
+### Banking and Financial Services Document Processing
+Financial institutions deploy Cogniquest to automate document workflows and extract insights from complex financial documents. The [context-aware](../../capabilities/document-understanding/index.md) AI understands document meaning within business processes, reducing manual data collection time.
+
+### Healthcare and Pharma Documentation
+Healthcare organizations use Cogniquest to process medical records and pharmaceutical documents. The platform applies domain-specific entities like drug names and medical terminology, performing [intelligent extraction](../../capabilities/extraction/index.md) with industry-specific accuracy.
+
+### Supply Chain and ESG Reporting
+Companies leverage Cogniquest for supply chain documentation and ESG disclosure processing. The intelligent chunking capability breaks down large unstructured reports into structured components, while advanced layout analysis preserves information hierarchy for contextual understanding.
 
 ## Technical Specifications
 
-Cogniquest's platform combines advanced AI technology with robust document processing capabilities, designed to handle complex document types and high-volume processing requirements while maintaining accuracy and efficiency.
+| Feature | Specification |
+|---------|---------------|
+| AI Architecture | Context-aware (traditional AI + Gen AI/LLM) |
+| Learning Approach | Lean learning with minimal training samples |
+| Document Processing | Intelligent chunking, advanced layout analysis |
+| Entity Recognition | Domain-specific entities, named entity recognition |
+| Industries | Banking, financial services, insurance, pharma, healthcare, supply chain, ESG |
+| Context Understanding | Human-like document comprehension |
+| Adaptability | Industry-specific customization |
+
+## Resources
+
+- [Website](https://cogniquest.ai/)
 
 ## Company Information
 
-Web: [https://www.cogniquest.com](https://www.cogniquest.com/) 
+Headquarters: Bengaluru, India
+
+Founded: 2022
+
+Founders: Satish Grampurohit (CEO), Girish N Kerodi (CBO), Subramanya Thejaswi (CPO), Nathaniel N (Head of Engineering), Harsha A C (CTO)
+
+Funding: $1.2M seed (Cedar IBSI Capital, 25+ angel investors)
