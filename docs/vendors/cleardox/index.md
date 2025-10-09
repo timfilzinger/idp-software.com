@@ -2,8 +2,6 @@
 
 ClearDox is an AI-powered commodities intelligence platform providing intelligent document processing and automation solutions for commodity trading operations.
 
-![ClearDox](assets/cleardox.png)
-
 ## Overview
 
 Founded in 2018 and headquartered in Stamford, Connecticut, ClearDox specializes in intelligent automation for commodity-intensive businesses. The company employs approximately 28 people and serves energy, agriculture, metals, renewables, oil, and gas sectors. ClearDox was named FIA Innovator of the Year in 2023. Notable clients include SOCAR, DRW, Occidental Petroleum, StoneX, Vitol, and ADNOC.

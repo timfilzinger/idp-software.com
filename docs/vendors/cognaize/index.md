@@ -2,8 +2,6 @@
 
 Cognaize is an intelligent document processing company offering hybrid intelligence solutions combining AI with expert-in-the-loop workflows for financial services document automation.
 
-![Cognaize](assets/cognaize.png)
-
 ## Overview
 
 Founded in 2020 by Vahe Andonians and headquartered in New York, Cognaize specializes in intelligent document processing for financial institutions. The company raised $18M in Series A funding led by Argonautic Ventures with participation from Metaplanet. Cognaize's platform is trained on over 1.3 million financial documents and serves major global banks, rating agencies, and insurance providers.

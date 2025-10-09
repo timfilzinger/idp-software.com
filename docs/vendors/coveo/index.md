@@ -2,8 +2,6 @@
 
 Coveo is an AI-powered enterprise search platform provider offering unified content indexing, intelligent search, and generative experiences across commerce, service, websites, and workplaces.
 
-![Coveo](assets/coveo.png)
-
 ## Overview
 
 Founded in 2005 as a spin-off of Copernic Technologies by Laurent Simoneau, Richard Tessier, and Marc Sanfaçon, Coveo develops SaaS-based enterprise search solutions. The publicly-traded company operates from Montreal and Quebec City, serving organizations with AI-driven search, recommendations, and content discovery across multiple enterprise platforms including Salesforce, ServiceNow, and SAP.

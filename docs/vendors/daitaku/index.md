@@ -2,8 +2,6 @@
 
 Dataiku is a universal AI platform offering document intelligence capabilities through its data science and machine learning platform with intelligent document processing plugins for text extraction and analysis.
 
-![Dataiku](assets/daitaku.png)
-
 ## Overview
 
 Founded in 2013 in Paris, Dataiku provides an enterprise AI and data science platform that includes intelligent document processing capabilities. Valued at $4.6 billion after its Series E in 2021, the company serves over 1,000 global clients with a platform for building, deploying, and managing data, analytics, and AI projects. Dataiku's document processing features support extracting and analyzing content from PDFs, images, and various file formats through integrated computer vision, NLP, and vision-language models.
