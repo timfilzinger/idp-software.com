@@ -2,8 +2,6 @@
 
 Ascron is a Polish [intelligent document processing](../../capabilities/document-understanding/index.md) provider specializing in legal services and debt collection management automation.
 
-![Ascron](./assets/ascron.png)
-
 ## Overview
 
 Based in Warsaw, Poland, Ascron develops IDP solutions using NLP and machine learning algorithms with particular expertise in debt collection management. The company's software focuses on automating internal document management processes and optimizing mass debt collection workflows for the legal industry. Ascron's solutions have completed initial machine learning phases, achieving document categorization accuracy of up to 99%.
