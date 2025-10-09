@@ -1,37 +1,67 @@
 # Datamatics
 
-Datamatics enables enterprises to go Deep in Digital to boost productivity. The company specializes in digital transformation and intelligent document processing solutions.
+Datamatics is a digital technology company providing intelligent document processing solutions through its TruCap+ platform.
 
 ## Overview
 
-Datamatics provides comprehensive digital transformation solutions that help enterprises leverage intelligent document processing to boost productivity and operational efficiency. Their platform combines advanced technology with deep domain expertise to deliver measurable business outcomes.
+Datamatics Global Services Limited offers digital operations, experiences, and technologies across multiple industries. The company's TruCap+ IDP solution provides template-free document processing using AI and machine learning. Datamatics serves banking, financial services, insurance, manufacturing, logistics, retail, and publishing sectors globally. The company was recognized as a Major Contender in Everest Group's IDP PEAK Matrix Assessment 2024 for the sixth consecutive year.
 
 ## Key Features
 
-- Digital transformation solutions
-- Intelligent document processing
-- Productivity enhancement
-- Enterprise-grade solutions
-- Deep digital capabilities
-- Operational efficiency improvement
-- Scalable processing platform
+- **TruCap+**: Template-free IDP platform with 94-99% field-level accuracy
+- **TruCap+ GenAI**: Generative AI-enhanced version with multilingual support and natural language querying
+- **Multi-OCR Support**: Selects optimal output from multiple OCR engines
+- **[Extraction](../../capabilities/extraction/index.md) Capabilities**: Processes invoices, licenses, bank statements, and unstructured documents
+- **Self-Learning AI**: Continuous learning through exception handling
+- **Microservices Architecture**: Horizontally scalable cloud-native design
+- **Low-Code/No-Code**: Browser-based interface with intuitive configuration
 
 ## Use Cases
 
-- Enterprise digital transformation
-- Document processing automation
-- Productivity optimization
-- Business process improvement
-- Digital workflow automation
-- Enterprise efficiency enhancement
-- Document management optimization
+### Invoice Processing
+Organizations deploy TruCap+ to automate accounts payable workflows. The platform extracts data from invoices with 94-99% accuracy, reducing processing time by up to 70% and enabling straight-through processing with minimal human intervention.
+
+### Banking Document Processing
+Financial institutions use TruCap+ for processing licenses, bank statements, and compliance documents. The multi-OCR capability ensures high accuracy across various document types and quality levels.
+
+### Cross-Industry Automation
+Enterprises integrate TruCap+ with RPA platforms like TruBot to automate end-to-end document workflows across departments, handling both structured and semi-structured documents at scale.
 
 ## Technical Specifications
 
-Datamatics' platform is designed to enable enterprises to achieve deep digital transformation, providing comprehensive solutions that combine intelligent document processing with productivity enhancement capabilities for large organizations.
+| Feature | Specification |
+|---------|---------------|
+| Core Products | TruCap+, TruCap+ GenAI |
+| Accuracy | 94-99% field-level extraction |
+| Document Types | Invoices, licenses, bank statements, unstructured documents |
+| Technology | AI/ML, Multi-OCR, Generative AI (GenAI version) |
+| Deployment | SaaS, on-premises, cloud |
+| Architecture | Microservices-based, horizontally scalable |
+| Integration | APIs, RPA platforms, ERP systems |
+| Processing | Template-free, supports multiple languages |
+| Time Reduction | Up to 70% faster processing |
+| Setup Time Reduction | 30-70% (standard), 2-4 days (GenAI version) |
+
+## Getting Started
+
+1. **Request Demo**: Contact Datamatics for a TruCap+ demonstration
+2. **Free Trial**: Access available trial to test capabilities
+3. **Configuration**: Set up document types using low-code/no-code interface
+4. **Integration**: Connect to existing systems via APIs
+5. **Deployment**: Choose between SaaS, cloud, or on-premises deployment
+
+## Resources
+
+- [Website](https://www.datamatics.com)
+- [TruCap+ Product Page](https://www.datamatics.com/intelligent-automation/idp-trucap)
+- [TruCap+ Pricing](https://www.datamatics.com/intelligent-automation/idp-trucap/trucap-pricing)
 
 ## Company Information
 
-Edison, United States
+Headquarters: Mumbai, India (with operations in Edison, New Jersey)
 
-Web: [https://www.datamatics.com](https://www.datamatics.com/) 
+Founded: 1975
+
+Founder: Lalit Surajmal Kanodia
+
+Employees: Approximately 5,800-7,700 
