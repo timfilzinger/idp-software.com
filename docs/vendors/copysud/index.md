@@ -1,42 +1,56 @@
-
 # Copysud
 
-Copysud is a provider of document management solutions, print services, and digital transformation technologies.
+Copysud is a French document management and office technology provider offering Doc In Time, a document management platform with automatic classification, archiving, and secure sharing capabilities.
 
 ![Copysud](./assets/copysud.png)
 
-
 ## Overview
 
-Copysud offers a range of document and information management solutions, from printing and scanning services to advanced document processing and management platforms. They help organizations digitize, process, and manage their documents efficiently while transitioning to more digital workflows.
+Founded in 1978 and based in Toulouse, France, Copysud specializes in office technologies, professional printing services, and document management solutions. With over 100 employees across 8 locations, the company provides digital transformation services including document digitization, workflow automation, and data protection through its In Time platform suite of six integrated solutions.
 
 ## Key Features
 
-- Document digitization and scanning
-- Document management solutions
-- Print management services
-- Workflow automation
-- Digital archiving
-- Document processing
-- Managed print services
-- Cloud document solutions
+- **Doc In Time**: Document management software with automatic [classification](../../capabilities/classification/index.md), 24/7 access, and secure sharing on a single platform
+- **Automatic Classification**: Organizes documents automatically for rapid processing and retrieval
+- **Central Archiving**: Stores all documents in a single location with easy access and distribution
+- **Protect In Time**: Data protection solution with encrypted backups, virus prevention monitoring, and complete restoration capabilities
+- **In Time Platform Suite**: Six integrated solutions (Work In Time, View In Time, Doc In Time, Com In Time, Protect In Time, Secure In Time)
+- **Print Management**: Managed print services and office equipment optimization
 
 ## Use Cases
 
-- Enterprise document management
-- Print fleet optimization
-- Document workflow automation
-- Digital archiving compliance
-- Office productivity enhancement
-- Business process digitization
-- Secure document handling
-- Cost reduction in document processing
+### Enterprise Document Management
+Organizations deploy Doc In Time to centralize document storage and enable automated [classification](../../capabilities/classification/index.md). The platform provides 24/7 access to archived documents across multiple locations with secure sharing capabilities for distributed teams.
+
+### Business Continuity and Data Protection
+Companies use Protect In Time for encrypted data backup and document recovery. The solution monitors for viruses, performs automated backups, and ensures business continuity with complete document restoration in case of data loss.
+
+### Digital Transformation
+Businesses leverage Copysud's digitization services to transition from paper-based workflows to digital processes. The platform combines scanning equipment, document management software, and cloud storage for comprehensive workflow automation.
 
 ## Technical Specifications
 
-Copysud provides both hardware and software solutions for document management and processing. Their offerings include scanning equipment, document management software, and cloud platforms for document storage and workflow automation. Solutions can be tailored to specific industry requirements and integrated with existing enterprise systems.
+| Feature | Specification |
+|---------|---------------|
+| Core Platform | In Time Suite (6 solutions) |
+| Key Products | Doc In Time (GED), Protect In Time (data protection) |
+| Document Processing | Automatic classification, archiving, secure sharing |
+| Access | 24/7 availability |
+| Data Protection | Encrypted backups, virus monitoring, restoration |
+| Deployment | Cloud and on-premises options |
+| Integration | Enterprise system compatibility |
+| Services | Print management, digitization, workflow automation |
 
 ## Resources
 
-- [Website](https://www.copysud.fr)
-- [Documentation](https://www.copysud.fr/resources)
+- [Website](https://copysud.fr)
+- [Solutions](https://copysud.fr/solutions/)
+- [About](https://copysud.fr/a-propos/)
+
+## Company Information
+
+Headquarters: Toulouse, France
+
+Founded: 1978
+
+Locations: 8 physical locations across France
