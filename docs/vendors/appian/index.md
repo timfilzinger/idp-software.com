@@ -1,53 +1,60 @@
 # Appian
 
-Appian is a low-code automation platform provider that offers document processing capabilities as part of its comprehensive business process automation solutions.
+Appian is a low-code automation platform provider offering [intelligent document processing](../../capabilities/document-understanding/index.md) integrated with process automation and workflow management.
 
 ![Appian](./assets/appian.png)
 
-
 ## Overview
 
-Appian provides a unified platform that combines process automation, AI-powered document processing, and low-code application development. Their document understanding service enables organizations to extract, classify, and process data from documents as part of broader workflow and automation initiatives.
+Founded in 1999 by Matt Calkins, Michael Beckley, Robert Kramer, and Marc Wilson, Appian is headquartered in McLean, Virginia with offices in London and Sydney. The company employs approximately 1,400 people and provides a unified platform combining low-code development, process automation, AI, and document processing. Named a Leader in the 2025 Gartner Magic Quadrant for Enterprise Low-Code Application Platforms, Appian serves financial services, insurance, public sector, life sciences, telecommunications, and manufacturing industries.
 
 ## Key Features
 
-- Low-code development platform
-- Integrated document understanding services
-- AI-powered data extraction
-- Workflow and process automation
-- Case management capabilities
-- Decision rules management
-- Robotic Process Automation (RPA) integration
-- Mobile-ready applications
+- **No-code IDP**: Configure document extraction and [classification](../../capabilities/classification/index.md) models without coding
+- **AI Document Center**: Workspace for document processing with AI skills integration
+- **Multi-page table extraction**: PDF splitting with AI-driven extraction and post-processing
+- **Generative AI integration**: Uses large language models for document analysis
+- **Process automation**: RPA integration for end-to-end workflow automation
+- **Data Fabric**: Unified data layer connecting multiple enterprise systems
+- **Process mining**: Analytics and intelligence for workflow optimization
+- **Private AI architecture**: Built-in compliance, auditability, and security controls
 
 ## Use Cases
 
-- End-to-end process automation
-- Customer onboarding and KYC processes
-- Loan origination and processing
-- Claims processing in insurance
-- Government forms processing
-- Regulatory compliance processes
-- Customer service automation
-- Cross-departmental workflow management
+### Healthcare Patient Intake Automation
+
+Acclaim Autism implemented Appian's IDP to process patient intake documents, achieving 95% accuracy while reducing processing time from 6 months to under 30 days. The system handles forms, applications, and handwritten notes, automatically extracting data and routing it to appropriate workflows.
+
+### Financial Services Document Processing
+
+Financial institutions use Appian to process loan applications, account opening forms, and compliance documentation. The platform extracts data from structured and unstructured documents, validates information against business rules, and integrates with core banking systems for straight-through processing.
+
+### Insurance Claims Processing
+
+Insurance companies deploy Appian's IDP for claims documentation, processing invoices, medical records, and policy forms. The system classifies document types, extracts key data fields, and routes claims to AI agents or human adjusters based on complexity and validation results.
 
 ## Technical Specifications
 
-Appian's document processing capabilities are built into their broader low-code automation platform. The technology leverages AI for intelligent document processing and can be seamlessly integrated with process automation, case management, and other enterprise systems. The platform can be deployed in the cloud, on-premises, or in hybrid environments.
+| Feature | Specification |
+|---------|---------------|
+| Platform Type | Low-code automation with embedded IDP |
+| Document Types | Structured, semi-structured, unstructured |
+| Supported Formats | Invoices, forms, contracts, emails, handwritten notes, scanned images |
+| AI Technology | OCR, ML, NLP, deep learning, computer vision, LLMs |
+| Deployment | Cloud, on-premises, hybrid |
+| Integration | APIs, RPA, enterprise system connectors, Data Fabric |
 
 ## Resources
 
 - [Website](https://www.appian.com)
 - [Documentation](https://www.appian.com/resources/resource-library/)
 
-## Address
+## Company Information
 
-7950 Jones Branch Dr
+McLean, Virginia, United States
 
-22102 McLean, United States
-
-Web: [https://appian.com](https://appian.com/)
+Founded: 1999
 
 Email: sales@appian.com
 
-Tel: 1 703 442 8844
+Tel: +1 703 442 8844
