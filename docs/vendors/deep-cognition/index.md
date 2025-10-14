@@ -9,20 +9,19 @@ Deep Cognition develops PaperEntry AI, a generative AI-powered intelligent docum
 ## Key Features
 
 - **PaperEntry AI**: Generative AI platform requiring no training or template configuration
-- **99% Accuracy**: Delivers 99% data [extraction](../../capabilities/extraction/index.md) accuracy across document types
 - **Multi-Document Support**: Processes commercial invoices, packing lists, bills of lading, bank statements, and compliance forms
 - **OCR and Computer Vision**: Combines OCR, Natural Language Processing, Computer Vision, and Deep Learning
 - **Out-of-Box Processing**: Works with any document format without pre-configuration
-- **90%+ Time Savings**: Reduces data entry time by up to 90%
+- **[Extraction](../../capabilities/extraction/index.md) Automation**: Automates complex data entry for customs and logistics documentation
 - **Scalable Integration**: Integrates with existing enterprise systems
 
 ## Use Cases
 
 ### Customs Brokerage
-Customs brokers deploy PaperEntry AI to automate processing of commercial invoices, packing lists, and compliance documents. Savino Del Bene-South Africa processes commercial invoices 11X faster, handling 20,000 pages monthly after implementation.
+Customs brokers deploy PaperEntry AI to automate processing of commercial invoices, packing lists, and compliance documents. The platform handles high-volume document processing for customs workflows, with implementations processing 20,000 pages monthly.
 
 ### Logistics and Freight Management
-Logistics companies use PaperEntry AI for bills of lading, delivery documentation, and freight records. The platform partnered with Soft Freight Logic to transform business operations through AI-powered data entry.
+Logistics companies use PaperEntry AI for bills of lading, delivery documentation, and freight records. The platform automates data entry across complex shipping documents without requiring template configuration.
 
 ### Cross-Border Trade Documentation
 International trade organizations leverage PaperEntry AI for processing government forms, certificates of origin, and customs declarations. The solution handles complex multi-jurisdictional document requirements without manual template setup.
@@ -32,15 +31,13 @@ International trade organizations leverage PaperEntry AI for processing governme
 | Feature | Specification |
 |---------|---------------|
 | Core Product | PaperEntry AI |
-| Accuracy | 99% data extraction |
+| Claimed Accuracy | 99% data extraction |
 | Technology | Generative AI, OCR, NLP, Computer Vision, Deep Learning |
 | Document Types | Commercial invoices, packing lists, bills of lading, bank statements, compliance forms |
-| Time Savings | 90%+ reduction in data entry time |
 | Processing Volume | 1M+ pages processed |
 | Countries Served | 10 countries |
 | Integration | Compatible with existing enterprise systems |
 | Configuration | No training or templates required |
-| Performance | 11X faster processing (case study: Savino Del Bene) |
 
 ## Resources
 

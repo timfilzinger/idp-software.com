@@ -19,10 +19,10 @@ Datamatics Global Services Limited offers digital operations, experiences, and t
 ## Use Cases
 
 ### Invoice Processing
-Organizations deploy TruCap+ to automate accounts payable workflows. The platform extracts data from invoices with 94-99% accuracy, reducing processing time by up to 70% and enabling straight-through processing with minimal human intervention.
+Organizations deploy TruCap+ to automate accounts payable workflows. The platform extracts data from invoices and enables straight-through processing with minimal human intervention across multiple document formats and layouts.
 
 ### Banking Document Processing
-Financial institutions use TruCap+ for processing licenses, bank statements, and compliance documents. The multi-OCR capability ensures high accuracy across various document types and quality levels.
+Financial institutions use TruCap+ for processing licenses, bank statements, and compliance documents. The multi-OCR capability ensures consistent performance across various document types and quality levels.
 
 ### Cross-Industry Automation
 Enterprises integrate TruCap+ with RPA platforms like TruBot to automate end-to-end document workflows across departments, handling both structured and semi-structured documents at scale.
@@ -32,15 +32,13 @@ Enterprises integrate TruCap+ with RPA platforms like TruBot to automate end-to-
 | Feature | Specification |
 |---------|---------------|
 | Core Products | TruCap+, TruCap+ GenAI |
-| Accuracy | 94-99% field-level extraction |
+| Claimed Accuracy | 94-99% field-level extraction |
 | Document Types | Invoices, licenses, bank statements, unstructured documents |
 | Technology | AI/ML, Multi-OCR, Generative AI (GenAI version) |
 | Deployment | SaaS, on-premises, cloud |
 | Architecture | Microservices-based, horizontally scalable |
 | Integration | APIs, RPA platforms, ERP systems |
 | Processing | Template-free, supports multiple languages |
-| Time Reduction | Up to 70% faster processing |
-| Setup Time Reduction | 30-70% (standard), 2-4 days (GenAI version) |
 
 ## Getting Started
 

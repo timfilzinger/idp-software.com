@@ -9,8 +9,8 @@ DeepOpinion, recently rebranded as Otera, develops an agentic automation platfor
 ## Key Features
 
 - **DeepOpinion Studio**: No-code SaaS platform for building AI automation apps
-- **98%+ Accuracy**: Pre-trained models handle 99% of global document variations with over 98% accuracy out-of-box
-- **Data Efficiency**: 20x more data-efficient than competitors, requiring only 50-100 training examples
+- **Pre-Trained Models**: Handles global document variations with out-of-box capabilities
+- **Data Efficiency**: Requires only 50-100 training examples for customization
 - **Domain-Tuned AI**: Combines generative and discriminative AI models for enterprise applications
 - **Four Platform Hubs**: AI Hub, Automation Hub, Control Hub, and Coworker Hub
 - **High Straight-Through Processing**: Enables touchless document processing at scale
@@ -19,10 +19,10 @@ DeepOpinion, recently rebranded as Otera, develops an agentic automation platfor
 ## Use Cases
 
 ### Insurance Claims Processing
-Insurance companies deploy DeepOpinion for automated claims handling. CED reduced manual work by 80% in claims processing, while Uelzener achieved 65% zero-touch processing for claims.
+Insurance companies deploy DeepOpinion for automated claims handling. Implementations process claims documents with high straight-through processing rates, handling policy documents, medical records, and supporting evidence across multiple claim types.
 
 ### Manufacturing Document Processing
-Manufacturing firms use DeepOpinion for delivery notes and production documentation. Siemens achieved 90% touchless processing of delivery notes within 2 weeks of implementation.
+Manufacturing firms use DeepOpinion for delivery notes and production documentation. Enterprise deployments automate document processing workflows for logistics, quality control, and supply chain documentation.
 
 ### Financial Services Automation
 Financial institutions leverage DeepOpinion for customer service, document verification, and workflow management. Erste Group and Allianz use the platform to automate complex document-based processes across departments.
@@ -32,15 +32,14 @@ Financial institutions leverage DeepOpinion for customer service, document verif
 | Feature | Specification |
 |---------|---------------|
 | Platform | DeepOpinion Studio (no-code SaaS) |
-| Accuracy | 98%+ out-of-box, 99% document variation coverage |
+| Claimed Accuracy | 98%+ out-of-box |
 | Technology | Generative AI, discriminative AI, NLP |
-| Data Efficiency | 20x more efficient (50-100 training examples) |
+| Data Efficiency | 50-100 training examples for customization |
 | Industries | Financial Services, Insurance, Manufacturing |
 | Deployment | Cloud-based SaaS |
 | Compliance | SOC 2, GDPR, ISO 27001 |
 | Integration | APIs for enterprise systems |
 | Platform Components | AI Hub, Automation Hub, Control Hub, Coworker Hub |
-| Performance | Up to 90% touchless processing (Siemens case study) |
 | Recognition | 2025 IDC Innovator, 2024 DIA DIAmond Award |
 
 ## Resources

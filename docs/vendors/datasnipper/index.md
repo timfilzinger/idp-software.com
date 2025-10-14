@@ -23,7 +23,7 @@ DataSnipper operates as an Excel-based intelligent automation platform serving a
 ## Use Cases
 
 ### External Audit
-Audit teams use DataSnipper for financial statement procedures, Tests of Details, walk-throughs, and tie-outs. The platform enables 50% time savings in control testing and approximately 3,000 hours saved over 10 months for financial statement procedures.
+Audit teams use DataSnipper for financial statement procedures, Tests of Details, walk-throughs, and tie-outs. The platform automates document snipping, cross-referencing, and evidence matching across large document sets.
 
 ### Internal Audit and SOX Compliance
 Internal audit teams deploy DataSnipper for internal controls testing, SOX compliance work, and operational audit procedures. The automated document reconciliation and traceability features streamline review processes.
@@ -42,7 +42,6 @@ Tax professionals use the platform for document verification, data extraction fr
 | Integration | Microsoft Excel (Desktop and Online), web browsers |
 | Document Support | PDFs, images, scanned documents, web pages |
 | Key Suites | Advanced Extraction Suite, Cloud Collaboration Suite |
-| Performance | Up to 94% efficiency gain in document matching, 50% time savings in control testing |
 | Collaboration | Multi-user support, cloud-based workflows |
 
 ## Getting Started
