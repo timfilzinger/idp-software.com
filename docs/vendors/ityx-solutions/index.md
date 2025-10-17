@@ -1,37 +1,52 @@
 # ITyX Solutions AG
 
-ITyX Solutions AG is a provider of intelligent process automation. The company specializes in intelligent process automation solutions for enterprise organizations.
+ITyX Solutions AG is a German provider of intelligent document processing solutions offering [OCR](../../capabilities/ocr/index.md), ICR, and AI-based document capture for automating text-based business processes.
 
 ## Overview
 
-ITyX Solutions AG provides intelligent process automation solutions designed for enterprise environments. Their platform focuses on delivering intelligent automation capabilities that can handle complex business processes and workflows for large organizations.
+Founded in 1996, ITyX Solutions AG specializes in intelligent digitization of written communication in companies. The company serves over 200 organizations across 24 countries, providing document processing solutions in 18 languages. Their AI Platform enables automated extraction and processing of unstructured text from documents, emails, and forms through machine learning-based recognition technologies.
 
 ## Key Features
 
-- Intelligent process automation
-- Enterprise automation solutions
-- Process automation platform
-- Intelligent workflow automation
-- Enterprise-grade solutions
-- Process automation capabilities
-- Intelligent business automation
+- **Machine Learning OCR**: Document recognition and data extraction from structured and unstructured documents
+- **Intelligent Character Recognition (ICR)**: Automated extraction of handwritten content from documents and forms
+- **Intelligent Document Capture**: AI-based capture of incoming mail and communications
+- **Cognitive Capture Software**: Converts unstructured text fragments into structured, contextual information
+- **Training Efficiency**: Requires tagging only 250 samples per document category for full deployment
+- **Multi-format Support**: Processes content regardless of text structure, format, or source
 
 ## Use Cases
 
-- Intelligent process automation
-- Enterprise workflow automation
-- Business process automation
-- Intelligent automation solutions
-- Enterprise process optimization
-- Workflow automation
-- Business automation
+### Incoming Mail Processing
+
+Organizations deploy ITyX's intelligent document capture to automate processing of incoming correspondence. The system recognizes document types, extracts relevant data, and routes items automatically. Over 200 companies use this solution to reduce manual mail handling workload.
+
+### Form Data Extraction
+
+ITyX's ICR and OCR capabilities process both printed and handwritten forms. Organizations in regulated industries use the platform to digitize paper forms while maintaining data accuracy. The system can process up to 99% of cases automatically using pure extracted data.
 
 ## Technical Specifications
 
-ITyX Solutions AG's platform provides intelligent process automation capabilities designed for enterprise environments, offering sophisticated automation solutions for complex business processes and workflows.
+| Feature | Specification |
+|---------|---------------|
+| Core Products | AI Platform, Cognitive Capture Software |
+| Recognition Technology | Machine Learning OCR, ICR |
+| Language Support | 18 languages |
+| Deployment Options | Cloud, hybrid, on-premises |
+| Integration | AI-based OCR SDK, API |
+| Training Requirements | 250 tagged samples per document category |
+| Claimed Automation Rate | Up to 99% automatic processing |
+| Geographic Presence | 24 countries |
+
+## Resources
+
+- [Website](https://www.ityxsolutions.com)
+- [Documentation](https://www.ityxsolutions.com/ai-platform)
 
 ## Company Information
 
-Cologne, Germany
+**Headquarters**: Cologne, Germany
 
-Web: [https://www.ityxsolutions.com](https://www.ityxsolutions.com/) 
+**Founded**: 1996
+
+**Customers**: 200+ organizations in 24 countries

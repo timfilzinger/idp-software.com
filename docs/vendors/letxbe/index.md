@@ -1,37 +1,51 @@
 # Letxbe
 
-Letxbe is a no-code platform from France specializing in intelligent document processing. The company specializes in no-code intelligent document processing solutions.
+Letxbe is a French no-code intelligent document processing and case management platform with AI Act and GDPR compliance, featuring sovereign LLM hosting in France.
 
 ## Overview
 
-Letxbe provides a no-code platform from France that specializes in intelligent document processing. Their solution enables organizations to implement intelligent document processing without requiring technical coding skills, making advanced document processing accessible to business users.
+Operated by LETXBE SAS and based in Paris, Letxbe provides a no-code platform for document processing and workflow automation with regulatory compliance built-in. The platform emphasizes data sovereignty through 100% French hosting and HDS (Hébergeur de Données de Santé) certification for healthcare data. Letxbe's AI capabilities include document recognition, automatic [classification](../../capabilities/classification/index.md), data [extraction](../../capabilities/extraction/index.md), and intent detection from emails and forms. The system integrates with document management systems, CRMs, and ERPs to automate data flow across enterprise applications.
 
 ## Key Features
 
-- No-code platform
-- Intelligent document processing
-- French technology expertise
-- No-code AI capabilities
-- Document processing automation
-- User-friendly interface
-- Accessible AI technology
+- **No-Code Workflow Builder**: Define steps, validation conditions, escalations, notifications, and SLAs without programming
+- **Automatic Document Recognition**: AI reads, sorts, and extracts data from documents, emails, and forms
+- **Email Intent Detection**: Analyzes email content and attachments to route messages to appropriate workflows
+- **Auto-Classification**: Recognizes document types and applies naming conventions automatically
+- **Sovereign LLM**: French-hosted language model designed to minimize hallucinations
+- **Compliance Framework**: AI Act and GDPR compliance with HDS certification
+- **System Integration**: Synchronizes with GED (document management), CRM, and ERP platforms
 
 ## Use Cases
 
-- No-code document processing
-- Intelligent document automation
-- User-friendly AI applications
-- No-code AI workflows
-- Document processing automation
-- Accessible AI solutions
-- No-code intelligent automation
+### Healthcare Document Processing
+
+Healthcare organizations in France use Letxbe's HDS-certified platform to process patient records, medical reports, and administrative documents. The AI extracts clinical data while maintaining compliance with healthcare data regulations. Automatic classification organizes documents according to medical nomenclature standards.
+
+### Enterprise Workflow Automation
+
+Companies deploy Letxbe to automate document-driven processes including invoice processing, contract management, and customer correspondence. The platform's email intent detection routes incoming messages to relevant departments, while extraction capabilities feed data directly into ERP systems.
 
 ## Technical Specifications
 
-Letxbe's platform is a no-code solution from France specializing in intelligent document processing, providing accessible AI capabilities that enable organizations to implement advanced document processing without technical coding requirements.
+| Feature | Specification |
+|---------|---------------|
+| Platform Approach | No-code |
+| Hosting | 100% France, sovereign infrastructure |
+| Compliance | AI Act, GDPR, HDS certification |
+| AI Technology | Proprietary LLM with anti-hallucination measures |
+| Core Capabilities | Document recognition, classification, extraction, email analysis |
+| Integration Targets | GED, CRM, ERP systems |
+| Automation Features | Workflows, validation conditions, escalations, SLAs |
+
+## Resources
+
+- [Website](https://www.letxbe.ai)
 
 ## Company Information
 
-Paris, France
+**Legal Entity**: LETXBE SAS
 
-Web: [https://www.letxbe.ai](https://www.letxbe.ai/) 
+**Capital**: €157,382
+
+**Headquarters**: Paris, France (229 rue Saint Honoré, 75001)
