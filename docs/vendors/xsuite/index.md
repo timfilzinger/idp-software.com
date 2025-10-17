@@ -37,13 +37,7 @@ European organizations use xSuite to comply with mandatory e-invoicing regulatio
 | AI Capabilities | Automated invoice capture and classification |
 | E-Invoicing | German and EU legislation compliant (2025) |
 | Deployment | Cloud, hybrid |
-| Global Processing | 80+ million documents/year |
-| Users | 300,000+ |
-| Geographic Reach | 60+ countries |
-| Employees | ~300 across 9 locations |
-| Funding | 3i Group backing |
-| Acquisition | tangro (January 2025) |
-| Notable Customers | BERNER Group, Dole, Lionsgate, Crocs |
+
 
 ## Resources
 
