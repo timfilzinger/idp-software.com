@@ -41,7 +41,6 @@ Companies automate accounts payable by processing invoices through OpenBots' pre
 | Pre-Built Models | Mortgage, insurance, immigration, ID, license, passport, invoice |
 | Learning | Auto-learning through validation feedback |
 | Compliance | HIPAA, SOC2 |
-| Trial | 30-day free trial |
 | Integration | Full automation workflow integration |
 | Target Industries | Healthcare RCM, mortgage, insurance, enterprise |
 

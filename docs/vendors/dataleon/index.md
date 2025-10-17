@@ -23,7 +23,7 @@ Operating across three continents, Dataleon's infrastructure processes over 11,0
 ## Use Cases
 
 ### Banking and Fintech Onboarding
-Financial institutions deploy Dataleon's KYC API to automate customer identity verification. The system validates documents in real-time, performs AML compliance checks, and reduces onboarding time by 90% while cutting costs by 50%.
+Financial institutions deploy Dataleon's KYC API to automate customer identity verification. The system validates documents in real-time, performs AML compliance checks, and reduces onboarding time while cutting costs.
 
 ### Insurance Claims Processing
 Insurance companies use the OCR APIs to extract data from claim forms, medical documents, and supporting evidence. The platform achieves 95% accuracy in document processing and integrates with existing CRM systems via API.

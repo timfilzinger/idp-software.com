@@ -36,9 +36,7 @@ Organizations use Process Fusion to bridge paper-based and digital processes by 
 | Document Sources | Paper, email, digital files |
 | Processing | Extraction, classification, validation |
 | Deployment | Cloud and mobile applications |
-| Target Industries | Healthcare, mid-to-large enterprises |
-| Customer Base | 10,000+ worldwide |
-| Global Presence | Toronto (HQ), Newport UK, Chennai India |
+
 
 ## Resources
 

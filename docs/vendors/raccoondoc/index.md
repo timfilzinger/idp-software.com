@@ -18,7 +18,7 @@ RaccoonDoc emerged from Innora, a Kyiv-based UiPath Gold Partner and RPA system 
 
 ## Use Cases
 
-### Enterprise Document Processing with Accuracy Guarantee
+### Enterprise Document Processing
 Organizations use RaccoonDoc for high-stakes document processing where accuracy is critical. Customers upload invoices, contracts, or forms to the cloud platform where ML models extract data, then HITL teams validate every field before returning results with 100% accuracy guarantee for downstream systems.
 
 ### Complex Document Analysis
@@ -35,8 +35,7 @@ Enterprises working with Innora for RPA implementations extend workflows with Ra
 | Deployment | 100% cloud |
 | Core Technologies | Machine learning, computer vision, neural networks |
 | Document Processing | Structured and unstructured data extraction |
-| Accuracy | Up to 98% (with 100% guarantee via HITL) |
-| Speed | 25x faster than manual processing |
+| Claimed Accuracy | Up to 98% (with 100% guarantee via HITL) |
 | Validation | In-house human-in-the-loop team |
 | Model Customization | Customer-specific ML model fine-tuning |
 | Parent Company | Innora (UiPath Gold Partner) |

@@ -64,4 +64,4 @@ Origin: Spin-off from German Research Center for Artificial Intelligence (DFKI)
 
 Customers: 5,000+ across multiple industries
 
-Market Position: Established leader in intelligent business process automation
+

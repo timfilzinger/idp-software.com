@@ -42,9 +42,6 @@ Organizations implement Digital Fraud Defender and Check Fraud Defender to detec
 | Fraud Detection | GenAI-powered synthetic identity detection |
 | Deployment | SDKs, APIs, cloud services |
 | Integration | Mobile apps, web applications |
-| Target Industries | Banking, fintech, digital marketplaces, iGaming |
-| Global Reach | 7,000+ organizations worldwide |
-| Research Team | Largest private PhD research group in computer vision and ML for identity verification |
 
 ## Resources
 
