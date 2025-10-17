@@ -1,37 +1,58 @@
 # EdgeVerve
 
-EdgeVerve is powered by native AI and automation capabilities, with security and scalability. The company specializes in AI-powered automation solutions with enterprise-grade security and scalability.
+EdgeVerve is an Infosys subsidiary providing enterprise automation and AI solutions including the AssistEdge RPA platform and XtractEdge document processing system.
 
 ## Overview
 
-EdgeVerve provides AI-powered automation solutions built with native AI and automation capabilities. Their platform emphasizes security and scalability, offering enterprise-grade solutions that combine artificial intelligence with robust automation technology for large-scale deployments.
+EdgeVerve Systems Limited operates as a wholly owned subsidiary of Infosys, delivering AI-powered automation products to global enterprises. The company's portfolio spans robotic process automation through AssistEdge, intelligent document processing via XtractEdge, and supply chain management with TradeEdge. Serving financial services, insurance, retail, manufacturing, telecommunications, and life sciences sectors, EdgeVerve focuses on enterprise-scale deployments requiring security, compliance, and integration with existing IT infrastructure.
 
 ## Key Features
 
-- Native AI capabilities
-- Automation technology
-- Security-focused solutions
-- Scalable platform architecture
-- Enterprise-grade security
-- AI-powered automation
-- Scalable automation capabilities
+- **AssistEdge RPA Platform**: Enterprise automation covering process discovery, robotic process automation, and digital workforce orchestration with Albie cognitive engine
+- **XtractEdge Document Processing**: Generative AI-powered platform for extracting structured and unstructured data from contracts, invoices, forms, and complex documents
+- **Integrated IDP Capabilities**: Automated [extraction](../../capabilities/extraction/index.md) from scanned documents, handwritten notes, images, and prints using cognitive services
+- **Process Intelligence**: AssistEdge Discover for process mining, bottleneck identification, and automation opportunity analysis
+- **Micro AI**: Built-in machine learning model execution for embedding AI within automated workflows
+- **CoE Cockpit**: Centralized platform for managing automation lifecycle, governance, and ROI tracking
 
 ## Use Cases
 
-- Enterprise AI automation
-- Secure document processing
-- Scalable automation solutions
-- AI-powered business processes
-- Enterprise security automation
-- Large-scale automation
-- Secure document handling
+### Commercial Insurance Underwriting
+
+Insurance carriers deploy XtractEdge to process new business applications by extracting policy details, risk assessments, and applicant information from submission documents. The system handles varied document formats from brokers, validates data completeness, and feeds extracted information into underwriting systems for risk evaluation and pricing decisions.
+
+### Financial Document Processing
+
+Banks and financial institutions automate loan application processing by extracting data from income statements, tax returns, credit reports, and supporting documentation. AssistEdge RPA bots retrieve documents from email and portals, trigger XtractEdge for data extraction, validate information against credit policies, and route applications for human review when exceptions occur.
+
+### Invoice and AP Automation
+
+Enterprises process vendor invoices across multiple formats and languages by combining XtractEdge extraction with AssistEdge workflow automation. The system captures invoice data, matches against purchase orders and contracts, flags discrepancies, and posts approved invoices to ERP systems with minimal manual intervention.
 
 ## Technical Specifications
 
-EdgeVerve's platform is powered by native AI and automation capabilities, providing enterprise-grade security and scalability for large organizations requiring robust, secure, and scalable automation solutions.
+| Feature | Specification |
+|---------|---------------|
+| Core Products | AssistEdge (RPA), XtractEdge (IDP), TradeEdge (Supply Chain) |
+| Document Technology | Generative AI, ML, NLP, OCR, computer vision |
+| Recognition Capabilities | Structured, semi-structured, unstructured documents |
+| Document Types | Contracts, invoices, forms, applications, reports |
+| RPA Version | AssistEdge 20.0 (AI-first automation) |
+| Cognitive Engine | Albie for process design, management, execution |
+| Process Discovery | Black box process discovery, process intelligence |
+| Deployment | Cloud SaaS, on-premise, hybrid |
+| Integration | Microsoft Azure marketplace, enterprise systems |
+| Industries | Financial services, insurance, retail, manufacturing, telecom |
+
+## Resources
+
+- [Website](https://www.edgeverve.com)
+- [AssistEdge Platform](https://www.edgeverve.com/assistedge/)
 
 ## Company Information
 
-560100 Bengalaru, India
+Headquarters: Bengaluru, India
 
-Web: [https://www.edgeverve.com](https://www.edgeverve.com/) 
+Parent Company: Infosys Limited (wholly owned subsidiary)
+
+Geographic Reach: Global enterprise clients across multiple continents
