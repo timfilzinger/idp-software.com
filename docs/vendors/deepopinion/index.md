@@ -1,37 +1,62 @@
 # DeepOpinion
 
-DeepOpinion is a no-code platform enabling teams to build human-level AI bots for document automation. The company specializes in no-code AI solutions for document processing and automation.
+DeepOpinion (now Otera) is an Austrian AI automation company providing enterprise-grade generative AI for document processing and workflow automation.
 
 ## Overview
 
-DeepOpinion provides a no-code platform that enables teams to build human-level AI bots for document automation without requiring technical expertise. Their solution democratizes AI technology by allowing business users to create sophisticated document processing automation through an intuitive interface.
+DeepOpinion, recently rebranded as Otera, develops an agentic automation platform that transforms unstructured data from documents, emails, and tickets into automated business actions. Founded in 2018 in Innsbruck, Austria, by Stefan Engl, Ahmed Ghanim Al-Ali, Stefan Ramershoven, and Steve R, the company raised €11 million in Series A funding in 2024. Operating in 19 countries with over 70 employees, DeepOpinion serves major enterprises including Siemens, Allianz, Hannover Re, Erste Group, Bitpanda, Bayer, and Saab. The platform is certified SOC 2, GDPR compliant, and ISO 27001.
 
 ## Key Features
 
-- No-code AI platform
-- Human-level AI bots
-- Document automation capabilities
-- User-friendly interface
-- AI bot building tools
-- Document processing automation
-- Accessible AI technology
+- **DeepOpinion Studio**: No-code SaaS platform for building AI automation apps
+- **Pre-Trained Models**: Handles global document variations with out-of-box capabilities
+- **Data Efficiency**: Requires only 50-100 training examples for customization
+- **Domain-Tuned AI**: Combines generative and discriminative AI models for enterprise applications
+- **Four Platform Hubs**: AI Hub, Automation Hub, Control Hub, and Coworker Hub
+- **High Straight-Through Processing**: Enables touchless document processing at scale
+- **Enterprise Integration**: Connects to enterprise systems and applications via APIs
 
 ## Use Cases
 
-- No-code document automation
-- AI bot development
-- Document processing automation
-- Business user AI adoption
-- Automated document workflows
-- AI-powered document handling
-- User-friendly automation
+### Insurance Claims Processing
+Insurance companies deploy DeepOpinion for automated claims handling. Implementations process claims documents with high straight-through processing rates, handling policy documents, medical records, and supporting evidence across multiple claim types.
+
+### Manufacturing Document Processing
+Manufacturing firms use DeepOpinion for delivery notes and production documentation. Enterprise deployments automate document processing workflows for logistics, quality control, and supply chain documentation.
+
+### Financial Services Automation
+Financial institutions leverage DeepOpinion for customer service, document verification, and workflow management. Erste Group and Allianz use the platform to automate complex document-based processes across departments.
 
 ## Technical Specifications
 
-DeepOpinion's no-code platform enables teams to build sophisticated AI bots for document automation, providing an accessible way for business users to leverage artificial intelligence for document processing without requiring technical programming skills.
+| Feature | Specification |
+|---------|---------------|
+| Platform | DeepOpinion Studio (no-code SaaS) |
+| Claimed Accuracy | 98%+ out-of-box |
+| Technology | Generative AI, discriminative AI, NLP |
+| Data Efficiency | 50-100 training examples for customization |
+| Industries | Financial Services, Insurance, Manufacturing |
+| Deployment | Cloud-based SaaS |
+| Compliance | SOC 2, GDPR, ISO 27001 |
+| Integration | APIs for enterprise systems |
+| Platform Components | AI Hub, Automation Hub, Control Hub, Coworker Hub |
+| Recognition | 2025 IDC Innovator, 2024 DIA DIAmond Award |
+
+## Resources
+
+- [Website](https://www.deepopinion.ai)
+- [Platform Overview](https://www.deepopinion.ai/platform)
+- [Document AI Solutions](https://www.deepopinion.ai/document-ai)
+- [Funding Announcement](https://www.deepopinion.ai/press/deepopinion-2024-series-a)
 
 ## Company Information
 
-Innsbruck, Austria
+Headquarters: Innsbruck, Austria
 
-Web: [https://www.deepopinion.ai](https://www.deepopinion.ai/) 
+Founded: 2018
+
+Founders: Stefan Engl, Ahmed Ghanim Al-Ali, Stefan Ramershoven, Steve R
+
+Employees: 70+
+
+Note: DeepOpinion rebranded to Otera in 2024 

@@ -1,35 +1,48 @@
 # Mea Platform
 
-Mea Platform is a company that specializes in intelligent document processing and platform solutions. The company focuses on creating intelligent automation for document workflows.
+Mea Platform provides an AI-powered workflow platform for insurance and reinsurance operations, specializing in automated underwriting document processing and submission management.
 
 ## Overview
 
-Mea Platform provides intelligent document processing and platform solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, analyze, and manage documents across various business applications with high accuracy and efficiency.
+Mea Platform delivers agentic AI solutions designed specifically for the insurance industry, transforming underwriting and placement workflows. The platform extracts unstructured data from submission documents and converts it into structured formats for analysis and decision-making. Mea Platform enables underwriters to reduce manual document processing time and focus on risk selection and business development. The company has established partnerships with major insurers including The Hartford and AXIS, who use the platform for submission automation and underwriting process improvement.
 
 ## Key Features
 
-- Intelligent document processing
-- Platform solutions
-- Document workflow automation
-- Intelligent automation platform
-- Platform tools
-- Document processing automation
-- Intelligent data handling
+- **Intelligent Submissions**: Automated extraction and structuring of submission documents
+- **Intelligent Placement**: AI-driven placement workflow automation
+- **Unstructured Data [Extraction](../../capabilities/extraction/index.md)**: Converts insurance documents into structured, analyzable data
+- **Agentic AI**: Autonomous AI agents for workflow execution
+- **Rapid Implementation**: Fast deployment for insurance operations
+- **Insurance-Specific Design**: Purpose-built for underwriting and reinsurance processes
 
 ## Use Cases
 
-- Intelligent document processing
-- Platform automation
-- Document workflow optimization
-- Intelligent automation implementation
-- Document processing workflows
-- Platform optimization
-- Intelligent document workflows
+### Underwriting Document Processing
+
+Insurance carriers deploy Mea Platform to automate processing of underwriting submissions. The system extracts policy details, risk information, and financial data from varied document formats submitted by brokers and clients. Underwriters receive structured data summaries instead of manually reviewing lengthy submission packages. The Hartford completed a pilot using Mea's generative AI solution, reducing time spent on manual document processing.
+
+### Placement Workflow Automation
+
+Reinsurance brokers and managing general agents use Mea's intelligent placement capabilities to streamline risk distribution. The platform automates document routing, data extraction from placement slips, and communication with reinsurers, accelerating the placement process while maintaining data accuracy.
 
 ## Technical Specifications
 
-Mea Platform's platform specializes in intelligent document processing and platform solutions, creating intelligent automation for document workflows that leverage advanced technology to process and analyze documents with high accuracy and efficiency.
+| Feature | Specification |
+|---------|---------------|
+| Primary Industry | Insurance, reinsurance |
+| Core Technology | Agentic AI, generative AI |
+| Key Products | Intelligent Submissions, Intelligent Placement |
+| Data Processing | Unstructured to structured conversion |
+| Notable Customers | The Hartford, AXIS |
+| Implementation | Rapid deployment model |
+
+## Resources
+
+- [Website](https://www.meaplatform.com)
+- [Platform Overview](https://www.meaplatform.com/platform/)
 
 ## Company Information
 
-Web: [https://www.meaplatform.com](https://www.meaplatform.com/) 
+**Industry Focus**: Insurance and reinsurance
+
+**Partnerships**: The Hartford, AXIS

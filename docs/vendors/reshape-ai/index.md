@@ -1,37 +1,49 @@
 # Reshape AI
 
-Reshape AI is a company that specializes in intelligent document processing and adaptive communication platform solutions. The company focuses on creating intelligent automation for document workflows.
+Reshape AI is an intelligent document processing provider offering no-code automation solutions for document, form, and email processing across banking, government, and insurance sectors.
 
 ## Overview
 
-Reshape AI provides intelligent document processing and adaptive communication platform solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, analyze, and manage documents through adaptive communication platforms across various business applications with high accuracy and efficiency.
+Reshape AI provides a no-code platform for [document processing](../../capabilities/document-understanding/index.md) automation targeting business users without coding skills. The platform specializes in intelligent document processing, forms management, and XFA form conversion. The company serves banking, government, and insurance industries with solutions for loan applications, tax forms, quote generation, and policy management. The platform integrates with existing systems rather than requiring complete replacement.
 
 ## Key Features
 
-- Intelligent document processing
-- Adaptive communication platform solutions
-- Document workflow automation
-- Intelligent automation platform
-- Adaptive communication platform tools
-- Document processing automation
-- Intelligent data handling
+- **No-Code Automation**: Business users can configure document processing workflows without programming knowledge
+- **Intelligent Document Processing**: Automated [extraction](../../capabilities/extraction/index.md) and processing of documents and forms
+- **Forms Management**: Digital form creation, processing, and workflow automation
+- **XFA Form Conversion**: Converts Adobe XFA forms to modern formats
+- **Email Processing**: Automated processing and routing of email-based documents
+- **Modular Architecture**: Adaptable components for specific use cases
 
 ## Use Cases
 
-- Intelligent document processing
-- Adaptive communication platform automation
-- Document workflow optimization
-- Intelligent automation implementation
-- Document processing workflows
-- Adaptive communication platform optimization
-- Intelligent document workflows
+### Banking Document Automation
+
+Banks use Reshape AI to process loan applications, account statements, and fraud alerts. The platform automates data extraction from financial documents and routes processed information through approval workflows.
+
+### Government Form Processing
+
+Government agencies deploy the platform for tax form processing, citizen service requests, and appraisal protests. The system handles high volumes of standardized forms while adapting to various formats and document types.
+
+### Insurance Policy Management
+
+Insurance companies use Reshape AI for quote generation, claim submissions, and policy clarifications. The platform processes incoming claims documents and generates policy correspondence automatically.
 
 ## Technical Specifications
 
-Reshape AI's platform specializes in intelligent document processing and adaptive communication platform solutions, creating intelligent automation for document workflows that leverage advanced technology to process and analyze documents through adaptive communication platforms with high accuracy and efficiency.
+| Feature | Specification |
+|---------|---------------|
+| Core Platform | No-code IDP platform |
+| Processing Capabilities | Documents, forms, emails |
+| Form Technology | XFA form conversion |
+| Deployment | Web-based platform |
+| Integration Approach | Modular, system-enhancing |
+| Target Industries | Banking, government, insurance |
+
+## Resources
+
+- [Website](https://reshape-ai.com)
 
 ## Company Information
 
-Thatcham, United Kingdom
-
-Web: [https://reshape-ai.com](https://reshape-ai.com/) 
+Headquarters: Thatcham, United Kingdom

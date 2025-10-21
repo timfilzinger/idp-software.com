@@ -1,35 +1,49 @@
 # Intellect AI
 
-Intellect AI is a company that specializes in intelligent document processing and artificial intelligence solutions. The company focuses on creating intelligent automation for document workflows.
+Intellect AI specializes in intelligent document processing and artificial intelligence solutions for automating document workflows across business applications.
 
 ## Overview
 
-Intellect AI provides intelligent document processing and artificial intelligence solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced AI technology to process, analyze, and manage documents across various business applications with high accuracy and efficiency.
+Intellect AI provides intelligent document processing technology combining [OCR](../../capabilities/ocr/index.md), machine learning, and AI algorithms to automate document capture, [extraction](../../capabilities/extraction/index.md), and workflow processes. The platform focuses on processing structured, semi-structured, and unstructured documents to fuel business process automation across various enterprise applications. Intellect AI's solutions target organizations requiring automated document handling with high accuracy and efficiency for digital transformation initiatives.
 
 ## Key Features
 
-- Intelligent document processing
-- Artificial intelligence solutions
-- Document workflow automation
-- Intelligent automation platform
-- AI-powered tools
-- Document processing automation
-- Intelligent data handling
+- **Intelligent Document Processing**: AI-powered automated [extraction](../../capabilities/extraction/index.md) and organization of data from business documents
+- **Machine Learning Models**: Adaptive algorithms improving accuracy through processing experience
+- **Document [Classification](../../capabilities/classification/index.md)**: Automated identification and routing of document types
+- **Workflow Automation**: Integrated processing pipelines connecting document intake to business systems
+- **Multi-Format Support**: Processing capabilities across varied document formats and layouts
 
 ## Use Cases
 
-- Intelligent document processing
-- AI-powered automation
-- Document workflow optimization
-- Intelligent automation implementation
-- Document processing workflows
-- AI-powered optimization
-- Intelligent document workflows
+### Enterprise Document Automation
+
+Organizations deploy Intellect AI to automate intake of invoices, purchase orders, contracts, and correspondence. The platform classifies incoming documents, extracts key data fields, validates information against business rules, and routes to appropriate workflow queues. Integration with ERP and business systems enables automated data population reducing manual document handling.
+
+### Data Capture and Validation
+
+Companies process forms, applications, and structured documents through AI-powered extraction. The system captures data fields, performs validation checks ensuring completeness and accuracy, flags exceptions for human review, and exports verified data to downstream applications. Learning algorithms adapt to document variations improving extraction reliability.
+
+### Intelligent Workflow Routing
+
+Document-intensive processes leverage automated classification and routing capabilities. Intellect AI identifies document types from mixed batches, applies extraction rules specific to each type, and triggers appropriate workflow processes. Automated routing directs documents to correct departments or systems based on content and business logic.
 
 ## Technical Specifications
 
-Intellect AI's platform specializes in intelligent document processing and artificial intelligence solutions, creating intelligent automation for document workflows that leverage advanced AI technology to process and analyze documents with high accuracy and efficiency.
+| Feature | Specification |
+|---------|---------------|
+| Core Technology | OCR, machine learning, AI algorithms |
+| Document Processing | Structured, semi-structured, unstructured documents |
+| Capabilities | Classification, extraction, validation, workflow automation |
+| Integration | API connectivity to business systems |
+| Target Applications | Enterprise document workflows, business process automation |
+
+## Resources
+
+- [Website](https://www.intellectai.com)
 
 ## Company Information
 
-Web: [https://www.intellectai.com](https://www.intellectai.com/) 
+Focus: Intelligent document processing and AI-powered automation
+
+Target Market: Enterprises requiring document workflow automation
