@@ -2,7 +2,7 @@
 
 Extractly.ai is an Australian AI-powered financial document processing platform specializing in PDF data extraction and financial statement validation for accounting professionals.
 
-![Extractly.ai](assets\extractly-ai.png)
+![Extractly.ai](assets/extractly-ai.png)
 
 
 ## Overview

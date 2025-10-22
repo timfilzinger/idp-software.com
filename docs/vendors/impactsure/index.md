@@ -2,7 +2,7 @@
 
 Impactsure is a Mumbai-based AI/ML-powered intelligent document processing platform specializing in global trade compliance, banking, and financial services document automation.
 
-![Impactsure](assets\impactsure.png)
+![Impactsure](assets/impactsure.png)
 
 
 ## Overview

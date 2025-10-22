@@ -2,7 +2,7 @@
 
 DocScience is an AI-powered document automation platform from Nexyom that accelerates workflows, reduces operational costs, and extracts insights from business documents.
 
-![DocScience](assets\docscience.png)
+![DocScience](assets/docscience.png)
 
 
 ## Overview

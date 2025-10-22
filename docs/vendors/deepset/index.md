@@ -2,7 +2,7 @@
 
 deepset is a Berlin-based AI company providing the open-source Haystack framework for building production-ready AI applications, including RAG systems, semantic search, and intelligent document processing.
 
-![deepset](assets\deepset.png)
+![deepset](assets/deepset.png)
 
 
 ## Overview

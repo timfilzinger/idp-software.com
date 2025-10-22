@@ -2,7 +2,7 @@
 
 Coveo is an AI-powered enterprise search platform provider offering unified content indexing, intelligent search, and generative experiences across commerce, service, websites, and workplaces.
 
-![Coveo](assets\coveo.png)
+![Coveo](assets/coveo.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 EdgeVerve is an Infosys subsidiary providing enterprise automation and AI solutions including the AssistEdge RPA platform and XtractEdge document processing system.
 
-![EdgeVerve](assets\edgeverve.png)
+![EdgeVerve](assets/edgeverve.png)
 
 
 ## Overview

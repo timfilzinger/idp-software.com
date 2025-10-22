@@ -2,7 +2,7 @@
 
 DeepOpinion (now Otera) is an Austrian AI automation company providing enterprise-grade generative AI for document processing and workflow automation.
 
-![DeepOpinion](assets\deepopinion.png)
+![DeepOpinion](assets/deepopinion.png)
 
 
 ## Overview

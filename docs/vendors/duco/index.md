@@ -2,7 +2,7 @@
 
 Duco is an enterprise platform for data automation in financial institutions. The company specializes in data automation solutions for the financial services industry.
 
-![Duco](assets\duco.png)
+![Duco](assets/duco.png)
 
 
 ## Overview

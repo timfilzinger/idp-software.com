@@ -2,7 +2,7 @@
 
 Notable Systems is a healthcare automation company providing AI-powered document processing for DME and HME revenue cycle management, reducing manual data entry costs.
 
-![Notable Systems](assets\notable-systems.png)
+![Notable Systems](assets/notable-systems.png)
 
 
 ## Overview

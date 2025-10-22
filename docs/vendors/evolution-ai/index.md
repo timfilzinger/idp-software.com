@@ -2,7 +2,7 @@
 
 Evolution AI is a London-based provider of NLP-powered data extraction solutions specializing in contract analysis and financial document processing for enterprises.
 
-![Evolution AI](assets\evolution-ai.png)
+![Evolution AI](assets/evolution-ai.png)
 
 
 ## Overview

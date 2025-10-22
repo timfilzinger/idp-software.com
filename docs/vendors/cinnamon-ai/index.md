@@ -2,7 +2,7 @@
 
 Cinnamon AI is an enterprise AI company offering Flax Scanner, an AI-OCR platform for automated data extraction from unstructured documents without template definition.
 
-![Cinnamon AI](assets\cinnamon-ai.png)
+![Cinnamon AI](assets/cinnamon-ai.png)
 
 
 ## Overview

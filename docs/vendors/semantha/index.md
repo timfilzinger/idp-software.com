@@ -2,7 +2,7 @@
 
 Semantha is a semantic AI platform by ThingsTHINKING offering [document processing](../../capabilities/document-understanding/index.md) and enterprise search solutions using natural language processing technology developed from Karlsruhe Institute of Technology research.
 
-![Semantha](assets\semantha.png)
+![Semantha](assets/semantha.png)
 
 
 ## Overview

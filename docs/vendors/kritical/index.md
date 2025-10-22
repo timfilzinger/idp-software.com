@@ -2,7 +2,7 @@
 
 Kritical is a construction correspondence management platform that organizes, parses, and searches construction letters for contract and claims management.
 
-![Kritical](assets\kritical.png)
+![Kritical](assets/kritical.png)
 
 
 ## Overview

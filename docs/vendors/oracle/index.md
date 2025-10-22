@@ -2,7 +2,7 @@
 
 Oracle is a company that specializes in intelligent document processing and database management solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Oracle](assets\oracle.png)
+![Oracle](assets/oracle.png)
 
 
 ## Overview

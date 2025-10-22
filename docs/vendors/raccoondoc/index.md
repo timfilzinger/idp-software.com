@@ -2,7 +2,7 @@
 
 RaccoonDoc is a cloud-native IDPaaS platform from Kyiv, Ukraine achieving up to 98% data extraction accuracy with 25x faster processing than manual methods.
 
-![RaccoonDoc](assets\raccoondoc.png)
+![RaccoonDoc](assets/raccoondoc.png)
 
 
 ## Overview

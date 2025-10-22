@@ -2,7 +2,7 @@
 
 Convr is an AI underwriting workbench for commercial property and casualty insurance, offering Intake AI for automated submission processing and document digitization with 97% accuracy.
 
-![Convr](assets\convr.png)
+![Convr](assets/convr.png)
 
 
 ## Overview

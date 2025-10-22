@@ -2,7 +2,7 @@
 
 Concord Technologies is a healthcare document processing company offering Concord Connect, a straight-through processing platform combining cloud fax, intelligent document processing, and workflow automation.
 
-![Concord Technologies](assets\concord-technologies.png)
+![Concord Technologies](assets/concord-technologies.png)
 
 
 ## Overview

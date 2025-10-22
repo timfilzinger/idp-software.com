@@ -2,7 +2,7 @@
 
 Adobe is a company that specializes in intelligent document processing and creative software solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Adobe](assets\adobe.png)
+![Adobe](assets/adobe.png)
 
 
 ## Overview

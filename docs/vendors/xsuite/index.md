@@ -2,7 +2,7 @@
 
 xSuite is a global SAP-certified accounts payable automation provider serving 300,000+ users processing 80+ million documents annually across 60 countries.
 
-![xSuite](assets\xsuite.png)
+![xSuite](assets/xsuite.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Holofin is an AI-powered financial document processing platform that specializes in extracting and analyzing financial documents with high precision. The company focuses on transforming complex PDFs and financial documents into structured data for enterprises in Europe.
 
-![Holofin](assets\holofin.png)
+![Holofin](assets/holofin.png)
 
 
 ## Overview

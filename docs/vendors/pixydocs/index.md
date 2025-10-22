@@ -2,7 +2,7 @@
 
 Pixydocs is a SaaS-based IDP platform providing end-to-end document automation with custom neural network models and post-extraction workflow capabilities.
 
-![Pixydocs](assets\pixydocs.png)
+![Pixydocs](assets/pixydocs.png)
 
 
 ## Overview

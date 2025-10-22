@@ -2,7 +2,7 @@
 
 DOConvert is a no-code IDP platform specializing in supply chain and manufacturing document automation, extracting data from complex B2B documents and integrating with digital records systems.
 
-![DOConvert](assets\doconvert.png)
+![DOConvert](assets/doconvert.png)
 
 
 ## Overview

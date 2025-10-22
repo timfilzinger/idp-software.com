@@ -2,7 +2,7 @@
 
 Smart Touch Technologies is a Romanian deep tech startup offering the Apollo intelligent document processing platform for automated document collection, AI-powered extraction, and business system integration across retail, logistics, and accounting sectors.
 
-![Smart Touch Technologies](assets\smart-touch-technologies.png)
+![Smart Touch Technologies](assets/smart-touch-technologies.png)
 
 
 ## Overview

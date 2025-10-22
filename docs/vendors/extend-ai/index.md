@@ -2,7 +2,7 @@
 
 Extend is an AI-native document processing platform providing APIs for parsing, classification, extraction, and splitting of complex documents with specialized large language models.
 
-![Extend](assets\extend.png)
+![Extend](assets/extend.png)
 
 
 ## Overview

@@ -4,7 +4,7 @@
 Natif.ai is a pioneering intelligent document processing (IDP) company that leverages advanced artificial intelligence and machine learning to automate document workflows and data extraction, now operating as part of DocuWare.
 (./assets/Natif.ai (acquired by DocuWare)](./assets/natif-ai-acquired-by-docuware.png)
 
-![Natif.ai (acquired by DocuWare)](assets\natif-ai-acquired-by-docuware.png)
+![Natif.ai (acquired by DocuWare)](assets/natif-ai-acquired-by-docuware.png)
 
 
 ## Overview

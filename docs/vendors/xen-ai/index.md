@@ -2,7 +2,7 @@
 
 Xen.AI is a company that specializes in intelligent document processing and automation solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Xen.AI](assets\xen-ai.png)
+![Xen.AI](assets/xen-ai.png)
 
 
 ## Overview

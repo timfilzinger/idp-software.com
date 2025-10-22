@@ -2,7 +2,7 @@
 
 Botminds AI is a no-code agentic AI platform provider offering [intelligent document processing](../../capabilities/document-understanding/index.md) with proprietary AI algorithms and integrated document automation.
 
-![Botminds AI](assets\botminds-ai.png)
+![Botminds AI](assets/botminds-ai.png)
 
 
 ## Overview

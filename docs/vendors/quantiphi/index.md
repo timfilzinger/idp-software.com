@@ -2,7 +2,7 @@
 
 Quantiphi is a company that specializes in intelligent document processing and AI-first digital engineering solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Quantiphi](assets\quantiphi.png)
+![Quantiphi](assets/quantiphi.png)
 
 
 ## Overview

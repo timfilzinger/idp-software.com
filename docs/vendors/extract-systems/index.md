@@ -2,7 +2,7 @@
 
 Extract Systems is a Wisconsin-based provider of automated data extraction, redaction, and classification software specializing in healthcare and government document processing.
 
-![Extract Systems](assets\extract-systems.png)
+![Extract Systems](assets/extract-systems.png)
 
 
 ## Overview

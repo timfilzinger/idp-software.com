@@ -2,7 +2,7 @@
 
 Ascron is a Polish [intelligent document processing](../../capabilities/document-understanding/index.md) provider specializing in legal services and debt collection management automation.
 
-![Ascron](assets\ascron.png)
+![Ascron](assets/ascron.png)
 
 
 ## Overview

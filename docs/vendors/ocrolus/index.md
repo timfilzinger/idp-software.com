@@ -2,7 +2,7 @@
 
 Ocrolus is a company that specializes in intelligent document processing and financial document analysis solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Ocrolus](assets\ocrolus.png)
+![Ocrolus](assets/ocrolus.png)
 
 
 ## Overview

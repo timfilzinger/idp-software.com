@@ -2,7 +2,7 @@
 
 Instabase enables organizations to automate mission-critical processes. The company specializes in mission-critical process automation for enterprise organizations.
 
-![Instabase](assets\instabase.png)
+![Instabase](assets/instabase.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Sensible is a developer-focused document processing platform offering API-based extraction services with LLM parsing and visual layout rules for converting unstructured documents into structured data.
 
-![Sensible.so](assets\sensible-so.png)
+![Sensible.so](assets/sensible-so.png)
 
 
 ## Overview

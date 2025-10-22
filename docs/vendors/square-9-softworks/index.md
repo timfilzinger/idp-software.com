@@ -2,7 +2,7 @@
 
 Square 9 Softworks is an intelligent information management provider offering the GlobalSuite platform with generative AI-powered document capture, enterprise content management, and business process automation for healthcare, education, government, and finance sectors.
 
-![Square 9 Softworks](assets\square-9-softworks.png)
+![Square 9 Softworks](assets/square-9-softworks.png)
 
 
 ## Overview

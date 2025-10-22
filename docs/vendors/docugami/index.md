@@ -2,7 +2,7 @@
 
 Docugami provides generative AI for business documents using patented technology that converts documents into XML Knowledge Graphs with hierarchical semantic chunking for enterprise-scale accuracy.
 
-![Docugami](assets\docugami.png)
+![Docugami](assets/docugami.png)
 
 
 ## Overview

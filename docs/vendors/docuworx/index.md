@@ -2,7 +2,7 @@
 
 Docuworx is an Australian document management provider offering data capture, OCR, and workflow automation solutions through the DocuWare platform.
 
-![Docuworx](assets\docuworx.png)
+![Docuworx](assets/docuworx.png)
 
 
 ## Overview

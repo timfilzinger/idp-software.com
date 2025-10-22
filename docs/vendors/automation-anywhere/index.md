@@ -2,7 +2,7 @@
 
 Automation Anywhere is an AI-powered process automation platform provider offering RPA and [intelligent document processing](../../capabilities/document-understanding/index.md) for enterprise automation at scale.
 
-![Automation Anywhere](assets\automation-anywhere.png)
+![Automation Anywhere](assets/automation-anywhere.png)
 
 
 ## Overview

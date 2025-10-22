@@ -2,7 +2,7 @@
 
 Docufai is a generative AI document assistant from Ripcord that delivers instant answers from documents through natural language queries, supporting multilingual content without hallucination.
 
-![Docufai](assets\docufai.png)
+![Docufai](assets/docufai.png)
 
 
 ## Overview

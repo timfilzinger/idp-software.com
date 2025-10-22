@@ -2,7 +2,7 @@
 
 Workist is a company that specializes in intelligent document processing and automation solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Workist](assets\workist.png)
+![Workist](assets/workist.png)
 
 
 ## Overview

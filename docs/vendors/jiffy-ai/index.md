@@ -2,7 +2,7 @@
 
 JIFFY.ai provides a no-code intelligent automation platform focused on financial services, mortgage, and Fortune 500 enterprises, combining RPA, [document processing](../../capabilities/document-understanding/index.md), and AI capabilities.
 
-![JIFFY.ai](assets\jiffy-ai.png)
+![JIFFY.ai](assets/jiffy-ai.png)
 
 
 ## Overview

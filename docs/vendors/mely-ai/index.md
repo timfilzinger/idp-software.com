@@ -2,7 +2,7 @@
 
 Mely.ai is a Canadian intelligent document processing provider specializing in template-free data extraction for logistics, customs, and transportation industries.
 
-![Mely.ai](assets\mely-ai.png)
+![Mely.ai](assets/mely-ai.png)
 
 
 ## Overview

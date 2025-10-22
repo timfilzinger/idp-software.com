@@ -2,7 +2,7 @@
 
 DocVu.AI is an intelligent document processing platform specializing in mortgage, finance, and insurance document automation using AI and machine learning.
 
-![DocVu.AI](assets\docvu-ai.png)
+![DocVu.AI](assets/docvu-ai.png)
 
 
 ## Overview

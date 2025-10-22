@@ -2,7 +2,7 @@
 
 Mea Platform provides an AI-powered workflow platform for insurance and reinsurance operations, specializing in automated underwriting document processing and submission management.
 
-![Mea Platform](assets\mea-platform.png)
+![Mea Platform](assets/mea-platform.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 FormX.ai is a Hong Kong-based document extraction API provider specializing in automated data capture from identity documents, receipts, and forms using OCR and machine learning.
 
-![FormX.ai](assets\formx-ai.png)
+![FormX.ai](assets/formx-ai.png)
 
 
 ## Overview

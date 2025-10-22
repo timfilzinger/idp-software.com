@@ -2,7 +2,7 @@
 
 Send AI is an intelligent document processing provider offering custom AI model development and document automation solutions for logistics, insurance, government, maritime, finance, and retail sectors using open-source models.
 
-![Send AI](assets\send-ai.png)
+![Send AI](assets/send-ai.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Cogniquest is a context-aware document intelligence platform combining traditional AI and generative AI for intelligent document processing with human-like document understanding.
 
-![Cogniquest](assets\cogniquest.png)
+![Cogniquest](assets/cogniquest.png)
 
 
 ## Overview

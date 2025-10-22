@@ -2,7 +2,7 @@
 
 HubBroker ApS is a Danish EDI and integration platform provider offering API, MFT, B2B/EDI, IoT, e-invoicing, and SAP/ERP connectivity solutions for European businesses.
 
-![HubBroker ApS](assets\hubbroker-aps.png)
+![HubBroker ApS](assets/hubbroker-aps.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Datamatics is a digital technology company providing intelligent document processing solutions through its TruCap+ platform.
 
-![Datamatics](assets\datamatics.png)
+![Datamatics](assets/datamatics.png)
 
 
 ## Overview

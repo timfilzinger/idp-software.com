@@ -2,7 +2,7 @@
 
 UST is a company that specializes in intelligent document processing and digital transformation solutions. The company focuses on creating intelligent automation for document workflows.
 
-![UST](assets\ust.png)
+![UST](assets/ust.png)
 
 
 ## Overview

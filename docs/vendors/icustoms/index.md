@@ -2,7 +2,7 @@
 
 iCustoms is a London-based AI-powered customs declaration automation platform specializing in trade compliance management for importers, exporters, customs brokers, and logistics providers.
 
-![iCustoms](assets\icustoms.png)
+![iCustoms](assets/icustoms.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Docketry is an intelligent document processing platform built with AI/ML models providing claimed 95% accuracy and 7x faster processing for BFSI, healthcare, logistics, manufacturing, and retail industries.
 
-![Docketry](assets\docketry.png)
+![Docketry](assets/docketry.png)
 
 
 ## Overview

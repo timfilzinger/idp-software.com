@@ -2,7 +2,7 @@
 
 Captova Technologies provides high-speed [intelligent document processing](../../capabilities/document-understanding/index.md) for secure and business environments with processing speeds exceeding 100 pages per second.
 
-![Captova Technologies](assets\captova-technologies.png)
+![Captova Technologies](assets/captova-technologies.png)
 
 
 ## Overview

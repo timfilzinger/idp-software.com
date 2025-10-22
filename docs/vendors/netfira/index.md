@@ -2,7 +2,7 @@
 
 Netfira is an intelligent document processing SaaS platform that automates B2B transaction document workflows for procurement, accounts payable, and sales fulfillment.
 
-![Netfira](assets\netfira.png)
+![Netfira](assets/netfira.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Indico Data is a Boston-based intelligent document processing provider offering transfer learning-powered automation for unstructured data intake across insurance, financial services, and healthcare sectors.
 
-![Indico Data](assets\indico-data.png)
+![Indico Data](assets/indico-data.png)
 
 
 ## Overview

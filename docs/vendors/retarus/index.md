@@ -2,7 +2,7 @@
 
 Retarus is an enterprise cloud solutions provider offering intelligent document processing services alongside email, fax, and SMS communication platforms with operations in European data centers.
 
-![Retarus](assets\retarus.png)
+![Retarus](assets/retarus.png)
 
 
 ## Overview

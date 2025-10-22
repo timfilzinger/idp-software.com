@@ -2,7 +2,7 @@
 
 Intellect AI specializes in intelligent document processing and artificial intelligence solutions for automating document workflows across business applications.
 
-![Intellect AI](assets\intellect-ai.png)
+![Intellect AI](assets/intellect-ai.png)
 
 
 ## Overview

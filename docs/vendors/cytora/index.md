@@ -2,7 +2,7 @@
 
 Cytora is a digital risk processing platform for commercial insurance offering AI-powered submission digitization, risk evaluation, and underwriting automation through its risk flow engine.
 
-![Cytora](assets\cytora.png)
+![Cytora](assets/cytora.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Parseur is an AI data extraction platform converting emails, PDFs, and documents into structured data with three extraction engines and 100+ million documents processed.
 
-![Parseur](assets\parseur.png)
+![Parseur](assets/parseur.png)
 
 
 ## Overview

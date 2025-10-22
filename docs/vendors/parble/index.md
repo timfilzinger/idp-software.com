@@ -2,7 +2,7 @@
 
 Parble is a GenAI-powered IDP platform specializing in financial services automation, acquired by Netcall in September 2024.
 
-![Parble](assets\parble.png)
+![Parble](assets/parble.png)
 
 
 ## Overview

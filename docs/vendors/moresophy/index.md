@@ -2,7 +2,7 @@
 
 Moresophy is a German AI solutions provider specializing in analyzing unstructured data with its proprietary CONTEXTSUITE platform and enterprise knowledge management tools.
 
-![Moresophy](assets\moresophy.png)
+![Moresophy](assets/moresophy.png)
 
 
 ## Overview

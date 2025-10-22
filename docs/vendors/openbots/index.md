@@ -2,7 +2,7 @@
 
 OpenBots is a business automation platform providing zero-bot-license RPA and IDP capabilities with consumption-based pricing and GPT integration.
 
-![OpenBots](assets\openbots.png)
+![OpenBots](assets/openbots.png)
 
 
 ## Overview

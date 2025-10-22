@@ -2,7 +2,7 @@
 
 KAPTO AI provides end-to-end document processing automation using AI to categorize, extract, and analyze data from business documents without template constraints.
 
-![KAPTO AI Ltd](assets\kapto-ai-ltd.png)
+![KAPTO AI Ltd](assets/kapto-ai-ltd.png)
 
 
 ## Overview

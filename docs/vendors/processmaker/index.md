@@ -2,7 +2,7 @@
 
 ProcessMaker is a low-code iBPMs platform provider serving 350 customers including Fortune 100 companies with workflow automation and business process management solutions.
 
-![ProcessMaker](assets\processmaker.png)
+![ProcessMaker](assets/processmaker.png)
 
 
 ## Overview

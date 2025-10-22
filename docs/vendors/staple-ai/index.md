@@ -2,7 +2,7 @@
 
 Staple AI is a self-learning document processing platform offering template-free extraction in 200+ languages with Google Cloud infrastructure for enterprises processing invoices, contracts, ID cards, and data files.
 
-![Staple AI](assets\staple-ai.png)
+![Staple AI](assets/staple-ai.png)
 
 
 ## Overview

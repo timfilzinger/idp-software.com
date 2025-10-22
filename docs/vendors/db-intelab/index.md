@@ -2,7 +2,7 @@
 
 DB Intelab is a Malaysian enterprise solutions company providing intelligent document processing through its ICE-Ai platform.
 
-![DB Intelab](assets\db-intelab.png)
+![DB Intelab](assets/db-intelab.png)
 
 
 ## Overview

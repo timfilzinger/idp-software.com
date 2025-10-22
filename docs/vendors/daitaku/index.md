@@ -2,7 +2,7 @@
 
 Dataiku is a universal AI platform offering document intelligence capabilities through its data science and machine learning platform with intelligent document processing plugins for text extraction and analysis.
 
-![Dataiku](assets\dataiku.png)
+![Dataiku](assets/dataiku.png)
 
 
 ## Overview

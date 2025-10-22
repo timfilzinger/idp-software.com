@@ -2,7 +2,7 @@
 
 Paperbox is an insurance mailroom solution providing AI-powered email handling, document classification, and data extraction for insurance teams.
 
-![Paperbox](assets\paperbox.png)
+![Paperbox](assets/paperbox.png)
 
 
 ## Overview

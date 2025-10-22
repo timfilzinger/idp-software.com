@@ -2,7 +2,7 @@
 
 OCR.space is a free online OCR service and API operated by a9t9 software GmbH, converting images and PDFs to text with support for 100+ languages.
 
-![OCR.space](assets\ocr-space.png)
+![OCR.space](assets/ocr-space.png)
 
 
 ## Overview

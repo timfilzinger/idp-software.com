@@ -2,7 +2,7 @@
 
 ClearDox is an AI-powered commodities intelligence platform providing intelligent document processing and automation solutions for commodity trading operations.
 
-![ClearDox](assets\cleardox.png)
+![ClearDox](assets/cleardox.png)
 
 
 ## Overview

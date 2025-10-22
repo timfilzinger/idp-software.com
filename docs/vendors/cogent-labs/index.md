@@ -2,7 +2,7 @@
 
 Cogent Labs is an AI company offering SmartRead, an AI-OCR platform for document recognition, classification, and handwriting digitization with 99.2% accuracy.
 
-![Cogent Labs](assets\cogent-labs.png)
+![Cogent Labs](assets/cogent-labs.png)
 
 
 ## Overview

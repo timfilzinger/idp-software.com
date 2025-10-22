@@ -2,7 +2,7 @@
 
 Unstructured is an ETL platform provider for transforming unstructured data into LLM-ready formats through open-source libraries and enterprise APIs supporting 25+ file types with 50+ source and destination connectors.
 
-![Unstructured](assets\unstructured.png)
+![Unstructured](assets/unstructured.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 Hyland puts companies' content to work, making it smarter and more accessible. The company specializes in content management and intelligent document processing solutions.
 
-![Hyland](assets\hyland.png)
+![Hyland](assets/hyland.png)
 
 
 ## Overview

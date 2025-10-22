@@ -2,7 +2,7 @@
 
 Skwiz is a generative AI-powered document processing platform offering multi-language data extraction from invoices, identity documents, insurance claims, and business documents through web and API interfaces.
 
-![Skwiz](assets\skwiz.png)
+![Skwiz](assets/skwiz.png)
 
 
 ## Overview

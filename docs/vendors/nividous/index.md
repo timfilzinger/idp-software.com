@@ -2,7 +2,7 @@
 
 Nividous is an intelligent automation platform provider combining RPA, AI, IDP, and BPM capabilities, recognized as a Major Contender in Everest Group's IDP and RPA PEAK Matrix assessments.
 
-![Nividous](assets\nividous.png)
+![Nividous](assets/nividous.png)
 
 
 ## Overview

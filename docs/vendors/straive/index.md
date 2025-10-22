@@ -2,7 +2,7 @@
 
 Straive is a content technology provider offering intelligent document processing through its cloud-native Straive Data Platform for unstructured data management and AI-powered extraction.
 
-![Straive](assets\straive.png)
+![Straive](assets/straive.png)
 
 
 ## Overview

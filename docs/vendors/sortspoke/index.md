@@ -2,7 +2,7 @@
 
 SortSpoke is an insurance-focused intelligent document processing provider offering AI-powered submission triage and data extraction for property and casualty carriers, managing general agents, and BPO firms.
 
-![SortSpoke](assets\sortspoke.png)
+![SortSpoke](assets/sortspoke.png)
 
 
 ## Overview

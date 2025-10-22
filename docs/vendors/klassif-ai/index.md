@@ -2,7 +2,7 @@
 
 Klassif.ai is a Belgian AI platform specializing in sales order processing and invoice management automation for order processing teams.
 
-![Klassif.ai](assets\klassif-ai.png)
+![Klassif.ai](assets/klassif-ai.png)
 
 
 ## Overview

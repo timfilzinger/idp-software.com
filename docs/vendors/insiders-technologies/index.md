@@ -2,7 +2,7 @@
 
 Insiders Technologies is a Kaiserslautern, Germany-based cognitive process automation provider specializing in deep learning-powered document processing with over 5,000 customers across multiple industries.
 
-![Insiders Technologies](assets\insiders-technologies.png)
+![Insiders Technologies](assets/insiders-technologies.png)
 
 
 ## Overview

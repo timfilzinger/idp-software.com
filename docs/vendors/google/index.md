@@ -2,7 +2,7 @@
 
 Google is a company that specializes in intelligent document processing and cloud-based solutions. The company focuses on creating intelligent automation for document workflows.
 
-![Google](assets\google.png)
+![Google](assets/google.png)
 
 
 ## Overview

@@ -2,7 +2,7 @@
 
 4Semantics is a Polish intelligent document processing provider that develops the SensID Cognitive Automation platform for automated [document data extraction](../../capabilities/extraction/index.md) and workflow automation.
 
-![4Semantics](assets\4semantics.png)
+![4Semantics](assets/4semantics.png)
 
 
 ## Overview

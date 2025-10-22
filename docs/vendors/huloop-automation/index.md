@@ -2,7 +2,7 @@
 
 HuLoop Automation is a California-based unified automation platform provider combining RPA, IDP, workflow orchestration, and testing with human-in-the-loop oversight for financial services and commerce sectors.
 
-![HuLoop Automation](assets\huloop-automation.png)
+![HuLoop Automation](assets/huloop-automation.png)
 
 
 ## Overview

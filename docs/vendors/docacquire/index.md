@@ -2,7 +2,7 @@
 
 DocAcquire is a cloud-based intelligent document processing platform that automates data extraction from invoices, contracts, and business documents.
 
-![DocAcquire](assets\docacquire.png)
+![DocAcquire](assets/docacquire.png)
 
 
 ## Overview

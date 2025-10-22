@@ -2,7 +2,7 @@
 
 Kanverse.ai offers an AI-powered intelligent document processing platform for enterprises, specializing in invoice automation, insurance claims, and [extraction](../../capabilities/extraction/index.md) from structured and unstructured documents.
 
-![Kanverse.ai](assets\kanverse-ai.png)
+![Kanverse.ai](assets/kanverse-ai.png)
 
 
 ## Overview

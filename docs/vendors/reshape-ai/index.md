@@ -2,7 +2,7 @@
 
 Reshape AI is an intelligent document processing provider offering no-code automation solutions for document, form, and email processing across banking, government, and insurance sectors.
 
-![Reshape AI](assets\reshape-ai.png)
+![Reshape AI](assets/reshape-ai.png)
 
 
 ## Overview

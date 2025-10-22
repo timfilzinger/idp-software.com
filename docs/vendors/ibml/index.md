@@ -2,7 +2,7 @@
 
 ibml is a Birmingham, Alabama-based provider of enterprise document scanning, intelligent capture automation, and production mail solutions serving banking, healthcare, insurance, and government sectors globally.
 
-![ibml](assets\ibml.png)
+![ibml](assets/ibml.png)
 
 
 ## Overview

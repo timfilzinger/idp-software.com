@@ -2,7 +2,7 @@
 
 super.AI is an unstructured data processing platform provider offering intelligent document processing with multi-format redaction, human-in-the-loop workflows, and integration of multiple AI models including GPT-4 for processing documents, images, audio, video, and text.
 
-![super.AI](assets\super-ai.png)
+![super.AI](assets/super-ai.png)
 
 
 ## Overview

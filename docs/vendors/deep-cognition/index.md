@@ -2,7 +2,7 @@
 
 Deep Cognition is a Dallas-based AI company providing automated data entry solutions through its PaperEntry AI platform, specializing in customs and logistics documentation.
 
-![Deep Cognition](assets\deep-cognition.png)
+![Deep Cognition](assets/deep-cognition.png)
 
 
 ## Overview

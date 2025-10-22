@@ -2,7 +2,7 @@
 
 Paradatec is an AI-based document analysis provider with over 30 years of experience, specializing in OCR/ICR technology and mortgage document processing.
 
-![Paradatec](assets\paradatec.png)
+![Paradatec](assets/paradatec.png)
 
 
 ## Overview

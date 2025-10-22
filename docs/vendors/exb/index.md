@@ -2,7 +2,7 @@
 
 ExB is a Munich-based intelligent document processing platform provider specializing in AI-powered data extraction from unstructured documents across multiple industries.
 
-![ExB](assets\exb.png)
+![ExB](assets/exb.png)
 
 
 ## Overview

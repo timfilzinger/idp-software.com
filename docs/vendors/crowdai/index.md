@@ -2,7 +2,7 @@
 
 CrowdAI provides AI-powered document processing and crowd-sourced intelligence solutions. The company specializes in combining artificial intelligence with human expertise for document processing and analysis.
 
-![CrowdAI](assets\crowdai.png)
+![CrowdAI](assets/crowdai.png)
 
 
 ## Overview

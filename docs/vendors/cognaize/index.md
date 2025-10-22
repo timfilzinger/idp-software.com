@@ -2,7 +2,7 @@
 
 Cognaize is an intelligent document processing company offering hybrid intelligence solutions combining AI with expert-in-the-loop workflows for financial services document automation.
 
-![Cognaize](assets\cognaize.png)
+![Cognaize](assets/cognaize.png)
 
 
 ## Overview

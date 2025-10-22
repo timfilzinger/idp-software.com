@@ -2,7 +2,7 @@
 
 Scale AI is a data annotation and AI training platform provider offering document processing solutions alongside data labeling services for training machine learning models across autonomous vehicles, retail, government, and enterprise applications.
 
-![Scale AI](assets\scale-ai.png)
+![Scale AI](assets/scale-ai.png)
 
 
 ## Overview

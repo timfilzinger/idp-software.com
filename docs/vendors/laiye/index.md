@@ -2,7 +2,7 @@
 
 Laiye is a Chinese intelligent automation platform provider specializing in RPA, AI agents, and the Work Execution System framework for enterprise digital workers.
 
-![Laiye](assets\laiye.png)
+![Laiye](assets/laiye.png)
 
 
 ## Overview

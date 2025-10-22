@@ -2,7 +2,7 @@
 
 Process Fusion is a cloud-based document processing provider serving 10,000+ customers with AI-powered extraction, classification, and RPA capabilities.
 
-![Process Fusion](assets\process-fusion.png)
+![Process Fusion](assets/process-fusion.png)
 
 
 ## Overview

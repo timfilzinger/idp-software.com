@@ -2,7 +2,7 @@
 
 Docusense is a generative AI-powered IDP solution on AWS that transforms unstructured documents into structured data with real-time and batch processing capabilities.
 
-![Docusense](assets\docusense.png)
+![Docusense](assets/docusense.png)
 
 
 ## Overview
