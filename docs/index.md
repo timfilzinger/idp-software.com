@@ -1,8 +1,6 @@
 # IDP-Software
 
-Welcome to the **collaborative** homepage on Intelligent Document Processing. This homepage centralizes technologies, vendors, capabilities, and advanced research in the field.
-
-## What exactly does Intelligent Document Processing mean?
+## Intelligent Document Processing: IDP Definition
 
 !!! info "Definitions Compiled from Multiple Sources"
 
