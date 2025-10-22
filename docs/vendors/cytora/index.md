@@ -2,6 +2,9 @@
 
 Cytora is a digital risk processing platform for commercial insurance offering AI-powered submission digitization, risk evaluation, and underwriting automation through its risk flow engine.
 
+![Cytora](assets\cytora.png)
+
+
 ## Overview
 
 Founded in 2012 as a University of Cambridge spinout, Cytora develops generative and agentic AI solutions for commercial insurance underwriting. The London-based company raised $41.43M before being acquired by Applied Systems in September 2025. Cytora's platform digitizes the full policy lifecycle from submission to claims, transforming unstructured risk data into structured insights for automated decision-making across the insurance workflow.

@@ -2,6 +2,9 @@
 
 FormX.ai is a Hong Kong-based document extraction API provider specializing in automated data capture from identity documents, receipts, and forms using OCR and machine learning.
 
+![FormX.ai](assets\formx-ai.png)
+
+
 ## Overview
 
 FormX.ai delivers cloud-based document extraction APIs that integrate into business systems to import structured JSON data from scanned documents and images. The platform uses OCR, NLP, and machine learning to automatically extract information from diverse document types including Hong Kong, Macau, Singapore, Taiwan ID cards, passports, work permits, driver's licenses, invoices, and receipts. FormX.ai maintains ISO 27001 and SOC 2 Type II compliance certifications. The company offers pre-trained AI models for common documents while supporting custom extraction needs. Their Extraction API v2 introduced key-value objects for streamlined data access and native multi-page PDF support.

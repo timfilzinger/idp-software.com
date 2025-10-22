@@ -2,6 +2,9 @@
 
 Parseur is an AI data extraction platform converting emails, PDFs, and documents into structured data with three extraction engines and 100+ million documents processed.
 
+![Parseur](assets\parseur.png)
+
+
 ## Overview
 
 Parseur provides AI-powered data [extraction](../../capabilities/extraction/index.md) from emails, PDFs, images, spreadsheets, text files, and HTML documents. Founded in 2016 and headquartered in Singapore, the platform offers three extraction engines: AI-driven field extraction, Zonal OCR for template-based capture, and text parsing for structured content. Parseur supports OCR across multiple languages and scripts including handwriting. The platform has processed over 100 million documents and integrates with Google Sheets, Zapier, Microsoft Power Automate, Make, and custom applications via webhooks. Customers report saving approximately 167 hours of manual data entry per user.

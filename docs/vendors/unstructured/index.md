@@ -2,6 +2,9 @@
 
 Unstructured is an ETL platform provider for transforming unstructured data into LLM-ready formats through open-source libraries and enterprise APIs supporting 25+ file types with 50+ source and destination connectors.
 
+![Unstructured](assets\unstructured.png)
+
+
 ## Overview
 
 Unstructured provides an automated ETL solution for [document processing](../../capabilities/document-understanding/index.md) that extracts and transforms data from PDFs, images, HTML, Word documents, emails, scanned documents, and handwritten notes. The platform offers three transformation tiers: Basic for text-only documents, Advanced for PDFs and complex files, and Platinum with VLM API integration for scanned and handwritten content. Unstructured includes a no-code drag-and-drop Workflow Builder alongside API access for engineers. Founded in 2022 by Brian Raymond, Matt Robinson, and Crag Wolfe after working together at Primer AI, the company raised $65M from Bain Capital Ventures, Menlo Ventures, Madrona Venture Group, M12, and MongoDB Ventures.

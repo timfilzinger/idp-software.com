@@ -2,6 +2,9 @@
 
 Paperbox is an insurance mailroom solution providing AI-powered email handling, document classification, and data extraction for insurance teams.
 
+![Paperbox](assets\paperbox.png)
+
+
 ## Overview
 
 Paperbox provides intelligent document processing specifically designed for insurance operations, automating mailroom workflows including email triage, document [classification](../../capabilities/classification/index.md), and data archiving. Founded in 2021 in Gent, Belgium, the company uses proprietary ML models to process physical and digital inboxes for insurance teams. Paperbox won the 2021 InsurTech Startup Award by MOI in Vienna and the 2022 Startup of the Year by UNIZO Oost-Vlaanderen. The platform operates via API integration where customers send documents and receive analyzed results with extracted data.

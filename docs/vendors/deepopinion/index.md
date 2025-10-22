@@ -2,6 +2,9 @@
 
 DeepOpinion (now Otera) is an Austrian AI automation company providing enterprise-grade generative AI for document processing and workflow automation.
 
+![DeepOpinion](assets\deepopinion.png)
+
+
 ## Overview
 
 DeepOpinion, recently rebranded as Otera, develops an agentic automation platform that transforms unstructured data from documents, emails, and tickets into automated business actions. Founded in 2018 in Innsbruck, Austria, by Stefan Engl, Ahmed Ghanim Al-Ali, Stefan Ramershoven, and Steve R, the company raised €11 million in Series A funding in 2024. Operating in 19 countries with over 70 employees, DeepOpinion serves major enterprises including Siemens, Allianz, Hannover Re, Erste Group, Bitpanda, Bayer, and Saab. The platform is certified SOC 2, GDPR compliant, and ISO 27001.

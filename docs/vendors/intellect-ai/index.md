@@ -2,6 +2,9 @@
 
 Intellect AI specializes in intelligent document processing and artificial intelligence solutions for automating document workflows across business applications.
 
+![Intellect AI](assets\intellect-ai.png)
+
+
 ## Overview
 
 Intellect AI provides intelligent document processing technology combining [OCR](../../capabilities/ocr/index.md), machine learning, and AI algorithms to automate document capture, [extraction](../../capabilities/extraction/index.md), and workflow processes. The platform focuses on processing structured, semi-structured, and unstructured documents to fuel business process automation across various enterprise applications. Intellect AI's solutions target organizations requiring automated document handling with high accuracy and efficiency for digital transformation initiatives.

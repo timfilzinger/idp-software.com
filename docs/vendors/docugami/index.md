@@ -2,6 +2,9 @@
 
 Docugami provides generative AI for business documents using patented technology that converts documents into XML Knowledge Graphs with hierarchical semantic chunking for enterprise-scale accuracy.
 
+![Docugami](assets\docugami.png)
+
+
 ## Overview
 
 Based in Kirkland, Washington, Docugami develops document AI that automatically transforms business documents into Knowledge Graphs of actionable data at enterprise scale. The company's patented Business Document Foundation Model uses multiple frequently-updated open-source LLMs to generate XML Knowledge Graphs capturing all information in complex business documents. Docugami's KG-RAG (Knowledge Graph-RAG) architecture with exclusive hierarchical semantic chunking through Contextual Semantic Labels (CSLs) breaks documents into chunks, identifies relevant sections, and labels each with deep understanding of organizational norms and terminology. The company has received grants from the U.S. National Science Foundation, NASA, and Mitacs (Canadian research organization), with Gartner citing Docugami as an example of Generative AI innovation beyond traditional IDP. In 2025, Docugami launched a Canadian subsidiary to expand operations.

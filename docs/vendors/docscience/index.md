@@ -2,6 +2,9 @@
 
 DocScience is an AI-powered document automation platform from Nexyom that accelerates workflows, reduces operational costs, and extracts insights from business documents.
 
+![DocScience](assets\docscience.png)
+
+
 ## Overview
 
 Developed by Nexyom in Folsom, California, DocScience provides intelligent document processing for organizations seeking to automate document-based workflows. Nexyom operates offices in both Folsom and Noida, India, focusing on AI/ML SaaS solutions, digital transformation, and automation. DocScience applies machine learning to extract structured data from unstructured business documents, enabling automated routing, analysis, and integration with downstream business systems.

@@ -2,6 +2,9 @@
 
 Cogent Labs is an AI company offering SmartRead, an AI-OCR platform for document recognition, classification, and handwriting digitization with 99.2% accuracy.
 
+![Cogent Labs](assets\cogent-labs.png)
+
+
 ## Overview
 
 Founded in 2014 and headquartered in Tokyo, Cogent Labs develops AI-powered document processing solutions. The company employs approximately 51-66 people from over 20 countries and has raised $42.7-48.4M across multiple funding rounds from investors including NTT Finance, 1Q Agile Lab, AIZAWA Investments, and Comture. Cogent Labs serves industries requiring handwriting recognition and document digitization.
@@ -41,7 +44,7 @@ Data entry teams leverage SmartVerify to validate and correct OCR results. The f
 
 ## Resources
 
-- [Website](https://www.cogent.co.jp/en/)
+- [Website](https://www.cogent.co.jp/)
 - [SmartRead Product Page](https://aismiley.co.jp/product/smartread/)
 
 ## Company Information

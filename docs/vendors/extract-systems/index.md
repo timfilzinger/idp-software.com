@@ -2,6 +2,9 @@
 
 Extract Systems is a Wisconsin-based provider of automated data extraction, redaction, and classification software specializing in healthcare and government document processing.
 
+![Extract Systems](assets\extract-systems.png)
+
+
 ## Overview
 
 Extract Systems, headquartered in Madison, Wisconsin, develops AI-powered document processing software for unstructured data management in healthcare and government sectors. The company has processed over 6 billion pages for 250+ customers across 41 states, maintaining zero reported data privacy or security breaches. Their platform combines OCR, machine learning, and customizable rule sets to automate data extraction, redaction, and indexing workflows. Core products include ID Shield for automated redaction and LabDE for healthcare laboratory data extraction, both integrating with electronic medical record systems via HL7 interfaces.

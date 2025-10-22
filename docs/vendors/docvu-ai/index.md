@@ -2,6 +2,9 @@
 
 DocVu.AI is an intelligent document processing platform specializing in mortgage, finance, and insurance document automation using AI and machine learning.
 
+![DocVu.AI](assets\docvu-ai.png)
+
+
 ## Overview
 
 DocVu.AI launched in June 2021 as a product of Visionet Systems, focusing on automated document processing for financial services. The platform processes over 138 million images monthly, serving the mortgage, finance, accounting, and insurance industries. Their solution handles structured, semi-structured, and unstructured documents including mortgage applications, tax returns, pay stubs, credit reports, and insurance claims. The platform combines [OCR](../../capabilities/ocr/index.md), computer vision, and AI/ML models for template-free document processing.

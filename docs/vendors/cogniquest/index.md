@@ -2,6 +2,9 @@
 
 Cogniquest is a context-aware document intelligence platform combining traditional AI and generative AI for intelligent document processing with human-like document understanding.
 
+![Cogniquest](assets\cogniquest.png)
+
+
 ## Overview
 
 Founded in 2022 and headquartered in Bengaluru, India, Cogniquest develops AI-powered document intelligence solutions. The company was founded by Satish Grampurohit (CEO), Girish N Kerodi (CBO), Subramanya Thejaswi (CPO), Nathaniel N (Head of Engineering), and Harsha A C (CTO). Cogniquest raised $1.2M in seed funding from Cedar IBSI Capital with participation from over 25 angel investors. The platform serves banking, financial services, insurance, pharma, healthcare, supply chain, and ESG sectors.

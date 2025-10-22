@@ -2,6 +2,9 @@
 
 DOConvert is a no-code IDP platform specializing in supply chain and manufacturing document automation, extracting data from complex B2B documents and integrating with digital records systems.
 
+![DOConvert](assets\doconvert.png)
+
+
 ## Overview
 
 Founded in 2021 by Avi Rafalson, Gal Or, and Dor Golan in Tel Aviv, DOConvert provides intelligent document processing for manufacturers, distributors, and supply chain companies. The platform automates data extraction from complex documents including purchase orders, invoices, bills of lading, and shipping documents, integrating extracted data directly into ERP and digital records systems. DOConvert's no-code approach combines OCR with AI-driven extraction to handle varying document formats without template configuration. The company began U.S. expansion in 2025, establishing Dallas as a key hub for engaging with American manufacturing and logistics companies.

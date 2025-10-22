@@ -2,6 +2,9 @@
 
 Reshape AI is an intelligent document processing provider offering no-code automation solutions for document, form, and email processing across banking, government, and insurance sectors.
 
+![Reshape AI](assets\reshape-ai.png)
+
+
 ## Overview
 
 Reshape AI provides a no-code platform for [document processing](../../capabilities/document-understanding/index.md) automation targeting business users without coding skills. The platform specializes in intelligent document processing, forms management, and XFA form conversion. The company serves banking, government, and insurance industries with solutions for loan applications, tax forms, quote generation, and policy management. The platform integrates with existing systems rather than requiring complete replacement.

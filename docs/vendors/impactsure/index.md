@@ -2,6 +2,9 @@
 
 Impactsure is a Mumbai-based AI/ML-powered intelligent document processing platform specializing in global trade compliance, banking, and financial services document automation.
 
+![Impactsure](assets\impactsure.png)
+
+
 ## Overview
 
 Founded in 2019 by Subramaniyan Neelakandan, Ashish Mohan Jha, and Dharmarajan Sankara Subrahmanian, Impactsure operates as a Web 3.0 SaaS company providing AI-driven solutions for enterprises and BFSIs. The company's core platform, SURE (Secure Unified Responsive Engine), combines AI, machine learning, and NLP to scan, process, classify, and extract data from structured and unstructured documents. Impactsure raised $1.02 million in funding with a current valuation of ₹32.5 crores. In 2024, the company launched SureMatch, a next-generation Agentic AI platform for global trade, at Mumbai's Global Fintech Festival. The platform processes complex documents in under 10 minutes while reducing manual efforts by over 80%.

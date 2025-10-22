@@ -2,6 +2,9 @@
 
 Paradatec is an AI-based document analysis provider with over 30 years of experience, specializing in OCR/ICR technology and mortgage document processing.
 
+![Paradatec](assets\paradatec.png)
+
+
 ## Overview
 
 Paradatec GmbH provides intelligent document analysis using AI, [OCR](../../capabilities/ocr/index.md), and ICR technologies for automated data [extraction](../../capabilities/extraction/index.md) from structured and unstructured documents. Founded in 1988 in Braunschweig, Germany, the company serves mortgage, insurance, financial services, and government sectors. The platform recognizes over 850 mortgage-specific document types and extracts over 8,500 data points using machine learning and pre-trained libraries. Clients include three of the 10 largest U.S. banks and four of the 10 largest servicers. The company released AI-Cloud version 8.0 in April 2022, hosted on Amazon Web Services.

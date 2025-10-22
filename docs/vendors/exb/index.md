@@ -2,6 +2,9 @@
 
 ExB is a Munich-based intelligent document processing platform provider specializing in AI-powered data extraction from unstructured documents across multiple industries.
 
+![ExB](assets\exb.png)
+
+
 ## Overview
 
 ExB Labs, founded in 2000, develops AI-based document processing software combining machine learning, natural language processing, and optical character recognition for enterprise document automation. The company's Cognitive Workbench uses deep learning and computer vision to create trainable modules for understanding any document type across industries and languages. ExB raised €9.5 million in funding led by Alstin Capital, with participation from Bayern Kapital and other investors. The platform serves healthcare, insurance, manufacturing, retail, banking, and logistics sectors, processing both digital and scanned documents including invoices, emails, customer inquiries, reports, order confirmations, claims, and forms.

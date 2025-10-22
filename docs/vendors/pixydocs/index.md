@@ -2,6 +2,9 @@
 
 Pixydocs is a SaaS-based IDP platform providing end-to-end document automation with custom neural network models and post-extraction workflow capabilities.
 
+![Pixydocs](assets\pixydocs.png)
+
+
 ## Overview
 
 Pixydocs provides an AI-driven workflow automation platform emphasizing flexibility and customization for document processing. Based in Lehi, Utah with 10 employees, the company focuses on automating not just data extraction but also post-extraction workflows. The platform builds custom machine learning models using neural networks for each project based on customer data. Pixydocs positions itself as addressing the most costly aspect of IDP: what customers do with extracted data after document processing. Customer testimonials report savings equivalent to two FTEs or $100,000 in the first 12 months.

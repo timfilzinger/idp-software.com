@@ -2,6 +2,9 @@
 
 Send AI is an intelligent document processing provider offering custom AI model development and document automation solutions for logistics, insurance, government, maritime, finance, and retail sectors using open-source models.
 
+![Send AI](assets\send-ai.png)
+
+
 ## Overview
 
 Send AI provides [document processing](../../capabilities/document-understanding/index.md) automation through self-learning AI models that customers train on their specific data. The platform extracts information from complex documents including low-quality scans, photographed paperwork, and lengthy PDFs. Send AI uses a combination of smaller open-source models rather than large commercial models like ChatGPT. The company operates on Google Cloud Platform infrastructure with ISO27001:2022 certification and GDPR compliance. Founded in Amsterdam in 2021 as Autopilot by Thom Trentelman and Philip Weijschede, the company raised €2.2M in pre-seed funding from Google's AI fund.

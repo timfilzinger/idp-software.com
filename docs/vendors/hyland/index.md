@@ -2,6 +2,9 @@
 
 Hyland puts companies' content to work, making it smarter and more accessible. The company specializes in content management and intelligent document processing solutions.
 
+![Hyland](assets\hyland.png)
+
+
 ## Overview
 
 Hyland provides content management solutions that make companies' content smarter and more accessible. Their platform focuses on intelligent content processing and management, enabling organizations to leverage their document content more effectively through advanced processing and accessibility features.

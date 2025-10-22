@@ -2,6 +2,9 @@
 
 EdgeVerve is an Infosys subsidiary providing enterprise automation and AI solutions including the AssistEdge RPA platform and XtractEdge document processing system.
 
+![EdgeVerve](assets\edgeverve.png)
+
+
 ## Overview
 
 EdgeVerve Systems Limited operates as a wholly owned subsidiary of Infosys, delivering AI-powered automation products to global enterprises. The company's portfolio spans robotic process automation through AssistEdge, intelligent document processing via XtractEdge, and supply chain management with TradeEdge. Serving financial services, insurance, retail, manufacturing, telecommunications, and life sciences sectors, EdgeVerve focuses on enterprise-scale deployments requiring security, compliance, and integration with existing IT infrastructure.

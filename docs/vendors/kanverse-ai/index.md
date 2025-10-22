@@ -2,6 +2,9 @@
 
 Kanverse.ai offers an AI-powered intelligent document processing platform for enterprises, specializing in invoice automation, insurance claims, and [extraction](../../capabilities/extraction/index.md) from structured and unstructured documents.
 
+![Kanverse.ai](assets\kanverse-ai.png)
+
+
 ## Overview
 
 Kanverse.ai provides a hyperautomation platform that digitizes document processing from ingestion through filing. The company's multi-stage AI engine combines computer vision, machine learning, natural language processing, fuzzy logic, and [OCR](../../capabilities/ocr/index.md) to automate document workflows. Kanverse.ai focuses on accounts payable, insurance, and financial services use cases, with specialized products for invoice processing, ACORD forms, and KYC/KYB documentation. The company has established partnerships with major platforms including Guidewire for insurance automation and UiPath for RPA integration.

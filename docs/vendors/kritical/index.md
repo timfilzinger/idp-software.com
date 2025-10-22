@@ -2,6 +2,9 @@
 
 Kritical is a construction correspondence management platform that organizes, parses, and searches construction letters for contract and claims management.
 
+![Kritical](assets\kritical.png)
+
+
 ## Overview
 
 Kritical provides a specialized platform for construction professionals to manage project correspondence and documentation. The system focuses on organizing construction letters and communications to support contract administration and claims processes. Users can upload correspondence directly or integrate Kritical with existing construction management tools. The platform's search capabilities enable construction teams to quickly locate relevant communications within large document repositories.

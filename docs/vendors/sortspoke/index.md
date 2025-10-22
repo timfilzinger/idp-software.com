@@ -2,6 +2,9 @@
 
 SortSpoke is an insurance-focused intelligent document processing provider offering AI-powered submission triage and data extraction for property and casualty carriers, managing general agents, and BPO firms.
 
+![SortSpoke](assets\sortspoke.png)
+
+
 ## Overview
 
 SortSpoke provides [document processing](../../capabilities/document-understanding/index.md) solutions specialized for insurance underwriting workflows. The Toronto-based platform uses large language models and machine learning to extract data from ACORD forms, loss runs, and statements of value. The human-in-the-loop approach maintains claimed 100% accuracy while processing submissions with human oversight. SortSpoke's rapid training technology allows enterprises to configure document extraction in less than one day for any document type in any language. Founded by Jasper Li in 2017, the company raised $4.55M in Series A funding in March 2022 from InsurTech NY, IDEA Fund Partners, SixThirty, ScaleUp Ventures, and MassChallenge.

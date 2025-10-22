@@ -1,6 +1,6 @@
 # AYR
 
-AYR is an intelligent document processing provider that develops the SingularityAI platform and patent-pending Intelligent Document Simulator for automated [document data extraction](../../capabilities/extraction/).
+AYR is an intelligent document processing provider that develops the SingularityAI platform and patent-pending Intelligent Document Simulator for automated [document data extraction](../../capabilities/extraction/index.md).
 
 ![AYR](./assets/ayr.png)
 
@@ -14,7 +14,7 @@ AYR employs a "2-2-4 deployment approach" focused on accelerating time-to-value 
 
 - **Intelligent Document Simulator (IDS) v3.0**: Patent-pending synthetic training data generator that creates document variations with altered layouts (column swapping, section shuffling) and content using proprietary language models
 - **AI Pathfinder Technology**: Patented rapid model training methodology that reduces training time from months to days
-- **SingularityAI Platform**: Machine learning-based platform for document [classification](../../capabilities/document-understanding/), data extraction, and workflow automation
+- **SingularityAI Platform**: Machine learning-based platform for document [classification](../../capabilities/document-understanding/index.md), data extraction, and workflow automation
 - **Layout Adaptation**: Generates document variations with horizontal and vertical section rearrangement to handle format evolution
 - **Content Variation**: Produces similar phrases and values using proprietary language models to simulate real-world document diversity
 

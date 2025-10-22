@@ -2,6 +2,9 @@
 
 DocBits is an AI-powered document processing platform from FELLOWPRO AG that extracts data from documents with claimed 96% accuracy using machine learning and OCR technology.
 
+![DocBits](assets\docbits.png)
+
+
 ## Overview
 
 Developed by FELLOWPRO AG in Poing, Germany, DocBits provides cloud-based intelligent document processing for enterprises. The platform processes structured, semi-structured, and unstructured documents across over 120 languages, extracting data at both header and line levels. DocBits employs AI swarm intelligence, where the system learns from input across multiple customer deployments to continuously improve [classification](../../capabilities/classification/index.md) and [extraction](../../capabilities/extraction/index.md) models. The solution integrates with ERP and CRM systems, with specialized connectors for Infor ERP environments.

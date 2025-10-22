@@ -2,6 +2,9 @@
 
 xSuite is a global SAP-certified accounts payable automation provider serving 300,000+ users processing 80+ million documents annually across 60 countries.
 
+![xSuite](assets\xsuite.png)
+
+
 ## Overview
 
 xSuite provides SAP-integrated AP invoice automation and procure-to-pay solutions for enterprises and public sector organizations. Founded in 1994 and headquartered in Ahrensburg, Germany with 300 employees across nine global locations (Europe, Asia, United States), the company specializes in digitizing and automating purchasing, accounts payable, ordering, and archiving processes within SAP environments. The platform operates in cloud and hybrid deployments with AI-driven invoice capture and processing capabilities. xSuite acquired tangro in January 2025, adding inbound document management to its portfolio. Backed by 3i Group, notable customers include BERNER Group, Dole, Lionsgate, and Crocs.

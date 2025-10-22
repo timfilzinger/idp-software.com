@@ -2,6 +2,9 @@
 
 Convr is an AI underwriting workbench for commercial property and casualty insurance, offering Intake AI for automated submission processing and document digitization with 97% accuracy.
 
+![Convr](assets\convr.png)
+
+
 ## Overview
 
 Founded in 2016 by underwriters Harish Neelamana and Kuldeep Malik, Convr develops AI-powered solutions for commercial P&C insurance underwriting. The company raised $15-18.2M from investors including Altos Ventures, NFP Ventures, Palm Drive Capital, and Stage 2 Capital. Convr's platform processes millions of insurance documents annually, serving underwriters with automated submission intake, risk analysis, and straight-through processing capabilities.

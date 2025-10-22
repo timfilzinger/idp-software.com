@@ -2,6 +2,9 @@
 
 super.AI is an unstructured data processing platform provider offering intelligent document processing with multi-format redaction, human-in-the-loop workflows, and integration of multiple AI models including GPT-4 for processing documents, images, audio, video, and text.
 
+![super.AI](assets\super-ai.png)
+
+
 ## Overview
 
 super.AI provides the Unstructured Data Processing (UDP) Platform combining [intelligent document processing](../../capabilities/document-understanding/index.md), human-in-the-loop validation, and multi-format redaction capabilities. The San Francisco-based platform processes structured, semi-structured, and unstructured documents including handwritten notes, signatures, logos, and stamped approvals. The UDP Platform integrates multiple AI models including GPT-4 and breaks extraction into manageable tasks routed to software, AI, and human experts. Founded in 2018 as Canotic, super.AI raised $30.13M in Series B funding from Mosaic Ventures, Pioneer Square Labs Ventures, HV Capital, NFX, and East Ventures.

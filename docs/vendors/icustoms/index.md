@@ -2,6 +2,9 @@
 
 iCustoms is a London-based AI-powered customs declaration automation platform specializing in trade compliance management for importers, exporters, customs brokers, and logistics providers.
 
+![iCustoms](assets\icustoms.png)
+
+
 ## Overview
 
 Founded by a former HMRC member, iCustoms delivers an AI-driven Trade Compliance Management Platform that automates customs declaration workflows for international trade businesses. The platform uses AI and [OCR](../../capabilities/ocr/index.md) for intelligent document processing, extracting keywords from commercial invoices, trade receipts, and bills of lading to auto-populate customs forms. Operating from London, iCustoms supports UK Customs Declaration Service (CDS) integration directly with HMRC systems. The platform processes declarations in 3 minutes with claimed 99% accuracy, helping organizations save up to 70% in time and costs while reducing human errors in customs compliance workflows.

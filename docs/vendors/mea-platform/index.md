@@ -2,6 +2,9 @@
 
 Mea Platform provides an AI-powered workflow platform for insurance and reinsurance operations, specializing in automated underwriting document processing and submission management.
 
+![Mea Platform](assets\mea-platform.png)
+
+
 ## Overview
 
 Mea Platform delivers agentic AI solutions designed specifically for the insurance industry, transforming underwriting and placement workflows. The platform extracts unstructured data from submission documents and converts it into structured formats for analysis and decision-making. Mea Platform enables underwriters to reduce manual document processing time and focus on risk selection and business development. The company has established partnerships with major insurers including The Hartford and AXIS, who use the platform for submission automation and underwriting process improvement.

@@ -2,6 +2,9 @@
 
 ITyX Solutions AG is a German provider of intelligent document processing solutions offering [OCR](../../capabilities/ocr/index.md), ICR, and AI-based document capture for automating text-based business processes.
 
+![ITyX Solutions AG](assets\ityx-solutions-ag.png)
+
+
 ## Overview
 
 Founded in 1996, ITyX Solutions AG specializes in intelligent digitization of written communication in companies. The company serves over 200 organizations across 24 countries, providing document processing solutions in 18 languages. Their AI Platform enables automated extraction and processing of unstructured text from documents, emails, and forms through machine learning-based recognition technologies.

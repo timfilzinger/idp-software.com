@@ -2,6 +2,9 @@
 
 BIS is the creator of Grooper, an intelligent data platform with 35 years of experience. The company specializes in data capture and document processing solutions, though they are noted as potentially not being a real IDP vendor.
 
+![Grooper](assets\grooper.png)
+
+
 ## Overview
 
 BIS has been in the document processing industry for over three decades, developing Grooper as their flagship intelligent data platform. The company focuses on data capture and document processing technologies, though their classification as an IDP vendor may be subject to verification.

@@ -2,6 +2,9 @@
 
 HubBroker ApS is a Danish EDI and integration platform provider offering API, MFT, B2B/EDI, IoT, e-invoicing, and SAP/ERP connectivity solutions for European businesses.
 
+![HubBroker ApS](assets\hubbroker-aps.png)
+
+
 ## Overview
 
 HubBroker ApS, based in Hørsholm, Denmark, operates as an iPaaS (Integration Platform as a Service) provider delivering accurate, scalable, and secure EDI data integration. The platform unifies API, managed file transfer, B2B/EDI, IoT, e-invoicing, and ERP integration requirements into a single solution. HubBroker supports EDIFACT, PEPPOL, ANSI X12 standards alongside AS2, sFTP, email, API, and database protocols. With exchange capabilities for over 50,000 Danish and foreign endpoints, HubBroker integrates with accounting platforms including e-conomic, Uniconta, Dinero, Billy, Microsoft Dynamics, SAP, Visma, Oracle, and Tradeshift. The platform features no-code workflow configuration, real-time data syncing, and customizable validation.

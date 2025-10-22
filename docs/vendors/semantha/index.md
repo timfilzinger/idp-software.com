@@ -2,6 +2,9 @@
 
 Semantha is a semantic AI platform by ThingsTHINKING offering [document processing](../../capabilities/document-understanding/index.md) and enterprise search solutions using natural language processing technology developed from Karlsruhe Institute of Technology research.
 
+![Semantha](assets\semantha.png)
+
+
 ## Overview
 
 Semantha provides semantic analysis capabilities for processing unstructured text documents across multiple languages without requiring machine learning training. The platform transforms unstructured data into structured information through semantic understanding and enterprise search. ThingsTHINKING developed Semantha based on over 14 years of research in natural language processing and AI at Karlsruhe Institute of Technology. The company serves automotive, chemicals, insurance, legal, and tax industries with solutions for contract analysis, requirements management, and compliance workflows. Aleph Alpha acquired ThingsTHINKING in April 2025.

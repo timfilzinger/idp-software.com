@@ -2,6 +2,9 @@
 
 DocuSign is a company that specializes in intelligent document processing and digital signature solutions. The company focuses on creating intelligent automation for document workflows.
 
+![DocuSign](assets\docusign.png)
+
+
 ## Overview
 
 DocuSign provides intelligent document processing and digital signature solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, sign, and manage documents across various business applications with high security and efficiency.

@@ -2,6 +2,9 @@
 
 DocAcquire is a cloud-based intelligent document processing platform that automates data extraction from invoices, contracts, and business documents.
 
+![DocAcquire](assets\docacquire.png)
+
+
 ## Overview
 
 DocAcquire provides an AI-powered document processing platform that extracts data from multiple document types without requiring prior training. Founded in 2017 and headquartered in London, the company serves businesses across finance, logistics, insurance, HR, and healthcare sectors. The platform supports documents from USA, UK, UAE, and Saudi Arabia regions.

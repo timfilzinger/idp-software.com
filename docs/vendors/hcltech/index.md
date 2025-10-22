@@ -2,6 +2,9 @@
 
 HCLTech is a company that specializes in intelligent document processing and IT services solutions. The company focuses on creating intelligent automation for document workflows.
 
+![HCLTech](assets\hcltech.png)
+
+
 ## Overview
 
 HCLTech provides intelligent document processing and IT services solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, manage, and optimize documents across various business applications with high efficiency and reliability.

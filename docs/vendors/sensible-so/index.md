@@ -2,6 +2,9 @@
 
 Sensible is a developer-focused document processing platform offering API-based extraction services with LLM parsing and visual layout rules for converting unstructured documents into structured data.
 
+![Sensible.so](assets\sensible-so.png)
+
+
 ## Overview
 
 Sensible provides a [document processing](../../capabilities/document-understanding/index.md) API for developers to extract data from PDFs, emails, and spreadsheets. The platform offers 150+ pre-configured document parsers alongside custom configuration capabilities using LLM parsing and visual layout-based rules. Sensible supports development and production environments with versioning, webhooks, and SDKs for JavaScript and Python. The company operates on AWS infrastructure with multi-region deployment and enterprise-grade performance. Founded in San Francisco in 2020, Sensible raised $8M in funding led by Craft Ventures with participation from Engineering Capital and Clocktower Technology Ventures.

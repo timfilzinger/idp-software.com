@@ -2,6 +2,9 @@
 
 Captova Technologies provides high-speed [intelligent document processing](../../capabilities/document-understanding/index.md) for secure and business environments with processing speeds exceeding 100 pages per second.
 
+![Captova Technologies](assets\captova-technologies.png)
+
+
 ## Overview
 
 Founded in Vancouver, British Columbia, Canada, by CEO Mohamed Talib, Captova Technologies delivers IDP solutions for secret, classified, and business documents with focus on privacy, accuracy, speed, and security (PASS criteria). The company offers the Captova IDP Engine processing 6,000 pages per minute (360,000 pages/hour) and Scanov, a QuickBooks Online data capture integration. Captova's unique pricing model eliminates per-page fees, charging based on server size with maintenance fees.

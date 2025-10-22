@@ -2,6 +2,9 @@
 
 Notable Systems is a healthcare automation company providing AI-powered document processing for DME and HME revenue cycle management, reducing manual data entry costs.
 
+![Notable Systems](assets\notable-systems.png)
+
+
 ## Overview
 
 Notable Systems specializes in automating healthcare revenue cycle workflows for durable medical equipment (DME) and home medical equipment (HME) providers. Founded in 2015, the company uses proprietary AI and machine learning models to extract patient, provider, payor, and diagnosis information from healthcare documents. The platform handles handwritten and unstructured documents with HIPAA-compliant technology, serving healthcare organizations, manufacturers, hospital systems, and revenue cycle management providers. Notable Systems raised $8.8 million in Series A funding in July 2024.

@@ -2,6 +2,9 @@
 
 Evolution AI is a London-based provider of NLP-powered data extraction solutions specializing in contract analysis and financial document processing for enterprises.
 
+![Evolution AI](assets\evolution-ai.png)
+
+
 ## Overview
 
 Evolution AI develops natural language processing systems for extracting structured data from unstructured text, with particular focus on legal contracts and financial documents. Founded in 2015, the company processes over 1.5 million pages daily for clients including NatWest, Deutsche Bank, and Dun & Bradstreet. Their platform combines visual reasoning with NLP to interpret document layouts, tables, and semantic context similar to human comprehension. The technology handles complex document formats such as quarterly reports, balance sheets, profit and loss statements, account statements, and invoices.

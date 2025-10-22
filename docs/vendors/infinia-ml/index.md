@@ -2,6 +2,9 @@
 
 Infinia ML is a Durham, North Carolina-based intelligent document processing platform provider, acquired by healthcare revenue cycle management company Aspirion in 2023.
 
+![Infinia ML](assets\infinia-ml.png)
+
+
 ## Overview
 
 Founded in Durham, North Carolina, Infinia ML developed machine learning-powered intelligent document processing for healthcare, life sciences, financial services, legal, and compliance sectors. The company's platform used ML algorithms to extract data from complex documents, enabling enterprises to identify trends, improve processes, and make data-driven decisions. In September 2023, Aspirion, a Columbus, Georgia-based healthcare revenue cycle management provider, acquired Infinia ML for undisclosed terms. Infinia ML now operates as Aspirion's research and development engine, focusing on improving financial performance for healthcare providers through AI-powered document processing. The acquisition marked Aspirion's eighth successful transaction in five years and first technology asset acquisition. Prior to acquisition, Aspirion and Infinia ML partnered on projects demonstrating positive impacts for healthcare clients.

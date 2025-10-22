@@ -2,6 +2,9 @@
 
 4Semantics is a Polish intelligent document processing provider that develops the SensID Cognitive Automation platform for automated [document data extraction](../../capabilities/extraction/index.md) and workflow automation.
 
+![4Semantics](assets\4semantics.png)
+
+
 ## Overview
 
 Founded in 2018 by Tomasz Rzezniczak and headquartered in Bialystok, Poland, 4Semantics develops cognitive automation solutions for document-intensive industries. The company secured funding from Full Speed Ventures and focuses on serving finance, e-commerce, and logistics sectors. Their primary product, SensID Cognitive Automation, claims to reduce manual document handling by over 80%.

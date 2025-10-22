@@ -2,6 +2,9 @@
 
 Indico Data is a Boston-based intelligent document processing provider offering transfer learning-powered automation for unstructured data intake across insurance, financial services, and healthcare sectors.
 
+![Indico Data](assets\indico-data.png)
+
+
 ## Overview
 
 Founded in 2014 and headquartered at 55 Court Street, Boston, Indico Data develops AI solutions for automated document processing using breakthrough transfer learning technology. The company raised $55.63 million total funding across Series C rounds, including a $19 million round in June 2024 with strategic investment from Guidewire and a $22 million Series B in December 2020 co-led by Sandbox Ventures. Investors include .406 Ventures, Osage Venture Partners, Jump Capital, and Sandbox Industries. Indico's platform combines discriminative and generative AI for intelligent intake, enabling organizations to train machine learning models with orders of magnitude less data than traditional rule-based techniques. The company serves insurance carriers, financial institutions, and healthcare providers requiring high-speed, high-accuracy document processing.

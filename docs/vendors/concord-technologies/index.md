@@ -2,6 +2,9 @@
 
 Concord Technologies is a healthcare document processing company offering Concord Connect, a straight-through processing platform combining cloud fax, intelligent document processing, and workflow automation.
 
+![Concord Technologies](assets\concord-technologies.png)
+
+
 ## Overview
 
 Founded in 1996 and headquartered in Seattle, Washington, Concord Technologies specializes in secure document exchange and intelligent document processing for healthcare providers, payers, and regulated industries. The company processes over 5 billion pages of protected health data annually across its digital health network, providing solutions for document transmission, automated routing, and system integration.
@@ -24,7 +27,7 @@ Hospitals and health systems deploy Concord Connect for automated patient docume
 Payers use Concord Technologies for claims document automation. The system processes incoming claims via fax and email, extracts patient and policy data, and integrates directly into claims management systems with minimal manual intervention.
 
 ### EHR Integration
-Healthcare organizations leverage Concord Connect to automate document delivery into electronic health records. The platform handles secure transmission, automated routing, and [integration](../../capabilities/integration-and-workflow/index.md) of documents directly into systems of record through API connections.
+Healthcare organizations leverage Concord Connect to automate document delivery into electronic health records. The platform handles secure transmission, automated routing, and [integration](../../capabilities/integration-workflow/index.md) of documents directly into systems of record through API connections.
 
 ## Technical Specifications
 

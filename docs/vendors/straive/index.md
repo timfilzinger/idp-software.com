@@ -2,6 +2,9 @@
 
 Straive is a content technology provider offering intelligent document processing through its cloud-native Straive Data Platform for unstructured data management and AI-powered extraction.
 
+![Straive](assets\straive.png)
+
+
 ## Overview
 
 Straive provides [document processing](../../capabilities/document-understanding/index.md) through its proprietary Straive Data Platform with microservices-based cloud-native architecture. Formerly SPi Global, the company processes unstructured data from PDFs, emails, Word files, annual reports, sustainability reports, scanned PDFs, images, and diagrams using AI and machine learning. The platform offers customizable data extraction, enrichment, transformation, and delivery modules. Straive operates Straive Innovation Labs for R&D and co-creation with customers. Founded in 1980 in the Philippines as Saztec Philippines Inc., the company rebranded from SPi Global to Straive in April 2021 and was acquired by EQT for $1B in August 2021.

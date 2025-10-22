@@ -2,6 +2,9 @@
 
 Square 9 Softworks is an intelligent information management provider offering the GlobalSuite platform with generative AI-powered document capture, enterprise content management, and business process automation for healthcare, education, government, and finance sectors.
 
+![Square 9 Softworks](assets\square-9-softworks.png)
+
+
 ## Overview
 
 Square 9 Softworks provides [document processing](../../capabilities/document-understanding/index.md) through its GlobalSuite platform including GlobalCapture, GlobalSearch, GlobalAction, and GlobalForms. The New Haven-based company uses generative AI to extract data from scanned images, digital records, and forms across accounts payable, vendor onboarding, order processing, and contracts management workflows. The platform offers cloud-based deployment with encrypted storage and SOC 2 and HIPAA compliance. Founded in 2006 as an independent company after operating as a division of InfiNet Business Systems since 2001, Square 9 Softworks serves over 15,000 customers globally with a team across North America, Asia, and South America.

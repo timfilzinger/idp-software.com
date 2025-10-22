@@ -2,6 +2,9 @@
 
 Extractly.ai is an Australian AI-powered financial document processing platform specializing in PDF data extraction and financial statement validation for accounting professionals.
 
+![Extractly.ai](assets\extractly-ai.png)
+
+
 ## Overview
 
 Founded in 2021 in North Wollongong, Australia, by CEO Alastair Raphael, Extractly.ai developed AI solutions for automating accounting and audit workflows. The company's two main products—Extractly+ for PDF-to-Excel data extraction with document matching, and Validate for automated financial statement review—served accounting firms including BDO Australia. In January 2025, Toronto-based Caseware acquired Extractly.ai, integrating the Australian team and technology into Caseware's global accounting software platform. BDO Australia reported that Extractly.ai revolutionized their financial statement review processes over a three-year partnership.

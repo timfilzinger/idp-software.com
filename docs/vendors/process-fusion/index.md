@@ -2,6 +2,9 @@
 
 Process Fusion is a cloud-based document processing provider serving 10,000+ customers with AI-powered extraction, classification, and RPA capabilities.
 
+![Process Fusion](assets\process-fusion.png)
+
+
 ## Overview
 
 Process Fusion provides cloud and mobile applications for secure document input, processing, and output management bridging physical and digital workflows. Based in Toronto with offices in Newport, UK and Chennai, India, the company serves over 10,000 customers worldwide, particularly in healthcare and mid-to-large enterprises. The platform uses AI-powered document processing to extract, classify, and validate information from paper, email, and digital files, incorporating machine learning and RPA to reduce manual errors and workflow costs.

@@ -2,6 +2,9 @@
 
 Mely.ai is a Canadian intelligent document processing provider specializing in template-free data extraction for logistics, customs, and transportation industries.
 
+![Mely.ai](assets\mely-ai.png)
+
+
 ## Overview
 
 Founded in 2020 and based in Montreal, Quebec, Mely.ai Technologies develops AI-powered document processing solutions using machine learning and natural language processing. The company initially focused on transportation, logistics, and customs brokerage sectors before expanding to become market-agnostic in 2024. Mely.ai's platform extracts and structures data from documents without requiring templates, processing diverse document types across industries. The company has been recognized as one of Canada's Top 100 AI Startups by AI Supercluster and won the AI Challenge for turnkey solutions at the ALL IN event. Notable partnerships include the Port of Montreal, which deployed Mely.ai's IDP technology to automate port documentation workflows.

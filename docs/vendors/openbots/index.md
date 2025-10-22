@@ -2,6 +2,9 @@
 
 OpenBots is a business automation platform providing zero-bot-license RPA and IDP capabilities with consumption-based pricing and GPT integration.
 
+![OpenBots](assets\openbots.png)
+
+
 ## Overview
 
 OpenBots provides a business automation platform combining RPA and intelligent document processing with a zero-bot licensing model. Founded in 2020, the company offers consumption-based pricing where organizations pay only for usage without bot counting or scalability limits. The platform integrates GPT technology for document automation and includes pre-built extraction models for mortgage, insurance, immigration, and common documents like IDs, licenses, passports, and invoices. OpenBots serves healthcare revenue cycle management and other enterprise sectors with HIPAA and SOC2 compliance certifications. The company raised $15-20M in funding through 2022.

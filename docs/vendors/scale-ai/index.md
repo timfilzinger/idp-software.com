@@ -2,6 +2,9 @@
 
 Scale AI is a data annotation and AI training platform provider offering document processing solutions alongside data labeling services for training machine learning models across autonomous vehicles, retail, government, and enterprise applications.
 
+![Scale AI](assets\scale-ai.png)
+
+
 ## Overview
 
 Scale AI operates a data annotation platform supporting images, video, text, audio, LiDAR, and point cloud data types. The company provides Scale Document AI for [document processing](../../capabilities/document-understanding/index.md) using adaptive machine learning models. The platform serves logistics, financial services, government, and healthcare sectors with template-free document extraction. Scale AI partners with major technology companies and AI labs for training large language models through RLHF, data generation, and model evaluation services. The company is based in San Francisco and raised $14.8 billion from Meta in June 2025 for a 49% stake.

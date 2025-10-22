@@ -2,6 +2,9 @@
 
 Moresophy is a German AI solutions provider specializing in analyzing unstructured data with its proprietary CONTEXTSUITE platform and enterprise knowledge management tools.
 
+![Moresophy](assets\moresophy.png)
+
+
 ## Overview
 
 Moresophy GmbH provides AI solutions for analyzing unstructured data and automating business processes using proprietary, GDPR-compliant technology. With over 20 years of experience, the company serves enterprise clients including PwC, Deutsche Telekom, Accenture, and Haufe-Lexware. The company emphasizes transparent AI solutions developed in Germany with open source-based, self-developed AI models that comply with GDPR, KRITIS, DORA, and the EU AI Act regulations.

@@ -2,6 +2,9 @@
 
 Docusense is a generative AI-powered IDP solution on AWS that transforms unstructured documents into structured data with real-time and batch processing capabilities.
 
+![Docusense](assets\docusense.png)
+
+
 ## Overview
 
 Docusense provides intelligent document processing powered by Generative AI, delivered through AWS Marketplace by Strata Analytics. The platform processes unstructured document content and transforms it into structured, actionable data by combining machine learning with human oversight for speed and accuracy. Docusense adapts to diverse processing needs through AWS Lambda, S3, and Kinesis for real-time and batch document workflows. The solution eliminates manual document review, enhances document analysis for business purposes, ensures compliance through validation and critical data extraction, and converts unstructured documents into formats for business system integration.

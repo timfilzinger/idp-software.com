@@ -2,6 +2,9 @@
 
 Staple AI is a self-learning document processing platform offering template-free extraction in 200+ languages with Google Cloud infrastructure for enterprises processing invoices, contracts, ID cards, and data files.
 
+![Staple AI](assets\staple-ai.png)
+
+
 ## Overview
 
 Staple AI provides [document processing](../../capabilities/document-understanding/index.md) powered by computer vision, machine learning, NLP, and OCR technology. The Singapore-based platform automatically classifies documents, extracts data including line items and tabular information, and matches up to five documents for comparison. Staple AI processes documents from multiple sources including Dropbox, Google Drive, email, and WhatsApp. The system uses Google Cloud Vision API for OCR, Cloud Translation API, and Gemini Flash on Vertex AI with BigQuery and Kubernetes Engine as infrastructure foundation. Founded in 2018 by Josh Kettlewell and Ben Stein, the company raised $4M from Wavemaker Partners, SAP.iO, and Delivery Hero Ventures.

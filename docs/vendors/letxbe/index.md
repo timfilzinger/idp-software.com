@@ -2,6 +2,9 @@
 
 Letxbe is a French no-code intelligent document processing and case management platform with AI Act and GDPR compliance, featuring sovereign LLM hosting in France.
 
+![Letxbe](assets\letxbe.png)
+
+
 ## Overview
 
 Operated by LETXBE SAS and based in Paris, Letxbe provides a no-code platform for document processing and workflow automation with regulatory compliance built-in. The platform emphasizes data sovereignty through 100% French hosting and HDS (Hébergeur de Données de Santé) certification for healthcare data. Letxbe's AI capabilities include document recognition, automatic [classification](../../capabilities/classification/index.md), data [extraction](../../capabilities/extraction/index.md), and intent detection from emails and forms. The system integrates with document management systems, CRMs, and ERPs to automate data flow across enterprise applications.

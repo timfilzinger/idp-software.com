@@ -2,6 +2,9 @@
 
 WorkFusion is a company that specializes in intelligent document processing and intelligent automation solutions for Fortune 500 enterprises. The company focuses on creating intelligent automation for document workflows.
 
+![WorkFusion](assets\workfusion.png)
+
+
 ## Overview
 
 WorkFusion provides intelligent document processing and intelligent automation solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, analyze, and manage documents across Fortune 500 enterprise applications with high accuracy and efficiency.

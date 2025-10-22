@@ -2,6 +2,9 @@
 
 deepset is a Berlin-based AI company providing the open-source Haystack framework for building production-ready AI applications, including RAG systems, semantic search, and intelligent document processing.
 
+![deepset](assets\deepset.png)
+
+
 ## Overview
 
 deepset develops Haystack, an open-source AI orchestration framework that enables developers to build customizable LLM applications. Founded in 2018 by Milos Rusic, Malte Pietsch, and Timo Möller, deepset serves enterprises across financial services, media, legal, manufacturing, government, healthcare, and retail sectors. The company was named a Gartner Cool Vendor in AI Engineering in 2024. With over 4,000 Discord community members and 300+ GitHub contributors, Haystack is used by Global 500 companies including Airbus, Intel, Netflix, and Apple. deepset also offers the deepset AI Platform for enterprise deployments and recently launched Haystack Enterprise with private engineering support.

@@ -2,6 +2,9 @@
 
 Insiders Technologies is a Kaiserslautern, Germany-based cognitive process automation provider specializing in deep learning-powered document processing with over 5,000 customers across multiple industries.
 
+![Insiders Technologies](assets\insiders-technologies.png)
+
+
 ## Overview
 
 Insiders Technologies GmbH operates as a leading technology provider and established market leader in intelligent business process automation software, employing over 200 staff across locations in Kaiserslautern, Berlin, Koblenz, and Munich. As the most successful spin-off of the German Research Center for Artificial Intelligence (DFKI), Insiders Technologies serves more than 5,000 customers from all industries. The company specializes in Cognitive Process Automation using deep learning and LLM technologies to understand heterogeneous content, extract business-relevant information, automate transactions, and shorten response times. Core applications include 360° Invoice Management supporting all input channels and e-invoice formats including ZUGFeRD and XRechnung. The platform serves insurance, healthcare, banking, and public sector organizations requiring automated document-centric workflows.

@@ -2,6 +2,9 @@
 
 Docufai is a generative AI document assistant from Ripcord that delivers instant answers from documents through natural language queries, supporting multilingual content without hallucination.
 
+![Docufai](assets\docufai.png)
+
+
 ## Overview
 
 Launched in beta in November 2023, Docufai is developed by Ripcord in Hayward, California. The platform uses large language models enhanced with integrated knowledge bases, logical rules, and structured inputs to provide accurate information retrieval from enterprise documents. Unlike content generation tools, Docufai focuses on accelerating access to existing information through natural language questioning and automatic summarization. The system processes documents in multiple languages, allowing users to query in any language regardless of the original document language. Docufai is built on Ripcord's document intelligence platform used by MUFG Bank, Warner Media, Coca-Cola, and the IRS, providing enterprise-grade security and scale.

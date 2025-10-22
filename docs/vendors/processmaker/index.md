@@ -2,6 +2,9 @@
 
 ProcessMaker is a low-code iBPMs platform provider serving 350 customers including Fortune 100 companies with workflow automation and business process management solutions.
 
+![ProcessMaker](assets\processmaker.png)
+
+
 ## Overview
 
 ProcessMaker provides a low-code intelligent Business Process Management System (iBPMs) enabling citizen developers and IT teams to design and automate business processes. Founded in 2000 and headquartered in Durham, North Carolina, the company serves Fortune 100 companies including TNT, Sony, and Ahold. The platform operates across 35 countries through its partner network. ProcessMaker empowers business analysts to collaborate with IT to automate complex processes connecting people and existing systems without coding experience, using visual process designers and drag-and-drop interfaces.

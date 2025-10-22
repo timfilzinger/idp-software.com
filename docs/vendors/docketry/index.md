@@ -2,6 +2,9 @@
 
 Docketry is an intelligent document processing platform built with AI/ML models providing claimed 95% accuracy and 7x faster processing for BFSI, healthcare, logistics, manufacturing, and retail industries.
 
+![Docketry](assets\docketry.png)
+
+
 ## Overview
 
 Headquartered in Cranbury, New Jersey, Docketry provides cloud-based IDP that processes structured, semi-structured, and unstructured documents including forms, receipts, invoices, ID cards, contracts, and reports. The platform offers flexible deployment options including cloud, on-premises, and fully managed SaaS, with API and SDK integration packages for existing workflows. Docketry combines template-free processing with human-in-the-loop validation, delivering claimed 95% accuracy with 60% cost savings and 80% error reduction compared to manual processing. The solution integrates with UiPath's automation platform via the UiPath Marketplace.
@@ -10,7 +13,7 @@ Headquartered in Cranbury, New Jersey, Docketry provides cloud-based IDP that pr
 
 - **Template-Free Processing**: Handles complex documents of any layout without configuration or training, processing new document types automatically
 - **Document [Classification](../../capabilities/classification/index.md) and Capture**: Automatically categorizes documents and extracts data with secure processing protocols
-- **Advanced Capabilities**: Document [summarization](../../capabilities/summarization/index.md) extracts key information from complex documents, sentiment analysis evaluates document tone, and keyword search locates specific documents
+- **Advanced Capabilities**: Document summarization extracts key information from complex documents, sentiment analysis evaluates document tone, and keyword search locates specific documents
 - **Fraud Detection**: Analyzes documents for fraudulent patterns and anomalies in financial and identity documents
 - **Flexible Deployment**: Available as cloud, on-premises, or fully managed SaaS with easy setup
 - **API/SDK Integration**: Seamless integration into existing workflows with RESTful APIs and customization via SDKs

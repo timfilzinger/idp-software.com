@@ -2,6 +2,9 @@
 
 Cinnamon AI is an enterprise AI company offering Flax Scanner, an AI-OCR platform for automated data extraction from unstructured documents without template definition.
 
+![Cinnamon AI](assets\cinnamon-ai.png)
+
+
 ## Overview
 
 Founded in 2012 in Tokyo, Cinnamon AI develops intelligent document processing and knowledge management solutions. The company operates across four continents with approximately 119 employees and serves over 50 enterprise customers including Toyota, Sumitomo Pharma, Fujitsu, and Daikin. Cinnamon AI raised $39M in Series C funding in April 2020.

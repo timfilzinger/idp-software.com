@@ -2,6 +2,9 @@
 
 ibml is a Birmingham, Alabama-based provider of enterprise document scanning, intelligent capture automation, and production mail solutions serving banking, healthcare, insurance, and government sectors globally.
 
+![ibml](assets\ibml.png)
+
+
 ## Overview
 
 ibml, headquartered in Birmingham, Alabama, operates as a world leader in high-volume intelligent capture automation with over 30 years of industry experience. The company employs 250+ staff globally, serving enterprises across 48 countries. ibml's solutions encompass document scanning hardware and software, data capture, intelligent document processing, and production mail equipment. The company's products appear in over 80% of the world's top mailrooms. Core business divisions include document scanning technology, business process outsourcing (remittance processing, healthcare revenue cycle management, disaster recovery imaging, general scanning services), and production mail automation. Major clients span banking, financial services, insurance, healthcare, government, and business process outsourcing organizations.

@@ -3,6 +3,9 @@
 
 Epson is a global technology company that offers document scanning and processing solutions as part of its broader hardware and software portfolio.(./assets/Epson](./assets/epson.png)
 
+![Epson](assets\epson.png)
+
+
 ## Overview
 
 Epson provides a range of document scanning hardware and software solutions that enable organizations to digitize, process, and manage their documents efficiently. Their offerings include high-performance scanners and document management software designed to streamline document-centric workflows and facilitate digital transformation initiatives.

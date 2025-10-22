@@ -2,6 +2,9 @@
 
 EXL is a global analytics and digital solutions company. The company specializes in global analytics and digital transformation solutions including document processing capabilities.
 
+![EXL](assets\exl.png)
+
+
 ## Overview
 
 EXL is a global analytics and digital solutions company that provides comprehensive digital transformation services. Their platform combines analytics capabilities with digital solutions, including intelligent document processing and data analytics for enterprise organizations worldwide.

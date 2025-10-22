@@ -2,6 +2,9 @@
 
 Deep Cognition is a Dallas-based AI company providing automated data entry solutions through its PaperEntry AI platform, specializing in customs and logistics documentation.
 
+![Deep Cognition](assets\deep-cognition.png)
+
+
 ## Overview
 
 Deep Cognition develops PaperEntry AI, a generative AI-powered intelligent document processing platform that automates complex data entry for customs brokerage, logistics, and cross-border trade. Founded in 2017 by Mandeep Kumar, the company has processed over one million pages across 10 countries, saving more than one million human hours. Deep Cognition secured $1.25 million in funding in 2023 from investors including Mark Cuban, Baylor Angel Network, and TiE Angels from Dallas and Silicon Valley.

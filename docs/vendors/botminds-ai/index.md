@@ -2,6 +2,9 @@
 
 Botminds AI is a no-code agentic AI platform provider offering [intelligent document processing](../../capabilities/document-understanding/index.md) with proprietary AI algorithms and integrated document automation.
 
+![Botminds AI](assets\botminds-ai.png)
+
+
 ## Overview
 
 Founded in 2015 and based in Bellevue, Washington, Botminds Inc. positions itself as providing the world's first integrated platform for document understanding and IDP. The company built its proprietary technology stack including custom AI algorithms, leveraging deep learning and NLP for document processing. Botminds serves finance and accounting, legal and compliance, operations, life sciences, research, risk and governance, and sales support sectors with its no-code enterprise automation platform.

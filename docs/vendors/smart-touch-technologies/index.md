@@ -2,6 +2,9 @@
 
 Smart Touch Technologies is a Romanian deep tech startup offering the Apollo intelligent document processing platform for automated document collection, AI-powered extraction, and business system integration across retail, logistics, and accounting sectors.
 
+![Smart Touch Technologies](assets\smart-touch-technologies.png)
+
+
 ## Overview
 
 Smart Touch Technologies provides Apollo, a [document processing](../../capabilities/document-understanding/index.md) platform for B2B data exchange automation. The platform collects documents from email, ERP systems, browsers, and Google Drive, processing PDF, PNG, DOCX, JPG, and handwritten documents. Apollo uses AI to extract data from non-standardized documents with human-in-the-loop validation workflows. The Bucharest-based startup serves retail, transport and logistics, real estate, accounting, fuel distribution, and archiving industries. Founded in November 2020 by Octavian Radu and Decebal Popescu, the company holds ISO 9001 and ISO 27001 certifications.

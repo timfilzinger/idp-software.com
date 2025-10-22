@@ -2,6 +2,9 @@
 
 Datamatics is a digital technology company providing intelligent document processing solutions through its TruCap+ platform.
 
+![Datamatics](assets\datamatics.png)
+
+
 ## Overview
 
 Datamatics Global Services Limited offers digital operations, experiences, and technologies across multiple industries. The company's TruCap+ IDP solution provides template-free document processing using AI and machine learning. Datamatics serves banking, financial services, insurance, manufacturing, logistics, retail, and publishing sectors globally. The company was recognized as a Major Contender in Everest Group's IDP PEAK Matrix Assessment 2024 for the sixth consecutive year.

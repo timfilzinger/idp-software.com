@@ -2,6 +2,9 @@
 
 Laiye is a Chinese intelligent automation platform provider specializing in RPA, AI agents, and the Work Execution System framework for enterprise digital workers.
 
+![Laiye](assets\laiye.png)
+
+
 ## Overview
 
 Laiye pioneered the Work Execution System, a framework combining human workers with AI-powered digital workers for enterprise automation. Founded in Beijing, Laiye has become China's leading RPA vendor and the only Chinese company recognized in Gartner's Magic Quadrant for Robotic Process Automation for five consecutive years. The company serves one out of every five Fortune Global 500 companies operating in China and maintains a developer community of nearly 800,000 members. Laiye's Work Execution Platform (WEP) integrates RPA, process mining, NLP, conversational AI, text recognition, and image recognition into a unified automation environment.

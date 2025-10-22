@@ -2,6 +2,9 @@
 
 Automation Anywhere is an AI-powered process automation platform provider offering RPA and [intelligent document processing](../../capabilities/document-understanding/index.md) for enterprise automation at scale.
 
+![Automation Anywhere](assets\automation-anywhere.png)
+
+
 ## Overview
 
 Founded in 2003 by Mihir Shukla, Neeti Mehta Shukla, Ankur Kothari, and Rushabh Parmani as Tethys Solutions (rebranded to Automation Anywhere in 2010), the company is headquartered in San Jose, California. With over 2,800 client firms globally and $1.049B in total funding, Automation Anywhere provides cloud-native automation solutions combining RPA, AI, and document processing. The company raised $840 million in Series A and B rounds between 2018-2019 at a $6.9 billion post-money valuation.

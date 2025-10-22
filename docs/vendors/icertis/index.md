@@ -2,6 +2,9 @@
 
 iCertis is a company that specializes in intelligent document processing and contract management solutions. The company focuses on creating intelligent automation for document workflows.
 
+![iCertis](assets\icertis.png)
+
+
 ## Overview
 
 iCertis provides intelligent document processing and contract management solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, manage, and analyze contracts across various business applications with high accuracy and efficiency.

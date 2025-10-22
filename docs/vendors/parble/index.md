@@ -2,6 +2,9 @@
 
 Parble is a GenAI-powered IDP platform specializing in financial services automation, acquired by Netcall in September 2024.
 
+![Parble](assets\parble.png)
+
+
 ## Overview
 
 Parble (operated by Contract.fit) provides cloud-native intelligent document processing specifically designed for banking and insurance sectors. Founded in 2016 in Brussels, the platform automates claims handling, client onboarding, customer support documentation, and email indexation workflows using generative AI technology. The company serves major European financial institutions including Generali, Baloise, and Vanbreda Risk & Benefits. Netcall acquired Contract.fit in September 2024 for up to €8.7 million to integrate Parble's GenAI capabilities into its Liberty platform and establish a stronger presence in European financial services markets.

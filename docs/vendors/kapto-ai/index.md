@@ -2,6 +2,9 @@
 
 KAPTO AI provides end-to-end document processing automation using AI to categorize, extract, and analyze data from business documents without template constraints.
 
+![KAPTO AI Ltd](assets\kapto-ai-ltd.png)
+
+
 ## Overview
 
 Founded in 2022 and based in London, KAPTO AI specializes in automated [document understanding](../../capabilities/document-understanding/index.md) for business process automation. The company's platform autonomously reads and analyzes business documents, performing categorization, data extraction, and discrepancy detection across multiple input types including emails, scanned documents, and PDFs. KAPTO operates as a bootstrapped organization with a 7-person team, generating $1.1M in revenue. The company serves industries including insurance, logistics, healthcare, and finance with template-free document processing capabilities.

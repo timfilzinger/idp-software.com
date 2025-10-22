@@ -2,6 +2,9 @@
 
 Extend is an AI-native document processing platform providing APIs for parsing, classification, extraction, and splitting of complex documents with specialized large language models.
 
+![Extend](assets\extend.png)
+
+
 ## Overview
 
 Founded in 2023 by Eli Badgio and Kushal Byatnal, Extend operates as a Y Combinator-backed document processing cloud platform serving technical teams building production document workflows. The company raised $17 million across seed and Series A rounds led by Innovation Endeavors in June 2025. Extend's platform uses specialized large language models and vision models designed specifically for complex document formats, handling tables, handwriting, and checkboxes with claimed 95%+ accuracy. Their customers include Chime, Brex, Flatiron Health, Opendoor, and Checkr for mission-critical document processing pipelines.

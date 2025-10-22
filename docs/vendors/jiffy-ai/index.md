@@ -2,6 +2,9 @@
 
 JIFFY.ai provides a no-code intelligent automation platform focused on financial services, mortgage, and Fortune 500 enterprises, combining RPA, [document processing](../../capabilities/document-understanding/index.md), and AI capabilities.
 
+![JIFFY.ai](assets\jiffy-ai.png)
+
+
 ## Overview
 
 JIFFY.ai delivers cloud-native intelligent automation solutions through its HyperApp platform, specifically designed for financial institutions and large enterprises. The company serves banks, credit unions, wealth management firms, and mortgage providers, focusing on accelerating digital transformation through no-code automation. Recognized by Everest Group as a Major Contender in their 2021 Intelligent Document Processing PEAK Matrix™, JIFFY.ai advanced to 'Star Performer' status by 2023.

@@ -2,6 +2,9 @@
 
 Retarus is an enterprise cloud solutions provider offering intelligent document processing services alongside email, fax, and SMS communication platforms with operations in European data centers.
 
+![Retarus](assets\retarus.png)
+
+
 ## Overview
 
 Retarus provides [intelligent document processing](../../capabilities/document-understanding/index.md) combined with business communication infrastructure. The company operates self-managed data centers in Europe for GDPR-compliant processing. Their IDP solution processes business documents including orders, invoices, delivery notes, and order confirmations. The platform integrates with enterprise systems including SAP S/4HANA, Oracle Order Management, Microsoft Dynamics 365, and Salesforce. Retarus serves multiple industries requiring automated inbound document workflows and supply chain documentation processing.

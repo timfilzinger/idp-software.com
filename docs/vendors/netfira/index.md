@@ -2,6 +2,9 @@
 
 Netfira is an intelligent document processing SaaS platform that automates B2B transaction document workflows for procurement, accounts payable, and sales fulfillment.
 
+![Netfira](assets\netfira.png)
+
+
 ## Overview
 
 Netfira provides an IDP platform designed specifically for B2B transaction documents including invoices, purchase orders, delivery notes, and sales documents. The platform extracts data from unstructured documents, applies business logic, and integrates with enterprise systems. Netfira serves healthcare, manufacturing, logistics, consumer goods, chemicals, and energy sectors with end-to-end document workflow automation featuring human-in-the-loop exception handling.

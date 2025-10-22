@@ -14,7 +14,7 @@ Founded in 2007 as part of La Poste Group, Docaposte operates as France's leadin
 - **L'Identité Numérique La Poste**: First electronic identification service in France meeting eIDAS "substantial" level, certified by ANSSI, combining user ID, mobile app, and PIN code authentication with Thales security technology
 - **AR24 Electronic Registered Mail**: ANSSI-qualified electronic registered mail service featuring data encryption, qualified time-stamping, and 10-year secure evidence storage
 - **Digiposte**: Personal digital safe accessible via web and mobile for secure document storage and administrative management
-- **Arkhineo**: Digital [archiving](../../capabilities/archiving/index.md) platform with HDS certification for health data hosting across six activity levels
+- **Arkhineo**: Digital archiving platform with HDS certification for health data hosting across six activity levels
 - **Certinomis**: eIDAS-qualified services including electronic signatures, electronic seals, website authentication certificates, and time stamping
 - **Document Processing**: Industrial-scale document digitization, [OCR](../../capabilities/ocr/index.md), electronic distribution, and video-coding services
 

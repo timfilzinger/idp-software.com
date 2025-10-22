@@ -2,6 +2,9 @@
 
 OCR.space is a free online OCR service and API operated by a9t9 software GmbH, converting images and PDFs to text with support for 100+ languages.
 
+![OCR.space](assets\ocr-space.png)
+
+
 ## Overview
 
 OCR.space provides web-based and API access to [OCR](../../capabilities/ocr/index.md) services for converting scanned documents, images, and PDFs into editable text. The service requires no registration for basic use and offers both free and PRO tiers. Operated by a9t9 software GmbH, OCR.space supports over 100 languages across two OCR engines optimized for different text types. The platform integrates with the Ui.Vision RPA ecosystem and provides developer-friendly API access with support for multiple programming languages including Python, Java, and .NET.

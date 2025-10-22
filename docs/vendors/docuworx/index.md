@@ -2,6 +2,9 @@
 
 Docuworx is an Australian document management provider offering data capture, OCR, and workflow automation solutions through the DocuWare platform.
 
+![Docuworx](assets\docuworx.png)
+
+
 ## Overview
 
 Docuworx operates as a DocuWare Platinum Partner providing document management and intelligent document processing solutions across Australia. With over 20 years in the market, the company serves more than 100 businesses across education, healthcare, manufacturing, government, retail, transport and logistics sectors. They maintain offices in Adelaide, Brisbane, Melbourne, and Sydney, delivering both cloud and on-premise deployment options.

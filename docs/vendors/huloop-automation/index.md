@@ -2,6 +2,9 @@
 
 HuLoop Automation is a California-based unified automation platform provider combining RPA, IDP, workflow orchestration, and testing with human-in-the-loop oversight for financial services and commerce sectors.
 
+![HuLoop Automation](assets\huloop-automation.png)
+
+
 ## Overview
 
 Founded in 2022 and headquartered in Auburn, California, HuLoop Automation delivers a no-code unified automation platform integrating process mining, task mining, robotic process automation, intelligent document processing, workflow orchestration, and automated testing with applied and generative AI. The company raised $11 million total funding including a Series A round led by Mighty Capital in December 2024 and a $5 million seed round in March 2024. Investors include BarronKent, Folsom Point Equity, Moneta Ventures, Growth Factory, and Insta Ventures. HuLoop serves over 60 customers primarily in financial services and commerce sectors, emphasizing human-in-the-loop oversight balancing automation with human judgment.

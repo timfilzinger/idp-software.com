@@ -2,6 +2,9 @@
 
 Klassif.ai is a Belgian AI platform specializing in sales order processing and invoice management automation for order processing teams.
 
+![Klassif.ai](assets\klassif-ai.png)
+
+
 ## Overview
 
 Founded in 2017 by Tom Vermeulen, Klassif.ai operates from Leuven, Belgium, providing automation solutions for order processing workflows. The company's AI engine processes documents including PDFs, emails, and scans to extract order data and streamline fulfillment operations. Klassif.ai uses machine learning and natural language processing to automate repetitive document handling tasks in sales order and invoice processing environments. The platform is a product of Raccoons, a technology company offering AI-driven business solutions.

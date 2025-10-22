@@ -2,6 +2,9 @@
 
 DB Intelab is a Malaysian enterprise solutions company providing intelligent document processing through its ICE-Ai platform.
 
+![DB Intelab](assets\db-intelab.png)
+
+
 ## Overview
 
 DB Intelab Sdn Bhd, formerly known as Equatd, develops ICE-Ai, an intelligent document processing solution that automates document workflows using artificial intelligence and machine learning. Founded in 2020 and based in Petaling Jaya, Malaysia, the company targets enterprises struggling with manual document processing. ICE-Ai processes documents of any type or format by classifying and extracting data with continuous learning capabilities.

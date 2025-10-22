@@ -2,6 +2,9 @@
 
 RaccoonDoc is a cloud-native IDPaaS platform from Kyiv, Ukraine achieving up to 98% data extraction accuracy with 25x faster processing than manual methods.
 
+![RaccoonDoc](assets\raccoondoc.png)
+
+
 ## Overview
 
 RaccoonDoc emerged from Innora, a Kyiv-based UiPath Gold Partner and RPA system integrator, launching in 2021 as war broke out in Ukraine. The platform provides IDP as a Service (IDPaaS) using machine learning, computer vision, and neural networks for structured and unstructured data [extraction](../../capabilities/extraction/index.md) from complex documents. The 100% cloud-native solution combines automated ML-based extraction with in-house human-in-the-loop (HITL) review teams guaranteeing 100% accuracy on returned data. Customers upload documents to the RaccoonDoc cloud where the team fine-tunes ML models, performs extraction, and validates results before delivery.

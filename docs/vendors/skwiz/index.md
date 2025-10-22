@@ -2,6 +2,9 @@
 
 Skwiz is a generative AI-powered document processing platform offering multi-language data extraction from invoices, identity documents, insurance claims, and business documents through web and API interfaces.
 
+![Skwiz](assets\skwiz.png)
+
+
 ## Overview
 
 Skwiz provides [document extraction](../../capabilities/extraction/index.md) services using large language models including ChatGPT and custom models. The Brussels-based platform processes documents across accounting, HR, construction, and insurance sectors with language-agnostic capabilities. Skwiz supports invoices, passports, ID cards, driver's licenses, insurance claims, purchase orders, and delivery notes. The platform stores data within EU infrastructure with GDPR compliance. Originally launched in 2020 as a cloud invoice extraction API, the company rebuilt the platform around generative AI and relaunched in July 2023.
