@@ -78,14 +78,13 @@ validation:
     anchors: warn
     unrecognized_links: warn
 
-# Plugins
 plugins:
   - search
   - rss
   - awesome-pages
   - open-in-new-tab
-  - minify:
-      minify_html: true
+  # - minify:
+  #    minify_html: true
   - ultralytics:
       verbose: False
       # default_image: "https://www.ultralytics.com/images/social.png" # Example default image
@@ -94,14 +93,18 @@ plugins:
       add_image: True
       add_keywords: False
       add_share_buttons: False
-      add_authors: True # Disabled by default
-      add_json_ld: True # Disabled by default
+      add_authors: True # Show git authors in footer
+      add_json_ld: False # Disabled - using custom hook instead
       add_css: True
+
+# Hooks
+hooks:
+  - hooks/jsonld_hook.py
 
 # Custom CSS
 extra_css:
   - assets/css/extra.css
 
-# Custom CSS
+# Custom JavaScript
 extra_javascript:
   - assets/js/extra.js
