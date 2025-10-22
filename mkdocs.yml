@@ -3,10 +3,10 @@ site_description: Anything to process documents Intelligently.
 site_author: Christopher Helm
 site_url: https://idp-software.com
 
-# Repository
-repo_name: atraining/idp-software.com
-repo_url: https://github.com/atraining/idp-software.com
-edit_uri: edit/main/docs/
+# Repository - disabled, using custom "Find Vendor" button instead
+# repo_name: atraining/idp-software.com
+# repo_url: https://github.com/atraining/idp-software.com
+# edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Homepage by <a href="https://www.linkedin.com/in/christopher-helm-public/" target="_blank">Christopher Helm</a>
@@ -31,14 +31,14 @@ theme:
     - content.action.edit
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -83,8 +83,8 @@ plugins:
   - rss
   - awesome-pages
   - open-in-new-tab
-  # - minify:
-  #    minify_html: true
+  - minify:
+      minify_html: true
   - ultralytics:
       verbose: False
       # default_image: "https://www.ultralytics.com/images/social.png" # Example default image
@@ -99,6 +99,7 @@ plugins:
 
 # Hooks
 hooks:
+  - hooks/copy_files_hook.py
   - hooks/jsonld_hook.py
 
 # Custom CSS

@@ -4,6 +4,22 @@ This section contains information about various vendors that provide IDP (Intell
 
 Each vendor has its own dedicated page with detailed information about their product offerings, features, pricing, and integration capabilities.
 
+## Need Help Finding the Right Vendor?
+
+Not sure which IDP vendor is right for you? Use our **[Interactive Vendor Finder](/vendor-finder/)** to get personalized recommendations based on your specific needs:
+
+- Your industry and use case
+- Document types and volumes
+- Required features and capabilities
+- Deployment preferences
+- Budget and timeline
+
+[![IDP Vendor Finder Tool - Find your perfect IDP vendor match](/vendor-finder/vendor-finder.png)](/vendor-finder/)
+
+[Find Your Perfect Match](/vendor-finder/){ .md-button .md-button--primary }
+
+---
+
 ## Adding a New Vendor
 
 If you would like to add information about a new vendor:
