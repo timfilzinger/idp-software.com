@@ -8,12 +8,13 @@ from tempfile import TemporaryDirectory
 
 # Import the functions from screenshot.py
 from screenshot import (
-    find_index_files,
+    find_vendor_index_files,
     extract_first_url,
     extract_h1_title,
     ensure_assets_folder,
     add_image_link_to_file,
-    process_index_file
+    process_index_file,
+    has_screenshot
 )
 
 
@@ -52,24 +53,29 @@ class TestScreenshotFunctions(unittest.TestCase):
         unknown_agent = get_user_agent('unknown')
         self.assertEqual(unknown_agent, get_user_agent('modern'))
 
-    def test_find_index_files(self):
-        # Create test directory structure
-        (self.test_dir / 'folder1').mkdir()
-        (self.test_dir / 'folder1' / 'index.md').write_text('# Test Index 1')
-        (self.test_dir / 'folder2').mkdir()
-        (self.test_dir / 'folder2' / 'index.md').write_text('# Test Index 2')
-        (self.test_dir / 'folder3').mkdir()
-        (self.test_dir / 'folder3' / 'other.md').write_text('# Not an index')
+    def test_find_vendor_index_files(self):
+        # Create test directory structure matching docs/vendors/*/index.md pattern
+        docs_dir = self.test_dir / 'docs'
+        docs_dir.mkdir()
+        vendors_dir = docs_dir / 'vendors'
+        vendors_dir.mkdir()
 
-        # Test finding index files
-        index_files = find_index_files(self.test_dir)
+        (vendors_dir / 'vendor1').mkdir()
+        (vendors_dir / 'vendor1' / 'index.md').write_text('# Vendor 1')
+        (vendors_dir / 'vendor2').mkdir()
+        (vendors_dir / 'vendor2' / 'index.md').write_text('# Vendor 2')
+        (vendors_dir / 'vendor3').mkdir()
+        (vendors_dir / 'vendor3' / 'other.md').write_text('# Not an index')
+
+        # Test finding vendor index files
+        vendor_files = find_vendor_index_files(self.test_dir)
 
         # Verify we found the correct number of files
-        self.assertEqual(len(index_files), 2)
+        self.assertEqual(len(vendor_files), 2)
 
         # Verify the files are the ones we expect
-        paths = [file.name for file in index_files]
-        self.assertIn('index.md', paths)
+        paths = [file.name for file in vendor_files]
+        self.assertEqual(paths.count('index.md'), 2)
 
     def test_extract_first_url(self):
         # Create test index file with a URL
@@ -135,7 +141,7 @@ class TestScreenshotFunctions(unittest.TestCase):
     def test_add_image_link_to_file(self):
         # Create test index file
         test_file = self.test_dir / 'index.md'
-        original_content = '# Test Title\n\nThis is the content.'
+        original_content = '# Test Title\n\nThis is the first paragraph.\n\n## Next Section'
         test_file.write_text(original_content)
 
         # Create test image path
@@ -147,9 +153,63 @@ class TestScreenshotFunctions(unittest.TestCase):
         # Read updated file content
         updated_content = test_file.read_text()
 
-        # Verify image link was added at the top
-        self.assertTrue(updated_content.startswith('![Test Title](assets/test-title.png)'))
-        self.assertIn(original_content, updated_content)
+        # Verify image link was added after the first paragraph
+        # Use os.path.sep to handle both forward and backslashes
+        expected_patterns = ['![Test Title](assets/test-title.png)', '![Test Title](assets\\test-title.png)']
+        self.assertTrue(any(pattern in updated_content for pattern in expected_patterns),
+                        f"Image link not found in content. Content: {updated_content}")
+
+        # Verify content is still there
+        self.assertIn('# Test Title', updated_content)
+        self.assertIn('This is the first paragraph.', updated_content)
+
+        # Verify image comes after the first paragraph and before the next section
+        lines = updated_content.split('\n')
+        h1_idx = next(i for i, line in enumerate(lines) if line.startswith('# Test Title'))
+        para_idx = next(i for i, line in enumerate(lines) if 'first paragraph' in line)
+        img_idx = next(i for i, line in enumerate(lines) if '![Test Title]' in line)
+
+        # Image should come after the paragraph
+        self.assertGreater(img_idx, para_idx)
+        self.assertGreater(img_idx, h1_idx)
+
+    def test_has_screenshot(self):
+        # Create test index file
+        test_file = self.test_dir / 'index.md'
+        test_file.write_text('# Test Title\n\nContent here.')
+
+        # Test 1: No assets folder
+        has_assets, has_image, has_link, img_path = has_screenshot(test_file)
+        self.assertFalse(has_assets)
+        self.assertFalse(has_image)
+        self.assertFalse(has_link)
+        self.assertIsNone(img_path)
+
+        # Test 2: Assets folder exists but no image
+        assets_dir = test_file.parent / 'assets'
+        assets_dir.mkdir()
+        has_assets, has_image, has_link, img_path = has_screenshot(test_file)
+        self.assertTrue(has_assets)
+        self.assertFalse(has_image)
+        self.assertFalse(has_link)
+        self.assertIsNone(img_path)
+
+        # Test 3: Assets folder and image exist but no link
+        test_image = assets_dir / 'test.png'
+        test_image.touch()
+        has_assets, has_image, has_link, img_path = has_screenshot(test_file)
+        self.assertTrue(has_assets)
+        self.assertTrue(has_image)
+        self.assertFalse(has_link)
+        self.assertEqual(img_path, test_image)
+
+        # Test 4: All three exist (assets, image, and link)
+        test_file.write_text('# Test Title\n\n![Test](assets/test.png)\n\nContent here.')
+        has_assets, has_image, has_link, img_path = has_screenshot(test_file)
+        self.assertTrue(has_assets)
+        self.assertTrue(has_image)
+        self.assertTrue(has_link)
+        self.assertEqual(img_path, test_image)
 
 
 class TestScreenshotIntegration(unittest.TestCase):
@@ -292,9 +352,14 @@ class MockBrowser:
         self.context = MockContext()
         self.closed = False
 
-    def new_context(self, viewport, device_scale_factor):
+    def new_context(self, viewport=None, device_scale_factor=None, user_agent=None,
+                    java_script_enabled=True, has_touch=False, ignore_https_errors=False):
         self.viewport = viewport
         self.device_scale_factor = device_scale_factor
+        self.user_agent = user_agent
+        self.java_script_enabled = java_script_enabled
+        self.has_touch = has_touch
+        self.ignore_https_errors = ignore_https_errors
         return self.context
 
     def close(self):
@@ -394,8 +459,9 @@ class TestTakeScreenshot(unittest.TestCase):
         # Verify user was prompted for input
         mock_input.assert_called_once()
 
-        # Verify firefox user agent was used
-        self.assertIn('firefox', mock_browser.context.page.extra_headers.get('User-Agent', '').lower())
+        # Verify firefox user agent was used (passed to new_context, not extra_headers)
+        self.assertIsNotNone(mock_browser.user_agent)
+        self.assertIn('Firefox', mock_browser.user_agent)
 
     @mock.patch('screenshot.sync_playwright')
     @mock.patch('os.path.exists', return_value=False)
