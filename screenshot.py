@@ -5,16 +5,25 @@ import re
 import time
 import argparse
 from pathlib import Path
-from urllib.parse import urlparse
 
-import requests
 from slugify import slugify
 from playwright.sync_api import sync_playwright
 
 
-def find_index_files(root_dir):
-    """Find all index.md files in the given directory and its subdirectories."""
-    return list(Path(root_dir).rglob('index.md'))
+def find_vendor_index_files(root_dir):
+    """Find all index.md files in docs/vendors/*/index.md pattern."""
+    vendors_dir = Path(root_dir) / 'docs' / 'vendors'
+    if not vendors_dir.exists():
+        return []
+
+    vendor_files = []
+    for vendor_dir in vendors_dir.iterdir():
+        if vendor_dir.is_dir():
+            index_file = vendor_dir / 'index.md'
+            if index_file.exists():
+                vendor_files.append(index_file)
+
+    return vendor_files
 
 
 def extract_first_url(file_path):
@@ -43,6 +52,41 @@ def extract_h1_title(file_path):
     if h1_matches:
         return h1_matches[0]
     return "screenshot"
+
+
+def has_screenshot(file_path):
+    """Check if the vendor page already has a screenshot.
+
+    Returns:
+        tuple: (has_assets_folder, has_image_file, has_markdown_link, image_path)
+    """
+    parent_dir = file_path.parent
+    assets_dir = parent_dir / 'assets'
+
+    # Check 1: Does assets folder exist?
+    has_assets_folder = assets_dir.exists() and assets_dir.is_dir()
+
+    # Check 2: Does an image file exist?
+    has_image_file = False
+    image_path = None
+    if has_assets_folder:
+        # Look for any PNG images in the assets folder
+        image_files = list(assets_dir.glob('*.png'))
+        if image_files:
+            has_image_file = True
+            image_path = image_files[0]  # Take the first one
+
+    # Check 3: Does the markdown have an image link?
+    has_markdown_link = False
+    if has_image_file:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        # Check if there's an image link pointing to assets folder
+        image_pattern = r'!\[.*?\]\(\.?/?assets/.*?\)'
+        if re.search(image_pattern, content):
+            has_markdown_link = True
+
+    return has_assets_folder, has_image_file, has_markdown_link, image_path
 
 
 def ensure_assets_folder(file_path):
@@ -212,7 +256,7 @@ def take_screenshot(url, output_path, max_redirects=5, timeout=30000, retry_coun
 
 
 def add_image_link_to_file(file_path, image_path, alt_text):
-    """Add image link to the top of the markdown file."""
+    """Add image link after the headline and first paragraph."""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -220,13 +264,59 @@ def add_image_link_to_file(file_path, image_path, alt_text):
     rel_image_path = os.path.relpath(image_path, file_path.parent)
 
     # Create markdown image link
-    image_link = f"![{alt_text}]({rel_image_path})\n\n"
+    image_link = f"\n![{alt_text}]({rel_image_path})\n"
 
-    # Add image link to the top of the file
+    # Find the position after the first paragraph
+    # Pattern: H1 title, then first paragraph, then insert image
+    lines = content.split('\n')
+
+    # Find H1 line
+    h1_index = -1
+    for i, line in enumerate(lines):
+        if line.startswith('# '):
+            h1_index = i
+            break
+
+    if h1_index == -1:
+        # No H1 found, add at the top
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(image_link + '\n' + content)
+        print(f"Added image link at the top of {file_path}")
+        return True
+
+    # Find the end of the first paragraph after H1
+    # First paragraph ends at the first empty line or next heading
+    insert_index = h1_index + 1
+    found_content = False
+
+    for i in range(h1_index + 1, len(lines)):
+        line = lines[i].strip()
+
+        # Skip empty lines immediately after H1
+        if not line and not found_content:
+            continue
+
+        # Found content
+        if line and not found_content:
+            found_content = True
+            continue
+
+        # If we found content and now hit empty line or another heading, insert here
+        if found_content and (not line or line.startswith('#')):
+            insert_index = i
+            break
+    else:
+        # Reached end of file, insert at the end
+        insert_index = len(lines)
+
+    # Insert the image link
+    lines.insert(insert_index, image_link)
+
+    # Write back to file
     with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(image_link + content)
+        f.write('\n'.join(lines))
 
-    print(f"Added image link to {file_path}")
+    print(f"Added image link after first paragraph in {file_path}")
     return True
 
 
@@ -243,10 +333,27 @@ def process_index_file(file_path, interactive=False, user_agent_type='modern'):
     """
     print(f"\nProcessing {file_path}")
 
+    # Check if screenshot already exists
+    has_assets, has_image, has_link, existing_image_path = has_screenshot(file_path)
+
+    if has_assets and has_image and has_link:
+        print(f"[OK] Screenshot already exists and is linked in {file_path.parent.name}")
+        return True
+
+    if has_assets and has_image and not has_link:
+        print(f"[WARN] Screenshot exists but not linked in markdown for {file_path.parent.name}")
+        print(f"  Adding image link to {file_path}")
+        h1_title = extract_h1_title(file_path)
+        add_image_link_to_file(file_path, existing_image_path, h1_title)
+        return True
+
+    # Need to take a screenshot
+    print(f"[INFO] No screenshot found for {file_path.parent.name}, will create one")
+
     # Extract URL
     url = extract_first_url(file_path)
     if not url:
-        print(f"No URL found in {file_path}")
+        print(f"[ERROR] No URL found in {file_path}")
         return False
 
     # Extract H1 title
@@ -266,41 +373,80 @@ def process_index_file(file_path, interactive=False, user_agent_type='modern'):
     if not success:
         return False
 
-    # Add image link to file if not interactive
-    if not interactive:
-        add_image_link_to_file(file_path, output_path, h1_title)
+    # Always add image link to file (even in interactive mode)
+    add_image_link_to_file(file_path, output_path, h1_title)
 
     return True
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Process index.md files to add screenshots')
-    parser.add_argument('--root', '-r', default='.', help='Root directory to search for index.md files')
-    parser.add_argument('--file', '-f', help='Process a specific index.md file instead of searching')
-    parser.add_argument('--interactive', '-i', action='store_true', help='Open browser for manual interaction (e.g., for CAPTCHA or cookie consent)')
-    parser.add_argument('--user-agent', '-u', choices=['googlebot', 'modern', 'mobile', 'desktop', 'firefox'], default='modern', 
-                      help='User agent type to use for browser')
+    parser = argparse.ArgumentParser(
+        description='Process vendor index.md files to add screenshots',
+        epilog='By default, runs in INTERACTIVE mode for vendors without screenshots. Use --no-interactive to disable.'
+    )
+    parser.add_argument('--root', '-r', default='.', help='Root directory to search for docs/vendors/*/index.md files (default: current directory)')
+    parser.add_argument('--file', '-f', help='Process a specific index.md file instead of searching all vendors')
+    parser.add_argument('--no-interactive', action='store_true', help='Disable interactive mode (automatic screenshot without manual verification)')
+    parser.add_argument('--user-agent', '-u', choices=['googlebot', 'modern', 'mobile', 'desktop', 'firefox'], default='modern',
+                      help='User agent type to use for browser (default: modern)')
     args = parser.parse_args()
 
-    if args.interactive:
-        print("\nRunning in INTERACTIVE mode. Browser windows will open for manual interaction.")
-        print("You will need to manually accept cookie banners or solve CAPTCHA challenges.")
-        print("The script will wait for your input before taking each screenshot.\n")
+    # Interactive is ON by default, unless --no-interactive is specified
+    interactive = not args.no_interactive
+
+    if interactive:
+        print("\n" + "="*70)
+        print("INTERACTIVE MODE (default)")
+        print("="*70)
+        print("Browser windows will open for manual interaction.")
+        print("You can accept cookie banners or solve CAPTCHA challenges.")
+        print("Press Enter in the terminal to take each screenshot.")
+        print("\nTip: Use --no-interactive flag to run without manual verification.")
+        print("="*70 + "\n")
+    else:
+        print("\n" + "="*70)
+        print("AUTOMATIC MODE")
+        print("="*70)
+        print("Screenshots will be taken automatically without manual verification.")
+        print("Cookie consents will be handled automatically if possible.")
+        print("="*70 + "\n")
 
     if args.file:
         # Process specific file
         file_path = Path(args.file)
         if not file_path.exists():
-            print(f"File {file_path} does not exist")
+            print(f"✗ File {file_path} does not exist")
             return
-        process_index_file(file_path, interactive=args.interactive, user_agent_type=args.user_agent)
+        process_index_file(file_path, interactive=interactive, user_agent_type=args.user_agent)
     else:
-        # Find and process all index.md files
-        index_files = find_index_files(args.root)
-        print(f"Found {len(index_files)} index.md files")
+        # Find and process all vendor index.md files
+        vendor_files = find_vendor_index_files(args.root)
 
-        for file_path in index_files:
-            process_index_file(file_path, interactive=args.interactive, user_agent_type=args.user_agent)
+        if not vendor_files:
+            print(f"[ERROR] No vendor files found in {args.root}/docs/vendors/*/index.md")
+            print(f"  Make sure you're running from the project root directory.")
+            return
+
+        print(f"Found {len(vendor_files)} vendor index.md files\n")
+
+        # Count vendors needing screenshots
+        needs_screenshot = []
+        for file_path in vendor_files:
+            has_assets, has_image, has_link, _ = has_screenshot(file_path)
+            if not (has_assets and has_image and has_link):
+                needs_screenshot.append(file_path)
+
+        print(f"[OK] {len(vendor_files) - len(needs_screenshot)} vendors already have screenshots")
+        print(f"[INFO] {len(needs_screenshot)} vendors need screenshots\n")
+
+        if needs_screenshot:
+            print("Vendors needing screenshots:")
+            for file_path in needs_screenshot:
+                print(f"  - {file_path.parent.name}")
+            print()
+
+        for file_path in vendor_files:
+            process_index_file(file_path, interactive=interactive, user_agent_type=args.user_agent)
 
 
 if __name__ == "__main__":
