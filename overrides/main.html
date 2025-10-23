@@ -1,6 +1,11 @@
 {% extends "base.html" %}
 
-{% block announce_skip %}
+{% block announce %}
 <em><b>Important:</b>
     Try our new <a href="/vendor-finder/"> Vendor Finder</a></em>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script id="__konfuzioChatSdk__" data-chatbot-id="685993ade099dd8fea1bde75" src="https://widget.konfuzio.com/konfuzio-chat-sdk.js"></script>
 {% endblock %}
