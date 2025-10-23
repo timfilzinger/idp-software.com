@@ -42,12 +42,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  # font:
-  #   text: Roboto
-  #   code: Roboto Mono
   favicon: favicon.ico
-  icon:
-    logo: material/book-open-page-variant
 
 # Extensions
 markdown_extensions:
