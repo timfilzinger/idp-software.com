@@ -6,7 +6,7 @@ site_url: https://idp-software.com
 # Repository - using custom "Find Vendor" button instead of GitHub link
 repo_name: atraining/idp-software.com
 repo_url: https://github.com/atraining/idp-software.com
-# edit_uri: edit/main/docs/
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Homepage by <a href="https://www.linkedin.com/in/christopher-helm-public/" target="_blank">Christopher Helm</a>
