@@ -7,7 +7,7 @@
 
 ## Overview
 
-Klippa offers specialized artificial intelligence and OCR (Optical Character Recognition) solutions designed to help businesses automate document processing and data extraction. The company was founded in 2015 in Groningen, Netherlands, by Bart-Jan Maatman, Robert-Jan Verheggen, Jeroen Bobbeldijk, and Yeelen Knegtering [[1]](https://siliconcanals.com/klippa-acquired-by-ser-group/).
+Klippa offers specialized artificial intelligence and OCR (Optical Character Recognition) solutions designed to help businesses automate document processing and data extraction. The company was founded in 2015 in Groningen, Netherlands, by Bart-Jan Maatman, Robert-Jan Verheggen, Jeroen Bobbeldijk, and Yeelen Knegtering [[1]](https://siliconcanals.com/klippa-acquired-by-ser-group/). Recently, Klippa announced a strategic partnership with AI and data automation company CanData.ai to integrate its document automation and AI capabilities into CanData.ai's platforms.
 
 Since its founding, Klippa expanded its operations beyond its Groningen headquarters to establish offices in Amsterdam, Hamburg, San Francisco, and Brasov [[2]](https://northerntimes.nl/groningen-tech-company-klippa-acquired-by-german-group/). The company grew to become one of the fastest-growing Dutch tech companies before its acquisition.
 

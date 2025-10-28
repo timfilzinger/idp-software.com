@@ -6,7 +6,7 @@ TCG Process provides intelligent document processing and business process automa
 
 ## Overview
 
-TCG Process specializes in developing and implementing intelligent automation solutions for document processing and business workflows. The company's flagship platform, DocProStar, combines various technologies including OCR, machine learning, and process automation to create comprehensive solutions for handling document-intensive processes.
+TCG Process specializes in developing and implementing intelligent automation solutions for document processing and business workflows. The company's flagship platform, DocProStar, combines various technologies including OCR, machine learning, and process automation to create comprehensive solutions for handling document-intensive processes. Recently, TCG Process [announced a partnership with LandingAI](https://www.tcgprocess.com/en-en/tcg-process-integrates-landingai/), integrating LandingAI's Agentic Document Extraction into its no-code process automation platform OCTO.
 
 Founded in Germany and now operating globally, TCG Process has established itself as a provider of enterprise-grade document processing solutions that balance technological innovation with practical business application. Their approach focuses on creating flexible, adaptable systems that can handle complex document types and variable processing requirements.
 

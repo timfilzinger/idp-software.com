@@ -6,7 +6,7 @@ ABBYY is a global provider of intelligent document processing, content AI, and l
 
 ## Overview
 
-ABBYY offers a comprehensive suite of AI-powered solutions for document processing, data extraction, and content intelligence. Their platforms help organizations transform documents into actionable data, automate document-intensive processes, and make more informed decisions.
+ABBYY offers a comprehensive suite of AI-powered solutions for document processing, data extraction, and content intelligence. Their platforms help organizations transform documents into actionable data, automate document-intensive processes, and make more informed decisions. Recently, ABBYY announced major platform enhancements to enable better integration with AI agents and LLMs, including upgrades to Process AI for end-to-end process monitoring and Document AI with robust OCR, classification, and exception management capabilities designed specifically for [secure agentic automation at scale](https://www.abbyy.com/company/news/abbyy-ascend-2025-2-ai-enterprise-automation/).
 
 Due to the latest changes published by UiPath it remains unclear if the [partnership with Abbyy](https://www.abbyy.com/de/solutions/technology/uipath/) will exist in the future. See the vendor listing vor [UiPath](../uipath/index.md).
 

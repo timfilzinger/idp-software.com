@@ -7,7 +7,7 @@ Ocrolus is a company that specializes in intelligent document processing and fin
 
 ## Overview
 
-Ocrolus provides intelligent document processing and financial document analysis solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, analyze, and verify financial documents across various business applications with high accuracy and efficiency.
+Ocrolus provides intelligent document processing and financial document analysis solutions designed to create intelligent automation for document workflows. Their platform focuses on leveraging advanced technology to process, analyze, and verify financial documents across various business applications with high accuracy and efficiency. Recently, Ocrolus [introduced automated conditioning](https://www.prnewswire.com/news-releases/ocrolus-automates-condition-creation-and-management-for-mortgage-lenders-302587848.html?tc=eml_cleartime), a major enhancement for mortgage lenders that streamlines the traditionally manual process of condition creation and management.
 
 ## Key Features
 

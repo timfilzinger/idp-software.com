@@ -7,7 +7,7 @@ Infrrd provides AI-powered intelligent document processing solutions that enable
 
 ## Overview
 
-Infrrd specializes in intelligent document processing (IDP) technology that combines artificial intelligence, machine learning, computer vision, and natural language processing to automate data extraction from a wide variety of documents. The company's platform is designed to handle complex, unstructured, and semi-structured documents with high accuracy and minimal manual intervention.
+Infrrd specializes in intelligent document processing (IDP) technology that combines artificial intelligence, machine learning, computer vision, and natural language processing to automate data extraction from a wide variety of documents. The company's platform is designed to handle complex, unstructured, and semi-structured documents with high accuracy and minimal manual intervention. Recently, Infrrd launched [Ally, its Agentic AI workforce for the mortgage industry](https://www.businesswire.com/news/home/20251017344565/en/Infrrd-Announces-the-Official-Launch-of-Ally-The-First-Agentic-AI-Workforce-for-Mortgage-Auditing), featuring pre-trained mortgage intelligence and end-to-end audit automation capabilities.
 
 Founded with a focus on solving data extraction challenges, Infrrd has developed proprietary AI technology that can understand document context, recognize patterns, and extract information with human-like comprehension. Their solutions are particularly effective for documents with varying layouts, complex tables, and contextual data points where traditional OCR or template-based approaches struggle.
 

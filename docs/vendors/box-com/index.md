@@ -8,7 +8,7 @@ Box is a leading cloud content management platform that enables organizations to
 
 ## Overview
 
-Box provides a comprehensive intelligent content management platform designed to help organizations streamline document workflows, enhance collaboration, and secure business-critical information. Their cloud-native platform centralizes content storage while providing robust tools for access control, workflow automation, and integration with enterprise applications.
+Box provides a comprehensive intelligent content management platform designed to help organizations streamline document workflows, enhance collaboration, and secure business-critical information. Their cloud-native platform centralizes content storage while providing robust tools for access control, workflow automation, and integration with enterprise applications. Recently, Box [announced a strategic partnership with Tata Consultancy Services (TCS)](https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2025/Box-and-TCS-Announce-a-Strategic-Partnership-to-Drive-Digital-Transformation-with-Intelligent-Content-Management/default.aspx) to drive digital transformation through intelligent content management solutions for enterprises across industries.
 
 Founded in 2005, Box has evolved from a simple file-sharing service to a full-featured enterprise content platform. Their solutions are distinguished by their user-friendly interface, enterprise-grade security controls, and extensive integration capabilities. The company has established a strong presence across various industries with particular strengths in financial services, healthcare, government, and professional services.
 
