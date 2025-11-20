@@ -1,64 +1,83 @@
-
 # Cloudmersive
 
-Cloudmersive provides a comprehensive suite of APIs for document processing, conversion, validation, and data extraction across multiple formats and use cases.
+Cloudmersive is a California-based API platform provider offering document processing, conversion, OCR, validation, and security scanning services through RESTful APIs.
 
 ![Cloudmersive](./assets/cloudmersive.png)
 
 ## Overview
 
-Cloudmersive offers a cloud-based platform of APIs designed to handle various document processing and data manipulation tasks. The company specializes in providing developers with easy-to-integrate, reliable APIs that can be incorporated into applications to perform document-related operations without requiring extensive infrastructure or specialized expertise.
+Cloudmersive, founded in 2017 by Silicon Valley engineers, operates from Pleasanton, California, providing cloud-based APIs for document and data processing tasks. The platform serves over 1,100 customers who have processed more than 1 billion API calls across virus scanning, document conversion, [OCR](../../capabilities/ocr/index.md), natural language processing, image recognition, and validation services.
 
-The Cloudmersive API platform covers a wide range of document processing capabilities, including conversion between formats, content extraction, validation, scanning for security threats, and more. Their services are designed to be scalable and highly available, supporting both low-volume and high-volume processing needs.
-
-Cloudmersive's approach is developer-centric, offering straightforward REST APIs with SDKs for multiple programming languages. The platform is built to handle the complexity of document processing while providing simple interfaces for developers to implement these capabilities in their applications.
+The company offers flexible deployment options including public cloud, private cloud, and on-premise installations on Azure, AWS, and GCP platforms. Cloudmersive provides SDKs for 20+ programming languages with a 99.99% uptime SLA across 12+ data center regions. The platform uses HTTP/2 and HTTP/1.1 transport with TLS 1.2 encryption, offering 600 free API calls monthly with no expiration.
 
 ## Key Features
 
-- **Document Conversion APIs**: Convert between various document formats (PDF, Office, HTML, images)
-- **OCR and Data Extraction**: Extract text and data from images and scanned documents
-- **Document Editing**: Programmatically modify document content and structure
-- **PDF Processing**: Comprehensive tools for working with PDF files
-- **Document Validation**: Verify document authenticity and structural integrity
-- **Image Processing**: Resize, convert, and manipulate images
-- **Virus Scanning**: Detect malware and security threats in documents
-- **Data Validation**: Verify data formats like emails, phone numbers, and addresses
-- **Document Generation**: Create documents from templates and data
-- **Barcode and QR Code Processing**: Generate and read various code formats
+- **Document Conversion APIs**: Transform files between PDF, Office formats, HTML, and images
+- **[OCR Technology](../../capabilities/ocr/index.md)**: Deep learning-based text recognition supporting 90+ languages with automatic image preprocessing
+- **[Document Validation](../../capabilities/validation/index.md)**: Verify document authenticity, format integrity, and structural compliance
+- **Virus Scanning**: Malware and security threat detection in documents
+- **PDF Processing**: Merge, split, watermark, encrypt, and manipulate PDF files
+- **Image Processing**: Resize, convert, crop, and enhance images programmatically
+- **Data Validation**: Email, phone number, address, and data format verification
+- **Barcode Processing**: Generate and read 1D and 2D barcodes including QR codes
+- **NLP Services**: Text analysis, entity extraction, and language detection
+- **Content Disarm and Reconstruction**: Neutralize threats in documents
 
 ## Use Cases
 
 ### Document Format Conversion
 
-Organizations use Cloudmersive APIs to convert documents between various formats as part of their application workflows. For example, converting uploaded user documents to standardized formats, transforming legacy documents for modern systems, or creating web-viewable versions of documents. The API approach allows these conversions to happen seamlessly within existing applications.
+Development teams integrate Cloudmersive APIs to convert documents between formats within applications. Systems transform uploaded user documents to standardized formats, migrate legacy documents for modern platforms, and create web-viewable versions of files. API responses enable seamless format conversion without dedicated infrastructure.
 
 ### Automated Data Extraction
 
-Businesses leverage Cloudmersive's OCR and data extraction capabilities to automate the process of extracting information from documents and images. This includes processing invoices to extract payment details, digitizing paper forms, or capturing data from ID documents. The extracted data can then be integrated directly into business systems and databases.
+Applications use [OCR APIs](../../capabilities/ocr/index.md) to extract text and structured data from scanned documents and images. Finance systems process invoice data, HR platforms digitize paper forms, and identity verification services capture information from ID documents. Extracted data integrates directly into databases and business systems through API responses.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| API Architecture | REST APIs with JSON/XML responses |
+| API Architecture | RESTful APIs with JSON/XML responses |
 | Authentication | API Key, OAuth 2.0 |
-| Rate Limits | Tiered based on subscription level |
-| Response Time | Low-latency design for real-time processing |
-| Supported Languages | SDKs for Java, C#, Python, PHP, Node.js, Ruby, and more |
-| Deployment | Cloud-based with global availability |
-| Security | Data encryption, secure processing, compliance features |
-| Service Level | 99.9%+ uptime commitment |
-| Document Format Support | Extensive format compatibility across document types |
-| Processing Capacity | Scalable for both small and large workloads |
+| Rate Limits | Tiered by subscription level |
+| Response Time | Low-latency for real-time processing |
+| SDKs | Java, C#, Python, PHP, Node.js, Ruby, .NET Core, Objective-C, 20+ languages |
+| Deployment | Cloud, private cloud, on-premise (Azure, AWS, GCP) |
+| Security | TLS 1.2, data encryption, enterprise security features |
+| SLA | 99.99% uptime commitment |
+| Data Centers | 12+ regions globally |
+| Document Formats | PDF, Office files, images, HTML, CSV, and 100+ formats |
+| OCR Languages | 90+ languages including English, Chinese, Arabic, European languages |
+| Free Tier | 600 API calls/month with no expiration |
+| Scalability | High-volume processing capability |
 
 ## Getting Started
 
-1. **API Registration**: Sign up for an API key on the Cloudmersive website
-2. **Select APIs**: Choose the specific APIs needed for your use case
-3. **SDK Integration**: Implement the API calls using your preferred language SDK
+1. **API Registration**: Sign up for an API key at cloudmersive.com
+2. **Select APIs**: Choose specific APIs for your use case
+3. **SDK Integration**: Implement API calls using preferred language SDK
 4. **Testing**: Validate functionality with sample documents
-5. **Production Deployment**: Scale up API usage as needed
+5. **Production**: Scale API usage based on application needs
 
 ## Resources
 
-- [Company Website](https://cloudmersive.com/)
+- [Website](https://cloudmersive.com/)
+- [OCR API](https://cloudmersive.com/ocr-api)
+- [File Processing API](https://cloudmersive.com/file-processing-api)
+- [API Documentation](https://cloudmersive.com/faq)
+
+## Company Information
+
+Headquarters: Pleasanton, California, United States
+
+Founded: 2017
+
+Address: 4695 Chabot Drive, Suite 200, Pleasanton, CA 94588
+
+Phone: 1-415-234-7421, 1-415-276-2094
+
+Operating Hours: 9 AM - 5 PM Eastern Time
+
+Customers: 1,100+
+
+API Calls Processed: 1 billion+

@@ -1,66 +1,79 @@
+# ReadSoft
 
-# Readsoft
-
-ReadSoft, now part of Tungsten Automation Corporation, former Kofax, is a pioneer in automated document processing solutions specializing in invoice automation, accounts payable processing, and forms recognition with advanced data extraction capabilities.
+ReadSoft, now part of Tungsten Automation (formerly Kofax), is a Swedish-founded document automation provider specializing in invoice processing, accounts payable automation, and forms recognition.
 
 ![Readsoft](./assets/readsoft.png)
 
 ## Overview
 
-[Video](https://www.youtube.com/embed/WvIurKgSg1g?si=YYDW68W4kPkFtWzp)
+ReadSoft, founded in 1991 by two university students in Linköping, Sweden, developed automated document processing solutions for financial operations. Lexmark acquired ReadSoft in 2014, and in 2017, Thoma Bravo combined ReadSoft with Kofax into a single company. Kofax rebranded to Tungsten Automation in 2024, integrating ReadSoft's invoice automation technology into the broader intelligent automation platform.
 
-ReadSoft, founded in 1991 and acquired by Kofax in 2014, has established itself as a leading provider of document automation solutions. The company specializes in intelligent document processing technologies that automatically capture, classify, and extract data from business documents, particularly in financial operations.
-
-With decades of experience in the document automation field, ReadSoft has developed sophisticated solutions that combine OCR (Optical Character Recognition), machine learning, and workflow automation to transform paper-based and digital documents into structured data for business applications. Their technology helps organizations reduce manual data entry, accelerate processing times, and improve accuracy in document-intensive processes.
-
-ReadSoft serves organizations across various industries, with particular strength in financial services, manufacturing, healthcare, and public sector. Their solutions are especially valued for accounts payable automation, invoice processing, order management, and other financial document workflows where accuracy and efficiency are critical.
+The solutions combine [OCR](../../capabilities/ocr/index.md), machine learning, and workflow automation to process invoices, purchase orders, and financial forms. ReadSoft's technology served organizations across financial services, manufacturing, healthcare, and public sector, with particular strength in accounts payable automation and ERP integration for SAP, Oracle, Microsoft Dynamics, and other enterprise systems.
 
 ## Key Features
 
-- **Intelligent Document Capture**: Advanced recognition of diverse document types
-- **Automated Data Extraction**: Identification and extraction of relevant information
-- **Invoice Processing**: Specialized capabilities for AP automation
-- **Forms Recognition**: Automated processing of structured forms
-- **Workflow Automation**: Configurable approval and processing workflows
-- **ERP Integration**: Seamless connections with major financial systems
-- **Validation Rules**: Customizable business logic for data verification
-- **Exception Handling**: Efficient resolution of processing exceptions
-- **Analytics & Reporting**: Insights into processing performance
-- **Multi-Channel Capture**: Processing documents from various sources
+- **[Invoice Processing](../../capabilities/extraction/index.md)**: Specialized AP automation with header and line-item extraction
+- **[Intelligent Document Capture](../../capabilities/document-understanding/index.md)**: Advanced recognition of diverse document types
+- **Template-Free Learning**: Machine learning adaptation to varying invoice formats
+- **[Forms Recognition](../../capabilities/ocr/index.md)**: Automated processing of structured forms
+- **ERP Integration**: Pre-built connectors for SAP, Oracle, Microsoft Dynamics, Infor
+- **Three-Way Matching**: Automated validation against purchase orders and receipts
+- **Workflow Automation**: Configurable approval chains with delegation and escalation
+- **Multi-Channel Capture**: Processing from email, scan, EDI, supplier portals
+- **Exception Handling**: Efficient resolution workflows for discrepancies
+- **Analytics & Reporting**: Insights into AP processing performance
 
 ## Use Cases
 
 ### Accounts Payable Automation
 
-Finance departments implement ReadSoft solutions to transform their accounts payable operations. The system automatically captures incoming invoices from multiple channels (email, scan, EDI, supplier portals) and extracts key data including vendor information, invoice numbers, line items, tax amounts, and payment terms. Using machine learning, the technology recognizes varying invoice formats without requiring template setup for each vendor. Extracted data is validated against ERP master data and purchase orders, flagging discrepancies for review while routing clean invoices directly to approval workflows based on company policies. Integration with financial systems enables straight-through processing for matched invoices while maintaining a complete audit trail. This approach reduces invoice processing costs by up to 70%, accelerates processing time from weeks to days or hours, improves early payment discount capture, and enhances visibility into financial obligations and cash flow forecasting.
+Finance departments automate invoice processing by capturing documents from email, scan, EDI, and supplier portals. ReadSoft extracts vendor information, invoice numbers, line items, tax amounts, and payment terms without requiring templates for each vendor format. The system validates data against ERP master data and purchase orders, routing clean invoices through approval workflows while flagging discrepancies for review.
 
-### Sales Order Processing
+### Purchase Order Processing
 
-Order management teams utilize ReadSoft to streamline the handling of customer purchase orders. The solution captures orders received through various channels and automatically extracts customer information, product codes, quantities, pricing, and delivery requirements. The system validates this information against customer master data and product catalogs, identifying potential issues such as discontinued items or pricing discrepancies. Integration with ERP and CRM systems enables automatic order creation and customer communication, while workflow capabilities route exceptions to appropriate personnel for resolution. This implementation reduces order-to-cash cycle time by up to 60%, improves order accuracy through elimination of manual data entry, enhances customer satisfaction through faster order confirmation and fulfillment, and provides better visibility into order status throughout the process.
+Organizations automate customer order handling by capturing orders from multiple channels and extracting customer details, product codes, quantities, pricing, and delivery requirements. Validation against customer master data and product catalogs identifies issues like discontinued items or pricing discrepancies, with ERP integration enabling automatic order creation.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Options | On-premises, Cloud, Hybrid |
-| Document Types | Invoices, purchase orders, forms, remittances, etc. |
+| Deployment Options | On-premises, cloud, hybrid |
+| Document Types | Invoices, purchase orders, forms, remittances |
 | Recognition Technology | OCR, ICR, machine learning, pattern recognition |
-| ERP Integrations | SAP, Oracle, Microsoft Dynamics, Infor, and others |
+| ERP Integrations | SAP, Oracle, Microsoft Dynamics, Infor, others |
 | Workflow Capabilities | Configurable approval chains, delegation, escalation |
 | Validation Methods | Database lookups, mathematical checks, business rules |
-| Mobile Support | Approval apps for iOS and Android |
-| Reporting Features | Standard and custom reports, dashboards |
-| Security Features | Role-based access, audit trails, encryption |
-| Compliance Support | SOX, GDPR, and industry-specific regulations |
+| Processing Capacity | Enterprise-scale high-volume processing |
+| Languages Supported | Multilingual document processing |
+| Output Formats | Direct ERP posting, XML, CSV, PDF |
 
 ## Getting Started
 
-1. **Process Assessment**: Evaluation of current document workflows
-2. **Solution Design**: Configuration based on business requirements
-3. **Integration Setup**: Connection with existing business systems
-4. **Implementation**: Deployment and testing of the solution
-5. **Training**: User education and adoption support
+1. **Process Assessment**: Evaluate current AP or document processing workflows
+2. **Solution Configuration**: Set up document types and extraction rules
+3. **ERP Integration**: Connect with financial systems
+4. **Workflow Design**: Configure approval chains and business rules
+5. **Deployment**: Launch with user training and support
 
 ## Resources
 
-- [Company Website](https://docshield.tungstenautomation.com/RSI/en_US/6.0.3-ot6i0gq5uj/help/INVOICES/RSI_Invoices_help/help/c_INVOICES_overview.html) 
+- [Tungsten Automation Website](https://www.tungstenautomation.com/)
+- [Tungsten AP Solutions](https://www.tungstenautomation.com/solutions/accounts-payable)
+
+## Company Information
+
+Original Company: ReadSoft
+
+Founded: 1991
+
+Original Headquarters: Linköping, Sweden
+
+Founders: Two university students from Linköping
+
+Acquisition History: Lexmark (2014), Combined with Kofax (2017), Rebranded to Tungsten Automation (2024)
+
+Current Parent: Tungsten Automation Corporation
+
+Industries: Financial services, manufacturing, healthcare, public sector
+
+Specializations: Invoice automation, AP processing, financial document automation

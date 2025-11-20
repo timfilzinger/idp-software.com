@@ -1,70 +1,84 @@
-
 # NetDocuments
 
-NetDocuments is a cloud-native document and email management platform designed specifically for legal professionals, providing secure content management, collaboration, and workflow automation with a focus on compliance and governance.
+NetDocuments is a Utah-based cloud-native document and email management platform provider specializing in secure content management solutions for legal professionals and organizations.
+
 ![NetDocuments](./assets/netdocuments.png)
 
 ## Overview
 
-NetDocuments offers a cloud-based document management system (DMS) tailored primarily for legal organizations, including law firms, corporate legal departments, and government agencies. The platform provides comprehensive capabilities for document creation, storage, organization, collaboration, and security within a secure cloud environment.
+NetDocuments, founded in 1999 and headquartered in Lehi, Utah, operates a cloud-based document management system designed specifically for legal organizations including law firms, corporate legal departments, and government agencies. The platform serves thousands of customers globally, including many Am Law 100 firms, providing document storage, email management, collaboration tools, and workflow automation built for legal compliance and security requirements.
 
-Founded in 1999, NetDocuments pioneered the cloud-first approach to document management for legal professionals. Their platform is distinguished by its strong security architecture, seamless Microsoft Office integration, and specialized workflows designed specifically for legal work. The company serves thousands of customers worldwide, including some of the world's largest law firms and corporate legal departments.
-
-NetDocuments helps legal organizations streamline document-intensive processes, enhance collaboration, maintain compliance with industry regulations, and secure sensitive client information. Their solutions enable professionals to work efficiently from anywhere while maintaining strict information governance standards.
+The company pioneered the cloud-first approach to legal document management, offering a true SaaS solution with no on-premise infrastructure. NetDocuments integrates with Microsoft 365, Salesforce, DocuSign, and other legal technology platforms, enabling matter-centric organization of documents and communications. In 2024, NetDocuments expanded its platform with AI profiling for documents and agentic AI tools for editing within Microsoft Word.
 
 ## Key Features
 
-- **Secure Document Management**: Organization and control of all legal documents
-- **Email Management**: Integration and filing of email communications
-- **Collaboration Tools**: Secure sharing and co-authoring capabilities
-- **Version Control**: Comprehensive document history tracking
-- **Workspace Organization**: Matter/project-centric content structuring
-- **Search and Discovery**: Advanced content finding capabilities
-- **Microsoft Office Integration**: Seamless productivity tool connections
-- **Legal AI Assistant**: AI-powered document analysis and information retrieval
-- **Mobile Access**: Secure document interaction on any device
-- **Governance and Compliance**: Built-in security and regulatory controls
+- **Cloud-Native DMS**: True SaaS document management without on-premise infrastructure
+- **Email Management**: Outlook integration for filing and organizing legal communications
+- **Matter-Centric Workspaces**: Content organization by client, matter, or practice area
+- **Version Control**: Complete document history with comparison and restoration
+- **AI-Powered Search**: Advanced content discovery across document repositories
+- **Legal AI Assistant**: Document analysis, information extraction, and summarization
+- **Agentic AI Tools**: AI-powered editing assistance within Microsoft Word
+- **Collaboration Features**: Secure sharing, co-authoring, and commenting
+- **Microsoft 365 Integration**: Seamless Office and Teams connections
+- **Client Portals**: Secure external stakeholder access to matter documents
+- **Records Management**: Retention policies and compliance controls
+- **Mobile Applications**: iOS and Android access to documents
 
 ## Use Cases
 
 ### Law Firm Document Management
 
-Law firms implement NetDocuments as their central repository for client and matter-related content. The platform organizes documents, emails, and other files within workspaces structured around matters, clients, or practice areas. Document profiling captures essential metadata for later retrieval, while version control maintains complete history of document changes with the ability to compare or restore previous versions. Email management capabilities allow attorneys to file communications directly from Outlook into the appropriate matter. Collaboration features enable secure sharing both internally and with clients through ClientPortal. Advanced search capabilities help attorneys quickly locate precedents and relevant work product across the entire document repository. This implementation enhances attorney productivity through faster document access, improves client service through organized matter files, reduces risk through consistent information governance, and facilitates knowledge reuse through powerful search capabilities.
+Law firms organize client documents, emails, and work product within matter-centric workspaces. Attorneys file Outlook communications directly into appropriate matters, search across complete repositories for precedents, and maintain version history with document comparison capabilities. Secure collaboration features enable sharing with clients through ClientPortal and co-authoring with colleagues.
 
-### Corporate Legal Department Content Governance
+### Corporate Legal Department Governance
 
-Corporate legal departments utilize NetDocuments to establish comprehensive information governance for legal content. The platform provides secure management of contracts, litigation documents, legal opinions, and corporate records with role-based security controls. Workflow automation streamlines contract review processes, approval pathways, and document routing. Integration with enterprise systems like CRM, ERP, and HR platforms creates a unified information ecosystem for legal matters. Records management capabilities enforce retention policies based on document type and regulatory requirements. Collaboration features enable secure work with outside counsel within controlled environments. This approach enhances compliance through consistent governance, improves legal operations efficiency through automation, strengthens security for sensitive legal information, and creates a single source of truth for legal content across the organization.
+Corporate legal departments manage contracts, litigation documents, legal opinions, and corporate records with role-based security controls. Workflow automation streamlines contract review and approval processes, while integration with CRM, ERP, and HR systems creates unified legal information management. Records retention policies enforce compliance with regulatory requirements while maintaining audit trails.
+
+### Matter Collaboration
+
+Legal teams collaborate on transactions and cases by sharing documents within secure workspaces. Multiple attorneys edit documents with version control tracking all changes, while client portals provide external stakeholders controlled access to relevant materials. Advanced search locates precedents and research across organizational knowledge bases.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Model | True cloud-native SaaS |
+| Deployment Model | Cloud-native SaaS (no on-premise option) |
 | Security Certifications | ISO 27001, SOC 2 Type 2, FedRAMP Authorization |
 | Encryption | AES 256-bit with multi-layered key management |
-| Integration Ecosystem | Microsoft 365, Salesforce, DocuSign, iManage |
+| Integration Ecosystem | Microsoft 365, Salesforce, DocuSign, iManage, legal practice management |
 | Mobile Support | iOS and Android native applications |
-| Search Technology | Full-text, metadata, Boolean operators, filters |
-| Collaboration Tools | Co-authoring, secure sharing, commenting |
-| Email Management | Outlook integration, email filing, PDF conversion |
-| AI Capabilities | Document analysis, information extraction, summarization |
-| Compliance Features | Ethical walls, need-to-know security, audit trails |
+| Search Technology | Full-text, metadata, Boolean operators, AI-enhanced |
+| Email Management | Outlook integration, PDF conversion, filing automation |
+| AI Capabilities | Document analysis, extraction, summarization, agentic editing |
+| Collaboration Tools | Co-authoring, secure sharing, commenting, client portals |
+| Compliance Features | Ethical walls, need-to-know security, audit trails, retention policies |
+| Geographic Reach | North America, Europe, Asia, Australia, South America |
 
 ## Getting Started
 
-1. **Assessment**: Evaluation of document management requirements
-2. **Implementation**: Configuration to organizational needs
-3. **Data Migration**: Transfer of existing documents and emails
-4. **Training**: User education and adoption support
-5. **Integration**: Connection with existing business systems
+1. **Needs Assessment**: Evaluate document management and collaboration requirements
+2. **Configuration**: Set up workspace structure and security policies
+3. **Data Migration**: Transfer existing documents and emails to cloud platform
+4. **Training**: User education for attorneys, paralegals, and support staff
+5. **Integration**: Connect with practice management and enterprise systems
 
 ## Resources
 
-- [Company Website](https://www.netdocuments.com/)
-- [Product Information](https://www.netdocuments.com/solutions/document-management-software/)
-- [Knowledge Center](https://support.netdocuments.com/)
+- [Website](https://www.netdocuments.com/)
+- [Document Management Solutions](https://www.netdocuments.com/solutions/document-management-software/)
+- [Support Center](https://support.netdocuments.com/)
 
-## Contact Information
+## Company Information
 
-- Website: [netdocuments.com](https://www.netdocuments.com/)
-- Email: Contact information available on their website
+Headquarters: Lehi, Utah, United States
+
+Founded: 1999
+
+Address: 2500 W Executive Parkway, Lehi, UT 84043
+
+Target Markets: Law firms (all sizes), corporate legal departments, government agencies, public sector
+
+Notable Clients: Many Am Law 100 firms
+
+Contact: [Sales Contact Page](https://www.netdocuments.com/contact/)

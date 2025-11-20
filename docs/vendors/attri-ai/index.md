@@ -1,37 +1,35 @@
-
 # Attri.AI
 
-Attri.AI is an AI-powered agent platform that leverages artificial intelligence to automate document processing and workflows. The company focuses on providing autonomous AI agents that can understand, process, and act on information from various document sources.
+Attri.AI is an AI agent platform provider based in Austin, Texas, offering workflow automation solutions through autonomous agents for document processing and business operations.
 
 ![Attri.AI](./assets/attri-ai.png)
 
-
 ## Overview
 
-Attri.AI specializes in developing intelligent AI agents that can automate document-centric workflows and business processes. Founded with a focus on practical business automation, the company's solutions aim to reduce manual effort in document processing while improving accuracy and efficiency.
+Attri.AI, founded in 2021 and headquartered in Austin, Texas, develops an AI agent platform that enables teams to design, deploy, and scale specialized agents for workflow automation. The platform combines drag-and-drop tools for non-technical users with SDK capabilities for developers, supporting applications including customer support, project management, and document processing.
 
-Unlike traditional IDP platforms that focus primarily on data extraction, Attri.AI's approach centers around creating autonomous AI agents that can not only extract information but also understand context, make decisions, and take actions based on the document content. These agents can work across multiple systems, integrating with existing business applications to create end-to-end automated workflows.
+The company employs 11-50 people and positions its technology as "quiet AI" that works in the background to elevate workflows while keeping human expertise central. Attri.AI agents use natural language processing and machine learning to understand context, make decisions, and execute tasks across multiple business systems.
 
 ## Key Features
 
-- **AI-Powered Agents**: Autonomous agents that can understand document content and take appropriate actions
-- **Document Understanding**: Advanced capabilities for parsing and comprehending various document types
-- **Contextual Intelligence**: Understanding of business context and process requirements
-- **Multi-System Integration**: Ability to work across different business applications and systems
-- **Process Automation**: End-to-end automation of document-centric business processes
-- **Natural Language Processing**: Advanced NLP for understanding document semantics
-- **Adaptive Learning**: Continuous improvement through machine learning
-- **Custom Agent Development**: Tools to create specialized agents for specific business needs
+- **AI Agent Platform**: Design and deploy specialized agents through visual interface or code
+- **Drag-and-Drop Studio**: No-code agent creation for non-technical users
+- **SDK Access**: Full code control for developers building custom agents
+- **Real-Time Voice Integration**: Voice-enabled agent interactions
+- **Multi-System Integration**: Connections across business applications through secure data integrations
+- **[Document Processing](../../capabilities/document-understanding/index.md)**: Agent-based document understanding and workflow automation
+- **Contextual Intelligence**: Agents understand business context and process requirements
+- **[Natural Language Processing](../../capabilities/extraction/index.md)**: Advanced NLP for document semantics and data extraction
 
 ## Use Cases
 
-### Automated Document Processing
+### Automated Document Workflows
 
-Attri.AI agents can process incoming documents such as invoices, contracts, and forms by understanding their content, extracting relevant information, and routing them to appropriate systems or personnel. This reduces manual handling and accelerates document processing workflows.
+Organizations deploy Attri.AI agents to process incoming documents including invoices, contracts, and forms. Agents extract relevant information, understand document content and context, and route documents to appropriate systems or personnel for handling. The platform integrates with existing business applications to automate multi-step document workflows.
 
-### Intelligent Decision Support
+### Customer Support Automation
 
-Organizations use Attri.AI's agents to analyze document content and provide decision support by identifying key information, flagging potential issues, and recommending actions based on business rules and historical data. This helps knowledge workers make faster, more informed decisions.
+Companies use AI agents to handle customer inquiries, process support tickets, and manage service requests. Agents understand natural language queries, access relevant information across systems, and provide responses or escalate to human agents when needed.
 
 ## Technical Specifications
 
@@ -39,19 +37,33 @@ Organizations use Attri.AI's agents to analyze document content and provide deci
 |---------|---------------|
 | Deployment Options | Cloud, Private Cloud |
 | Integration Methods | API, Webhooks, Native Integrations |
-| Supported Document Types | Structured, Semi-structured, Unstructured |
+| Supported Document Types | Structured, semi-structured, unstructured |
 | AI Technologies | NLP, Machine Learning, Large Language Models |
-| Security | Enterprise-grade data security and compliance features |
-| Scalability | Designed for enterprise-scale document processing |
+| Development Tools | Drag-and-drop studio, SDK |
+| Voice Capabilities | Real-time voice integration |
+| Target Users | Non-technical business users, developers |
 
 ## Getting Started
 
-1. **Initial Consultation**: Discuss your specific business needs and use cases
-2. **Agent Configuration**: Define and configure AI agents tailored to your processes
-3. **Integration Setup**: Connect with your existing systems and data sources
-4. **Training & Testing**: Train the agents on your specific document types
-5. **Deployment & Optimization**: Deploy agents and continuously optimize performance
+1. **Platform Access**: Sign up for Attri.AI platform access
+2. **Agent Design**: Configure agents using drag-and-drop tools or SDK
+3. **Integration Setup**: Connect with existing systems and data sources
+4. **Testing**: Validate agent performance with sample workflows
+5. **Deployment**: Deploy agents to production environments
 
 ## Resources
 
-- [Company Website](https://attri.ai/)
+- [Website](https://attri.ai/)
+- [Contact Page](https://attri.ai/contact-us)
+
+## Company Information
+
+Headquarters: Austin, Texas, United States
+
+Founded: 2021
+
+Founder: Ayush Patel (CTO)
+
+Employees: 11-50
+
+Address: 5900 Balcones Dr, Austin, Texas
