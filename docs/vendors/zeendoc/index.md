@@ -1,68 +1,94 @@
-
 # Zeendoc
 
-Zeendoc is a leading French cloud-based document management solution designed to help businesses digitize, organize, secure, and automate document-centric processes.
+Zeendoc is a French cloud-based document management solution provider specializing in business document digitization, organization, and workflow automation for small and medium enterprises.
 
 ![Zeendoc](./assets/zeendoc.png)
 
 ## Overview
 
-Zeendoc offers a comprehensive electronic document management system (EDMS) that enables organizations to efficiently store, classify, retrieve, and share business documents. Their platform combines document capture, intelligent classification, secure storage, and workflow automation in an intuitive, web-based interface.
+Zeendoc, founded in 2007 by Charly Delsol and Mathieu Donzel in Ajaccio, Corsica, develops electronic document management systems (EDMS) enabling organizations to store, classify, retrieve, and share business documents through cloud infrastructure. The company serves 500,000 users across 11,000+ organizations with over 200 employees, more than half dedicated to research and development. Zeendoc's data centers in France operate on green energy, emphasizing environmental sustainability.
 
-Founded in France, Zeendoc has established itself as a prominent player in the European document management market, particularly for small and medium-sized enterprises. Their solution is distinguished by its user-friendly design, flexible deployment options, and strong focus on security and compliance. The company has developed significant expertise in sectors with intensive document processing needs, such as accounting, legal, and healthcare.
-
-Zeendoc serves almost 400,000 users across over 11,000 organizations [[1]](https://www.zeendoc.com/en/qui-sommes-nous/), helping them reduce paper dependency, improve document accessibility, and streamline administrative processes. Their solution is particularly valued for its ability to simplify document management while maintaining rigorous security and compliance standards.
+The platform combines document capture, intelligent classification, secure storage, and workflow automation in a web-based interface. Zeendoc serves sectors with intensive document processing including accounting, legal, healthcare, and general business administration across European markets, with particular strength in French-speaking regions.
 
 ## Key Features
 
-- **Document Digitization**: Scanning and digital capture capabilities
-- **Intelligent Classification**: Automated document indexing and organization
-- **OCR Technology**: Text recognition for searchable documents
-- **Secure Storage**: Encrypted cloud-based document repository
-- **Workflow Automation**: Customizable document process automation
-- **Access Control**: Role-based permissions and security
-- **Mobile Accessibility**: Support for smartphones and tablets
-- **Document Sharing**: Secure internal and external collaboration
-- **Search Capabilities**: Advanced document retrieval tools
-- **Audit Trail**: Comprehensive document history and tracking
+- **[Document Digitization](../../capabilities/ocr/index.md)**: Scanning and digital capture with multi-channel intake
+- **[Intelligent Classification](../../capabilities/classification/index.md)**: Automated document indexing and organization
+- **[OCR Technology](../../capabilities/ocr/index.md)**: Multilingual text recognition for searchable documents
+- **Secure Cloud Storage**: Encrypted document repository hosted in French data centers
+- **Workflow Automation**: Customizable document process automation and approval routing
+- **Access Control**: Role-based permissions and security for sensitive documents
+- **Mobile Access**: iOS and Android applications for document capture and retrieval
+- **Document Sharing**: Secure internal and external collaboration capabilities
+- **Advanced Search**: Full-text and metadata-based document retrieval
+- **Audit Trail**: Comprehensive document history and activity tracking
+- **Electronic Signatures**: Integrated signing capabilities for document execution
+- **Retention Policies**: Automated lifecycle management for regulatory compliance
 
 ## Use Cases
 
 ### Accounting Document Management
 
-Accounting firms and finance departments implement Zeendoc to digitize and automate the processing of financial documents. The platform captures invoices, receipts, bank statements, and other financial records through various input methods including scanner integration, email import, and mobile capture. Intelligent OCR technology automatically extracts key financial data such as invoice numbers, dates, amounts, and vendor information. Automated workflows route documents for approval based on predefined business rules and spending thresholds. Integration with accounting software enables synchronized financial data and documentation. This implementation accelerates invoice processing through automated data extraction, enhances compliance through consistent document handling and audit trails, improves cash flow management through faster approval cycles, and enables remote work through cloud-based document access.
+Accounting firms digitize financial documents by capturing invoices, receipts, and bank statements through scanner integration, email import, and mobile capture. Zeendoc's OCR extracts invoice numbers, dates, and amounts while automated workflows route documents for approval based on spending thresholds. Integration with accounting software synchronizes financial data and documentation, accelerating processing and maintaining compliance through audit trails.
 
 ### Legal Document Management
 
-Law firms and legal departments utilize Zeendoc to organize and secure their case files and legal documentation. The system creates a centralized repository for contracts, court documents, client correspondence, and legal research with custom metadata tailored to legal practice areas. Advanced security features including encryption, access controls, and detailed audit logs protect confidential client information. Full-text search capabilities enable attorneys to quickly locate specific legal language or precedents across document collections. Version control tracks document revisions and maintains a complete history of changes. This approach improves case management through organized document access, enhances client service through faster document retrieval, strengthens confidentiality through robust security controls, and supports collaboration through secure document sharing between legal teams.
+Law firms organize case files and legal documentation in centralized repositories with custom metadata for practice areas. Advanced security including encryption, access controls, and audit logs protects client information. Full-text search enables attorneys to locate specific language across document collections, while version control tracks revisions and maintains change history.
 
 ### Human Resources Document Management
 
-HR departments implement Zeendoc to centralize employee documentation and streamline HR processes. The system maintains secure digital employee files containing employment contracts, certifications, performance reviews, and administrative forms. Document templates and electronic signatures facilitate the creation and completion of HR documents. Automated workflows manage document-centric processes such as onboarding, performance reviews, and leave requests. Retention policies automatically enforce document lifecycle management according to employment law requirements. Integration with HRIS systems ensures synchronized employee data and documentation. This implementation enhances compliance through consistent document handling and retention, improves employee experience through streamlined HR processes, increases data security through controlled access to sensitive information, and reduces administrative burden through automated document workflows.
+HR departments maintain secure digital employee files containing contracts, certifications, and performance reviews. Document templates and electronic signatures facilitate HR document creation and completion. Automated workflows manage onboarding, reviews, and leave requests, while retention policies enforce lifecycle management according to employment law, integrating with HRIS systems for synchronized data.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Model | 100% Cloud-based (SaaS) |
+| Deployment Model | 100% Cloud-based SaaS |
 | Device Compatibility | PC, Mac, Linux, smartphones, tablets |
-| Browser Support | All major browsers |
-| OCR Capabilities | Multi-language text recognition |
-| Storage Capacity | Scalable cloud storage |
-| File Format Support | PDF, Office documents, images, emails, etc. |
-| Security | AES 256-bit encryption, SSL/TLS, access controls |
-| Compliance | GDPR compliant, ISO 27001 hosting |
-| Integration | API available, accounting software connectors |
-| Availability | 99.9% uptime guarantee |
+| Browser Support | All major web browsers |
+| OCR Capabilities | Multilingual text recognition |
+| Security | Encryption, role-based access, audit trails, ISO 27001 certified |
+| Data Hosting | France (green energy data centers) |
+| Storage Capacity | Unlimited document storage |
+| Integrations | Accounting software, HRIS systems, Office 365, Google Workspace |
+| Mobile Apps | iOS and Android native applications |
+| Compliance | GDPR, French data protection regulations |
+| User Interface | French and English languages |
 
 ## Getting Started
 
-1. **Needs Assessment**: Evaluation of document management requirements
-2. **Solution Configuration**: Setup based on organizational workflow
-3. **Document Migration**: Transfer of existing documents
-4. **User Training**: Onboarding and adoption support
-5. **Ongoing Optimization**: Continuous improvement assistance
+1. **Account Setup**: Register for Zeendoc account with subscription selection
+2. **Configuration**: Set up document categories, metadata fields, and workflows
+3. **User Management**: Create accounts with role-based permissions
+4. **Document Migration**: Import existing documents and establish organization
+5. **Training**: User education on document capture, search, and workflow participation
 
 ## Resources
 
-- [Company Website](https://www.zeendoc.com/)
+- [Website](https://www.zeendoc.com/)
+- [English Information](https://www.zeendoc.com/en/)
+- [About Us](https://www.zeendoc.com/en/qui-sommes-nous/)
+
+## Company Information
+
+Headquarters: Ajaccio, Corsica, France
+
+Founded: 2007 (company originated in 2000 as SAGES Informatique)
+
+Founders: Charly Delsol, Mathieu Donzel
+
+Employees: 200+ (50%+ in R&D)
+
+Users: 500,000
+
+Organizations: 11,000+
+
+Data Centers: France (green energy powered)
+
+Target Market: Small and medium enterprises (SMEs)
+
+Industries: Accounting, legal, healthcare, professional services, general business
+
+Languages: French, English
+
+Environmental Focus: Green energy data centers, paperless document management

@@ -1,63 +1,78 @@
-
 # SmartAdvocate
 
-SmartAdvocate is a comprehensive legal case management system designed specifically for personal injury and mass tort law firms, featuring document management and automation capabilities to streamline legal workflows.
+SmartAdvocate is a New York-based legal case management software provider specializing in personal injury, mass tort, and litigation practice management with integrated document processing capabilities.
+
 ![SmartAdvocate](./assets/smartadvocate.png)
 
 ## Overview
 
-SmartAdvocate provides specialized case management software tailored to the needs of personal injury, mass tort, and other litigation-focused law firms. The platform combines robust document management with practice-specific workflows to help legal teams efficiently manage their caseloads from intake through resolution.
+SmartAdvocate, headquartered in Melville, New York, provides comprehensive case management software developed by attorneys for personal injury and mass tort law firms. Created over a 5-year development period by a national plaintiff's firm that couldn't find suitable market solutions, the platform combines document management, workflow automation, deadline tracking, and client communication tools tailored specifically to litigation practices.
 
-Developed by attorneys for attorneys, SmartAdvocate offers a comprehensive solution that addresses the unique challenges faced by litigation practices. The software integrates document processing capabilities with case-specific tracking, deadline management, and client communication tools to create a unified system for legal practice management.
-
-SmartAdvocate serves law firms of various sizes, from small practices to large multi-office firms, with a particular focus on personal injury, medical malpractice, mass tort, and other contingency fee practices. Their technology helps legal teams reduce administrative burden, improve case organization, enhance client service, and ultimately drive better case outcomes.
+The software supports personal injury, medical malpractice, mass tort, workers' compensation, family law, criminal defense, and corporate legal departments. SmartAdvocate integrates [document processing](../../capabilities/document-understanding/index.md) capabilities with case-specific tracking, automated legal document generation, medical records management, and settlement valuation tools for managing cases from intake through resolution.
 
 ## Key Features
 
-- **Document Management**: Comprehensive storage and organization of case documents
-- **Intelligent Document Processing**: Automated document intake and classification
-- **Document Generation**: Template-based creation of legal documents and correspondence
-- **Case Workflow Automation**: Streamlined procedures for different case types
-- **Client Intake Management**: Structured process for new client onboarding
-- **Calendar and Deadline Tracking**: Automated reminders and statute management
-- **Client Communication Tools**: Integrated email, text, and portal capabilities
-- **Settlement Valuation**: Tools for calculating and tracking settlement offers
-- **Medical Records Management**: Organization and analysis of medical documentation
-- **Reporting and Analytics**: Insights into case progression and firm performance
+- **[Document Management](../../capabilities/document-understanding/index.md)**: Comprehensive storage and organization of case files
+- **[Intelligent Document Processing](../../capabilities/extraction/index.md)**: Automated intake and classification of legal documents
+- **Document Generation**: Template-based creation of pleadings, demand letters, and correspondence
+- **Case Workflow Automation**: Practice-specific procedures for different case types
+- **Client Intake Management**: Structured onboarding with automated engagement letters
+- **Calendar and Deadline Tracking**: Automated reminders and statute of limitations management
+- **Medical Records Organization**: Automated categorization and treatment timeline tracking
+- **Settlement Valuation Tools**: Calculation and tracking of damages and settlement offers
+- **Client Communication**: Integrated email, SMS, and secure portal capabilities
+- **Mobile Access**: iOS and Android applications for remote case access
+- **Reporting and Analytics**: Case progression metrics and firm performance insights
 
 ## Use Cases
 
 ### Personal Injury Case Management
 
-Law firms implement SmartAdvocate to streamline the handling of personal injury cases from intake to resolution. The system captures initial client information through customizable intake forms, automatically generating engagement letters and HIPAA authorizations based on case details. As the case progresses, the platform organizes medical records, bills, and reports with automated categorization and tracking of treatment timelines. Document automation tools generate demand letters, pleadings, and discovery requests using case-specific data, while deadline tracking ensures timely filing of all documents. Settlement negotiations are managed through dedicated modules that track offers, counteroffers, and itemized breakdowns of recoverable damages. This comprehensive approach reduces case handling time by up to 30%, improves consistency in case preparation, enhances client communication through automated status updates, and increases settlement values through more thorough documentation of damages.
+Law firms manage personal injury cases by capturing client information through customizable intake forms that automatically generate engagement letters and HIPAA authorizations. The platform organizes medical records, bills, and treatment reports with automated timeline tracking. Document automation generates demand letters and pleadings using case-specific data, while deadline tracking ensures timely filings and settlement negotiations track offers with itemized damage calculations.
 
 ### Mass Tort Litigation Management
 
-Litigation teams utilize SmartAdvocate to efficiently manage large volumes of plaintiffs in mass tort proceedings. The solution provides specialized intake workflows for mass tort recruitment, capturing client-specific information while identifying common elements across the plaintiff pool. Document processing tools automatically categorize and extract relevant information from medical records, prescriptions, and other evidence to support case qualification and valuation. The system tracks individual plaintiff details while maintaining centralized access to common discovery materials, expert reports, and research. Built-in analytics identify trends across plaintiff groups to inform litigation strategy. Multi-tier access controls enable collaboration between lead counsel, local attorneys, and staff while maintaining appropriate information boundaries. This implementation accelerates case evaluation and filing processes, improves coordination among legal teams, enhances reporting capabilities for lead counsel, and strengthens overall case management in complex multi-plaintiff litigation.
+Litigation teams handle large plaintiff volumes through specialized mass tort intake workflows that capture client-specific information while identifying common elements. Document processing automatically categorizes medical records, prescriptions, and evidence to support case qualification. The system maintains individual plaintiff details with centralized access to shared discovery materials, while analytics identify trends across plaintiff groups to inform litigation strategy.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Options | Cloud, On-premises, Private Cloud |
-| Client Access | Windows Application, Web Browser, Mobile Apps |
-| Document Storage | Integrated Document Management System |
-| Document Formats | All major formats (PDF, Word, Excel, etc.) |
+| Deployment Options | Cloud, on-premises, private cloud |
+| Client Access | Windows application, web browser, mobile apps (iOS/Android) |
+| Document Storage | Integrated document management system |
+| Document Formats | PDF, Word, Excel, images, and all major formats |
 | Email Integration | Microsoft Outlook, Exchange Server, Gmail |
 | Calendar Synchronization | Microsoft Exchange, Google Calendar |
-| Security Features | Role-based access, encryption, audit trails |
-| Reporting Capabilities | Built-in reports, custom report writer |
-| Integration Options | APIs, Direct Database Connections |
-| Data Migration | Professional services for system transitions |
+| Security | Role-based access, encryption, audit trails |
+| Reporting | Built-in reports, custom report writer |
+| Integration | APIs, direct database connections |
+| Practice Areas | Personal injury, mass tort, medical malpractice, workers' comp, others |
 
 ## Getting Started
 
-1. **Practice Assessment**: Evaluation of current workflows and requirements
-2. **System Configuration**: Setup of case types, document templates, and workflows
-3. **Data Migration**: Transfer of existing case and client information
-4. **User Training**: Role-based training for attorneys, paralegals, and staff
-5. **Ongoing Support**: Technical assistance and workflow optimization
+1. **Practice Assessment**: Evaluate firm size, case types, and workflow requirements
+2. **Configuration**: Customize intake forms, document templates, and workflows
+3. **Data Migration**: Transfer existing case files and client data
+4. **Training**: Staff education for attorneys, paralegals, and administrators
+5. **Go-Live**: Launch with ongoing support and optimization
 
 ## Resources
 
-- [Company Website](https://www.smartadvocate.com/)
+- [Website](https://www.smartadvocate.com/)
+- [Features](https://www.smartadvocate.com/features)
+- [About SmartAdvocate](https://www.smartadvocate.com/about-us)
+
+## Company Information
+
+Headquarters: Melville, New York, United States
+
+Origin: Developed by national plaintiff's personal injury law firm over 5-year period
+
+Development Team: Personal injury lawyers, paralegals, law firm management consultants, programmers
+
+Target Market: Personal injury, mass tort, medical malpractice, litigation-focused law firms
+
+Practice Areas: Personal injury, mass tort, medical malpractice, workers' compensation, family law, criminal defense, corporate legal
+
+Firm Sizes: Small practices to large multi-office firms

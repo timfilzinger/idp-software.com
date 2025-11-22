@@ -1,37 +1,84 @@
-
 # iManage
 
-iManage provides document and knowledge management solutions that help professionals securely create, manage, and collaborate on their work product in the context of their business.
+iManage is a Chicago-based knowledge work platform provider specializing in document and email management software for legal professionals, law firms, and corporate legal departments.
 
 ![iManage](./assets/imanage.png)
 
 ## Overview
 
-iManage is a leading provider of work product management solutions for legal, accounting, and financial services firms, as well as corporate legal departments. The company's flagship product, iManage Work, is a document and email management system that combines comprehensive document management capabilities with advanced search, security, and collaboration features.
+iManage, founded in 1995 by Neil Araujo and Rafiq Mohammadi and headquartered in Chicago, Illinois, develops document and email management systems specifically for legal organizations. The platform serves over 1 million professionals across 4,000+ organizations in 65+ countries, including 2,500 law firms and 1,200 corporate legal departments.
 
-With a strong focus on the legal industry, iManage has evolved from traditional document management to offer a broader knowledge work platform that incorporates artificial intelligence, cloud services, and enhanced security. Their solutions help professionals organize, find, and govern their documents, emails, and other work product while maintaining compliance with regulatory requirements.
-
-iManage serves thousands of organizations worldwide, including a significant percentage of the world's leading law firms, corporate legal departments, and professional services firms. Their platform is designed to integrate with professional tools and business systems to create a seamless work environment focused on professional productivity and knowledge management.
+The company holds a 51% market share in legal document management systems (2018 ILTA survey), serving 81% of AmLaw 200 firms, 85% of Global 100 law firms, 42% of Fortune 100 companies, and 500+ banking and financial institutions. iManage Work, the flagship product, combines document management, email filing, search capabilities, and AI-powered knowledge services with security controls designed for legal compliance requirements.
 
 ## Key Features
 
-- **Document Management**: Comprehensive storage and organization of documents
-- **Email Management**: Integration with email systems for unified information management
-- **Search and Retrieval**: Advanced search capabilities across all content
-- **Version Control**: Document history and version tracking
-- **Collaboration**: Secure sharing and collaborative editing
-- **Security and Governance**: Risk-based security and compliance controls
-- **Knowledge AI**: Artificial intelligence for document insights and automation
-- **Cloud Platform**: Modern cloud architecture with enterprise security
-- **Mobile Access**: Work product access from any device
-- **Matter-Centric Organization**: Content organized by client/matter structure
+- **Document Management**: Secure storage, organization, and version control for legal documents
+- **Email Management**: Outlook integration for filing and organizing client communications
+- **Matter-Centric Organization**: Content structured by client/matter for legal workflows
+- **AI-Powered Search**: Advanced content finding across documents and emails
+- **Knowledge AI Assistant**: "Ask iManage" AI for document analysis and information retrieval
+- **Version Control**: Complete document history with comparison and restoration capabilities
+- **Security and Governance**: Role-based access, encryption, and compliance controls
+- **Microsoft Office Integration**: Seamless productivity tool connections
+- **Mobile Access**: Document interaction on iOS and Android devices
+- **Collaboration Tools**: Secure sharing and co-authoring capabilities
 
 ## Use Cases
 
-### Legal Document Management
+### Law Firm Document Management
 
-Law firms implement iManage Work to manage their legal documents, emails, and client files in a secure, organized system. Attorneys and legal staff store all client-related documents in matter-centric workspaces that organize information logically according to legal workflows. The system enables quick document retrieval through powerful search capabilities, maintains document version history, provides secure collaboration with clients and co-counsel, and ensures compliance with client security requirements and regulatory obligations. This comprehensive approach significantly improves attorney productivity while enhancing information governance and security.
+Law firms organize client documents, emails, and work product within matter-centric workspaces. Attorneys file communications from Outlook into appropriate matters, search across complete document repositories for precedents, maintain version history with document comparison, and share content securely with clients and co-counsel through controlled access.
+
+### Corporate Legal Department Content Governance
+
+Corporate legal departments manage contracts, litigation documents, legal opinions, and corporate records with role-based security. Workflow automation streamlines contract review and approval processes. Integration with enterprise systems including CRM, ERP, and HR creates unified legal information management. Records retention policies enforce compliance with regulatory requirements.
+
+### Matter Collaboration
+
+Legal teams collaborate on transactions and cases by sharing documents within secure workspaces. Multiple attorneys edit documents with version control tracking changes. Client portals provide external stakeholders controlled access to relevant materials. Search capabilities locate relevant precedents and research across the organization's knowledge base.
+
+## Technical Specifications
+
+| Feature | Specification |
+|---------|---------------|
+| Deployment | Cloud (SaaS), on-premise, hybrid |
+| Security Certifications | ISO 27001, SOC 2 Type 2, FedRAMP Authorization |
+| Encryption | AES 256-bit with multi-layered key management |
+| Integration | Microsoft 365, Salesforce, DocuSign, legal practice management systems |
+| Mobile Support | iOS and Android applications |
+| Search Technology | Full-text, metadata, Boolean operators, AI-enhanced |
+| Email Management | Outlook integration, PDF conversion, filing automation |
+| AI Capabilities | Document analysis, information extraction, knowledge discovery |
+| Compliance Features | Ethical walls, need-to-know security, audit trails |
+| Market Share | 51% of legal DMS market (2018 ILTA survey) |
+
+## Getting Started
+
+1. **Assessment**: Evaluate document management and collaboration requirements
+2. **Implementation**: Configure platform to organizational workflows
+3. **Data Migration**: Transfer existing documents and emails to iManage
+4. **Training**: User education and adoption support for legal professionals
+5. **Integration**: Connect with practice management and enterprise systems
 
 ## Resources
 
-- [Company Website](https://imanage.com/)
+- [Website](https://imanage.com/)
+- [iManage Work](https://imanage.com/products/work/)
+
+## Company Information
+
+Headquarters: Chicago, Illinois, United States
+
+Founded: 1995
+
+Founders: Neil Araujo (CEO), Rafiq Mohammadi
+
+Users: 1 million+ professionals
+
+Organizations: 4,000+ (2,500 law firms, 1,200 corporate legal departments)
+
+Geographic Reach: 65+ countries
+
+Market Share: 51% of legal DMS market
+
+Notable Clients: 81% of AmLaw 200 firms, 85% of Global 100 law firms, 42% of Fortune 100, 500+ financial institutions

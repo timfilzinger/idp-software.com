@@ -1,61 +1,75 @@
 # Amagno
 
-Amagno is a German enterprise content management (ECM) and document management system (DMS) provider that offers intelligent document processing capabilities with a focus on digital document workflows and automation.
+Amagno is a German enterprise content management and document management system provider offering cloud and on-premise solutions with workflow automation capabilities.
 
 ![Amagno](./assets/amagno.png)
 
 ## Overview
 
-Amagno, founded in 2010 and headquartered in Oldenburg, Germany, provides a modern document management platform that combines traditional ECM/DMS functionality with advanced document processing features. Their solution aims to help organizations digitize, organize, and automate document-centric business processes.
+Amagno, founded in 2010 and headquartered in Oldenburg, Germany, develops document management software combining traditional ECM/DMS functionality with conversational AI features. The company offers two deployment options: Amagno Business Cloud and Amagno On Premise, serving industries including healthcare, manufacturing, logistics, construction, real estate, automotive, and IT sectors.
 
-The company's approach centers around their "digital workplace" concept, which offers an intuitive user interface designed to make document management accessible to all employees. Amagno's system incorporates intelligent document recognition and processing capabilities to enable automated document classification, data extraction, and workflow management.
+The platform positions itself as "the first Conversational Enterprise Content Management" system, providing document management, workflow automation, and collaboration tools in a single solution. Amagno emphasizes German data protection standards, offering GDPR and GoBD compliant document handling with no restrictions on data volume or OCR page processing.
 
 ## Key Features
 
-- **Intelligent Document Recognition**: Automatic document classification and data extraction using OCR and machine learning
-- **Metadata Magnetism**: Proprietary technology that automatically captures and assigns metadata to documents
-- **Full-Text Search**: Advanced search capabilities with filtering options and semantic search functionality
-- **Digital Signature Integration**: Built-in electronic signature capabilities and integration with external signature solutions
-- **Automated Workflows**: Rules-based process automation for document routing and approval processes
-- **Compliance Management**: Records management features for regulatory compliance (GDPR, GoBD, etc.)
-- **Version Control**: Document versioning with change tracking and audit trails
-- **Mobile Access**: Cross-platform accessibility through web and mobile applications
+- **[Document Management](../../capabilities/document-understanding/index.md)**: Electronic storage, organization, and retrieval with full-text search capabilities
+- **Metadata Magnetism**: Proprietary technology for automatic metadata capture and assignment
+- **[OCR Processing](../../capabilities/ocr/index.md)**: Text recognition with no page number limitations
+- **Workflow Automation**: Rule-based document routing and approval processes
+- **Digital Signature Integration**: Electronic signature support for document execution
+- **Compliance Management**: GDPR and GoBD compliance features with audit trails
+- **Version Control**: Document versioning with change tracking
+- **Cross-Platform Access**: Web and mobile application support
+- **API Access**: Integration capabilities for third-party systems
+- **Privacy by Design**: Built-in data protection following German privacy standards
 
 ## Use Cases
 
-### Invoice Processing and Accounts Payable
+### Invoice Processing
 
-Amagno's solution automatically processes incoming invoices by extracting key data fields such as vendor information, invoice numbers, amounts, and dates. The system can match invoices with purchase orders, route documents for approval based on predefined rules, and integrate with accounting systems for seamless payment processing.
+Finance departments capture and process incoming invoices through automated [data extraction](../../capabilities/extraction/index.md) of vendor details, amounts, dates, and line items. The system matches invoices with purchase orders, routes documents through approval workflows based on configurable rules, and integrates with accounting systems for payment processing.
 
-### Contract Management
+### Contract Lifecycle Management
 
-Organizations use Amagno to digitize and manage the complete contract lifecycle. The platform automatically extracts key contract terms, tracks renewal dates, and sends notifications for upcoming deadlines. Version control features ensure all stakeholders have access to the most current documents, while permission settings protect sensitive information.
+Organizations manage contracts from creation through expiration by storing agreements with automated metadata extraction, tracking renewal dates with notification alerts, and maintaining version control throughout the negotiation process. Access permissions protect sensitive contractual information while enabling stakeholder collaboration.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Options | On-premise, Private Cloud, SaaS |
+| Deployment Options | Cloud (Business Cloud), On-premise |
 | API | REST API, WebDAV |
-| Supported Languages | German, English, multi-language document processing |
-| Document Formats | PDF, Office formats, images, emails, and 70+ file types |
+| Supported Languages | German, English, multilingual document processing |
+| Document Formats | PDF, Office formats, images, emails, 70+ file types |
+| OCR Capabilities | Unlimited page processing |
 | Integrations | Microsoft Office, Outlook, ERP systems, CRM platforms |
 | Security | Role-based access control, encryption, audit logging |
+| Compliance | GDPR, GoBD (German tax compliance) |
+| Data Restrictions | No limits on data volume or OCR pages |
+| Data Export | Independent export functionality |
 
 ## Getting Started
 
-1. **Request a Demo**: Contact Amagno to schedule a personalized demonstration of the platform
-2. **Proof of Concept**: Implement a pilot project with your specific document types and workflows
-3. **Implementation**: Full-scale deployment with configuration, training, and integration services
-4. **Support and Training**: Ongoing support and user training to ensure successful adoption
+1. **Request Demo**: Contact Amagno for a platform demonstration
+2. **Proof of Concept**: Test with specific document types and workflows
+3. **Implementation**: Deploy with data import and configuration
+4. **Training**: User onboarding and adoption support
 
 ## Resources
 
-- [Amagno Website](https://www.amagno.de/)
+- [Website (Germany)](https://www.amagno.de/)
+- [Website (UK)](https://amagno.co.uk/)
 
-## Contact Information
+## Company Information
 
-- Website: [amagno.de](https://www.amagno.de/)
-- Email: info@amagno.de
-- Phone: +49 441 309 123 45
-- Address: Amagno GmbH, Fritz-Bock-Str. 5, 26133 Oldenburg, Germany
+Headquarters: Oldenburg, Germany
+
+Founded: 2010
+
+Founder: Jens Büscher
+
+Address: Fritz-Bock-Str. 5, 26133 Oldenburg, Germany
+
+Email: info@amagno.de
+
+Phone: +49 441 309 123 45

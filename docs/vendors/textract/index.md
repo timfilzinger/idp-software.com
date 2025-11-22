@@ -1,51 +1,87 @@
-
 # Amazon Textract
 
-Amazon Textract is a machine learning (ML) service that automatically extracts printed text, handwriting, and structured data such as forms and tables from scanned documents. It goes beyond simple optical character recognition (OCR) by understanding the context of the extracted data, making it easier to integrate into various applications and workflows. ([Amazon Web Services, Inc.][1])
+Amazon Textract is a machine learning service from AWS that automatically extracts text, handwriting, forms, and tables from scanned documents and images.
 
 ![Amazon Textract](./assets/amazon-textract.png)
 
+## Overview
+
+Amazon Textract, launched by Amazon Web Services, provides cloud-based document analysis using machine learning to extract printed text, handwriting, and structured data from documents. Unlike basic OCR, Textract understands document context, preserves form structures, and identifies relationships between extracted data, enabling integration into applications and workflows without manual template configuration.
+
+The service processes identity documents, invoices, receipts, and general documents through specialized APIs. Textract integrates with AWS services including Amazon Comprehend for natural language analysis, AWS Lambda for serverless processing, Amazon S3 for document storage, and Amazon DynamoDB for structured data storage. The pay-as-you-go pricing model charges per page processed based on extraction type.
+
 ## Key Features
 
-* **Text and Handwriting Extraction**: Accurately extracts printed text and handwriting from documents.
-* **Form and Table Recognition**: Identifies and extracts data from forms and tables, preserving the structure of the information.
-* **Query-Based Extraction**: Allows users to specify queries to extract specific information without needing to know the document's structure.
-* **Identity Document Analysis**: Extracts information from identity documents such as passports and driver's licenses.
-* **Expense Analysis**: Processes invoices and receipts to extract relevant financial data.
-* **Integration with AWS Services**: Seamlessly integrates with other AWS services like Amazon Comprehend, AWS Lambda, and Amazon S3 for building end-to-end document processing workflows. ([Amazon Web Services, Inc.][2], [Amazon Web Services, Inc.][1], [Amazon Web Services, Inc.][3])
+- **[Text and Handwriting Extraction](../../capabilities/ocr/index.md)**: Recognition of both printed text and handwritten content
+- **[Forms and Tables Recognition](../../capabilities/extraction/index.md)**: Data extraction preserving document structure and relationships
+- **Query-Based Extraction**: Natural language queries to extract specific information without knowing document structure
+- **Identity Document Analysis**: Specialized processing for passports, driver's licenses, and ID cards
+- **Expense Analysis**: Automated extraction from invoices and receipts with line-item details
+- **AWS Integration**: Native connections with S3, Lambda, Comprehend, DynamoDB, CloudWatch
+- **API Access**: RESTful APIs for synchronous and asynchronous document processing
+- **Multi-Page Document Support**: Batch processing for multi-page PDFs and image collections
+- **Confidence Scores**: Accuracy ratings for extracted data elements
 
 ## Use Cases
 
-* **Automated Data Entry**: Streamlines data entry processes by extracting information from forms and documents.
-* **Document Archiving and Search**: Enhances document management systems by making scanned documents searchable.
-* **Compliance and Auditing**: Facilitates compliance by extracting and organizing data required for audits.
-* **Financial Document Processing**: Automates the extraction of data from invoices, receipts, and other financial documents.
-* **Identity Verification**: Extracts and verifies information from identity documents for onboarding processes.([Amazon Web Services, Inc.][4], [Amazon Web Services, Inc.][2], [Amazon Web Services, Inc.][3], [Amazon Web Services, Inc.][1])
+### Invoice Processing
 
-## Integration Workflow
+Organizations automate accounts payable by uploading invoices to S3 buckets that trigger Textract via Lambda functions. The service extracts vendor details, invoice numbers, dates, line items, and amounts, returning structured JSON data that Lambda functions validate and route to ERP systems. CloudWatch monitors processing workflows while DynamoDB stores extracted invoice data for reconciliation.
 
-Amazon Textract can be integrated into various workflows using AWS services:
+### Identity Verification
 
-1. **Document Ingestion**: Upload documents to Amazon S3.
-2. **Data Extraction**: Use Amazon Textract to extract text, forms, and tables.
-3. **Data Processing**: Process extracted data with AWS Lambda functions or Amazon Comprehend for further analysis.
-4. **Storage and Retrieval**: Store processed data in databases like Amazon DynamoDB or Amazon RDS for easy retrieval and analysis.
-5. **Monitoring and Logging**: Utilize Amazon CloudWatch for monitoring and logging the processing workflows. ([Amazon Web Services, Inc.][2], [Amazon Web Services, Inc.][3])
+Applications verify customer identities during onboarding by submitting ID document images to Textract's AnalyzeID API. The service extracts names, addresses, birth dates, and document numbers from passports and driver's licenses, returning structured data that applications compare against user-provided information for verification. Integration with Amazon Comprehend enables fraud detection through text analysis.
 
-## Pricing
+### Document Archiving
 
-Amazon Textract offers a pay-as-you-go pricing model with no upfront commitments. Pricing is based on the number of pages processed and the type of data extracted (e.g., text, forms, tables). ([Amazon Web Services, Inc.][1])
+Organizations make scanned document repositories searchable by processing files through Textract to extract full text content. Extracted text indexes in Amazon CloudSearch or Amazon Kendra, enabling full-text searches across historical document archives. The searchable text layer overlays original documents, preserving original formatting while enabling text-based retrieval.
+
+## Technical Specifications
+
+| Feature | Specification |
+|---------|---------------|
+| Deployment | Cloud-based SaaS (AWS) |
+| API Types | Synchronous and asynchronous processing |
+| Document Formats | PDF, PNG, JPEG, TIFF |
+| Max File Size | 10MB (synchronous), 500MB (asynchronous) |
+| Languages | English, Spanish, German, Italian, French, Portuguese |
+| Handwriting | English only for handwriting recognition |
+| Processing Types | DetectDocumentText, AnalyzeDocument, AnalyzeExpense, AnalyzeID |
+| Output Format | JSON with confidence scores |
+| Integration | S3, Lambda, Comprehend, DynamoDB, CloudWatch, SageMaker |
+| Pricing Model | Pay-per-page processed |
+| Availability | Multiple AWS regions globally |
+
+## Getting Started
+
+1. **AWS Account**: Set up AWS account with appropriate IAM permissions
+2. **Document Storage**: Upload documents to Amazon S3 bucket
+3. **API Integration**: Call Textract APIs directly or through Lambda functions
+4. **Data Processing**: Process extracted JSON data with custom logic or AWS services
+5. **Monitoring**: Set up CloudWatch for logging and performance monitoring
 
 ## Resources
 
-* [Amazon Textract Documentation](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
-* [Getting Started with Amazon Textract](https://srdas.github.io/NLPBook/AWS_Textract.html)
-* [Amazon Textract FAQs](https://aws.amazon.com/textract/faqs/)
-* [Build an End-to-End Document Processing Pipeline with Amazon Textract](https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-document-processing-pipeline-with-amazon-textract-idp-cdk-constructs/)
+- [AWS Textract Homepage](https://aws.amazon.com/textract/)
+- [Textract Documentation](https://docs.aws.amazon.com/textract/)
+- [Textract FAQs](https://aws.amazon.com/textract/faqs/)
+- [Getting Started Guide](https://docs.aws.amazon.com/textract/latest/dg/getting-started.html)
+- [Textract Pricing](https://aws.amazon.com/textract/pricing/)
 
+## Company Information
 
-[1]: https://aws.amazon.com/textract/pricing/?utm_source=chatgpt.com "Intelligently Extract Text & Data with OCR - Amazon Textract Pricing"
-[2]: https://aws.amazon.com/textract/faqs/?utm_source=chatgpt.com "Amazon Textract FAQs - AWS"
-[3]: https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-document-processing-pipeline-with-amazon-textract-idp-cdk-constructs/?utm_source=chatgpt.com "Build end-to-end document processing pipelines with Amazon ..."
-[4]: https://aws.amazon.com/what-is/intelligent-document-processing/?utm_source=chatgpt.com "What is Intelligent Document Processing? - IDP Explained - AWS"
+Provider: Amazon Web Services (AWS)
 
+Parent Company: Amazon.com, Inc.
+
+Service Type: Machine learning API service
+
+Deployment: Cloud-based (AWS global infrastructure)
+
+Pricing: Pay-as-you-go per page processed
+
+Availability: Multiple AWS regions worldwide
+
+Integration Ecosystem: AWS services (S3, Lambda, Comprehend, DynamoDB, CloudWatch, SageMaker)
+
+Use Cases: Document digitization, invoice processing, identity verification, compliance, archiving
