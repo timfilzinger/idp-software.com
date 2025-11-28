@@ -2,7 +2,7 @@
 
 Affinda is the AI platform for document processing. It learns to process any document type in minutes, not months, helping any organization streamline workflows to achieve real productivity gains, expand margins and unlock higher value work. With Affinda, organizations gain clear, practical solutions for AI adoption, with measurable ROI. Headquartered in Melbourne, Australia, Affinda serves customers in more than 80 countries in 56 languages, with teams across Asia Pacific, North America and Europe.
 
-![Affinda Logo](./assets/affinda-logo.png)
+![Affinda Logo](./assets/affinda-logo-2025.png)
 
 ## Overview
 
