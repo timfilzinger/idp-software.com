@@ -1,34 +1,39 @@
 # Affinda
 
-Affinda is the AI platform for document processing. It learns to process any document type in minutes, not months, helping any organization streamline workflows to achieve real productivity gains, expand margins and unlock higher value work. With Affinda, organizations gain clear, practical solutions for AI adoption, with measurable ROI. Headquartered in Melbourne, Australia, Affinda serves customers in more than 80 countries in 56 languages, with teams across Asia Pacific, North America and Europe.
+Affinda is an AI platform designed for intelligent document processing. It can be configured to process new document types, fast – requiring a few examples – so organizations don’t require weeks or months of lengthy model-training cycles. This enables teams to streamline document workflows, improve accuracy, reduce manual effort and achieve measurable productivity gains. Affinda provides practical, adoption-ready solutions for extraction, OCR, classification and validation across many industries, with clear paths to ROI.  Headquartered in Melbourne, Australia, Affinda serves customers in more than 80 countries in 56 languages, with teams across Asia Pacific, North America and Europe.
 
 ![Affinda Logo](./assets/affinda-logo-2025.png)
 
 ## Overview
 
-With its new [platform](https://www.affinda.com/platform), Affinda has solved one of the toughest challenges in document processing: teaching machines to read documents like humans. Unlike older, machine learning approaches, which require lengthy training periods and ongoing maintenance, Affinda Platform learns instantly using RAG model memory, grounded LLM extraction and a proprietary OCR and reconstruction engine. Its agentic AI splits, sorts, extracts and validates with 99%+ accuracy, enabling true straight-through processing across any [document type](https://www.affinda.com/documents), [industry](https://www.affinda.com/industries) or [use case](https://www.affinda.com/use-cases). 
+With its new [platform](https://www.affinda.com/platform), Affinda addresses a core challenge in document processing: interpreting documents with the same contextual understanding humans apply. Instead of relying on static templates or long supervised-training cycles, the platform combines several advanced techniques to achieve this:
+- **RAG model memory** to learn from new documents instantly
+- **Grounded LLM extraction** that ties predictions back to the source document, reducing hallucinations
+- **A proprietary OCR and reconstruction engine** that restores reading order, structure and context in complex layouts
+
+This architecture allows Affinda’s agentic AI to split, classify, extract and validate data with 99%+ accuracy, enabling true straight-through processing across any [document type](https://www.affinda.com/documents), [industry](https://www.affinda.com/industries) or [use case](https://www.affinda.com/use-cases). 
 
 ## Key features
 
-- End-to-end intelligent document processing pipeline (IDP)
-- RAG model memory for instant learning without retraining
-- Advanced OCR with proprietary layout reconstruction
-- LLM-powered extraction grounded to the document (no hallucinations)
-- Machine-learning classification, splitting and routing
-- Agentic workflow automation for multi-step document tasks
-- Multi-format, multi-language extraction across 50+ languages
+- End-to-end intelligent [document processing](https://docs.affinda.com/configuration/workflow ) pipeline (IDP)
+- RAG [model memory](https://docs.affinda.com/configuration/extraction-models) for instant learning without retraining
+- [Advanced OCR](https://docs.affinda.com/configuration/preprocessing) with proprietary layout reconstruction
+- [LLM-powered extraction](https://docs.affinda.com/academy/improving-accuracy) grounded to the document (no hallucinations)
+- Machine-learning [classification](https://docs.affinda.com/configuration/classification), [splitting](https://docs.affinda.com/configuration/splitting) and routing
+- Agentic workflow [automation](https://docs.affinda.com/academy/getting-started) for multi-step document tasks
+- Multi-format, multi-language extraction [across 50+ languages](https://docs.affinda.com/faqs)
 - Built-in validation, transformations and rule logic for STP
-- No-code (AI Integrations Agent) and API options for rapid downstream connection
-- Type-safe Client Libraries with auto-generated Pydantic/TypeScript schemas
+- No-code (AI Integrations Agent) and API options for [rapid downstream connection](https://docs.affinda.com/academy/integration-agent)
+- Type-safe [Client Libraries](https://docs.affinda.com/reference/client-libraries) with auto-generated Pydantic/TypeScript schemas
   
 ## Use cases
 
 The Affinda Platform is built to handle any document automation use case, including:
-- Business and financial services
-- Lending
-- Insurance
-- Logistics
-- Resume parsing
+- [Banking and financial services workflows](https://www.affinda.com/industries/banking-finance): KYC, onboarding, statements, checks, compliance documents
+- [Insurance processing](https://www.affinda.com/industries/insurance): claims, underwriting packets, ACORD forms, proof-of-loss documents
+- [Lending operations](https://www.affinda.com/use-cases/lending): loan applications, supporting documents, credit packages, decisioning file
+- [Logistics and supply chain automation](https://www.affinda.com/industries/logistics): bills of lading, invoices, delivery notes, customs documents 
+- [HR tech platforms and talent acquisition workflows](https://www.affinda.com/industries/recruitment): resume/CV parsing, job-matching data extraction, candidate summaries, identity documents 
 
 ## Technical specifications
 
