@@ -46,7 +46,6 @@ Legal and procurement teams digitize contract portfolios for searchability and c
 ## Resources
 
 - [Website](https://boolfy.com)
-- [Boolfy on intelligentdocumentprocessing.com](https://app.intelligentdocumentprocessing.com/vendors/boolfy)
 
 ## Company Information
 
