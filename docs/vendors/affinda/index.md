@@ -7,6 +7,7 @@ Affinda is an AI platform designed for intelligent document processing. It can b
 ## Overview
 
 With its new [platform](https://www.affinda.com/platform), Affinda addresses a core challenge in document processing: interpreting documents with the same contextual understanding humans apply. Instead of relying on static templates or long supervised-training cycles, the platform combines several advanced techniques to achieve this:
+
 - **RAG model memory** to learn from new documents instantly
 - **Grounded LLM extraction** that ties predictions back to the source document, reducing hallucinations
 - **A proprietary OCR and reconstruction engine** that restores reading order, structure and context in complex layouts
@@ -29,6 +30,7 @@ This architecture allows Affinda’s agentic AI to split, classify, extract and 
 ## Use cases
 
 The Affinda Platform is built to handle any document automation use case, including:
+
 - [Banking and financial services workflows](https://www.affinda.com/industries/banking-finance): KYC, onboarding, statements, checks, compliance documents
 - [Insurance processing](https://www.affinda.com/industries/insurance): claims, underwriting packets, ACORD forms, proof-of-loss documents
 - [Lending operations](https://www.affinda.com/use-cases/lending): loan applications, supporting documents, credit packages, decisioning file
