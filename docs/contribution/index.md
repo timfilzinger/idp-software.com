@@ -289,6 +289,68 @@ The vendor will now appear in the documentation navigation, and users can access
 
 > **Note**: Ensure all information is accurate and factual.
 
+#### Optimize your content for Google Search, Bing or ChatGPT
+
+Based on these search queries we analyzed, here are the key topics you as a IDP vendor should cover to create a comprehensive and SEO-optimized page about your IDP software.
+
+##### Core IDP Concepts & Definitions
+
+- What is IDP (Intelligent Document Processing) software
+- How IDP differs from traditional OCR
+- IDP vs document management systems
+- Key capabilities and features of IDP technology
+
+##### Technical Capabilities
+
+- **Data extraction** from various document types
+- **Document segmentation** and classification
+- OCR and **handwriting recognition**
+- Natural language processing (NLP) for documents
+- Machine learning and AI implementation
+- Unstructured document processing
+- **Document processing automation** workflows
+
+##### Use Cases & Industry Applications
+
+- Invoice processing and accounts payable automation
+- Healthcare claims processing
+- Insurance claims processing
+- Mortgage lending automation
+- Bills of lading processing
+- Cash flow analysis
+- Business process automation
+- Transportation and logistics automation
+- Government document handling and compliance
+
+##### Integration & Implementation
+
+- Workflow integration capabilities
+- API documentation and accessibility
+- Platform integrations (Appian, UiPath, Automation Anywhere)
+- Cloud vs on-premise deployment
+- AWS Textract and other cloud service comparisons
+
+##### Competitive Landscape
+
+- Comparison with major vendors (Rossum, Hyperscience, Docsumo, ABBYY, etc.)
+- IDP market overview and trends
+- Vendor evaluation criteria
+- Document processing accuracy benchmarks
+
+##### Business Considerations
+
+- Pricing models and ROI
+- Scalability for high-volume processing
+- Security and data redaction capabilities
+- Implementation timelines and services
+
+##### Supporting Content
+
+- Customer case studies
+- Product demos and tutorials
+- Integration guides
+- Industry-specific solutions pages
+
 ### Events
 
 Follow the same structure as before.

@@ -1,65 +1,76 @@
-
 # CoreIntegrator
 
-CoreIntegrator provides workflow automation and document management solutions that help organizations streamline their business processes and document handling.
+CoreIntegrator is a Pennsylvania-based workflow automation and accounts payable software provider offering cloud and on-premise solutions for document processing and approval workflows.
 
 ![CoreIntegrator](./assets/coreintegrator.png)
 
-
 ## Overview
 
-CoreIntegrator specializes in workflow automation and document management software designed to help businesses digitize, process, and manage their documents and associated workflows. The company offers solutions that combine document capture, data extraction, approval routing, and integration capabilities to create end-to-end process automation.
+CoreIntegrator, founded in 2017 and headquartered in Lewisburg, Pennsylvania, develops workflow automation and document management software with over 25 years of experience in business process management. The company's flagship product, A/P One, is an AI-powered accounts payable automation platform that processes up to 93% of invoices automatically.
 
-With a focus on accounts payable automation and broader business process management, CoreIntegrator's products enable organizations to reduce manual data entry, accelerate processing times, and improve visibility into their document-driven operations. Their solutions are designed to be configurable to meet specific business requirements without extensive custom development.
-
-CoreIntegrator serves organizations across various industries, including manufacturing, healthcare, financial services, and government, providing both cloud-based and on-premise deployment options to meet diverse IT requirements and security needs.
+The software evolved from solutions developed in the late 1990s linking Great Plains Accounting with content management systems. CoreIntegrator serves organizations across finance, banking, pharmaceuticals, construction, government, education, healthcare, manufacturing, property management, and legal sectors with both cloud-based and on-premise deployment options.
 
 ## Key Features
 
-- **Document Capture**: Multi-channel document intake (scan, email, upload)
-- **Data Extraction**: OCR and intelligent data capture from documents
-- **Workflow Automation**: Configurable approval processes and routing
-- **AP Automation**: Invoice processing and payment management
-- **Document Management**: Secure storage and retrieval of documents
-- **Mobile Access**: Web and mobile interfaces for process participation
-- **Integration Capabilities**: ERP, accounting system, and line-of-business connections
-- **Process Analytics**: Reporting and dashboards for performance monitoring
-- **Electronic Forms**: Digital form creation and submission
-- **Version Control**: Document history and change tracking
+- **AI-Powered Invoice Processing**: Automated [data extraction](../../capabilities/extraction/index.md) and validation with up to 93% straight-through processing
+- **Multi-Channel Document Capture**: Intake via scan, email, and file upload
+- **[OCR and Data Recognition](../../capabilities/ocr/index.md)**: Text extraction from invoices and supporting documents
+- **Automated Approval Workflows**: Configurable routing based on amount thresholds, cost centers, and business rules
+- **Three-Way Matching**: Invoice validation against purchase orders and receiving documents
+- **ERP Integration**: Direct connections to Dynamics GP, Dynamics 365 BC, Dynamics AX, NetSuite, QuickBooks, Xero, and Sage Intacct
+- **Electronic Forms**: Digital form creation and submission capabilities
+- **Mobile Approvals**: Web and mobile interfaces for workflow participation
+- **Process Analytics**: Dashboards and reports for monitoring approval cycles and processing metrics
+- **Fraud Detection**: Automated validation and exception flagging
 
 ## Use Cases
 
 ### Accounts Payable Automation
 
-Organizations implement CoreIntegrator's AP automation solution to streamline their invoice processing operations. The system captures invoices from multiple sources, extracts relevant data using OCR technology, validates the information against purchase orders and receiving documents, routes invoices for appropriate approvals based on business rules, and integrates with accounting systems for payment processing. This comprehensive approach reduces manual handling, accelerates approval cycles, and improves accuracy while providing visibility into the entire AP process.
+Finance departments deploy CoreIntegrator to automate invoice processing from capture through payment. The system receives invoices via email, scan, or upload, extracts header and line-item data using [OCR](../../capabilities/ocr/index.md), validates information against purchase orders and vendor records, and routes documents through approval workflows based on configurable business rules. Integration with ERP systems enables automatic posting of approved invoices for payment processing.
 
-### Contract Management
+### Contract Approval Management
 
-Businesses use CoreIntegrator to manage their contract lifecycles from creation through expiration. The solution provides structured workflows for contract requests, authoring, negotiation, approval, execution, and renewal. Documents are securely stored with version control, and automated notifications alert stakeholders about upcoming deadlines or required actions. The system maintains an audit trail of all activities and provides reporting on contract status and performance, helping organizations ensure compliance and maximize contract value.
+Organizations manage contract lifecycle workflows from request through execution. The platform routes contract documents through customized approval chains, maintains version history, sends automated deadline notifications, and stores executed contracts with searchable metadata. Audit trails track all document activities for compliance requirements.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Options | Cloud (SaaS), On-premise, Hybrid |
-| Integration Methods | API, Web Services, Direct Database Connections |
-| Document Format Support | PDF, TIFF, JPEG, PNG, Office formats, Email |
-| User Interface | Web-based, Responsive Design, Mobile Apps |
-| Security Features | Role-based Access Control, Encryption, Audit Trails |
-| Database Compatibility | SQL Server, Oracle, MySQL |
+| Deployment Options | Cloud (Azure), customer-hosted cloud, on-premise |
+| Automation Rate | Up to 93% straight-through processing (claimed) |
+| Integrations | Dynamics GP, Dynamics 365 BC, Dynamics AX, NetSuite, QuickBooks, Xero, Sage Intacct |
+| API | Web services, direct database connections |
+| Document Formats | PDF, TIFF, JPEG, PNG, Office formats, email |
+| User Interface | Web-based, responsive design, mobile apps |
+| Security | Role-based access control, encryption, audit trails |
+| Database | SQL Server, Oracle, MySQL support |
 | OCR Engine | Proprietary and third-party integration options |
-| Authentication | Active Directory, SAML, Multi-factor Authentication |
-| Scalability | Enterprise-grade for high-volume processing |
-| Customization | Configuration tools, Business rules engine |
+| Authentication | Active Directory, SAML, multi-factor authentication |
+| Pricing Model | Subscription (starts at 250 invoices/month) or perpetual license |
 
 ## Getting Started
 
 1. **Process Assessment**: Identify document workflows for automation
 2. **Solution Configuration**: Set up document types and workflow rules
-3. **Integration Setup**: Connect with existing business systems
-4. **User Training**: Prepare team members for the new processes
-5. **Go-Live and Optimization**: Deploy and continuously improve
+3. **Integration**: Connect with ERP and accounting systems
+4. **User Training**: Prepare staff for new processes
+5. **Deployment**: Launch with ongoing optimization support
 
 ## Resources
 
-- [Company Website](https://coreintegrator.com/)
+- [Website](https://coreintegrator.com/)
+- [Contact Page](https://coreintegrator.com/contact-us/)
+- [A/P One Product](https://coreintegrator.com/a-p-one-from-coreintegrator-workflow-accounts-payable-software-for-small-business/)
+
+## Company Information
+
+Headquarters: Lewisburg, Pennsylvania, United States
+
+Founded: 2017
+
+Address: 130 Buffalo Rd, Suite 106, Lewisburg, PA 17837
+
+Mailing Address: PO Box 522, Hershey, PA 17033
+
+Industries Served: Finance, banking, pharmaceuticals, construction, government, education, healthcare, manufacturing, property management, legal

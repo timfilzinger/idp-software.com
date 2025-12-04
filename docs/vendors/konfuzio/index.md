@@ -1,71 +1,68 @@
 
 # Konfuzio
 
-Konfuzio is a Document AI platform that enables businesses to extract, classify, and process information from documents automatically.
+Konfuzio is an intelligent document processing platform offering AI-powered [data extraction](../../capabilities/extraction/index.md), [classification](../../capabilities/classification/index.md), and workflow automation for enterprise document processing.
 
 ![Konfuzio](./assets/konfuzio.png)
 
 ## Overview
 
-Konfuzio offers a comprehensive document processing solution that combines OCR, machine learning, and custom extraction rules to automate document-based workflows.
+Konfuzio provides Document AI solutions through two main products: Konfuzio IDP for automated document processing and Konfuzio Chat for natural language document analysis. Initially developed for enterprises in regulated sectors like banking and finance, the platform has expanded to serve any medium to large organization with data-intensive document processes. The company offers both SaaS and on-premises deployment options, allowing organizations to choose between cloud-based processing or self-hosted infrastructure for sensitive data handling. Konfuzio is developed by Helm & Nagel GmbH, operates from Germany, and has been completely bootstrapped without external funding since its founding in 2016. The platform combines proprietary AI models with open-source components, including a Python SDK and document validation interface.
 
 ## Key Features
 
-- **Intelligent Document Recognition**: Automatically identify document types
-- **Data Extraction**: Extract structured data from unstructured documents
-- **Custom Models**: Train custom models for specific document types
-- **API Access**: RESTful API for integration with existing systems
-- **Validation Workflow**: Human-in-the-loop validation for ensuring accuracy
+- **Konfuzio IDP**: AI-driven document extraction, classification, and validation with automated data capture and system integration
+- **Konfuzio Chat**: Natural language document analysis allowing users to query documents conversationally
+- **Konfuzio SDK**: Open-source Python SDK for building custom document processing pipelines with [OCR](../../capabilities/ocr/index.md), categorization, and file splitting capabilities
+- **Document Validation UI**: Open-source Vue.js application for viewing, annotating, and editing documents (13 stars on GitHub)
+- **Customizable AI Pipelines**: Configure workflows for document categorization, file splitting, and information extraction
+- **Regex-Based Extraction**: Pattern optimization tools for structured data capture
+- **Multi-Interface Access**: Web UI, REST API, and Python SDK for flexible integration
 
 ## Use Cases
 
-### Invoice Processing
+### Financial Services Document Processing
 
-Konfuzio can automatically extract key information from invoices, including:
+Banks and financial institutions use Konfuzio to automate processing of financial documents, contracts, and compliance paperwork. The platform extracts structured data from various document types, validates information against regulatory requirements, and integrates results into existing banking systems through API connections.
 
-- Invoice number and date
-- Vendor information
-- Line items and amounts
-- Tax calculations
-- Payment terms
+### Healthcare Document Workflow Automation
 
-### Contract Analysis
+Healthcare providers implement Konfuzio to process patient records, insurance claims, and medical documentation. The system classifies documents by type, extracts relevant medical information and patient data, and routes documents through approval workflows with human-in-the-loop validation for accuracy verification.
 
-Automatically extract and analyze key clauses and terms from contracts:
+### Legal Contract Analysis
 
-- Party information
-- Contract terms
-- Key dates
-- Special clauses
-- Obligations and rights
+Legal departments and law firms deploy Konfuzio to analyze contracts and legal agreements. The platform identifies document types, extracts key clauses, dates, and party information, and structures the data for compliance tracking and contract management systems.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Options | Cloud, On-premise, Private Cloud |
-| API | REST API with JSON responses |
-| Supported Languages | 60+ languages |
+| Core Products | Konfuzio IDP, Konfuzio Chat, Konfuzio SDK (Python) |
+| Deployment Options | SaaS (app.konfuzio.com), Self-hosted on-premises |
+| API | REST API v2 and v3 with JSON responses |
+| SDK | Python SDK available via PyPI (konfuzio-sdk) |
+| Supported Languages | 100+ languages |
 | Document Formats | PDF, TIFF, JPG, PNG, Word, Excel |
-| Integrations | SAP, Salesforce, SharePoint, custom systems |
-
-## Getting Started
-
-To get started with Konfuzio:
-
-1. [Sign up for a free trial](https://konfuzio.com/en/documents-ai/)
-2. Upload sample documents
-3. Train a custom extraction model
-4. Integrate with your systems via API
+| Open Source Components | Document Validation UI (Vue.js), Konfuzio SDK |
+| Integration Options | Custom system integration via REST API |
+| Processing Features | OCR, classification, extraction, file splitting, regex pattern matching |
 
 ## Resources
 
-- [Konfuzio Documentation](https://dev.konfuzio.com)
+- [Website](https://konfuzio.com/en/)
+- [Documentation](https://dev.konfuzio.com)
 - [API Reference](https://app.konfuzio.com/v3/swagger/)
 - [GitHub Repository](https://github.com/konfuzio-ai/)
 
-## Contact Information
+## Company Information
 
-- Website: [konfuzio.com](https://konfuzio.com/en/contact/)
-- Email: info@konfuzio.com
+Headquarters: Asslar, Germany
+
+Founded: 2016
+
+Founders: Christopher Helm, Florian Zyprian
+
+Employees: 7-9
+
+Parent Company: Helm & Nagel GmbH
 

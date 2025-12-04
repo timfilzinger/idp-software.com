@@ -1,64 +1,87 @@
-
 # OnBase - Hyland
 
-OnBase by Hyland is a comprehensive enterprise content management (ECM) and process management platform that combines document management, case management, business process automation, records management, and capture capabilities in a single integrated solution.
+OnBase by Hyland is an Ohio-based enterprise content management and process automation platform provider offering document management, workflow automation, and case management solutions.
 
 ![OnBase](./assets/onbase-hyland.png)
 
 ## Overview
 
-OnBase is a leading enterprise content services platform developed by Hyland Software. It provides a complete suite of content and process management capabilities designed to manage the entire lifecycle of content across an organization. The platform combines document management, workflow automation, electronic forms, case management, and integration tools in a unified system.
+OnBase, developed by Hyland Software since 1991 and headquartered in Westlake, Ohio, provides content services combining [document management](../../capabilities/document-understanding/index.md), business process automation, case management, records management, and capture capabilities. The platform serves over 15,000 lifetime customers across healthcare, financial services, government, higher education, insurance, and manufacturing sectors with 2,100 employees supporting implementations globally.
 
-Founded in 1991, Hyland's OnBase platform has evolved into a robust solution serving thousands of organizations worldwide. The technology enables organizations to digitize paper-based processes, automate routine tasks, manage critical content, and connect systems and data sources while ensuring security and compliance.
-
-OnBase serves organizations across various industries, with particular strength in healthcare, financial services, government, higher education, insurance, and manufacturing. Their solutions help these enterprises streamline operations, enhance customer service, improve decision-making, and reduce costs associated with managing information and processes.
+Founded by Packy Hyland, Jr., who developed the first OnBase version for The Necedah Bank in Wisconsin in 1991, the platform has evolved into a comprehensive enterprise information system. OnBase offers cloud, on-premise, and hybrid deployment options with integration capabilities connecting to ERP, CRM, EMR, and other line-of-business applications through APIs and pre-built connectors.
 
 ## Key Features
 
-- **Document Management**: Secure storage, retrieval, and version control
-- **Workflow Automation**: Rules-based process routing and approvals
-- **Case Management**: Comprehensive view of related content and activities
-- **Records Management**: Lifecycle management with retention policies
-- **Capture Solutions**: Multi-channel document and data capture
-- **Electronic Forms**: Web-based forms with automated processing
-- **Business Process Management**: Process modeling and optimization
-- **Enterprise File Sync and Share**: Secure content collaboration
-- **Integration Capabilities**: Connections with enterprise applications
-- **Mobile Access**: Content and process interaction on any device
+- **[Document Management](../../capabilities/document-understanding/index.md)**: Secure storage, retrieval, version control, and lifecycle management
+- **[Workflow Automation](../../capabilities/extraction/index.md)**: Rules-based process routing with parallel and serial approvals
+- **Case Management**: Unified view of related content, processes, and activities
+- **Records Management**: Retention policies with compliance controls for regulatory requirements
+- **Multi-Channel Capture**: Document intake via scanners, email, fax, web forms, mobile
+- **[OCR and Data Extraction](../../capabilities/ocr/index.md)**: Text recognition, barcode reading, ICR, OMR, machine learning classification
+- **Electronic Forms**: Web-based forms with automated data collection and processing
+- **Business Process Management**: Visual workflow design and process optimization tools
+- **Enterprise Search**: Full-text, metadata, and advanced search capabilities
+- **Mobile Applications**: Native iOS and Android access to content and workflows
+- **Integration Framework**: APIs, screen-level integration, pre-built connectors for major enterprise systems
 
 ## Use Cases
 
-### Enterprise-Wide Content Management
+### Healthcare Records Management
 
-Organizations implement OnBase as their central content repository to consolidate information across departments and systems. The platform captures documents from multiple sources (scanners, email, fax, electronic forms) and automatically classifies and indexes them using OCR, barcode recognition, and machine learning technologies. Users access documents through intuitive interfaces, with permissions controlled by role-based security. Integration with line-of-business applications provides content in context, allowing users to retrieve related documents directly from familiar systems like ERP, CRM, or EMR. Advanced search capabilities enable quick location of information across millions of documents using metadata, full-text, or combination searches. This approach eliminates information silos, reduces storage costs through elimination of duplicate content, improves security through centralized access controls and audit trails, and enhances productivity by providing immediate access to critical information regardless of location or device.
+Healthcare organizations digitize medical records, patient forms, and administrative documents through OnBase capture solutions. The platform integrates with EMR systems to provide document access within clinical workflows, maintaining HIPAA compliance through encryption and audit trails. Automated retention policies manage record lifecycles according to regulatory requirements.
 
 ### Accounts Payable Automation
 
-Finance departments utilize OnBase to transform invoice processing operations. The solution captures incoming invoices from multiple channels and automatically extracts key data including vendor information, invoice numbers, line items, amounts, and payment terms. Workflow automation routes invoices through configurable approval processes based on amount thresholds, departments, GL codes, or other business rules. Integration with ERP systems enables three-way matching against purchase orders and receiving documents, while exception handling workflows direct discrepancies to appropriate personnel for resolution. Dashboards provide real-time visibility into invoice status, bottlenecks, and processing metrics. This implementation reduces invoice processing costs by up to 80%, shortens cycle times from weeks to days, improves visibility into financial obligations, captures early payment discounts, and strengthens vendor relationships through timely, accurate payments.
+Finance departments automate invoice processing by capturing documents from email, scan, and electronic sources. OnBase extracts vendor details, amounts, and line items, then routes invoices through approval workflows based on amount thresholds and business rules. Three-way matching validates invoices against purchase orders and receipts before ERP integration for payment processing.
+
+### Government Case Management
+
+Government agencies manage citizen service cases by consolidating related documents, communications, and activities in unified case folders. Workflow automation routes cases through appropriate channels based on case type and complexity, while audit trails maintain complete activity histories for compliance and transparency requirements.
 
 ## Technical Specifications
 
 | Feature | Specification |
 |---------|---------------|
-| Deployment Options | Cloud, On-premises, Hybrid |
-| Capture Technologies | OCR, ICR, OMR, barcode, machine learning |
-| Document Storage | Content-addressed storage with checksums |
-| Security Features | Encryption, role-based access, audit trails |
-| Workflow Engine | Visual configuration, parallel/serial processing |
-| Integration Methods | APIs, pre-built connectors, screen-level integration |
-| Search Capabilities | Full-text, metadata, Boolean, proximity |
+| Deployment Options | Cloud, on-premises, hybrid |
+| Capture Technologies | OCR, ICR, OMR, barcode, machine learning classification |
+| Document Storage | Content-addressed storage with integrity checksums |
+| Security Features | Encryption, role-based access, multi-factor authentication, audit trails |
+| Workflow Engine | Visual designer, parallel/serial processing, escalations |
+| Integration Methods | REST APIs, SOAP, pre-built connectors, screen-level overlays |
+| Search Capabilities | Full-text, metadata, Boolean, proximity, saved searches |
 | Mobile Support | Native iOS and Android applications |
-| Scalability | Enterprise-grade, high-volume processing |
-| Compliance Support | GDPR, HIPAA, SOX, FDA, and industry-specific regulations |
+| Scalability | Enterprise-grade for millions of documents and users |
+| Compliance | GDPR, HIPAA, SOX, FDA 21 CFR Part 11, industry-specific regulations |
+| Database Support | SQL Server, Oracle, DB2 |
 
 ## Getting Started
 
-1. **Solution Planning**: Assessment of content and process requirements
-2. **Configuration**: Tailoring the system to organizational needs
-3. **Integration**: Connection with existing business systems
-4. **Training**: User education and knowledge transfer
-5. **Go-Live Support**: Transition assistance and optimization
+1. **Requirements Analysis**: Assess content management and process automation needs
+2. **Solution Design**: Configure document types, workflows, and integration points
+3. **Implementation**: Deploy with integration to existing business systems
+4. **Training**: User education for administrators and end users
+5. **Optimization**: Continuous improvement and expansion to additional departments
 
 ## Resources
 
-- [Company Website](https://www.hyland.com/en/platform/product-suite/onbase)
+- [Hyland Website](https://www.hyland.com/)
+- [OnBase Product Suite](https://www.hyland.com/en/platform/product-suite/onbase)
+- [OnBase Platform](https://www.onbase.com/)
+
+## Company Information
+
+Company: Hyland Software
+
+Headquarters: Westlake, Ohio, United States
+
+Founded: 1991
+
+Founder: Packy Hyland, Jr.
+
+Employees: 2,100
+
+Customers: 15,000+ lifetime customers
+
+First Implementation: The Necedah Bank, Wisconsin (1991)
+
+Industries: Healthcare, financial services, government, higher education, insurance, manufacturing
