@@ -2,6 +2,8 @@
 
 Aluma is a cloud-native intelligent document processing platform that automates document [classification](../../capabilities/classification/index.md), data [extraction](../../capabilities/extraction/index.md), and content management workflows.
 
+![Aluma](assets/aluma.png)
+
 ## Overview
 
 Aluma provides document automation capabilities for organizations processing high volumes of documents across industries including defense, finance, healthcare, and pharmaceuticals. The platform handles document separation, classification, data extraction, redaction, and validation through a combination of [OCR](../../capabilities/ocr/index.md), machine learning, and automation technologies. Aluma's cloud-native architecture is designed to scale processing capacity on demand while maintaining data security by not storing or retaining customer documents.
@@ -49,7 +51,7 @@ Aluma offers a trial program allowing organizations to test the platform with th
 ## Resources
 
 - [Website](https://aluma.io)
-- [How Intelligent Document Processing is Revolutionizing Pharma Supply Chains](https://aluma.io/resources/blog/how-intelligent-document-processing-is-revolutionizing-pharma-supply-chains)
+- [Use Case overview]( https://aluma.io/use-cases/)
 
 ## Company Information
 

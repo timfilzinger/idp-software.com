@@ -1,6 +1,8 @@
-# Blumatix
+# Blumatix Intelligence (majority stake held by CSS Group)
 
-Blumatix Intelligence is an intelligent document processing provider offering AI-powered document and invoice capture through its BLU DELTA platform.
+Blumatix Intelligence is an intelligent document processing provider offering AI-powered document and invoice capture through its BLU DELTA platform, with majority ownership by CSS Group since February 2025.
+
+![Blumatix](assets/blumatix.png)
 
 ## Overview
 

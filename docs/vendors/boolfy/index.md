@@ -2,6 +2,8 @@
 
 Boolfy is a smart document processing platform that automates document management workflows across multiple industries and document types.
 
+![Boolfy](assets/boolfy.png)
+
 ## Overview
 
 Boolfy provides automated document processing for organizations managing invoices, bank transfers, contracts, financial statements, and corporate documents. The platform uses AI to extract key data from documents, learns from user corrections to improve accuracy, and integrates with existing business systems through APIs and standard file exports. Boolfy offers remote document approval capabilities and customizable authorization workflows.
@@ -45,7 +47,7 @@ Legal and procurement teams digitize contract portfolios for searchability and c
 
 ## Resources
 
-- [Website](https://boolfy.com)
+- [Website](https://boolfy.com/)
 
 ## Company Information
 

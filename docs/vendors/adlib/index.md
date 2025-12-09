@@ -2,6 +2,8 @@
 
 Adlib is an intelligent document processing provider offering document automation solutions through its Transform platform for regulated enterprises.
 
+![Adlib](assets/adlib.png)
+
 ## Overview
 
 Adlib specializes in converting unstructured documents into structured, validated data for enterprise workflows. The company has over 20 years of experience processing documents for regulated industries including life sciences, manufacturing, energy, financial services, and the public sector. Their platform is designed to overlay existing enterprise infrastructure without requiring system replacement, enabling organizations to transform documents into AI-ready data pipelines while maintaining compliance and auditability.
@@ -44,7 +46,8 @@ Oil and gas companies manage incident reports, maintenance records, and complian
 ## Resources
 
 - [Website](https://www.adlibsoftware.com)
-- [Elevating Insurance Customer Experiences with Intelligent Document Processing](https://www.adlibsoftware.com/blog/elevating-insurance-customer-experiences-with-intelligent-document-processing)
+- [Platform Overview](https://www.adlibsoftware.com/platform)
+- [Technical Documentation](https://www.adlibsoftware.com/support/documentation/adlibpdf/1.8/en/2_Transformation_Platform/Components.htm)
 
 ## Company Information
 

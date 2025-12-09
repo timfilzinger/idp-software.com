@@ -2,6 +2,8 @@
 
 Docbyte is an intelligent document processing and digital archiving provider offering the Docbyte Vault platform with qualified trust services certification.
 
+![Docbyte](assets/docbyte.png)
+
 ## Overview
 
 Docbyte specializes in secure document processing and long-term digital preservation for regulated industries. Headquartered in Gent, Belgium, the company combines IDP capabilities with eIDAS-certified trust services for document validation, signature preservation, and compliant archiving. Docbyte serves financial services, pharmaceutical, public sector, and healthcare organizations requiring secure document collection, processing, and preservation with regulatory compliance. The company holds ISO 27001 and ISO 14721 certifications for information security and long-term preservation standards.
@@ -21,7 +23,7 @@ Docbyte specializes in secure document processing and long-term digital preserva
 
 ### Financial Services Document Archiving
 
-Banks archive customer account documentation, loan files, and compliance records for regulatory retention periods. Docbyte Vault processes incoming documents through the digital mailroom, [classifies](../../capabilities/classification/index.md) content by document type and retention schedule, and stores files in ISO 14721-compliant archives. Qualified trust services validate document authenticity and preserve signature validity throughout multi-decade retention periods.
+Banks archive customer account documentation, loan files, and compliance records for regulatory retention periods. Docbyte Vault processes incoming documents through the digital mailroom, classifies content by document type and retention schedule, and stores files in ISO 14721-compliant archives. Qualified trust services validate document authenticity and preserve signature validity throughout multi-decade retention periods.
 
 ### Insurance Claims Processing
 
@@ -47,7 +49,7 @@ Life sciences companies maintain batch records, quality control documentation, a
 
 - [Website](https://www.docbyte.com)
 - [Intelligent Document Processing Solution](https://www.docbyte.com/intelligent-document-processing/)
-- [Intelligent Document Processing Overview](https://www.docbyte.com/intelligent-document-processing-overview/)
+- [Industry Overview](https://www.docbyte.com/industries/ )
 
 ## Company Information
 

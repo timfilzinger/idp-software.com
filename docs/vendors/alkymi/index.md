@@ -2,11 +2,13 @@
 
 Alkymi is an AI-powered data workflow platform for financial services that extracts and transforms data from unstructured documents into standardized datasets.
 
+![Alkymi](assets/alkymi.png)
+
 ## Overview
 
 Alkymi specializes in automating document-intensive workflows for institutional investors, asset managers, and financial services firms. The platform processes investment documents including capital calls, quarterly reports, brokerage statements, and loan agent notices, transforming unstructured data into structured formats that integrate with downstream systems. Headquartered in New York, Alkymi serves private equity, wealth management, and alternative investment firms seeking to automate manual data entry and document review processes.
 
-In August 2025, Alkymi announced strategic financing led by existing investors Cornerstone Investment Capital and Canaan Partners, with participation from SimCorp and Northwestern Mutual Future Ventures.
+In August 2025, Alkymi [announced strategic financing](https://www.intelligentdocumentprocessing.com/idp-vendor-alkymi-raises-a-new-round-of-strategic-financing/) led by existing investors Cornerstone Investment Capital and Canaan Partners, with participation from SimCorp and Northwestern Mutual Future Ventures.
 
 ## Key Features
 
@@ -46,8 +48,9 @@ Alternative investment firms manage subscription documents, side letters, and in
 ## Resources
 
 - [Website](https://www.alkymi.io)
-- [IDP vendor Alkymi launches GPT-powered Summarization Pattern](https://www.intelligentdocumentprocessing.com/idp-vendor-alkymi-launches-gpt-powered-summarization-pattern/)
-- [IDP vendor Alkymi raises a new round of strategic financing](https://www.intelligentdocumentprocessing.com/idp-vendor-alkymi-raises-a-new-round-of-strategic-financing/)
+- [Platform Overview Data Sheet](https://www.alkymi.io/resources/data-sheet-alkymi-platform-overview)
+- [Patterns Architecture](https://www.alkymi.io/enterprise-platform/patterns)
+- [Resource Library](https://www.alkymi.io/resources)
 
 ## Company Information
 
