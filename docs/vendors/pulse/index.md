@@ -59,7 +59,6 @@ Law firms and legal departments process contracts, court filings, and discovery 
 - [Pricing](https://www.runpulse.com/pricing)
 - [Security & Trust Center](https://trust.runpulse.com/)
 - [Blog](https://www.runpulse.com/blog)
-- [Y Combinator Profile](https://www.ycombinator.com/companies/pulse-3)
 
 ## Company Information
 

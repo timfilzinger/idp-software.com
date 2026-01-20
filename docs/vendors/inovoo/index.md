@@ -40,10 +40,10 @@ Finance departments process incoming invoices by extracting vendor details, line
 ## Resources
 
 - [Website](https://www.inovoo.com)
-- [NOVO CxP Platform](https://www.inovoo.com/de/produkte/business-process-automation-novo-cxp-platform/)
-- [NOVO AI Studio](https://www.inovoo.com/de/produkte/novo-ai-studio/)
-- [Use Cases](https://www.inovoo.com/de/use-cases/einsatzszenarien/)
-- [Blog](https://www.inovoo.com/de/ressourcen/blog/)
+- [NOVO CxP Platform](https://www.inovoo.com/en/products/business-process-automation-novo-cxp-platform/)
+- [NOVO AI Studio](https://www.inovoo.com/en/products/novo-ai-studio/)
+- [Use Cases](https://www.inovoo.com/en/use-cases/application-scenarios/)
+- [Blog](https://www.inovoo.com/en/resources/blog/)
 
 ## Company Information
 

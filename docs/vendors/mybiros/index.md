@@ -42,10 +42,9 @@ Banks and lenders streamline customer onboarding by processing identity document
 
 ## Resources
 
-- [Website](https://www.mybiros.com)
+- [Website](https://www.mybiros.com/en/)
 - [API Documentation](https://docs-platform.mybiros.com/v1/)
-- [All Documents](https://www.mybiros.com/servizi)
-- [Glossary](https://mybiros.com/post/glossario)
+- [All Documents](https://www.mybiros.com/en/soluzioni)
 
 ## Company Information
 

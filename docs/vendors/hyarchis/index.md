@@ -43,7 +43,6 @@ Life insurance and pension fund administrators process policy applications, bene
 - [Document Manager](https://www.hyarchis.com/hyarchis-document-management-system/)
 - [Compliance Manager](https://www.hyarchis.com/hyarchis-compliance-manager/)
 - [KYC Solution](https://www.hyarchis.com/hyarchis-know-your-customer-lifecycle-management-solution/)
-- [Resources Hub](https://www.hyarchis.com/resources/)
 
 ## Company Information
 
