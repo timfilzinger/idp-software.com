@@ -52,6 +52,4 @@ Headquarters: Rome, Italy
 
 Email: info@mybiros.com
 
-Contact: [Book Demo](https://www.mybiros.com/prenota-demo)
-
 Clients: 50+ enterprise clients served

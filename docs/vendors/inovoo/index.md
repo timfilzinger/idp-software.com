@@ -51,4 +51,4 @@ Headquarters: Inning am Ammersee and Augsburg, Germany
 
 Phone: +49 8143 999 57 0
 
-Contact: [https://www.inovoo.com](https://www.inovoo.com)
+Mail: info@inovoo.com

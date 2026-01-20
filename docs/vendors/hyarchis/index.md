@@ -50,8 +50,6 @@ Headquarters: Eindhoven and Amsterdam, Netherlands
 
 Phone: +31 (0) 88 007 85 00
 
-Contact: [https://www.hyarchis.com/contact](https://www.hyarchis.com/contact)
-
-Support: [Hyarchis Helpdesk](https://helpdesk-hyarchis.atlassian.net/servicedesk/customer/user/login)
+Mail: info@hyarchis.com
 
 Notable Clients: ABN AMRO, Akbank, ING, NIBC, PwC, Quion, BCM Global, Link Asset Service

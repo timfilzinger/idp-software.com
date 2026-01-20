@@ -44,7 +44,6 @@ Organizations process physical mail and email by digitizing incoming corresponde
 ## Resources
 
 - [Website](https://www.ondox.ai)
-- [Product Features](https://www.ondox.ai/document-processing-product/)
 - [Case Studies](https://www.ondox.ai/case-studies/)
 - [Resources Hub](https://www.ondox.ai/resources/)
 - [Pricing](https://www.ondox.ai/document-processing-pricing/)

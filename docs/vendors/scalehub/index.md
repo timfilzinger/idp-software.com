@@ -35,4 +35,4 @@ ScaleHub operates a hybrid processing model that combines AI automation with a 2
 
 Company: ScaleHub AG
 
-Contact: [https://scalehub.com](https://scalehub.com)
+Contact: [https://scalehub.com](https://scalehub.com/contact-us/)
